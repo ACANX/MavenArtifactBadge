@@ -75,8 +75,8 @@ def create_maven_artifact_badge_svg_file(data: dict):
       分类: <tspan font-weight="bold">{categories_text}</tspan>
     </text>
     <!-- Maven 标识 -->
-    <ellipse  cx="400" cy="125" rx="70" ry="22"  fill="#ff4081"/>
-    <text x="400" y="127" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
+    <ellipse  cx="400" cy="85" rx="70" ry="22"  fill="#ff4081"/>
+    <text x="400" y="87" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
   </g>
   <!-- 底部信息 -->
   <text x="420" y="145" font-family="Arial" font-size="3" fill="#d0d0d0">
