@@ -8,7 +8,7 @@ def create_badge_file(group_id, artifact_id):
     # 构建目标路径: ../../Maven/Badge/groupId/artifactId.svg
     target_dir = (
         current_file.parent              # py3.py 所在目录
-        .parent.parent                   # 上两级目录 (../../)
+        .parent                          # 上一级目录 (../)
         / "Maven"                        # 进入 Maven 目录
         / "Badge"                        # 进入 Badge 目录
         / group_id.replace(".", "/")     # 将 groupId 的点替换为路径分隔符
@@ -37,6 +37,6 @@ def create_badge_file(group_id, artifact_id):
 if __name__ == "__main__":
     # 替换为实际的 groupId 和 artifactId
     create_badge_file(
-        group_id="com.example", 
-        artifact_id="my-project"
+        group_id="org.apache.commons", 
+        artifact_id="commons-lang3"
     )
