@@ -29,9 +29,9 @@ jobs:
     #     cd zhihu
     #     sh run.sh
 
-    - name: Update lanpang on bilibili
+    - name: Run Python Script
       run: |
-        cd bilibili/lanpang
+        cd Python
         sh run.sh
 
     # - name: Update guodong on bilibili
