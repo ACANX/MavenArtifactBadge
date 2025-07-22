@@ -11,13 +11,13 @@ jobs:
   build:
 
     runs-on: ubuntu-latest
-    if: ${{ github.base_ref != 'dependabot' }}  # 替换为您的目标分支名
+    if: ${{ github.base_ref != 'auto-commit' }}  # 替换为您的目标分支名
     run: exit 1
 
     steps:
       # 2. 条件验证：仅处理特定分支
       - name: Check target branch
-        if: ${{ github.base_ref != 'dependabot' }}  # 替换为您的目标分支名
+        if: ${{ github.base_ref != 'auto-commit' }}  # 替换为您的目标分支名
         run: exit 1
             
       - uses: actions/checkout@v2
