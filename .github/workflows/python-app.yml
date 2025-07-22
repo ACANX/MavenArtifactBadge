@@ -3,6 +3,7 @@
 name: Python application
 
 on:
+  workflow_dispatch: # 允许手动触发
   schedule:
     - cron: '4/5 * * * *'
 
