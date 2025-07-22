@@ -104,7 +104,12 @@ def generate_badges_for_components():
         print(f"   最新版本: {data['latest_version']}")
         print(f"   依赖数量: {data['dependency_count']}")
         print(f"   被引用量: {data['ref_count']}")
-        print(f"   分类: {', '.join(data['categories'])}")
+        # 安全处理 categories 字段
+        if data['categories']:
+            categories_str = ", ".join(data['categories'])
+            print(f"   分类: {categories_str}")
+        else:
+            print("   分类: 无")
         # 只为有效的 group_id 和 artifact_id 创建徽章
         if data['group_id'] and data['artifact_id']:
             create_badge_file(data['group_id'], data['artifact_id'])
