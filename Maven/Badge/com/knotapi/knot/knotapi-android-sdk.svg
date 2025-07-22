@@ -18,14 +18,14 @@
     </text>
     <!-- 版本信息 -->
     <text x="0" y="50" font-family="Arial" font-size="11" fill="white">
-      最新版本: <tspan font-weight="bold">2.0.13-rc03</tspan>
+      最新版本: <tspan font-weight="bold">2.0.13-rc09</tspan>
     </text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="11" fill="white">
       依赖量: <tspan font-weight="bold">0</tspan>
     </text>
     <text x="0" y="85" font-family="Arial" font-size="11" fill="white">
-      引用量: <tspan font-weight="bold">0</tspan>
+      引用量: <tspan font-weight="bold">4</tspan>
     </text>  
     <!-- 分类信息 -->
     <text x="0" y="105" font-family="Arial" font-size="11" fill="white">
