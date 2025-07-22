@@ -6,9 +6,6 @@
   </linearGradient>
   <!-- 背景矩形 -->
   <rect width="100%" height="100%" rx="5" ry="5" fill="url(#grad)"/>
-  <!-- 顶部：Maven 标识 -->
-  <ellipse  cx="400" cy="45" rx="70" ry="22"  fill="#ff4081"/>
-  <text x="400" y="47" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
   <!-- 主体内容：垂直布局 -->
   <g transform="translate(15, 15)">
     <!-- Group ID -->
@@ -34,6 +31,9 @@
     <text x="0" y="105" font-family="Arial" font-size="11" fill="white">
       分类: <tspan font-weight="bold">Uncategorized</tspan>
     </text>
+    <!-- Maven 标识 -->
+    <ellipse  cx="400" cy="125" rx="70" ry="22"  fill="#ff4081"/>
+    <text x="400" y="127" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
   </g>
   <!-- 底部信息 -->
   <text x="420" y="145" font-family="Arial" font-size="3" fill="#d0d0d0">
