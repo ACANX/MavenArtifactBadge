@@ -36,4 +36,4 @@ def create_badge_file(group_id, artifact_id):
 # 使用示例
 if __name__ == "__main__":
     # 替换为实际的 groupId 和 artifactId
-    create_badge_file(group_id="org.apache.commons", artifact_id="commons-io")
+    create_badge_file(group_id="org.mybatis", artifact_id="mybatis")
