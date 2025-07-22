@@ -18,7 +18,7 @@
     </text>
     <!-- 版本信息 -->
     <text x="0" y="50" font-family="Arial" font-size="11" fill="white">
-      最新版本: <tspan font-weight="bold">0.147.0</tspan>
+      最新版本: <tspan font-weight="bold">0.147.1</tspan>
     </text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="11" fill="white">
