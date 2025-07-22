@@ -5,7 +5,7 @@ def create_badge_file(group_id, artifact_id):
     # 获取当前 Python 文件 (py3.py) 的绝对路径
     current_file = pathlib.Path(__file__).resolve()
     
-    # 构建目标路径: ../../Maven/Badge/groupId/artifactId.svg
+    # 构建目标路径: ../Maven/Badge/groupId/artifactId.svg
     target_dir = (
         current_file.parent              # py3.py 所在目录
         .parent                          # 上一级目录 (../)
@@ -36,7 +36,4 @@ def create_badge_file(group_id, artifact_id):
 # 使用示例
 if __name__ == "__main__":
     # 替换为实际的 groupId 和 artifactId
-    create_badge_file(
-        group_id="org.apache.commons", 
-        artifact_id="commons-lang3"
-    )
+    create_badge_file(group_id="org.apache.commons", artifact_id="commons-io")
