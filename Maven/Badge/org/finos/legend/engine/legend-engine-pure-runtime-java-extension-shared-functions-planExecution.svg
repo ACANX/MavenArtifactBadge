@@ -22,7 +22,7 @@
     </text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="11" fill="white">
-      依赖量: <tspan font-weight="bold">2</tspan>
+      依赖量: <tspan font-weight="bold">11</tspan>
     </text>
     <text x="0" y="85" font-family="Arial" font-size="11" fill="white">
       引用量: <tspan font-weight="bold">20</tspan>
