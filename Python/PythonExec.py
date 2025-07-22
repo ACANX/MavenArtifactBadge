@@ -50,23 +50,17 @@ def create_maven_artifact_badge_svg_file(data: dict):
   <!-- 背景矩形 -->
   <rect width="100%" height="100%" rx="5" ry="5" fill="url(#grad)"/>
   <!-- 顶部：Maven 标识 -->
-  <circle cx="280" cy="20" r="12" fill="#ff4081"/>
-  <text x="280" y="25" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">Maven</text>
+  <circle cx="280" cy="30" r="42" fill="#ff4081"/>
+  <text x="280" y="25" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MB</text>
   <!-- 主体内容：垂直布局 -->
   <g transform="translate(15, 15)">
     <!-- Group ID -->
-    <text font-family="Arial" font-size="12" fill="white" font-weight="bold">
-      Group ID:
-    </text>
     <text x="0" y="20" font-family="Arial" font-size="11" fill="white" width="260">
-      {group_id}
+      Group ID:{group_id}
     </text>
     <!-- Artifact ID -->
-    <text x="0" y="45" font-family="Arial" font-size="12" fill="white" font-weight="bold">
-      Artifact ID:
-    </text>
     <text x="0" y="60" font-family="Arial" font-size="12" fill="white" font-weight="bold">
-      {artifact_id}
+            Artifact ID:{artifact_id}
     </text>
     <!-- 版本信息 -->
     <text x="0" y="80" font-family="Arial" font-size="11" fill="white">
