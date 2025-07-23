@@ -1,0 +1,15 @@
+{
+  "group_id": "org.rundeck.plugins",
+  "artifact_id": "rundeck-ec2-nodes-plugin",
+  "latest_version": "1.8.5",
+  "description": "EC2 Nodes Plugin unspecified",
+  "id": "pkg:maven/org.rundeck.plugins/rundeck-ec2-nodes-plugin",
+  "ts": 1753293517000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753294018669
+}
