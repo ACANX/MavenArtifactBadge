@@ -1,0 +1,17 @@
+{
+  "group_id": "com.revenuecat.purchases",
+  "artifact_id": "purchases-debug-view-noop",
+  "latest_version": "9.1.2",
+  "description": "Mobile subscriptions in hours, not months.",
+  "id": "pkg:maven/com.revenuecat.purchases/purchases-debug-view-noop",
+  "ts": 1753296280000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "last_updated": 1753296683455
+}

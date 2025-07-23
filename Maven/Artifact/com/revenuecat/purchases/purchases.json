@@ -1,0 +1,17 @@
+{
+  "group_id": "com.revenuecat.purchases",
+  "artifact_id": "purchases",
+  "latest_version": "9.1.2",
+  "description": "Mobile subscriptions in hours, not months.",
+  "id": "pkg:maven/com.revenuecat.purchases/purchases",
+  "ts": 1753296280000,
+  "dependency_count": 3,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "last_updated": 1753296683455
+}
