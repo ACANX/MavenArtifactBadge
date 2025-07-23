@@ -1,0 +1,15 @@
+{
+  "group_id": "com.cloudflare.realtimekit",
+  "artifact_id": "media-iossimulatorarm64",
+  "latest_version": "0.15.10",
+  "description": "Cloudflare RealtimeKit Media Client SDK",
+  "id": "pkg:maven/com.cloudflare.realtimekit/media-iossimulatorarm64",
+  "ts": 1753269319000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753270017076
+}
