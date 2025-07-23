@@ -1,0 +1,18 @@
+{
+  "group_id": "com.yahoo.vespa",
+  "artifact_id": "vespa-application-maven-plugin",
+  "latest_version": "8.554.5",
+  "description": "Maven Plugin for assembling a vespa application package",
+  "id": "pkg:maven/com.yahoo.vespa/vespa-application-maven-plugin",
+  "ts": 1753270680000,
+  "dependency_count": 0,
+  "ref_count": 34,
+  "categories": [
+    "Big Data",
+    "Parallel Data Processing"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753271201713
+}

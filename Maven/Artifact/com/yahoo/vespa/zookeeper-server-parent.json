@@ -1,0 +1,18 @@
+{
+  "group_id": "com.yahoo.vespa",
+  "artifact_id": "zookeeper-server-parent",
+  "latest_version": "8.554.5",
+  "description": "Parent artifact for all Vespa maven projects.",
+  "id": "pkg:maven/com.yahoo.vespa/zookeeper-server-parent",
+  "ts": 1753270680000,
+  "dependency_count": 0,
+  "ref_count": 65,
+  "categories": [
+    "Big Data",
+    "Parallel Data Processing"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753271202966
+}
