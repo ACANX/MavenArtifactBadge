@@ -1,0 +1,15 @@
+{
+  "group_id": "com.hxuanyu.doltmanager",
+  "artifact_id": "jdolt-core",
+  "latest_version": "1.0.0",
+  "description": "JDolt 是一个基于 Java 的轻量级 Dolt 客户端库，支持与 Dolt 数据库进行交互，适用于数据版本管理、数据同步等场景。",
+  "id": "pkg:maven/com.hxuanyu.doltmanager/jdolt-core",
+  "ts": 1753266263000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753267018639
+}

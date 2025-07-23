@@ -1,10 +1,10 @@
 {
   "group_id": "com.blazebit",
   "artifact_id": "blaze-query-connector-entity-view",
-  "latest_version": "1.0.12",
+  "latest_version": "1.0.13",
   "description": "A multi-platform querying library",
   "id": "pkg:maven/com.blazebit/blaze-query-connector-entity-view",
-  "ts": 1753254719000,
+  "ts": 1753266426000,
   "dependency_count": 0,
   "ref_count": 27,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753255260346
+  "last_updated": 1753267018635
 }
