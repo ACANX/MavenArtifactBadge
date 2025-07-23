@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.pquiring",
+  "artifact_id": "javaforce",
+  "latest_version": "84.0",
+  "description": "javaforce",
+  "id": "pkg:maven/io.github.pquiring/javaforce",
+  "ts": 1753289586000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "LPGL-3.0"
+  ],
+  "last_updated": 1753289873287
+}
