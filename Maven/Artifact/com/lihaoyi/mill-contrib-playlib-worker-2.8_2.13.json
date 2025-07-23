@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-playlib-worker-2.8_2.13",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-contrib-playlib-worker-2.8",
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-playlib-worker-2.8_2.13",
+  "ts": 1753282222000,
+  "dependency_count": 0,
+  "ref_count": 20,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283220721
+}

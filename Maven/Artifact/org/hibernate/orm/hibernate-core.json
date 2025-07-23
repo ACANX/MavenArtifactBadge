@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hibernate.orm",
+  "artifact_id": "hibernate-core",
+  "latest_version": "7.0.7.Final",
+  "description": "Hibernate's core ORM functionality",
+  "id": "pkg:maven/org.hibernate.orm/hibernate-core",
+  "ts": 1753254853000,
+  "dependency_count": 15,
+  "ref_count": 10,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753255259928
+}

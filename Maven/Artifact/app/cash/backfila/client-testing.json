@@ -1,0 +1,17 @@
+{
+  "group_id": "app.cash.backfila",
+  "artifact_id": "client-testing",
+  "latest_version": "2025.07.23.173934-775d335",
+  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
+  "id": "pkg:maven/app.cash.backfila/client-testing",
+  "ts": 1753293069000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753293416336
+}

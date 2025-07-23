@@ -1,0 +1,17 @@
+{
+  "group_id": "org.opencadc",
+  "artifact_id": "cadc-gms",
+  "latest_version": "1.0.15",
+  "description": "OpenCADC GMS API library",
+  "id": "pkg:maven/org.opencadc/cadc-gms",
+  "ts": 1753288123000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "GNU Affero General Public Licence, version 3.0"
+  ],
+  "last_updated": 1753288573484
+}

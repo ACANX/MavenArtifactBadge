@@ -1,0 +1,17 @@
+{
+  "group_id": "com.algolia",
+  "artifact_id": "algoliasearch",
+  "latest_version": "4.22.1",
+  "description": "Java client for Algolia Search API",
+  "id": "pkg:maven/com.algolia/algoliasearch",
+  "ts": 1753264599000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Search Engines"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753265218719
+}

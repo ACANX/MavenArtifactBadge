@@ -1,0 +1,18 @@
+{
+  "group_id": "org.restheart",
+  "artifact_id": "restheart",
+  "latest_version": "8.6.0",
+  "description": "RESTHeart Core - Core services for RESTHeart",
+  "id": "pkg:maven/org.restheart/restheart",
+  "ts": 1753261107000,
+  "dependency_count": 0,
+  "ref_count": 43,
+  "categories": [
+    "Data Protocols",
+    "Servers"
+  ],
+  "licenses": [
+    "GNU Affero General Public License (AGPL) version 3.0"
+  ],
+  "last_updated": 1753261617384
+}

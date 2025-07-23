@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hpccsystems",
+  "artifact_id": "spark-hpcc",
+  "latest_version": "9.14.4-1",
+  "description": "Spark connector for reading files residing in an HPCC cluster environment",
+  "id": "pkg:maven/org.hpccsystems/spark-hpcc",
+  "ts": 1753282823000,
+  "dependency_count": 0,
+  "ref_count": 259,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753283829673
+}

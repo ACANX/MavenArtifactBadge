@@ -1,0 +1,19 @@
+{
+  "group_id": "org.hibernate",
+  "artifact_id": "hibernate-c3p0",
+  "latest_version": "7.0.7.Final",
+  "description": "The `hibernate-c3p0` module has been relocated to the `org.hibernate.orm` group",
+  "id": "pkg:maven/org.hibernate/hibernate-c3p0",
+  "ts": 1753254853000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Management",
+    "Database Access",
+    "ORM Framework"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753255259547
+}

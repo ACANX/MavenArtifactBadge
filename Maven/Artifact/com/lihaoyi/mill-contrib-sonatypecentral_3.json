@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-sonatypecentral_3",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-contrib-sonatypecentral",
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-sonatypecentral_3",
+  "ts": 1753282242000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283220251
+}

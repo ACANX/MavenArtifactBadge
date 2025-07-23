@@ -1,0 +1,17 @@
+{
+  "group_id": "com.zegreatrob.jsmints",
+  "artifact_id": "react-data-loader",
+  "latest_version": "6.6.22",
+  "description": "react-data-loader",
+  "id": "pkg:maven/com.zegreatrob.jsmints/react-data-loader",
+  "ts": 1753284695000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753285619550
+}

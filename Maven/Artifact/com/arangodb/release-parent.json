@@ -1,0 +1,19 @@
+{
+  "group_id": "com.arangodb",
+  "artifact_id": "release-parent",
+  "latest_version": "7.21.0",
+  "description": "Parent for releasable modules",
+  "id": "pkg:maven/com.arangodb/release-parent",
+  "ts": 1753297835000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753298819369
+}

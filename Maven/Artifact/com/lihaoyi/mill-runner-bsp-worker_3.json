@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-runner-bsp-worker_3",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-runner-bsp-worker",
+  "id": "pkg:maven/com.lihaoyi/mill-runner-bsp-worker_3",
+  "ts": 1753282456000,
+  "dependency_count": 1,
+  "ref_count": 106,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283219350
+}

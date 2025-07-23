@@ -1,0 +1,17 @@
+{
+  "group_id": "io.apicurio",
+  "artifact_id": "apicurio-registry-go-sdk",
+  "latest_version": "3.0.10",
+  "description": "Open Source API & Schema Registry",
+  "id": "pkg:maven/io.apicurio/apicurio-registry-go-sdk",
+  "ts": 1753283753000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753284420264
+}

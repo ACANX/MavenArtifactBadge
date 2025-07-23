@@ -1,0 +1,17 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-pure-ide-light-interpreted-functions",
+  "latest_version": "4.91.0",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-ide-light-interpreted-functions",
+  "ts": 1753280048000,
+  "dependency_count": 1,
+  "ref_count": 22,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753280820425
+}

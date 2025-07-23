@@ -1,0 +1,15 @@
+{
+  "group_id": "org.apptank.horus",
+  "artifact_id": "client-iosx64",
+  "latest_version": "0.12.2",
+  "description": "Horus is a client library for Kotlin Multiplatform aimed at providing an easy and simple way to store data locally and synchronize it with a remote server, ensuring data security and integrity.",
+  "id": "pkg:maven/org.apptank.horus/client-iosx64",
+  "ts": 1753305432000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "AGPL-3.0-only"
+  ],
+  "last_updated": 1753305872594
+}

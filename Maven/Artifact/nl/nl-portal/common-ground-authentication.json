@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "common-ground-authentication",
+  "latest_version": "2.0.1",
+  "description": "The Common Ground authentication module contains different types of authentication in the Portal.",
+  "id": "pkg:maven/nl.nl-portal/common-ground-authentication",
+  "ts": 1753271481000,
+  "dependency_count": 9,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416716
+}

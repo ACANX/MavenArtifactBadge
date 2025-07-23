@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "solon-boot-websocket-netty",
+  "latest_version": "3.4.1-M3",
+  "description": "Java project for solon",
+  "id": "pkg:maven/org.noear/solon-boot-websocket-netty",
+  "ts": 1753256070000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753256823720
+}

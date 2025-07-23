@@ -1,0 +1,15 @@
+{
+  "group_id": "com.fresco-kitchenos",
+  "artifact_id": "kitchenos-client-sdk-recipe-adaptation-api-iosarm64",
+  "latest_version": "1.37.1",
+  "description": "A KMP library to interact with KitchenOS.",
+  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-recipe-adaptation-api-iosarm64",
+  "ts": 1753285415000,
+  "dependency_count": 3,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Fresco License"
+  ],
+  "last_updated": 1753286218878
+}

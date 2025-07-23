@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hpccsystems",
+  "artifact_id": "wsclient",
+  "latest_version": "9.14.4-1",
+  "description": "This project allows a user to interact with ESP services in a controlled manner. The API calls available under org.hpccsystems.ws.client.platform allow for a user to target ESP's across multiple environments running a range of hpccsystems-platform versions. There is no guarantee that if a user utilizes org.hpccsystems.ws.client.gen generated stub code from wsdl, that the calls will be backwards compatible with older hpccsystems-platform versions.",
+  "id": "pkg:maven/org.hpccsystems/wsclient",
+  "ts": 1753282823000,
+  "dependency_count": 2,
+  "ref_count": 106,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753283829256
+}

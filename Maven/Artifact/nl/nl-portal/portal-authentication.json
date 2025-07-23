@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "portal-authentication",
+  "latest_version": "2.0.1",
+  "description": "The portal authentication module contains the way of keycloak authentication in the Portal.",
+  "id": "pkg:maven/nl.nl-portal/portal-authentication",
+  "ts": 1753271481000,
+  "dependency_count": 4,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416718
+}

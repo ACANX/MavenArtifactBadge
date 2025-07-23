@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "jiti",
+  "latest_version": "2.5.0",
+  "description": "Runtime typescript and ESM support for Node.js",
+  "id": "pkg:maven/org.mvnpm/jiti",
+  "ts": 1753301162000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753301819475
+}

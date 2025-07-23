@@ -1,0 +1,15 @@
+{
+  "group_id": "com.strumenta.starlasu.specs",
+  "artifact_id": "starlasuspecs-jvm",
+  "latest_version": "0.4.1",
+  "description": "Base library to support the Starlasu Specs on the JVM.",
+  "id": "pkg:maven/com.strumenta.starlasu.specs/starlasuspecs-jvm",
+  "ts": 1753279092000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753279617424
+}

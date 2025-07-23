@@ -1,0 +1,17 @@
+{
+  "group_id": "org.openrewrite.recipe",
+  "artifact_id": "rewrite-comprehension",
+  "latest_version": "0.7.2",
+  "description": "Rewrite knowledge graph",
+  "id": "pkg:maven/org.openrewrite.recipe/rewrite-comprehension",
+  "ts": 1753277693000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Moderne Proprietary License"
+  ],
+  "last_updated": 1753278421404
+}

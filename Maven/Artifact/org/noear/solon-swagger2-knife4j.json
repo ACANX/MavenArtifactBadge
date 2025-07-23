@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "solon-swagger2-knife4j",
+  "latest_version": "3.4.1-M3",
+  "description": "Java project for solon",
+  "id": "pkg:maven/org.noear/solon-swagger2-knife4j",
+  "ts": 1753255848000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753256466089
+}

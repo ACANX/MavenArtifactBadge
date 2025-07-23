@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-hibernate-orm-derby-deployment",
+  "latest_version": "3.25.0",
+  "description": "This extensions is added by Quarkus automatically when quarkus-hibernate-orm and quarkus-jdbc-derby are on the classpath",
+  "id": "pkg:maven/io.quarkus/quarkus-hibernate-orm-derby-deployment",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264621734
+}

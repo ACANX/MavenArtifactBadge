@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "core",
+  "latest_version": "2.0.1",
+  "description": "The Core module contains security-related configuration classes.",
+  "id": "pkg:maven/nl.nl-portal/core",
+  "ts": 1753271481000,
+  "dependency_count": 14,
+  "ref_count": 98,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416045
+}

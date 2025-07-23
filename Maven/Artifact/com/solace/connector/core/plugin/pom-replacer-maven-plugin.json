@@ -1,0 +1,15 @@
+{
+  "group_id": "com.solace.connector.core.plugin",
+  "artifact_id": "pom-replacer-maven-plugin",
+  "latest_version": "2.16.2",
+  "description": "Simple Plugin to replace the project's POM file",
+  "id": "pkg:maven/com.solace.connector.core.plugin/pom-replacer-maven-plugin",
+  "ts": 1753278518000,
+  "dependency_count": 0,
+  "ref_count": 32,
+  "categories": null,
+  "licenses": [
+    "License Agreement for Solace Software"
+  ],
+  "last_updated": 1753279618814
+}

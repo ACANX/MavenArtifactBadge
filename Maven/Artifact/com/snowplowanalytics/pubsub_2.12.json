@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "pubsub_2.12",
+  "latest_version": "0.13.0",
+  "description": "pubsub",
+  "id": "pkg:maven/com.snowplowanalytics/pubsub_2.12",
+  "ts": 1753280398000,
+  "dependency_count": 0,
+  "ref_count": 68,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SCL"
+  ],
+  "last_updated": 1753281418338
+}

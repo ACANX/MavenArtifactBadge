@@ -1,0 +1,15 @@
+{
+  "group_id": "me.proton.vpn",
+  "artifact_id": "android-vpn-rust",
+  "latest_version": "1.0.2",
+  "description": "Rust library with code for Android Proton VPN client",
+  "id": "pkg:maven/me.proton.vpn/android-vpn-rust",
+  "ts": 1753273590000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "GNU GENERAL PUBLIC LICENSE, Version 3.0"
+  ],
+  "last_updated": 1753274218424
+}

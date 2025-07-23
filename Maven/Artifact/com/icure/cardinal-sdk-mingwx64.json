@@ -1,0 +1,15 @@
+{
+  "group_id": "com.icure",
+  "artifact_id": "cardinal-sdk-mingwx64",
+  "latest_version": "2.0.0-PREVIEW-11",
+  "description": "Cardinal SDK is a multiplatform SDK for the iCure platform.",
+  "id": "pkg:maven/com.icure/cardinal-sdk-mingwx64",
+  "ts": 1753282469000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753283218949
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlinx",
+  "artifact_id": "kotlin-jupyter-kernel-shadowed",
+  "latest_version": "0.15.0-554",
+  "description": "Kotlin Jupyter kernel with all dependencies inside one artifact",
+  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-kernel-shadowed",
+  "ts": 1753265253000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753265817653
+}

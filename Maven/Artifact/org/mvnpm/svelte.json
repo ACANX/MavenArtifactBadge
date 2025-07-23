@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "svelte",
+  "latest_version": "5.36.14",
+  "description": "Cybernetically enhanced web apps",
+  "id": "pkg:maven/org.mvnpm/svelte",
+  "ts": 1753287126000,
+  "dependency_count": 0,
+  "ref_count": 31,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753288017887
+}

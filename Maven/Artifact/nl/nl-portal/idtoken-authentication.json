@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "idtoken-authentication",
+  "latest_version": "2.0.1",
+  "description": "This module provides tools for authenticating API requests with an ID Token",
+  "id": "pkg:maven/nl.nl-portal/idtoken-authentication",
+  "ts": 1753271481000,
+  "dependency_count": 5,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416044
+}

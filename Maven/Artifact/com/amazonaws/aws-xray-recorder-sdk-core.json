@@ -1,0 +1,17 @@
+{
+  "group_id": "com.amazonaws",
+  "artifact_id": "aws-xray-recorder-sdk-core",
+  "latest_version": "2.18.3",
+  "description": "The Amazon Web Services X-Ray Recorder SDK for Java provides Java APIs for emitting tracing data to AWS X-Ray. AWS X-Ray helps developers analyze and debug distributed applications. With X-Ray, you can understand how your application and its underlying services are performing to identify and troubleshoot the root cause of performance issues and errors.",
+  "id": "pkg:maven/com.amazonaws/aws-xray-recorder-sdk-core",
+  "ts": 1753288097000,
+  "dependency_count": 10,
+  "ref_count": 12,
+  "categories": [
+    "Cloud Computing"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753288573934
+}

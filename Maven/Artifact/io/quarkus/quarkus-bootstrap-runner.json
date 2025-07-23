@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-bootstrap-runner",
+  "latest_version": "3.25.0",
+  "description": "The entry point for production applications using the custom ClassLoader.\n        This contains the production ClassLoader code and must not have any non\n        parent first dependencies.",
+  "id": "pkg:maven/io.quarkus/quarkus-bootstrap-runner",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264623168
+}

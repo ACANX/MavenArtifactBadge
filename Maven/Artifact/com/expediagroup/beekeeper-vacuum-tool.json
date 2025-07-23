@@ -1,0 +1,17 @@
+{
+  "group_id": "com.expediagroup",
+  "artifact_id": "beekeeper-vacuum-tool",
+  "latest_version": "3.6.2",
+  "description": "Beekeeper is a service which manages the cleanup of tables and unreferenced S3 paths.",
+  "id": "pkg:maven/com.expediagroup/beekeeper-vacuum-tool",
+  "ts": 1753286704000,
+  "dependency_count": 0,
+  "ref_count": 289,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753287417493
+}

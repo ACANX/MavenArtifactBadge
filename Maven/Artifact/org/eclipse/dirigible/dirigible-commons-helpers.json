@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-commons-helpers",
+  "latest_version": "12.2.0",
+  "description": null,
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-commons-helpers",
+  "ts": 1753272414000,
+  "dependency_count": 8,
+  "ref_count": 31,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753273628448
+}

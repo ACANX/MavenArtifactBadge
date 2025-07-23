@@ -1,0 +1,15 @@
+{
+  "group_id": "com.solace.connector.core.transform",
+  "artifact_id": "pubsubplus-connector-transform-parent",
+  "latest_version": "2.16.2",
+  "description": "Parent for PubSub+ Connector Framework Transformation Components",
+  "id": "pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-parent",
+  "ts": 1753278518000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "License Agreement for Solace Software"
+  ],
+  "last_updated": 1753279620230
+}

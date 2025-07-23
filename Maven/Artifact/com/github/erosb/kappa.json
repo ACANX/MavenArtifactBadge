@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.erosb",
+  "artifact_id": "kappa",
+  "latest_version": "2.0.0-RC16",
+  "description": "Forked version of openapi4j aiming for openapi 3.1 support",
+  "id": "pkg:maven/com.github.erosb/kappa",
+  "ts": 1753290941000,
+  "dependency_count": 5,
+  "ref_count": 13,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753291426842
+}

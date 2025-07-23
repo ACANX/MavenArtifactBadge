@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-elytron-security-oauth2",
+  "latest_version": "3.25.0",
+  "description": "Secure your applications with OAuth2 opaque tokens",
+  "id": "pkg:maven/io.quarkus/quarkus-elytron-security-oauth2",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264623560
+}

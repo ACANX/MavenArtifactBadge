@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.api.models",
+  "artifact_id": "all",
+  "latest_version": "1.0.33",
+  "description": "This module contains the Smithy model (JSON AST) for all AWS services.",
+  "id": "pkg:maven/software.amazon.api.models/all",
+  "ts": 1753294321000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753294617845
+}

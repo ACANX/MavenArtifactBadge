@@ -1,0 +1,15 @@
+{
+  "group_id": "io.moderne.recipe",
+  "artifact_id": "rewrite-program-analysis",
+  "latest_version": "0.1.1",
+  "description": "Static code analysis tools providing data flow, control flow, and other program analysis capabilities for OpenRewrite",
+  "id": "pkg:maven/io.moderne.recipe/rewrite-program-analysis",
+  "ts": 1753305975000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Moderne Proprietary License"
+  ],
+  "last_updated": 1753306620011
+}

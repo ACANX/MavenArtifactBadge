@@ -1,0 +1,15 @@
+{
+  "group_id": "com.solace.connector.core",
+  "artifact_id": "pubsubplus-connector-build-parent",
+  "latest_version": "2.16.2",
+  "description": "SOLACE-INTERNAL USE ONLY - Build parent for connectors built with the PubSub+ Connector Framework",
+  "id": "pkg:maven/com.solace.connector.core/pubsubplus-connector-build-parent",
+  "ts": 1753278518000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "License Agreement for Solace Software"
+  ],
+  "last_updated": 1753279619474
+}

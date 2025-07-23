@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-libs-kotlinlib_3",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-libs-kotlinlib",
+  "id": "pkg:maven/com.lihaoyi/mill-libs-kotlinlib_3",
+  "ts": 1753282399000,
+  "dependency_count": 3,
+  "ref_count": 10,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283219357
+}

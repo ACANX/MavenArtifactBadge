@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-bom-test",
+  "latest_version": "3.25.0",
+  "description": "Dependency management for integration tests. Importable by third party extension developers.",
+  "id": "pkg:maven/io.quarkus/quarkus-bom-test",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264623168
+}

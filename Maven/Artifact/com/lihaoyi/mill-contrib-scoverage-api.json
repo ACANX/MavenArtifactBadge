@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-scoverage-api",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-contrib-scoverage-api",
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-scoverage-api",
+  "ts": 1753282236000,
+  "dependency_count": 2,
+  "ref_count": 0,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283220252
+}

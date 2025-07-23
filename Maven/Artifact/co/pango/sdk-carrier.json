@@ -1,0 +1,15 @@
+{
+  "group_id": "co.pango",
+  "artifact_id": "sdk-carrier",
+  "latest_version": "5.4.0",
+  "description": "Pango Unified Vpn SDK",
+  "id": "pkg:maven/co.pango/sdk-carrier",
+  "ts": 1753286663000,
+  "dependency_count": 6,
+  "ref_count": 30,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753287419243
+}

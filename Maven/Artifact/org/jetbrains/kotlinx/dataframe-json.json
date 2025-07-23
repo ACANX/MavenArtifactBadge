@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlinx",
+  "artifact_id": "dataframe-json",
+  "latest_version": "1.0.0-dev-7822",
+  "description": "Kotlin DataFrame JSON integration",
+  "id": "pkg:maven/org.jetbrains.kotlinx/dataframe-json",
+  "ts": 1753280422000,
+  "dependency_count": 4,
+  "ref_count": 9,
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753281418335
+}

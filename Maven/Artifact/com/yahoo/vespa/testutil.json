@@ -1,0 +1,18 @@
+{
+  "group_id": "com.yahoo.vespa",
+  "artifact_id": "testutil",
+  "latest_version": "8.554.5",
+  "description": "Library of useful test utilities.",
+  "id": "pkg:maven/com.yahoo.vespa/testutil",
+  "ts": 1753270680000,
+  "dependency_count": 26,
+  "ref_count": 26,
+  "categories": [
+    "Big Data",
+    "Parallel Data Processing"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753271201713
+}

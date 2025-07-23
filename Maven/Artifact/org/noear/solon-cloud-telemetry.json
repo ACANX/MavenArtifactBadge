@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "solon-cloud-telemetry",
+  "latest_version": "3.4.1-M3",
+  "description": "Java project for solon",
+  "id": "pkg:maven/org.noear/solon-cloud-telemetry",
+  "ts": 1753256237000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753256819365
+}

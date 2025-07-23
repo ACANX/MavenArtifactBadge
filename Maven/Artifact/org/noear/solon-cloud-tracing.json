@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "solon-cloud-tracing",
+  "latest_version": "3.4.1-M3",
+  "description": "Java project for solon",
+  "id": "pkg:maven/org.noear/solon-cloud-tracing",
+  "ts": 1753256237000,
+  "dependency_count": 4,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753256818739
+}

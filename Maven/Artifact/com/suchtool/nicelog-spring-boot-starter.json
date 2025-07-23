@@ -1,12 +1,15 @@
 {
   "group_id": "com.suchtool",
   "artifact_id": "nicelog-spring-boot-starter",
-  "latest_version": "1.2.56",
+  "latest_version": "1.2.58",
   "description": "collect log automatically for SpringBoot project",
   "id": "pkg:maven/com.suchtool/nicelog-spring-boot-starter",
-  "ts": 1753241425000,
+  "ts": 1753266041000,
   "dependency_count": 0,
   "ref_count": 156,
   "categories": null,
-  "last_updated": 1753242857920
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753266416918
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "cn.openapis",
   "artifact_id": "hy.common.db",
-  "latest_version": "2.7.4",
+  "latest_version": "2.7.5",
   "description": "cn.openapis.hy.common.db",
   "id": "pkg:maven/cn.openapis/hy.common.db",
-  "ts": 1753253711000,
+  "ts": 1753255168000,
   "dependency_count": 0,
   "ref_count": 97,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753254421409
+  "last_updated": 1753255615425
 }

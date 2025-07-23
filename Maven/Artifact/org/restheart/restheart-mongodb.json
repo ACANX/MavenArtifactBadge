@@ -1,0 +1,18 @@
+{
+  "group_id": "org.restheart",
+  "artifact_id": "restheart-mongodb",
+  "latest_version": "8.6.0",
+  "description": "RESTHeart MongoDB - MongoDB plugin",
+  "id": "pkg:maven/org.restheart/restheart-mongodb",
+  "ts": 1753261107000,
+  "dependency_count": 1,
+  "ref_count": 33,
+  "categories": [
+    "Data Protocols",
+    "Servers"
+  ],
+  "licenses": [
+    "GNU Affero General Public License (AGPL) version 3.0"
+  ],
+  "last_updated": 1753261617386
+}

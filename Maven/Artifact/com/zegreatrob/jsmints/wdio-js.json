@@ -1,0 +1,17 @@
+{
+  "group_id": "com.zegreatrob.jsmints",
+  "artifact_id": "wdio-js",
+  "latest_version": "6.6.22",
+  "description": "wdio",
+  "id": "pkg:maven/com.zegreatrob.jsmints/wdio-js",
+  "ts": 1753284695000,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753285618951
+}

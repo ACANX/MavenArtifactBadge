@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.erosb",
+  "artifact_id": "kappa-restassured-adapter",
+  "latest_version": "2.0.0-RC16",
+  "description": "Kappa adapter for working with RestAssured",
+  "id": "pkg:maven/com.github.erosb/kappa-restassured-adapter",
+  "ts": 1753290941000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753291426841
+}

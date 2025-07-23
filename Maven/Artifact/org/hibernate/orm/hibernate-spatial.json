@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hibernate.orm",
+  "artifact_id": "hibernate-spatial",
+  "latest_version": "7.0.7.Final",
+  "description": "Integrate support for Spatial/GIS data into Hibernate O/RM",
+  "id": "pkg:maven/org.hibernate.orm/hibernate-spatial",
+  "ts": 1753254853000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753255259925
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-awt",
+  "latest_version": "3.25.0",
+  "description": "Enable AWT and Java2D usage",
+  "id": "pkg:maven/io.quarkus/quarkus-awt",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264622289
+}

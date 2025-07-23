@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-dist-native-mac-aarch64",
+  "latest_version": "1.0.1-17-ad8e66",
+  "description": "mill-dist-native-mac-aarch64",
+  "id": "pkg:maven/com.lihaoyi/mill-dist-native-mac-aarch64",
+  "ts": 1753281626000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753282018262
+}

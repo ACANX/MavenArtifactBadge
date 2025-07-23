@@ -1,0 +1,17 @@
+{
+  "group_id": "com.algolia",
+  "artifact_id": "algoliasearch-client-kotlin-jvm",
+  "latest_version": "3.25.1",
+  "description": "\"Algolia is a powerful search-as-a-service solution, made easy to use with API clients, UI libraries, and pre-built integrations. Algolia API Client for Kotlin lets you easily use the Algolia Search REST API from your JVM project, such as Android or backend implementations.\"",
+  "id": "pkg:maven/com.algolia/algoliasearch-client-kotlin-jvm",
+  "ts": 1753264871000,
+  "dependency_count": 0,
+  "ref_count": 26,
+  "categories": [
+    "Search Engines"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753265218718
+}

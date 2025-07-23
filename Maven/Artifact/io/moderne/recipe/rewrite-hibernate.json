@@ -1,0 +1,15 @@
+{
+  "group_id": "io.moderne.recipe",
+  "artifact_id": "rewrite-hibernate",
+  "latest_version": "0.8.0",
+  "description": "Hibernate migration recipes",
+  "id": "pkg:maven/io.moderne.recipe/rewrite-hibernate",
+  "ts": 1753271433000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "Moderne Proprietary License"
+  ],
+  "last_updated": 1753271779665
+}

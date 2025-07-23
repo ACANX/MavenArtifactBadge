@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "kafka_2.13",
+  "latest_version": "0.13.0",
+  "description": "kafka",
+  "id": "pkg:maven/com.snowplowanalytics/kafka_2.13",
+  "ts": 1753280404000,
+  "dependency_count": 0,
+  "ref_count": 85,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SCL"
+  ],
+  "last_updated": 1753281418336
+}

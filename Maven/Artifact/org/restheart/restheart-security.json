@@ -1,0 +1,18 @@
+{
+  "group_id": "org.restheart",
+  "artifact_id": "restheart-security",
+  "latest_version": "8.6.0",
+  "description": "RESTHeart Security - Security plugins",
+  "id": "pkg:maven/org.restheart/restheart-security",
+  "ts": 1753261107000,
+  "dependency_count": 2,
+  "ref_count": 36,
+  "categories": [
+    "Data Protocols",
+    "Servers"
+  ],
+  "licenses": [
+    "GNU Affero General Public License (AGPL) version 3.0"
+  ],
+  "last_updated": 1753261617384
+}

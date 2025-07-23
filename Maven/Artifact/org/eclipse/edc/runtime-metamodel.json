@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "runtime-metamodel",
+  "latest_version": "0.13.1",
+  "description": "edc :: runtime-metamodel",
+  "id": "pkg:maven/org.eclipse.edc/runtime-metamodel",
+  "ts": 1753281085000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753281795312
+}

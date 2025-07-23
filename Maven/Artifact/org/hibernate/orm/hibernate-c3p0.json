@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hibernate.orm",
+  "artifact_id": "hibernate-c3p0",
+  "latest_version": "7.0.7.Final",
+  "description": "Integration for c3p0 Connection pooling into Hibernate ORM",
+  "id": "pkg:maven/org.hibernate.orm/hibernate-c3p0",
+  "ts": 1753254853000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753255259542
+}

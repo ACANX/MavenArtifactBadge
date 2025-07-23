@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlinx",
+  "artifact_id": "dataframe-arrow",
+  "latest_version": "1.0.0-dev-7822",
+  "description": "Apache Arrow support for Kotlin Dataframe",
+  "id": "pkg:maven/org.jetbrains.kotlinx/dataframe-arrow",
+  "ts": 1753280422000,
+  "dependency_count": 2,
+  "ref_count": 11,
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753281418333
+}

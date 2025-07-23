@@ -1,0 +1,17 @@
+{
+  "group_id": "io.apicurio",
+  "artifact_id": "apicurio-registry-maven-plugin",
+  "latest_version": "3.0.10",
+  "description": "This plugin facilitates fast and easy integration with the Apicurio Registry and a Maven based\n    build procedure.  It can be used, for example, to register schemas or API designs at build time.",
+  "id": "pkg:maven/io.apicurio/apicurio-registry-maven-plugin",
+  "ts": 1753283753000,
+  "dependency_count": 0,
+  "ref_count": 152,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753284419732
+}

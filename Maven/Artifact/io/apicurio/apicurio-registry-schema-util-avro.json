@@ -1,0 +1,17 @@
+{
+  "group_id": "io.apicurio",
+  "artifact_id": "apicurio-registry-schema-util-avro",
+  "latest_version": "3.0.10",
+  "description": "Open Source API & Schema Registry",
+  "id": "pkg:maven/io.apicurio/apicurio-registry-schema-util-avro",
+  "ts": 1753283753000,
+  "dependency_count": 6,
+  "ref_count": 28,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753284419726
+}

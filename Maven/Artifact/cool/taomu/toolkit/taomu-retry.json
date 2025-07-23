@@ -1,0 +1,15 @@
+{
+  "group_id": "cool.taomu.toolkit",
+  "artifact_id": "taomu-retry",
+  "latest_version": "0.0.25",
+  "description": "This is a toolkit",
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-retry",
+  "ts": 1753276090000,
+  "dependency_count": 2,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "The Mulan Public License，Version 2"
+  ],
+  "last_updated": 1753276617944
+}

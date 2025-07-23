@@ -1,0 +1,17 @@
+{
+  "group_id": "com.steamstreet",
+  "artifact_id": "awskt-events",
+  "latest_version": "2.1.32",
+  "description": "Helpers for building EventBridge applications in Kotlin",
+  "id": "pkg:maven/com.steamstreet/awskt-events",
+  "ts": 1753291602000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Gaming"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753292222062
+}

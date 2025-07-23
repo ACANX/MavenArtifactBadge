@@ -1,0 +1,17 @@
+{
+  "group_id": "it.cnr.si.cool.jconon",
+  "artifact_id": "cool-jconon-backend",
+  "latest_version": "5.9.5",
+  "description": "Archetype for push artifact to Maven repository",
+  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-backend",
+  "ts": 1753293313000,
+  "dependency_count": 4,
+  "ref_count": 298,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "GNU AFFERO GENERAL PUBLIC LICENSE"
+  ],
+  "last_updated": 1753294018674
+}

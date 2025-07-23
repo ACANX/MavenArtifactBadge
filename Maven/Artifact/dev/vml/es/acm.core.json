@@ -1,15 +1,15 @@
 {
   "group_id": "dev.vml.es",
   "artifact_id": "acm.core",
-  "latest_version": "0.9.19",
+  "latest_version": "0.9.22",
   "description": "Core bundle for AEM Content Manager",
   "id": "pkg:maven/dev.vml.es/acm.core",
-  "ts": 1753251527000,
+  "ts": 1753278985000,
   "dependency_count": 5,
   "ref_count": 62,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753251969601
+  "last_updated": 1753279618080
 }

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "streams-core_2.13",
+  "latest_version": "0.13.0",
+  "description": "streams-core",
+  "id": "pkg:maven/com.snowplowanalytics/streams-core_2.13",
+  "ts": 1753280393000,
+  "dependency_count": 4,
+  "ref_count": 27,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SCL"
+  ],
+  "last_updated": 1753281418845
+}

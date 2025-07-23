@@ -1,0 +1,15 @@
+{
+  "group_id": "me.ahoo.wow",
+  "artifact_id": "wow-webflux",
+  "latest_version": "5.25.9",
+  "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
+  "id": "pkg:maven/me.ahoo.wow/wow-webflux",
+  "ts": 1753263827000,
+  "dependency_count": 2,
+  "ref_count": 49,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753265220007
+}

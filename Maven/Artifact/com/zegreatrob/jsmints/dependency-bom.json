@@ -1,0 +1,17 @@
+{
+  "group_id": "com.zegreatrob.jsmints",
+  "artifact_id": "dependency-bom",
+  "latest_version": "6.6.22",
+  "description": "dependency-bom",
+  "id": "pkg:maven/com.zegreatrob.jsmints/dependency-bom",
+  "ts": 1753284695000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753285618953
+}

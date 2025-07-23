@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.clerk",
+  "artifact_id": "localizations",
+  "latest_version": "3.20.2",
+  "description": "Localizations for the Clerk components",
+  "id": "pkg:maven/org.mvnpm.at.clerk/localizations",
+  "ts": 1753282623000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283217703
+}
