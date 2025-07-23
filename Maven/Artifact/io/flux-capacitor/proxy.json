@@ -1,0 +1,17 @@
+{
+  "group_id": "io.flux-capacitor",
+  "artifact_id": "proxy",
+  "latest_version": "0.1214.0",
+  "description": "Server library that forwards web requests to Flux Capacitor.",
+  "id": "pkg:maven/io.flux-capacitor/proxy",
+  "ts": 1753277826000,
+  "dependency_count": 0,
+  "ref_count": 59,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753278421400
+}

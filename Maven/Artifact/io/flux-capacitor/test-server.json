@@ -1,0 +1,17 @@
+{
+  "group_id": "io.flux-capacitor",
+  "artifact_id": "test-server",
+  "latest_version": "0.1214.0",
+  "description": "In memory server that can be used for testing applications in your local environment.",
+  "id": "pkg:maven/io.flux-capacitor/test-server",
+  "ts": 1753277826000,
+  "dependency_count": 1,
+  "ref_count": 60,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753278421401
+}
