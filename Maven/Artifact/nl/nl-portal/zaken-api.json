@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "zaken-api",
+  "latest_version": "2.0.1",
+  "description": "This module facilitates working with a Zaken API compliant microservice",
+  "id": "pkg:maven/nl.nl-portal/zaken-api",
+  "ts": 1753271481000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416718
+}

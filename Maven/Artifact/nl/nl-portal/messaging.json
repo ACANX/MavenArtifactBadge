@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "messaging",
+  "latest_version": "2.0.1",
+  "description": "The Messaging module provides functionality for message-based communication with external services.",
+  "id": "pkg:maven/nl.nl-portal/messaging",
+  "ts": 1753271481000,
+  "dependency_count": 1,
+  "ref_count": 81,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416716
+}

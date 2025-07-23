@@ -1,0 +1,17 @@
+{
+  "group_id": "nl.nl-portal",
+  "artifact_id": "data",
+  "latest_version": "2.0.1",
+  "description": "The Data module contains domain and database related classes.",
+  "id": "pkg:maven/nl.nl-portal/data",
+  "ts": 1753271481000,
+  "dependency_count": 2,
+  "ref_count": 36,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Licensed under EUPL, Version 1.2 (the \"License\");"
+  ],
+  "last_updated": 1753272416715
+}
