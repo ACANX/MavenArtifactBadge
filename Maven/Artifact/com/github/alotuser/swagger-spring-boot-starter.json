@@ -1,0 +1,15 @@
+{
+  "group_id": "com.github.alotuser",
+  "artifact_id": "swagger-spring-boot-starter",
+  "latest_version": "1.0.1",
+  "description": "Integrates i18n support into Swagger documentation using MessageSource or custom SwaggerMessagePlugin to resolve localized text for API operations, parameters, and models.",
+  "id": "pkg:maven/com.github.alotuser/swagger-spring-boot-starter",
+  "ts": 1753259600000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753260384878
+}

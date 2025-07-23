@@ -1,15 +1,15 @@
 {
   "group_id": "dev.vml.es",
   "artifact_id": "acm.root",
-  "latest_version": "0.9.20",
+  "latest_version": "0.9.21",
   "description": "AEM Content Manager",
   "id": "pkg:maven/dev.vml.es/acm.root",
-  "ts": 1753256102000,
+  "ts": 1753259949000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256823136
+  "last_updated": 1753260384250
 }
