@@ -1,0 +1,17 @@
+{
+  "group_id": "org.onebusaway",
+  "artifact_id": "onebusaway-sdk-java-core",
+  "latest_version": "0.1.0-alpha.29",
+  "description": "The OneBusAway REST API. For use with servers like\nhttps://api.pugetsound.onebusaway.org",
+  "id": "pkg:maven/org.onebusaway/onebusaway-sdk-java-core",
+  "ts": 1753276064000,
+  "dependency_count": 2,
+  "ref_count": 14,
+  "categories": [
+    "Misc"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753276617944
+}
