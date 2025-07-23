@@ -1,0 +1,17 @@
+{
+  "group_id": "ru.astrainteractive.klibs",
+  "artifact_id": "kstorage-iosx64",
+  "latest_version": "4.2.1",
+  "description": "Kotlin wrapper for key-value storage libraries",
+  "id": "pkg:maven/ru.astrainteractive.klibs/kstorage-iosx64",
+  "ts": 1753281393000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753282018266
+}
