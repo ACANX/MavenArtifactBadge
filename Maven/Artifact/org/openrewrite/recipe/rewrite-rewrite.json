@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-rewrite",
-  "latest_version": "0.10.0",
+  "latest_version": "0.10.1",
   "description": "A rewrite module automating best practices and major version migrations for OpenRewrite recipes",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-rewrite",
-  "ts": 1753270896000,
+  "ts": 1753309666000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Source Available License"
   ],
-  "last_updated": 1753271780331
+  "last_updated": 1753310214776
 }

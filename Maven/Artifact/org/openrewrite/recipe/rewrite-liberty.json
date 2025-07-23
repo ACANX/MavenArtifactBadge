@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-liberty",
-  "latest_version": "1.20.0",
+  "latest_version": "1.20.1",
   "description": "Recipes to migrate to the IBM WebSphere Liberty. Automatically.",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-liberty",
-  "ts": 1753270438000,
+  "ts": 1753309644000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753271203646
+  "last_updated": 1753310214776
 }
