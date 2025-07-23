@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "solon-security-vault",
+  "latest_version": "3.4.1-M3",
+  "description": "Java project for solon",
+  "id": "pkg:maven/org.noear/solon-security-vault",
+  "ts": 1753255827000,
+  "dependency_count": 3,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753256467317
+}
