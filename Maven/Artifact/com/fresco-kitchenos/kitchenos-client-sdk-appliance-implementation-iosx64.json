@@ -1,0 +1,15 @@
+{
+  "group_id": "com.fresco-kitchenos",
+  "artifact_id": "kitchenos-client-sdk-appliance-implementation-iosx64",
+  "latest_version": "1.37.1",
+  "description": "A KMP library to interact with KitchenOS.",
+  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-appliance-implementation-iosx64",
+  "ts": 1753286506000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "Fresco License"
+  ],
+  "last_updated": 1753287419941
+}

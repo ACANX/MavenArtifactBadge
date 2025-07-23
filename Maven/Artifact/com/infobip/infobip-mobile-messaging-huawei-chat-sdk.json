@@ -1,0 +1,17 @@
+{
+  "group_id": "com.infobip",
+  "artifact_id": "infobip-mobile-messaging-huawei-chat-sdk",
+  "latest_version": "8.1.0",
+  "description": "Mobile Messaging SDK for Huawei on Android",
+  "id": "pkg:maven/com.infobip/infobip-mobile-messaging-huawei-chat-sdk",
+  "ts": 1753286485000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Data Transport"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753287421973
+}
