@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.cbarlin",
+  "artifact_id": "aru-parent",
+  "latest_version": "0.5.0",
+  "description": "A collection of record utilities, covering quite a wide variety of use-cases.",
+  "id": "pkg:maven/io.github.cbarlin/aru-parent",
+  "ts": 1753256219000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753256820211
+}

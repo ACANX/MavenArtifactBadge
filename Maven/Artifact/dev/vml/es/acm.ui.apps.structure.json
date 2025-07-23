@@ -1,15 +1,15 @@
 {
   "group_id": "dev.vml.es",
   "artifact_id": "acm.ui.apps.structure",
-  "latest_version": "0.9.19",
+  "latest_version": "0.9.20",
   "description": "Empty package that defines the structure of the Adobe Experience Manager repository the Code packages in this project deploy into.\n        Any roots in the Code packages of this project should have their parent enumerated in the Filters list below.",
   "id": "pkg:maven/dev.vml.es/acm.ui.apps.structure",
-  "ts": 1753251527000,
+  "ts": 1753256102000,
   "dependency_count": 4,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753251969599
+  "last_updated": 1753256823137
 }
