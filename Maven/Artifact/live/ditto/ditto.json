@@ -1,0 +1,15 @@
+{
+  "group_id": "live.ditto",
+  "artifact_id": "ditto",
+  "latest_version": "4.11.2-preview.1",
+  "description": "Ditto Kotlin SDK for Android",
+  "id": "pkg:maven/live.ditto/ditto",
+  "ts": 1753259244000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "Ditto Binary License"
+  ],
+  "last_updated": 1753259816438
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.lmos",
+  "artifact_id": "arc-result",
+  "latest_version": "0.143.0",
+  "description": "ARC is an AI framework.",
+  "id": "pkg:maven/org.eclipse.lmos/arc-result",
+  "ts": 1753259165000,
+  "dependency_count": 16,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753259817066
+}
