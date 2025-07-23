@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "sae20190506",
+  "latest_version": "2.5.7",
+  "description": "Alibaba Cloud Serverless App Engine (20190506) SDK for Java",
+  "id": "pkg:maven/com.aliyun/sae20190506",
+  "ts": 1753291501000,
+  "dependency_count": 0,
+  "ref_count": 28,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753292224663
+}

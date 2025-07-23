@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.lipanre",
   "artifact_id": "modulix-framework-mybatis-plus-api",
-  "latest_version": "0.0.9",
+  "latest_version": "0.0.10",
   "description": "simple common business framework library",
   "id": "pkg:maven/io.github.lipanre/modulix-framework-mybatis-plus-api",
-  "ts": 1753290580000,
+  "ts": 1753291388000,
   "dependency_count": 2,
   "ref_count": 32,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753291024285
+  "last_updated": 1753292225575
 }
