@@ -15,10 +15,10 @@
     <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">0</tspan></text>
     <text x="0" y="130" font-family="Arial" font-size="18" fill="white" font-weight="bold">引用量: </text>  
     <text x="110" y="130" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">208</tspan></text>  
-    <text x="0" y="150" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
-    <text x="10" y="180" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold"></tspan></text>
-    <ellipse  cx="600" cy="105" rx="140" ry="60"  fill="#ff4081"/>
-    <text x="600" y="107" text-anchor="middle" font-family="Arial" font-size="20" fill="white" font-weight="bold">MavenArtifactBadge</text>
+    <text x="0" y="160" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
+    <text x="10" y="190" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold"></tspan></text>
+    <ellipse  cx="600" cy="120" rx="140" ry="60"  fill="#ff4081"/>
+    <text x="600" y="120" text-anchor="middle" font-family="Arial" font-size="24" fill="white" font-weight="bold">MavenArtifactBadge</text>
   </g>
   <text x="720" y="225" font-family="Arial" font-size="3" fill="#d0d0d0">由MavenArtifactBadgeGenerator生成</text>
 </svg>
