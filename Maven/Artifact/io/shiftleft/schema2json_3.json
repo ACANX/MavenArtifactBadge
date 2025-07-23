@@ -1,0 +1,17 @@
+{
+  "group_id": "io.shiftleft",
+  "artifact_id": "schema2json_3",
+  "latest_version": "1.7.45",
+  "description": "schema2json",
+  "id": "pkg:maven/io.shiftleft/schema2json_3",
+  "ts": 1753267839000,
+  "dependency_count": 0,
+  "ref_count": 27,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753268199914
+}

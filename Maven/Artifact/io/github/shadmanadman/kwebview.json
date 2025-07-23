@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.shadmanadman",
   "artifact_id": "kwebview",
-  "latest_version": "1.12.22",
+  "latest_version": "1.12.23",
   "description": "A lightweight and simple Kotlin Multiplatform webview to show HTML content or URL",
   "id": "pkg:maven/io.github.shadmanadman/kwebview",
-  "ts": 1753266817000,
+  "ts": 1753267615000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": null,
   "licenses": [
     "WTFPL"
   ],
-  "last_updated": 1753267392343
+  "last_updated": 1753268200327
 }

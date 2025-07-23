@@ -1,0 +1,17 @@
+{
+  "group_id": "io.shiftleft",
+  "artifact_id": "codepropertygraph-schema_3",
+  "latest_version": "1.7.45",
+  "description": "codepropertygraph-schema",
+  "id": "pkg:maven/io.shiftleft/codepropertygraph-schema_3",
+  "ts": 1753267839000,
+  "dependency_count": 1,
+  "ref_count": 20,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753268199915
+}
