@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.lipanre",
   "artifact_id": "modulix-framework-starter",
-  "latest_version": "0.0.8",
+  "latest_version": "0.0.9",
   "description": "simple common business framework library",
   "id": "pkg:maven/io.github.lipanre/modulix-framework-starter",
-  "ts": 1753286581000,
+  "ts": 1753290580000,
   "dependency_count": 0,
-  "ref_count": 3,
+  "ref_count": 4,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753287419248
+  "last_updated": 1753291024285
 }

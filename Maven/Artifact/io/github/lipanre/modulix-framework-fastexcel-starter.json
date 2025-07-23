@@ -1,12 +1,12 @@
 {
   "group_id": "io.github.lipanre",
-  "artifact_id": "modulix-framework-web-api",
+  "artifact_id": "modulix-framework-fastexcel-starter",
   "latest_version": "0.0.9",
   "description": "simple common business framework library",
-  "id": "pkg:maven/io.github.lipanre/modulix-framework-web-api",
+  "id": "pkg:maven/io.github.lipanre/modulix-framework-fastexcel-starter",
   "ts": 1753290580000,
-  "dependency_count": 3,
-  "ref_count": 11,
+  "dependency_count": 0,
+  "ref_count": 54,
   "categories": null,
   "licenses": [
     "MIT"
