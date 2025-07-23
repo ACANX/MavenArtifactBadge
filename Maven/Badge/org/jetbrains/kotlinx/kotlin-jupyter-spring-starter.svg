@@ -16,7 +16,7 @@
     <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">kotlin-jupyter-spring-starter</text>    
     <!-- 版本信息 -->
     <text x="0" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold">最新版本:</text>
-    <text x="80" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold"><tspan font-weight="bold">0.14.1-551</tspan></text>
+    <text x="80" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold"><tspan font-weight="bold">0.15.0-552-1</tspan></text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="12" fill="white">依赖数: </text>
     <text x="80" y="70" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">0</tspan></text>
