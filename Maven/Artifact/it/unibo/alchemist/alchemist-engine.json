@@ -1,0 +1,17 @@
+{
+  "group_id": "it.unibo.alchemist",
+  "artifact_id": "alchemist-engine",
+  "latest_version": "42.2.7",
+  "description": "Alchemist core simulation engine",
+  "id": "pkg:maven/it.unibo.alchemist/alchemist-engine",
+  "ts": 1753252466000,
+  "dependency_count": 5,
+  "ref_count": 13,
+  "categories": [
+    "Math and Science Calculation"
+  ],
+  "licenses": [
+    "GPL 3.0 with linking exception"
+  ],
+  "last_updated": 1753253220725
+}

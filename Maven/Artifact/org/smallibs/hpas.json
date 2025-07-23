@@ -1,0 +1,17 @@
+{
+  "group_id": "org.smallibs",
+  "artifact_id": "hpas",
+  "latest_version": "0.12.0",
+  "description": "Functional ADT And Asynchronous library in Java",
+  "id": "pkg:maven/org.smallibs/hpas",
+  "ts": 1753248855000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "GNU Lesser General Public License, version 2.1"
+  ],
+  "last_updated": 1753249106324
+}

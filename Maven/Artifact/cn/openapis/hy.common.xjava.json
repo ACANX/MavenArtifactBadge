@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.openapis",
+  "artifact_id": "hy.common.xjava",
+  "latest_version": "4.5.9",
+  "description": "cn.openapis.hy.common.xjava",
+  "id": "pkg:maven/cn.openapis/hy.common.xjava",
+  "ts": 1753249638000,
+  "dependency_count": 0,
+  "ref_count": 190,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753250116800
+}

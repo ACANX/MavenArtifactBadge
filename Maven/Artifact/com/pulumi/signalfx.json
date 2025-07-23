@@ -1,0 +1,14 @@
+{
+  "group_id": "com.pulumi",
+  "artifact_id": "signalfx",
+  "latest_version": "7.14.0",
+  "description": "A Pulumi package for creating and managing SignalFx resources.",
+  "id": "pkg:maven/com.pulumi/signalfx",
+  "ts": 1753243009000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "last_updated": 1753243319415
+}
