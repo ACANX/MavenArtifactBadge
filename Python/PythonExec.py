@@ -41,7 +41,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir.mkdir(parents=True, exist_ok=True)
     
     # 创建 SVG 文件内容 - 垂直布局
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="300" height="150" viewBox="0 0 500 160">
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="160" viewBox="0 0 500 160">
   <!-- 背景渐变 -->
   <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#4a90e2"/>
@@ -52,20 +52,17 @@ def create_maven_artifact_badge_svg_file(data: dict):
   <!-- 主体内容：垂直布局 -->
   <g transform="translate(15, 15)">
     <!-- Group ID -->
-    <text x="0" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">
-      GroupID:   {group_id}
-    </text>
+    <text x="0" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">GroupID:</text>
+    <text x="80" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">{group_id}</text>
     <!-- Artifact ID -->
-    <text x="0" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">
-      ArtifactID: {artifact_id}
-    </text>
+    <text x="0" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">ArtifactID:</text>
+    <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">{artifact_id}</text>    
     <!-- 版本信息 -->
-    <text x="0" y="50" font-family="Arial" font-size="11" fill="white">
-      最新版本: <tspan font-weight="bold">{latest_version}</tspan>
-    </text>
+    <text x="0" y="50" font-family="Arial" font-size="11" fill="white" font-weight="bold">最新版本:</text>
+    <text x="80" y="50" font-family="Arial" font-size="11" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="11" fill="white">
-      依赖量: <tspan font-weight="bold">{dependency_count}</tspan>
+      依赖数: <tspan font-weight="bold">{dependency_count}</tspan>
     </text>
     <text x="0" y="85" font-family="Arial" font-size="11" fill="white">
       引用量: <tspan font-weight="bold">{ref_count}</tspan>
@@ -80,7 +77,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
   </g>
   <!-- 底部信息 -->
   <text x="420" y="145" font-family="Arial" font-size="3" fill="#d0d0d0">
-    由MavenBadgeGenerator生成
+    由MavenArtifactBadgeGenerator生成
   </text>
 </svg>"""
     
