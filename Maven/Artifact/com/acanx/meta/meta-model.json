@@ -1,0 +1,15 @@
+{
+  "group_id": "com.acanx.meta",
+  "artifact_id": "meta-model",
+  "latest_version": "0.3.2",
+  "description": "Meta-Model POM",
+  "id": "pkg:maven/com.acanx.meta/meta-model",
+  "ts": 1753314122000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753314419269
+}
