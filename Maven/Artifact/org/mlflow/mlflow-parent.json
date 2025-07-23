@@ -1,14 +1,17 @@
 {
   "group_id": "org.mlflow",
   "artifact_id": "mlflow-parent",
-  "latest_version": "3.1.3",
+  "latest_version": "3.1.4",
   "description": "Open source platform for the machine learning lifecycle",
   "id": "pkg:maven/org.mlflow/mlflow-parent",
-  "ts": 1753242736000,
+  "ts": 1753248265000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
     "Uncategorized"
   ],
-  "last_updated": 1753243319416
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753249018058
 }
