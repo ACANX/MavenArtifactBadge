@@ -1,10 +1,10 @@
 {
   "group_id": "com.tectonica",
   "artifact_id": "jonix-onix2",
-  "latest_version": "2025-07",
+  "latest_version": "2025-07-onix308",
   "description": "Collection of classes for processing Onix-2 sources",
   "id": "pkg:maven/com.tectonica/jonix-onix2",
-  "ts": 1753291398000,
+  "ts": 1753292582000,
   "dependency_count": 1,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753292225140
+  "last_updated": 1753292818724
 }

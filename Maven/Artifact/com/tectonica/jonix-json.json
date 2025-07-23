@@ -1,10 +1,10 @@
 {
   "group_id": "com.tectonica",
   "artifact_id": "jonix-json",
-  "latest_version": "2025-07",
+  "latest_version": "2025-07-onix308",
   "description": "Utilities to output ONIX as JSON",
   "id": "pkg:maven/com.tectonica/jonix-json",
-  "ts": 1753291398000,
+  "ts": 1753292582000,
   "dependency_count": 1,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753292225141
+  "last_updated": 1753292818723
 }
