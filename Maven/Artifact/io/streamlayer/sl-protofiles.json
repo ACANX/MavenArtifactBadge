@@ -1,0 +1,17 @@
+{
+  "group_id": "io.streamlayer",
+  "artifact_id": "sl-protofiles",
+  "latest_version": "5.170.1",
+  "description": "StreamLayer Java Protofiles",
+  "id": "pkg:maven/io.streamlayer/sl-protofiles",
+  "ts": 1753276583000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753277178744
+}
