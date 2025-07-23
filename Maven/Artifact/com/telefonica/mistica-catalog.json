@@ -1,0 +1,15 @@
+{
+  "group_id": "com.telefonica",
+  "artifact_id": "mistica-catalog",
+  "latest_version": "20.0.1",
+  "description": "Mistica is a framework that contains reusable UI components and utilities.",
+  "id": "pkg:maven/com.telefonica/mistica-catalog",
+  "ts": 1753264805000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753265218718
+}

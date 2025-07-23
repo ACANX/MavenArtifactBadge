@@ -1,0 +1,15 @@
+{
+  "group_id": "cool.taomu.toolkit",
+  "artifact_id": "taomu-quartz",
+  "latest_version": "0.0.24",
+  "description": "This is a toolkit",
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-quartz",
+  "ts": 1753264337000,
+  "dependency_count": 0,
+  "ref_count": 23,
+  "categories": null,
+  "licenses": [
+    "The Mulan Public License，Version 2"
+  ],
+  "last_updated": 1753265218721
+}

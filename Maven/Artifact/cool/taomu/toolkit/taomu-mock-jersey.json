@@ -1,0 +1,15 @@
+{
+  "group_id": "cool.taomu.toolkit",
+  "artifact_id": "taomu-mock-jersey",
+  "latest_version": "0.0.23",
+  "description": "This is a toolkit",
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-mock-jersey",
+  "ts": 1753263627000,
+  "dependency_count": 1,
+  "ref_count": 29,
+  "categories": null,
+  "licenses": [
+    "The Mulan Public License，Version 2"
+  ],
+  "last_updated": 1753265221194
+}
