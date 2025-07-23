@@ -1,11 +1,11 @@
 {
   "group_id": "com.expediagroup",
   "artifact_id": "drone-fly-core",
-  "latest_version": "1.0.6",
+  "latest_version": "1.0.7",
   "description": "Parent POM for Expedia Group open source projects",
   "id": "pkg:maven/com.expediagroup/drone-fly-core",
-  "ts": 1753266153000,
-  "dependency_count": 0,
+  "ts": 1753268536000,
+  "dependency_count": 1,
   "ref_count": 43,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753266416917
+  "last_updated": 1753268818615
 }
