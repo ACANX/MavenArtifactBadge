@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "loaders-common_2.13",
+  "latest_version": "0.13.0",
+  "description": "loaders-common",
+  "id": "pkg:maven/com.snowplowanalytics/loaders-common_2.13",
+  "ts": 1753280389000,
+  "dependency_count": 0,
+  "ref_count": 67,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SCL"
+  ],
+  "last_updated": 1753281418846
+}

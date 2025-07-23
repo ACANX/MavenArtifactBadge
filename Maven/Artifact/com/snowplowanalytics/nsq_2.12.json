@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "nsq_2.12",
+  "latest_version": "0.13.0",
+  "description": "nsq",
+  "id": "pkg:maven/com.snowplowanalytics/nsq_2.12",
+  "ts": 1753280394000,
+  "dependency_count": 0,
+  "ref_count": 33,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SCL"
+  ],
+  "last_updated": 1753281418339
+}
