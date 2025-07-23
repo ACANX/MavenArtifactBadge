@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-androidlib-keytool_3",
-  "latest_version": "1.0.1-14-4693c8",
+  "latest_version": "1.0.1-17-ad8e66",
   "description": "mill-libs-androidlib-keytool",
   "id": "pkg:maven/com.lihaoyi/mill-libs-androidlib-keytool_3",
-  "ts": 1753268723000,
+  "ts": 1753282324000,
   "dependency_count": 0,
-  "ref_count": 49,
+  "ref_count": 15,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753269419039
+  "last_updated": 1753283219767
 }

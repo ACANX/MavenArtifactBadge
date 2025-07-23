@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "motion-dom",
+  "latest_version": "12.23.7",
+  "description": "motion-dom",
+  "id": "pkg:maven/org.mvnpm/motion-dom",
+  "ts": 1753282481000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753283218523
+}

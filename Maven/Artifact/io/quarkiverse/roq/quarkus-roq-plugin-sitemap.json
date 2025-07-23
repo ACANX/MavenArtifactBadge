@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkiverse.roq",
+  "artifact_id": "quarkus-roq-plugin-sitemap",
+  "latest_version": "1.7.0.CR1",
+  "description": "Generate static websites out of your Quarkus web application.",
+  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-sitemap",
+  "ts": 1753282575000,
+  "dependency_count": 1,
+  "ref_count": 100,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753283218109
+}

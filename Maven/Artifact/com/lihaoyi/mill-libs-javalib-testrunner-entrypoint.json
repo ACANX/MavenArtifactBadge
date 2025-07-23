@@ -1,11 +1,11 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-testrunner-entrypoint",
-  "latest_version": "1.0.1-14-4693c8",
+  "latest_version": "1.0.1-17-ad8e66",
   "description": "mill-libs-javalib-testrunner-entrypoint",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-testrunner-entrypoint",
-  "ts": 1753268764000,
-  "dependency_count": 28,
+  "ts": 1753282382000,
+  "dependency_count": 13,
   "ref_count": 1,
   "categories": [
     "Other"
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753269418633
+  "last_updated": 1753283219759
 }

@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-jarjarabrams-worker_3",
-  "latest_version": "1.0.1-14-4693c8",
+  "latest_version": "1.0.1-17-ad8e66",
   "description": "mill-libs-javalib-jarjarabrams-worker",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-jarjarabrams-worker_3",
-  "ts": 1753268752000,
+  "ts": 1753282367000,
   "dependency_count": 0,
-  "ref_count": 56,
+  "ref_count": 18,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753269418635
+  "last_updated": 1753283219761
 }

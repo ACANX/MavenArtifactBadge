@@ -1,11 +1,11 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-internal_3",
-  "latest_version": "1.0.1-14-4693c8",
+  "latest_version": "1.0.1-17-ad8e66",
   "description": "mill-core-internal",
   "id": "pkg:maven/com.lihaoyi/mill-core-internal_3",
-  "ts": 1753268697000,
-  "dependency_count": 11,
+  "ts": 1753282270000,
+  "dependency_count": 8,
   "ref_count": 33,
   "categories": [
     "Other"
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753269419040
+  "last_updated": 1753283220247
 }
