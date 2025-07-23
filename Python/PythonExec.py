@@ -138,6 +138,7 @@ def create_maven_artifact_json_file(data: dict):
         "dependency_count": data.get("dependency_count", 0),
         "ref_count": data.get("ref_count", 0),
         "categories": data.get("categories", []),
+        "licenses": data.get("licenses", []),
         "last_updated": int(time.time() * 1000)  # 添加当前时间戳作为最后更新时间
     }
     try:
@@ -193,6 +194,7 @@ def parse_component_data(component: Dict[str, Any]) -> Dict[str, Any]:
         "ref_count": component.get("dependentOnCount", 0),
         "description": component.get("description", ""),
         "id": component.get("id", ""),
+        "licenses": component.get("latestVersionInfo", {}).get("licenses", []),
         "categories": component.get("categories", [])
     }
 
