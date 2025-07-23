@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-flatdata-shared",
+  "latest_version": "4.91.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-shared",
+  "ts": 1753280049000,
+  "dependency_count": 2,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753280817224
+}

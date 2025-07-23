@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-hostedService-api",
+  "latest_version": "4.91.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-hostedService-api",
+  "ts": 1753280048000,
+  "dependency_count": 0,
+  "ref_count": 19,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753280821015
+}

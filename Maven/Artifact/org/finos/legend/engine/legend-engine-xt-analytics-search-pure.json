@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-analytics-search-pure",
+  "latest_version": "4.91.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-search-pure",
+  "ts": 1753280049000,
+  "dependency_count": 0,
+  "ref_count": 24,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753280816655
+}
