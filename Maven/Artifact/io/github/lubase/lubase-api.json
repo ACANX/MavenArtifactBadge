@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.lubase",
+  "artifact_id": "lubase-api",
+  "latest_version": "1.0.3",
+  "description": "lubase-api",
+  "id": "pkg:maven/io.github.lubase/lubase-api",
+  "ts": 1753252824000,
+  "dependency_count": 0,
+  "ref_count": 23,
+  "categories": null,
+  "licenses": [
+    "AGPL 3.0"
+  ],
+  "last_updated": 1753253218535
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "it.unibo.alchemist",
+  "artifact_id": "alchemist-graphql-js",
+  "latest_version": "42.2.7",
+  "description": "GraphQL API for Alchemist",
+  "id": "pkg:maven/it.unibo.alchemist/alchemist-graphql-js",
+  "ts": 1753252471000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Math and Science Calculation"
+  ],
+  "licenses": [
+    "GPL 3.0 with linking exception"
+  ],
+  "last_updated": 1753253220724
+}
