@@ -41,7 +41,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir.mkdir(parents=True, exist_ok=True)
     
     # 创建 SVG 文件内容 - 垂直布局
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180">
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="700" height="180" viewBox="0 0 700 180">
   <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#4a90e2"/>
     <stop offset="100%" stop-color="#9013fe"/>
@@ -49,15 +49,15 @@ def create_maven_artifact_badge_svg_file(data: dict):
   <rect width="100%" height="100%" rx="5" ry="5" fill="url(#grad)"/>
   <g transform="translate(15, 15)">
     <text x="0" y="10" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">GroupID:</text>
-    <text x="70" y="10" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">{group_id}</text>
+    <text x="110" y="10" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="460">{group_id}</text>
     <text x="0" y="30" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">ArtifactID:</text>
-    <text x="70" y="30" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">{artifact_id}</text>    
+    <text x="110" y="30" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="460">{artifact_id}</text>    
     <text x="0" y="50" font-family="Arial" font-size="18" fill="white" font-weight="bold">最新版本:</text>
-    <text x="70" y="50" font-family="Arial" font-size="18" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
+    <text x="110" y="50" font-family="Arial" font-size="18" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
     <text x="0" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold">依赖数: </text>
-    <text x="70" y="70" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
+    <text x="110" y="70" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
     <text x="0" y="95" font-family="Arial" font-size="18" fill="white" font-weight="bold">引用量: </text>  
-    <text x="70" y="95" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
+    <text x="110" y="95" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
     <text x="0" y="120" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
     <text x="10" y="140" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">{categories_text}</tspan></text>
     <ellipse  cx="400" cy="85" rx="70" ry="22"  fill="#ff4081"/>
