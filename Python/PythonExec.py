@@ -168,7 +168,7 @@ def fetch_maven_components_page(page: int) -> List[Dict[str, Any]]:
         "filter": []
     }
     
-    print(f"⏳ 正在获取第 {page} 页构件数据...")
+    print(f"⏳ 正在获取第 {page+1} 页构件数据...")
     try:
         response = requests.post(url, headers=headers, json=payload, timeout=30)
         response.raise_for_status()  # 检查 HTTP 错误
@@ -259,6 +259,7 @@ def generate_badges_for_components():
         
         # 继续下一页
         page += 1
+        print(" ")
     
     # 更新索引文件中的时间戳
     if new_last_ts is not None:
