@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-components-engine-command",
+  "latest_version": "12.2.0",
+  "description": null,
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-command",
+  "ts": 1753272414000,
+  "dependency_count": 1,
+  "ref_count": 48,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753273623065
+}

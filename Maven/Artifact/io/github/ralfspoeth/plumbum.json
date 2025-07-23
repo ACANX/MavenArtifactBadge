@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.ralfspoeth",
+  "artifact_id": "plumbum",
+  "latest_version": "1.4.8",
+  "description": "Basis for publishing artefacts",
+  "id": "pkg:maven/io.github.ralfspoeth/plumbum",
+  "ts": 1753273015000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753273621818
+}

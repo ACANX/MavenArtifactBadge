@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-odata-samples-northwind",
+  "latest_version": "12.2.0",
+  "description": null,
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-odata-samples-northwind",
+  "ts": 1753272414000,
+  "dependency_count": 0,
+  "ref_count": 31,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753273628975
+}

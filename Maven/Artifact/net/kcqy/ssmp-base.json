@@ -1,15 +1,15 @@
 {
   "group_id": "net.kcqy",
   "artifact_id": "ssmp-base",
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.9",
   "description": "KCQYGenericSupport",
   "id": "pkg:maven/net.kcqy/ssmp-base",
-  "ts": 1753271790000,
+  "ts": 1753272570000,
   "dependency_count": 0,
   "ref_count": 103,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753272416043
+  "last_updated": 1753273621821
 }
