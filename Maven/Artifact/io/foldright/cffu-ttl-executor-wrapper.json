@@ -1,0 +1,15 @@
+{
+  "group_id": "io.foldright",
+  "artifact_id": "cffu-ttl-executor-wrapper",
+  "latest_version": "1.1.6",
+  "description": "cffu executor wrapper provider for TTL",
+  "id": "pkg:maven/io.foldright/cffu-ttl-executor-wrapper",
+  "ts": 1753298577000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "Apache 2"
+  ],
+  "last_updated": 1753298819366
+}

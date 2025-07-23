@@ -1,0 +1,19 @@
+{
+  "group_id": "com.arangodb",
+  "artifact_id": "arangodb-java-driver-shaded",
+  "latest_version": "7.21.0",
+  "description": "ArangoDB Java Driver Shaded",
+  "id": "pkg:maven/com.arangodb/arangodb-java-driver-shaded",
+  "ts": 1753297835000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753298819370
+}
