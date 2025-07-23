@@ -8,7 +8,7 @@ from typing import Dict, Any, List, Optional
 # 获取索引文件路径
 def get_index_file() -> pathlib.Path:
     current_file = pathlib.Path(__file__).resolve()
-    return current_file.parent.parent / "Maven" / "Artifact" / "index.json"
+    return current_file.parent.parent / "Maven" / "Artifact" / "_index.json"
 
 # 读取索引文件中的时间戳
 def read_last_timestamp() -> int:
