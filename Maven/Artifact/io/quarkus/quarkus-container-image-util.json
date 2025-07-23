@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-container-image-util",
+  "latest_version": "3.25.0",
+  "description": "Utility classes common to the container image extensions",
+  "id": "pkg:maven/io.quarkus/quarkus-container-image-util",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264623169
+}
