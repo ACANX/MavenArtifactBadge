@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.beardedmanzhao",
+  "artifact_id": "zhao-utils",
+  "latest_version": "1.2.20250723",
+  "description": "zhao-utils-java",
+  "id": "pkg:maven/io.github.beardedmanzhao/zhao-utils",
+  "ts": 1753240949000,
+  "dependency_count": 0,
+  "ref_count": 68,
+  "categories": null,
+  "last_updated": 1753242857921
+}

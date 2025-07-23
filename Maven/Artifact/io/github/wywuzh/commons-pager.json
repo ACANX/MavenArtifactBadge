@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.wywuzh",
+  "artifact_id": "commons-pager",
+  "latest_version": "3.3.12.RELEASE",
+  "description": "分页组件",
+  "id": "pkg:maven/io.github.wywuzh/commons-pager",
+  "ts": 1753240662000,
+  "dependency_count": 5,
+  "ref_count": 19,
+  "categories": null,
+  "last_updated": 1753242858481
+}

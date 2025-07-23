@@ -1,0 +1,12 @@
+{
+  "group_id": "com.ooimi.library",
+  "artifact_id": "result-api",
+  "latest_version": "1.2.8",
+  "description": "这是基础依赖库的ResultApi模块",
+  "id": "pkg:maven/com.ooimi.library/result-api",
+  "ts": 1753241435000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "last_updated": 1753242857919
+}

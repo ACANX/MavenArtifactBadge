@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.xpointtech",
+  "artifact_id": "ktor-client-winhttp",
+  "latest_version": "3.2.0",
+  "description": "Ktor is a framework for quickly creating web applications in Kotlin with minimal effort.",
+  "id": "pkg:maven/io.github.xpointtech/ktor-client-winhttp",
+  "ts": 1753242586000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "last_updated": 1753242857918
+}
