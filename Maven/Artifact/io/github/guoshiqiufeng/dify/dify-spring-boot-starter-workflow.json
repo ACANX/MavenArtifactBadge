@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.guoshiqiufeng.dify",
+  "artifact_id": "dify-spring-boot-starter-workflow",
+  "latest_version": "1.1.2",
+  "description": "Provide springboot starter for dify to simplify development",
+  "id": "pkg:maven/io.github.guoshiqiufeng.dify/dify-spring-boot-starter-workflow",
+  "ts": 1753261804000,
+  "dependency_count": 0,
+  "ref_count": 38,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753262817209
+}

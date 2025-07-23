@@ -1,0 +1,17 @@
+{
+  "group_id": "io.nearpay",
+  "artifact_id": "nearpay-sdk-shared-internal",
+  "latest_version": "2.1.93",
+  "description": "A concise description of my library",
+  "id": "pkg:maven/io.nearpay/nearpay-sdk-shared-internal",
+  "ts": 1753262007000,
+  "dependency_count": 2,
+  "ref_count": 44,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753262816583
+}
