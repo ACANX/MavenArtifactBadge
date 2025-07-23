@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite",
   "artifact_id": "rewrite-groovy",
-  "latest_version": "8.59.0",
+  "latest_version": "8.59.1",
   "description": "Eliminate tech-debt. Automatically.",
   "id": "pkg:maven/org.openrewrite/rewrite-groovy",
-  "ts": 1753265841000,
+  "ts": 1753305212000,
   "dependency_count": 2,
   "ref_count": 15,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753266417567
+  "last_updated": 1753305872598
 }
