@@ -1,0 +1,17 @@
+{
+  "group_id": "org.openrewrite",
+  "artifact_id": "rewrite-xml",
+  "latest_version": "8.59.0",
+  "description": "Eliminate tech-debt. Automatically.",
+  "id": "pkg:maven/org.openrewrite/rewrite-xml",
+  "ts": 1753265841000,
+  "dependency_count": 3,
+  "ref_count": 13,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753266417568
+}
