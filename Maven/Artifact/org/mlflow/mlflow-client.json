@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mlflow",
+  "artifact_id": "mlflow-client",
+  "latest_version": "3.1.4",
+  "description": "Open source platform for the machine learning lifecycle",
+  "id": "pkg:maven/org.mlflow/mlflow-client",
+  "ts": 1753248265000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753249018059
+}

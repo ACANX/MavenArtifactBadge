@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.wywuzh",
+  "artifact_id": "commons-core",
+  "latest_version": "3.3.12.RELEASE",
+  "description": "项目公共组件类库",
+  "id": "pkg:maven/io.github.wywuzh/commons-core",
+  "ts": 1753240662000,
+  "dependency_count": 7,
+  "ref_count": 137,
+  "categories": null,
+  "last_updated": 1753242858484
+}

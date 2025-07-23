@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.wywuzh",
+  "artifact_id": "commons-dbutils",
+  "latest_version": "3.3.12.RELEASE",
+  "description": "基于Apache commons-dbutils进行二次封装处理的JDBC工具类库",
+  "id": "pkg:maven/io.github.wywuzh/commons-dbutils",
+  "ts": 1753240662000,
+  "dependency_count": 0,
+  "ref_count": 119,
+  "categories": null,
+  "last_updated": 1753242858479
+}

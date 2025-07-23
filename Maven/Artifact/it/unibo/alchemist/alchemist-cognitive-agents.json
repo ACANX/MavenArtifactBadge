@@ -1,0 +1,17 @@
+{
+  "group_id": "it.unibo.alchemist",
+  "artifact_id": "alchemist-cognitive-agents",
+  "latest_version": "42.2.7",
+  "description": "Abstraction for group of pedestrians capable of influence each other emotionally.",
+  "id": "pkg:maven/it.unibo.alchemist/alchemist-cognitive-agents",
+  "ts": 1753252463000,
+  "dependency_count": 2,
+  "ref_count": 15,
+  "categories": [
+    "Math and Science Calculation"
+  ],
+  "licenses": [
+    "GPL 3.0 with linking exception"
+  ],
+  "last_updated": 1753253220726
+}

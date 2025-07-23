@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.robert-hanuschke",
+  "artifact_id": "cdk-aws-grafana",
+  "latest_version": "0.0.61",
+  "description": "AWS CDK Construct Library for Grafana",
+  "id": "pkg:maven/io.github.robert-hanuschke/cdk-aws-grafana",
+  "ts": 1753240574000,
+  "dependency_count": 0,
+  "ref_count": 18,
+  "categories": null,
+  "last_updated": 1753242858903
+}

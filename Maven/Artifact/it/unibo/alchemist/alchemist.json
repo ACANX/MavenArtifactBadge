@@ -1,0 +1,17 @@
+{
+  "group_id": "it.unibo.alchemist",
+  "artifact_id": "alchemist",
+  "latest_version": "42.2.7",
+  "description": "A simulator for pervasive, aggregate, and nature-inspired computing",
+  "id": "pkg:maven/it.unibo.alchemist/alchemist",
+  "ts": 1753252465000,
+  "dependency_count": 6,
+  "ref_count": 17,
+  "categories": [
+    "Math and Science Calculation"
+  ],
+  "licenses": [
+    "GPL 3.0 with linking exception"
+  ],
+  "last_updated": 1753253220725
+}

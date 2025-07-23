@@ -1,0 +1,12 @@
+{
+  "group_id": "io.github.zhangwenxue",
+  "artifact_id": "homecarevod-core-api",
+  "latest_version": "0.0.2",
+  "description": "HomeCareVod Core Api",
+  "id": "pkg:maven/io.github.zhangwenxue/homecarevod-core-api",
+  "ts": 1753242033000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "last_updated": 1753242857918
+}
