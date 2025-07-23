@@ -41,88 +41,35 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir.mkdir(parents=True, exist_ok=True)
     
     # 创建 SVG 文件内容 - 垂直布局
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180">
-  <!-- 背景渐变 -->
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
   <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#4a90e2"/>
     <stop offset="100%" stop-color="#9013fe"/>
   </linearGradient>
-  <!-- 背景矩形 -->
   <rect width="100%" height="100%" rx="5" ry="5" fill="url(#grad)"/>
-  <!-- 主体内容：垂直布局 -->
   <g transform="translate(15, 15)">
-    <!-- Group ID -->
-    <text x="0" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">GroupID:</text>
-    <text x="80" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">{group_id}</text>
-    <!-- Artifact ID -->
-    <text x="0" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">ArtifactID:</text>
-    <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">{artifact_id}</text>    
-    <!-- 版本信息 -->
-    <text x="0" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold">最新版本:</text>
-    <text x="80" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
-    <!-- 统计信息 -->
-    <text x="0" y="70" font-family="Arial" font-size="12" fill="white">依赖数: </text>
-    <text x="80" y="70" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
-    <text x="0" y="95" font-family="Arial" font-size="12" fill="white">引用量: </text>  
-    <text x="80" y="95" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
-    <!-- 分类信息 -->
-    <text x="0" y="120" font-family="Arial" font-size="12" fill="white">分类:</text>
-    <text x="10" y="140" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">{categories_text}</tspan></text>
-    <!-- Maven 标识 -->
-    <ellipse  cx="400" cy="85" rx="70" ry="22"  fill="#ff4081"/>
-    <text x="400" y="87" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
+    <text x="0" y="10" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">GroupID:</text>
+    <text x="110" y="10" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="460">{group_id}</text>
+    <text x="0" y="40" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="260">ArtifactID:</text>
+    <text x="110" y="40" font-family="Arial" font-size="18" fill="white" font-weight="bold" width="460">{artifact_id}</text>    
+    <text x="0" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold">最新版本:</text>
+    <text x="110" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
+    <text x="0" y="100" font-family="Arial" font-size="18" fill="white" font-weight="bold">依赖数: </text>
+    <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
+    <text x="0" y="130" font-family="Arial" font-size="18" fill="white" font-weight="bold">引用量: </text>  
+    <text x="110" y="130" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
+    <text x="0" y="160" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
+    <text x="10" y="190" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">{categories_text}</tspan></text>
+    <ellipse  cx="600" cy="120" rx="140" ry="60"  fill="#ff4081"/>
+    <text x="600" y="120" text-anchor="middle" font-family="Arial" font-size="24" fill="white" font-weight="bold">MavenArtifactBadge</text>
   </g>
-  <!-- 底部信息 -->
-  <text x="420" y="145" font-family="Arial" font-size="3" fill="#d0d0d0">
-    由MavenArtifactBadgeGenerator生成
-  </text>
+  <text x="720" y="225" font-family="Arial" font-size="3" fill="#d0d0d0">由MavenArtifactBadgeGenerator生成</text>
 </svg>"""
     
     # 写入文件
     with open(target_file, "w", encoding="utf-8") as f:
         f.write(svg_content)
     print(f"✅ 徽章文件已创建: {target_file}")
-    return target_file
-
-
-def create_badge_file(group_id, artifact_id):
-    # 获取当前 Python 文件 (py3.py) 的绝对路径
-    current_file = pathlib.Path(__file__).resolve()
-    
-    # 构建目标路径: ../Maven/Badge/groupId/artifactId.svg
-    target_dir = (
-        current_file.parent              # py3.py 所在目录
-        .parent                          # 上一级目录 (../)
-        / "Maven"                        # 进入 Maven 目录
-        / "Badge"                        # 进入 Badge 目录
-        / group_id.replace(".", "/")     # 将 groupId 的点替换为路径分隔符
-    )
-    target_file = target_dir / f"{artifact_id}.svg"
-    
-    # 创建目录（如果不存在）
-    target_dir.mkdir(parents=True, exist_ok=True)
-    
-    # 创建 SVG 文件内容
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="250" height="50" viewBox="0 0 250 50">
-  <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
-    <stop offset="0%" stop-color="#4a90e2"/>
-    <stop offset="100%" stop-color="#9013fe"/>
-  </linearGradient>
-  <rect width="100%" height="100%" rx="5" ry="5" fill="url(#grad)"/>
-  <text x="10" y="20" font-family="Arial" font-size="12" fill="white">
-    {group_id}
-  </text>
-  <text x="10" y="35" font-family="Arial" font-size="12" fill="white" font-weight="bold">
-    {artifact_id}
-  </text>
-  <circle cx="230" cy="25" r="10" fill="#ff4081"/>
-  <text x="230" y="28" text-anchor="middle" font-family="Arial" font-size="10" fill="white">M</text>
-</svg>"""
-    
-    # 写入文件
-    with open(target_file, "w") as f:
-        f.write(svg_content)
-    print(f"文件已创建: {target_file}")
     return target_file
 
 

@@ -51,11 +51,11 @@ jobs:
           git add .
           # 检查是否有文件需要提交
           if git diff-index --quiet HEAD --; then
-            echo "::set-output name=has_changes::false"
+            echo "has_changes=false" >> $GITHUB_OUTPUT  # 改用环境文件设置输出
             echo "No changes to commit"
           else
-            git commit -m "action:$TIMESTAMP"
-            echo "::set-output name=has_changes::true"
+            git commit -m "Action:$TIMESTAMP"
+            echo "has_changes=true" >> $GITHUB_OUTPUT   # 改用环境文件设置输出
           fi
 
       - name: PullLatestChanges
