@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eolang",
+  "artifact_id": "hone-maven-plugin",
+  "latest_version": "0.5.0",
+  "description": "Optimisation of Java Bytecode via EOLANG",
+  "id": "pkg:maven/org.eolang/hone-maven-plugin",
+  "ts": 1753245451000,
+  "dependency_count": 0,
+  "ref_count": 45,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753246015370
+}
