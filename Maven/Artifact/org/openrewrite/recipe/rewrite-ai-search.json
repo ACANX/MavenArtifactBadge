@@ -1,0 +1,17 @@
+{
+  "group_id": "org.openrewrite.recipe",
+  "artifact_id": "rewrite-ai-search",
+  "latest_version": "0.29.0",
+  "description": "Rewrite AI search.",
+  "id": "pkg:maven/org.openrewrite.recipe/rewrite-ai-search",
+  "ts": 1753266607000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Moderne Proprietary License"
+  ],
+  "last_updated": 1753267392849
+}
