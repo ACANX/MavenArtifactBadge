@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "zudoku",
+  "latest_version": "0.55.2",
+  "description": "Framework for building high quality, interactive API documentation.",
+  "id": "pkg:maven/org.mvnpm/zudoku",
+  "ts": 1753302873000,
+  "dependency_count": 0,
+  "ref_count": 500,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "none"
+  ],
+  "last_updated": 1753303615126
+}
