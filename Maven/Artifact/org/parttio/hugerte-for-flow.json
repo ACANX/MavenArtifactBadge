@@ -1,0 +1,17 @@
+{
+  "group_id": "org.parttio",
+  "artifact_id": "hugerte-for-flow",
+  "latest_version": "1.0.1",
+  "description": "Integration of HugeRTE for Vaadin Flow",
+  "id": "pkg:maven/org.parttio/hugerte-for-flow",
+  "ts": 1753258493000,
+  "dependency_count": 0,
+  "ref_count": 136,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache 2"
+  ],
+  "last_updated": 1753259214969
+}
