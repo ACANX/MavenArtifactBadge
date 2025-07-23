@@ -1,15 +1,15 @@
 {
   "group_id": "net.osgiliath.datamigrator",
   "artifact_id": "data-migrator-bom",
-  "latest_version": "1.103",
+  "latest_version": "1.104",
   "description": "Parent pom providing dependency and plugin management for applications built with Maven",
   "id": "pkg:maven/net.osgiliath.datamigrator/data-migrator-bom",
-  "ts": 1753265740000,
+  "ts": 1753298888000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "Apache Licence 2.0"
   ],
-  "last_updated": 1753266417571
+  "last_updated": 1753299418260
 }
