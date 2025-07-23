@@ -1,0 +1,17 @@
+{
+  "group_id": "com.infobip",
+  "artifact_id": "infobip-rtc-ui",
+  "latest_version": "14.1.0",
+  "description": "Mobile Messaging SDK for Android",
+  "id": "pkg:maven/com.infobip/infobip-rtc-ui",
+  "ts": 1753284881000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Data Transport"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753285618307
+}

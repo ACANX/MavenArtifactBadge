@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.sergeyboboshko",
+  "artifact_id": "composeentity_ksp",
+  "latest_version": "1.0.28",
+  "description": "A Kotlin Symbol Processing (KSP) plugin for ComposeEntity",
+  "id": "pkg:maven/io.github.sergeyboboshko/composeentity_ksp",
+  "ts": 1753285061000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753285618304
+}

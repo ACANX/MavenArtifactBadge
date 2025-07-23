@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.azure",
+  "artifact_id": "msal-browser",
+  "latest_version": "4.16.0",
+  "description": "Microsoft Authentication Library for js",
+  "id": "pkg:maven/org.mvnpm.at.azure/msal-browser",
+  "ts": 1753284783000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753285618950
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.infobip",
+  "artifact_id": "infobip-mobile-messaging-android-resources",
+  "latest_version": "14.1.0",
+  "description": "Mobile Messaging SDK for Android",
+  "id": "pkg:maven/com.infobip/infobip-mobile-messaging-android-resources",
+  "ts": 1753284881000,
+  "dependency_count": 3,
+  "ref_count": 2,
+  "categories": [
+    "Data Transport"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753285618308
+}
