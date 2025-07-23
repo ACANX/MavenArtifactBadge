@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-micrometer",
-  "latest_version": "0.23.1",
+  "latest_version": "0.23.2",
   "description": "Micrometer Migration",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-micrometer",
-  "ts": 1753267642000,
+  "ts": 1753307144000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Source Available License"
   ],
-  "last_updated": 1753268200324
+  "last_updated": 1753307820499
 }
