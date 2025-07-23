@@ -1,9 +1,9 @@
 {
   "group_id": "com.pushwoosh",
-  "artifact_id": "pushwoosh-firebase",
+  "artifact_id": "pushwoosh-badge",
   "latest_version": "6.7.29",
-  "description": "Pushwoosh Firebase",
-  "id": "pkg:maven/com.pushwoosh/pushwoosh-firebase",
+  "description": "Pushwoosh Badge",
+  "id": "pkg:maven/com.pushwoosh/pushwoosh-badge",
   "ts": 1753276717000,
   "dependency_count": 0,
   "ref_count": 37,
@@ -11,5 +11,5 @@
   "licenses": [
     "Pushwoosh License"
   ],
-  "last_updated": 1753277822158
+  "last_updated": 1753277822157
 }
