@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.erosb",
+  "artifact_id": "kappa-vertx-adapter",
+  "latest_version": "2.0.0-RC16",
+  "description": "Kappa adapter for working with Vert.x",
+  "id": "pkg:maven/com.github.erosb/kappa-vertx-adapter",
+  "ts": 1753290941000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753291426842
+}
