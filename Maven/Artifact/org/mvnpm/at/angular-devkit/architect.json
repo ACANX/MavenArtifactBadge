@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.angular-devkit",
+  "artifact_id": "architect",
+  "latest_version": "0.2001.2",
+  "description": "Angular Build Facade",
+  "id": "pkg:maven/org.mvnpm.at.angular-devkit/architect",
+  "ts": 1753302063000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753302419818
+}
