@@ -1,0 +1,20 @@
+{
+  "group_id": "org.restheart",
+  "artifact_id": "restheart-parent",
+  "latest_version": "8.6.0",
+  "description": "RESTHeart - Low code platform for cloud-native HTTP microservices.",
+  "id": "pkg:maven/org.restheart/restheart-parent",
+  "ts": 1753261107000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Protocols",
+    "Servers"
+  ],
+  "licenses": [
+    "Apache License version 2.0",
+    "RESTHeart COMMERCIAL LICENSE",
+    "GNU Affero General Public License (AGPL) version 3.0"
+  ],
+  "last_updated": 1753261617384
+}
