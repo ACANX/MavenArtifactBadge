@@ -1,15 +1,15 @@
 {
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-service-centre",
-  "latest_version": "0.0.23",
+  "latest_version": "0.0.25",
   "description": "This is a toolkit",
   "id": "pkg:maven/cool.taomu.toolkit/taomu-service-centre",
-  "ts": 1753263748000,
+  "ts": 1753267094000,
   "dependency_count": 0,
   "ref_count": 35,
   "categories": null,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753265220586
+  "last_updated": 1753267617149
 }
