@@ -1,0 +1,15 @@
+{
+  "group_id": "com.stytch.sdk",
+  "artifact_id": "sdk",
+  "latest_version": "0.55.0",
+  "description": "Stytch Android SDK",
+  "id": "pkg:maven/com.stytch.sdk/sdk",
+  "ts": 1753294291000,
+  "dependency_count": 0,
+  "ref_count": 38,
+  "categories": null,
+  "licenses": [
+    "Stytch License"
+  ],
+  "last_updated": 1753294617847
+}
