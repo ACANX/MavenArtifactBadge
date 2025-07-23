@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-logging-frameworks",
-  "latest_version": "3.12.0",
+  "latest_version": "3.12.1",
   "description": "Enforce logging best practices and migrate between logging frameworks. Automatically.",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-logging-frameworks",
-  "ts": 1753268767000,
+  "ts": 1753308126000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Source Available License"
   ],
-  "last_updated": 1753269418632
+  "last_updated": 1753308421678
 }
