@@ -1,0 +1,17 @@
+{
+  "group_id": "com.redis",
+  "artifact_id": "redis-flink-connector",
+  "latest_version": "0.0.11-2.0",
+  "description": "Redis Flink Connector",
+  "id": "pkg:maven/com.redis/redis-flink-connector",
+  "ts": 1753278498000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSL-1.1"
+  ],
+  "last_updated": 1753279620231
+}

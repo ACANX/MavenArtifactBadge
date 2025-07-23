@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkiverse.docling",
+  "artifact_id": "quarkus-docling-deployment",
+  "latest_version": "0.0.3",
+  "description": "Parent POM for Quarkiverse projects that includes the default release and artifact publishing related\n    configuration",
+  "id": "pkg:maven/io.quarkiverse.docling/quarkus-docling-deployment",
+  "ts": 1753279157000,
+  "dependency_count": 0,
+  "ref_count": 265,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753279617422
+}
