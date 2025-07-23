@@ -1,0 +1,19 @@
+{
+  "group_id": "org.hibernate",
+  "artifact_id": "hibernate-jpamodelgen",
+  "latest_version": "7.0.7.Final",
+  "description": "The `hibernate-jpamodelgen` module has been renamed `hibernate-processor` and moved to the `org.hibernate.orm` group-id",
+  "id": "pkg:maven/org.hibernate/hibernate-jpamodelgen",
+  "ts": 1753254853000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Management",
+    "Database Access",
+    "ORM Framework"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753255259549
+}
