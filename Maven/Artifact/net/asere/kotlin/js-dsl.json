@@ -1,0 +1,15 @@
+{
+  "group_id": "net.asere.kotlin",
+  "artifact_id": "js-dsl",
+  "latest_version": "0.0.3",
+  "description": "Kotlin Js Dsl integration for Kotlin Html Dsl",
+  "id": "pkg:maven/net.asere.kotlin/js-dsl",
+  "ts": 1753292603000,
+  "dependency_count": 1,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753293306358
+}
