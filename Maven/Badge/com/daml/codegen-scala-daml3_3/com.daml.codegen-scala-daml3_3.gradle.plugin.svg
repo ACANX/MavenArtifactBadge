@@ -10,21 +10,21 @@
   <g transform="translate(15, 15)">
     <!-- Group ID -->
     <text x="0" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">GroupID:</text>
-    <text x="80" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">com.daml</text>
+    <text x="80" y="10" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">com.daml.codegen-scala-daml3_3</text>
     <!-- Artifact ID -->
     <text x="0" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">ArtifactID:</text>
-    <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">transcode-codegen-scala-runtime_3</text>    
+    <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">com.daml.codegen-scala-daml3_3.gradle.plugin</text>    
     <!-- 版本信息 -->
     <text x="0" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold">最新版本:</text>
     <text x="80" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold"><tspan font-weight="bold">0.0.1-main.20250723.103.644.vfc331a2</tspan></text>
     <!-- 统计信息 -->
     <text x="0" y="70" font-family="Arial" font-size="12" fill="white">依赖数: </text>
-    <text x="80" y="70" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">3</tspan></text>
+    <text x="80" y="70" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">0</tspan></text>
     <text x="0" y="95" font-family="Arial" font-size="12" fill="white">引用量: </text>  
-    <text x="80" y="95" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">3</tspan></text>  
+    <text x="80" y="95" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">64</tspan></text>  
     <!-- 分类信息 -->
     <text x="0" y="120" font-family="Arial" font-size="12" fill="white">分类:</text>
-    <text x="10" y="140" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">Uncategorized</tspan></text>
+    <text x="10" y="140" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold"></tspan></text>
     <!-- Maven 标识 -->
     <ellipse  cx="400" cy="85" rx="70" ry="22"  fill="#ff4081"/>
     <text x="400" y="87" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
