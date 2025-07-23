@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.vml.es",
+  "artifact_id": "acm.ui.frontend",
+  "latest_version": "0.9.19",
+  "description": "UI Frontend for AEM Content Manager",
+  "id": "pkg:maven/dev.vml.es/acm.ui.frontend",
+  "ts": 1753251527000,
+  "dependency_count": 4,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753251969599
+}
