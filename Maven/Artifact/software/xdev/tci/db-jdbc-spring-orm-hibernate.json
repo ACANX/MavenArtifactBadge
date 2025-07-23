@@ -1,0 +1,15 @@
+{
+  "group_id": "software.xdev.tci",
+  "artifact_id": "db-jdbc-spring-orm-hibernate",
+  "latest_version": "2.3.0",
+  "description": "TCI - db-jdbc-spring-orm-hibernate",
+  "id": "pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate",
+  "ts": 1753270249000,
+  "dependency_count": 0,
+  "ref_count": 31,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753270616506
+}

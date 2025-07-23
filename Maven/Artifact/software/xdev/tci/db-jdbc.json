@@ -1,0 +1,15 @@
+{
+  "group_id": "software.xdev.tci",
+  "artifact_id": "db-jdbc",
+  "latest_version": "2.3.0",
+  "description": "TCI - db-jdbc",
+  "id": "pkg:maven/software.xdev.tci/db-jdbc",
+  "ts": 1753270249000,
+  "dependency_count": 3,
+  "ref_count": 23,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753270616503
+}

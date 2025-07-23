@@ -1,0 +1,15 @@
+{
+  "group_id": "software.xdev.tci",
+  "artifact_id": "base",
+  "latest_version": "2.3.0",
+  "description": "TCI - base",
+  "id": "pkg:maven/software.xdev.tci/base",
+  "ts": 1753270249000,
+  "dependency_count": 7,
+  "ref_count": 19,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753270616506
+}
