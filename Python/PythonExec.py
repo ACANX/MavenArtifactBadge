@@ -41,7 +41,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir.mkdir(parents=True, exist_ok=True)
     
     # 创建 SVG 文件内容 - 垂直布局
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="700" height="240" viewBox="0 0 700 240">
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="800" height="240" viewBox="0 0 800 240">
   <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#4a90e2"/>
     <stop offset="100%" stop-color="#9013fe"/>
@@ -60,10 +60,10 @@ def create_maven_artifact_badge_svg_file(data: dict):
     <text x="110" y="130" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
     <text x="0" y="150" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
     <text x="10" y="180" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">{categories_text}</tspan></text>
-    <ellipse  cx="550" cy="105" rx="70" ry="22"  fill="#ff4081"/>
-    <text x="550" y="107" text-anchor="middle" font-family="Arial" font-size="10" fill="white" font-weight="bold">MavenArtifactBadge</text>
+    <ellipse  cx="600" cy="105" rx="140" ry="60"  fill="#ff4081"/>
+    <text x="600" y="107" text-anchor="middle" font-family="Arial" font-size="20" fill="white" font-weight="bold">MavenArtifactBadge</text>
   </g>
-  <text x="620" y="185" font-family="Arial" font-size="3" fill="#d0d0d0">由MavenArtifactBadgeGenerator生成</text>
+  <text x="720" y="225" font-family="Arial" font-size="3" fill="#d0d0d0">由MavenArtifactBadgeGenerator生成</text>
 </svg>"""
     
     # 写入文件
