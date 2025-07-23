@@ -1,0 +1,17 @@
+{
+  "group_id": "it.cnr.si.cool.jconon",
+  "artifact_id": "cool-jconon-keycloak",
+  "latest_version": "5.9.4",
+  "description": "Archetype for push artifact to Maven repository",
+  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-keycloak",
+  "ts": 1753283022000,
+  "dependency_count": 2,
+  "ref_count": 287,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "GNU AFFERO GENERAL PUBLIC LICENSE"
+  ],
+  "last_updated": 1753283829253
+}

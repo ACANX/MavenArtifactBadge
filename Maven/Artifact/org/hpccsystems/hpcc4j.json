@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hpccsystems",
+  "artifact_id": "hpcc4j",
+  "latest_version": "9.14.4-1",
+  "description": "hpccsystems parent pom",
+  "id": "pkg:maven/org.hpccsystems/hpcc4j",
+  "ts": 1753282823000,
+  "dependency_count": 0,
+  "ref_count": 98,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753283829673
+}

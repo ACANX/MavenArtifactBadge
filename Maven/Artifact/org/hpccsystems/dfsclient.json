@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hpccsystems",
+  "artifact_id": "dfsclient",
+  "latest_version": "9.14.4-1",
+  "description": "Client interface into HPCC Systems' Distributed File System.",
+  "id": "pkg:maven/org.hpccsystems/dfsclient",
+  "ts": 1753282823000,
+  "dependency_count": 1,
+  "ref_count": 125,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753283829673
+}
