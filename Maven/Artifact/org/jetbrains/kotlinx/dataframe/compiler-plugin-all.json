@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlinx.dataframe",
+  "artifact_id": "compiler-plugin-all",
+  "latest_version": "1.0.0-dev-7817",
+  "description": "Data processing in Kotlin",
+  "id": "pkg:maven/org.jetbrains.kotlinx.dataframe/compiler-plugin-all",
+  "ts": 1753272118000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753273020449
+}

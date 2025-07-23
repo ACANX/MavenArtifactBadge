@@ -1,0 +1,17 @@
+{
+  "group_id": "com.palantir.baseline",
+  "artifact_id": "baseline-error-prone",
+  "latest_version": "6.48.0",
+  "description": "A Gradle plugin for applying Baseline-recommended build and IDE settings",
+  "id": "pkg:maven/com.palantir.baseline/baseline-error-prone",
+  "ts": 1753272140000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753273020446
+}

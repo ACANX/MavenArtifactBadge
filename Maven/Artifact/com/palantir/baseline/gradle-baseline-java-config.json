@@ -1,0 +1,17 @@
+{
+  "group_id": "com.palantir.baseline",
+  "artifact_id": "gradle-baseline-java-config",
+  "latest_version": "6.48.0",
+  "description": "Baseline configuration files for the Baseline Gradle plugin",
+  "id": "pkg:maven/com.palantir.baseline/gradle-baseline-java-config",
+  "ts": 1753272140000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753273020447
+}
