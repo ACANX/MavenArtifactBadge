@@ -41,7 +41,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir.mkdir(parents=True, exist_ok=True)
     
     # 创建 SVG 文件内容 - 垂直布局
-    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="160" viewBox="0 0 500 160">
+    svg_content = f"""<svg xmlns="http://www.w3.org/2000/svg" width="500" height="180" viewBox="0 0 500 180">
   <!-- 背景渐变 -->
   <linearGradient id="grad" x1="0%" y1="0%" x2="100%" y2="0%">
     <stop offset="0%" stop-color="#4a90e2"/>
@@ -58,19 +58,16 @@ def create_maven_artifact_badge_svg_file(data: dict):
     <text x="0" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">ArtifactID:</text>
     <text x="80" y="30" font-family="Arial" font-size="12" fill="white" font-weight="bold" width="260">{artifact_id}</text>    
     <!-- 版本信息 -->
-    <text x="0" y="50" font-family="Arial" font-size="11" fill="white" font-weight="bold">最新版本:</text>
-    <text x="80" y="50" font-family="Arial" font-size="11" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
+    <text x="0" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold">最新版本:</text>
+    <text x="80" y="50" font-family="Arial" font-size="12" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
     <!-- 统计信息 -->
-    <text x="0" y="70" font-family="Arial" font-size="11" fill="white">
-      依赖数: <tspan font-weight="bold">{dependency_count}</tspan>
-    </text>
-    <text x="0" y="85" font-family="Arial" font-size="11" fill="white">
-      引用量: <tspan font-weight="bold">{ref_count}</tspan>
-    </text>  
+    <text x="0" y="70" font-family="Arial" font-size="12" fill="white">依赖数: </text>
+    <text x="80" y="70" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
+    <text x="0" y="95" font-family="Arial" font-size="12" fill="white">引用量: </text>  
+    <text x="80" y="95" font-family="Arial" font-size="12" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
     <!-- 分类信息 -->
-    <text x="0" y="105" font-family="Arial" font-size="11" fill="white">
-      分类: <tspan font-weight="bold">{categories_text}</tspan>
-    </text>
+    <text x="0" y="120" font-family="Arial" font-size="12" fill="white">分类:</text>
+    <text x="10" y="140" font-family="Arial" font-size="10" fill="white"><tspan font-weight="bold">{categories_text}</tspan></text>
     <!-- Maven 标识 -->
     <ellipse  cx="400" cy="85" rx="70" ry="22"  fill="#ff4081"/>
     <text x="400" y="87" text-anchor="middle" font-family="Arial" font-size="12" fill="white" font-weight="bold">MavenArtifactBadge</text>
