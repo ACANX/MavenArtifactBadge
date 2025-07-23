@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.angular",
+  "artifact_id": "cli",
+  "latest_version": "20.1.2",
+  "description": "CLI tool for Angular",
+  "id": "pkg:maven/org.mvnpm.at.angular/cli",
+  "ts": 1753302629000,
+  "dependency_count": 0,
+  "ref_count": 138,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753303017675
+}
