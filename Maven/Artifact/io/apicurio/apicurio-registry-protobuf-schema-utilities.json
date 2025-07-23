@@ -1,0 +1,17 @@
+{
+  "group_id": "io.apicurio",
+  "artifact_id": "apicurio-registry-protobuf-schema-utilities",
+  "latest_version": "3.0.10",
+  "description": "Open Source API & Schema Registry",
+  "id": "pkg:maven/io.apicurio/apicurio-registry-protobuf-schema-utilities",
+  "ts": 1753283753000,
+  "dependency_count": 9,
+  "ref_count": 26,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753284419188
+}
