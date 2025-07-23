@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-compiled-analysis",
-  "latest_version": "0.7.2",
+  "latest_version": "0.7.3",
   "description": "Rewrite binary analysis",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-compiled-analysis",
-  "ts": 1753266618000,
+  "ts": 1753305866000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Proprietary License"
   ],
-  "last_updated": 1753267392848
+  "last_updated": 1753306620015
 }

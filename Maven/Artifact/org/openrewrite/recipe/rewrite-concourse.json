@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-concourse",
-  "latest_version": "3.6.0",
+  "latest_version": "3.6.1",
   "description": "A rewrite module automating best practices and migrations for Concourse",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-concourse",
-  "ts": 1753266594000,
+  "ts": 1753305851000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Proprietary License"
   ],
-  "last_updated": 1753267392850
+  "last_updated": 1753306620420
 }

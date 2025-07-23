@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-terraform",
-  "latest_version": "3.6.0",
+  "latest_version": "3.6.1",
   "description": "Refactor Terraform. Automatically.",
   "id": "pkg:maven/org.openrewrite.recipe/rewrite-terraform",
-  "ts": 1753266728000,
+  "ts": 1753305856000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Proprietary License"
   ],
-  "last_updated": 1753267392346
+  "last_updated": 1753306620016
 }

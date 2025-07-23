@@ -1,10 +1,10 @@
 {
   "group_id": "org.openrewrite",
   "artifact_id": "rewrite-csharp",
-  "latest_version": "0.27.6",
+  "latest_version": "0.27.7",
   "description": "OpenRewrite C# language module.",
   "id": "pkg:maven/org.openrewrite/rewrite-csharp",
-  "ts": 1753267724000,
+  "ts": 1753306019000,
   "dependency_count": 2,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Moderne Source Available License"
   ],
-  "last_updated": 1753268199918
+  "last_updated": 1753306620011
 }
