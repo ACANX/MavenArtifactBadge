@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-core-resolve_3",
+  "latest_version": "1.0.1-14-4693c8",
+  "description": "mill-core-resolve",
+  "id": "pkg:maven/com.lihaoyi/mill-core-resolve_3",
+  "ts": 1753268700000,
+  "dependency_count": 3,
+  "ref_count": 27,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753269419039
+}

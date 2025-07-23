@@ -1,0 +1,18 @@
+{
+  "group_id": "io.airlift",
+  "artifact_id": "airbase-policy",
+  "latest_version": "281",
+  "description": "Policy files for Airbase",
+  "id": "pkg:maven/io.airlift/airbase-policy",
+  "ts": 1753268675000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Web Frameworks",
+    "Rest"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753269419464
+}

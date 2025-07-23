@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-libs-scalajslib-worker-1_3",
+  "latest_version": "1.0.1-14-4693c8",
+  "description": "mill-libs-scalajslib-worker-1",
+  "id": "pkg:maven/com.lihaoyi/mill-libs-scalajslib-worker-1_3",
+  "ts": 1753268792000,
+  "dependency_count": 0,
+  "ref_count": 90,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753269418257
+}

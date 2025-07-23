@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-artifactory_3",
+  "latest_version": "1.0.1-14-4693c8",
+  "description": "mill-contrib-artifactory",
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-artifactory_3",
+  "ts": 1753268639000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753269420087
+}

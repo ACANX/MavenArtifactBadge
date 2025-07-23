@@ -1,0 +1,17 @@
+{
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-libs-scalanativelib-api_3",
+  "latest_version": "1.0.1-14-4693c8",
+  "description": "mill-libs-scalanativelib-api",
+  "id": "pkg:maven/com.lihaoyi/mill-libs-scalanativelib-api_3",
+  "ts": 1753268795000,
+  "dependency_count": 3,
+  "ref_count": 8,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753269418256
+}
