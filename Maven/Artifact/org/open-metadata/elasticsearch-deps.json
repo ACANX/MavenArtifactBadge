@@ -1,0 +1,17 @@
+{
+  "group_id": "org.open-metadata",
+  "artifact_id": "elasticsearch-deps",
+  "latest_version": "1.8.7",
+  "description": "Shaded version of dependencies used only for internal OpenMetadata code.",
+  "id": "pkg:maven/org.open-metadata/elasticsearch-deps",
+  "ts": 1753339177000,
+  "dependency_count": 2,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753339619705
+}
