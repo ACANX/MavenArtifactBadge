@@ -1,10 +1,10 @@
 {
   "group_id": "cn.vonce",
   "artifact_id": "supercode-core",
-  "latest_version": "1.0.0-beta16",
+  "latest_version": "1.0.0-beta17",
   "description": "This is a code generator that can generate the corresponding business code through the database, or\n        generate the corresponding business code and SQL statement that creates a table according to the entity class.",
   "id": "pkg:maven/cn.vonce/supercode-core",
-  "ts": 1753346436000,
+  "ts": 1753353201000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753346818101
+  "last_updated": 1753353826722
 }
