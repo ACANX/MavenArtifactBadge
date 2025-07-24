@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.pityka",
   "artifact_id": "tasks-circe_2.13",
-  "latest_version": "4.0.0-M9",
+  "latest_version": "4.0.0-M10",
   "description": "tasks-circe",
   "id": "pkg:maven/io.github.pityka/tasks-circe_2.13",
-  "ts": 1753307657000,
+  "ts": 1753386802000,
   "dependency_count": 0,
   "ref_count": 55,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753308421682
+  "last_updated": 1753387131439
 }

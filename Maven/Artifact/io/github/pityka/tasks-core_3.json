@@ -1,17 +1,17 @@
 {
   "group_id": "io.github.pityka",
-  "artifact_id": "tasks-core_2.13",
+  "artifact_id": "tasks-core_3",
   "latest_version": "4.0.0-M10",
   "description": "tasks-core",
-  "id": "pkg:maven/io.github.pityka/tasks-core_2.13",
+  "id": "pkg:maven/io.github.pityka/tasks-core_3",
   "ts": 1753386802000,
   "dependency_count": 5,
-  "ref_count": 64,
+  "ref_count": 67,
   "categories": [
     "Other"
   ],
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753387131440
+  "last_updated": 1753387131437
 }
