@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "react-hook-form",
-  "latest_version": "7.61.0",
+  "latest_version": "7.61.1",
   "description": "Performant, flexible and extensible forms library for React Hooks",
   "id": "pkg:maven/org.mvnpm/react-hook-form",
-  "ts": 1753316102000,
+  "ts": 1753372984000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753316824667
+  "last_updated": 1753373217974
 }
