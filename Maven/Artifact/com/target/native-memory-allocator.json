@@ -1,0 +1,15 @@
+{
+  "group_id": "com.target",
+  "artifact_id": "native-memory-allocator",
+  "latest_version": "3.0.7",
+  "description": "O(1) malloc for off-heap storage in Kotlin, and a NativeMemoryMap based on Caffeine.",
+  "id": "pkg:maven/com.target/native-memory-allocator",
+  "ts": 1753371008000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0'"
+  ],
+  "last_updated": 1753371421557
+}

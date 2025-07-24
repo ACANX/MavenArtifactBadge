@@ -1,10 +1,10 @@
 {
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "minreact-processor-jvm",
-  "latest_version": "6.6.22",
+  "latest_version": "6.6.23",
   "description": "minreact-processor",
   "id": "pkg:maven/com.zegreatrob.jsmints/minreact-processor-jvm",
-  "ts": 1753284695000,
+  "ts": 1753370851000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753285618954
+  "last_updated": 1753371421566
 }

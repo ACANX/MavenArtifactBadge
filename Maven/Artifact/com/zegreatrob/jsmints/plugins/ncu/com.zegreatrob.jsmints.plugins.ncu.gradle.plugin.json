@@ -1,15 +1,15 @@
 {
   "group_id": "com.zegreatrob.jsmints.plugins.ncu",
   "artifact_id": "com.zegreatrob.jsmints.plugins.ncu.gradle.plugin",
-  "latest_version": "6.6.22",
+  "latest_version": "6.6.23",
   "description": "plugins",
   "id": "pkg:maven/com.zegreatrob.jsmints.plugins.ncu/com.zegreatrob.jsmints.plugins.ncu.gradle.plugin",
-  "ts": 1753284589000,
+  "ts": 1753370750000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753285619557
+  "last_updated": 1753371422134
 }
