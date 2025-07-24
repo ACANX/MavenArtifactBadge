@@ -1,0 +1,15 @@
+{
+  "group_id": "co.getstark",
+  "artifact_id": "accessibility-lint-rules",
+  "latest_version": "0.1.0-rc.1",
+  "description": "Accessibility Reporting for Android",
+  "id": "pkg:maven/co.getstark/accessibility-lint-rules",
+  "ts": 1753388663000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Custom License"
+  ],
+  "last_updated": 1753389418097
+}
