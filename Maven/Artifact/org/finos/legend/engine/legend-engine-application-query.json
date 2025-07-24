@@ -1,11 +1,11 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-application-query",
-  "latest_version": "4.92.0",
+  "latest_version": "4.93.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-application-query",
-  "ts": 1753345440000,
-  "dependency_count": 1,
+  "ts": 1753389040000,
+  "dependency_count": 0,
   "ref_count": 28,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753346820679
+  "last_updated": 1753390022423
 }

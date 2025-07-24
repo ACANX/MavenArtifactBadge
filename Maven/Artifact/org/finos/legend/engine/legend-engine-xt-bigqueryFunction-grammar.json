@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-bigqueryFunction-grammar",
-  "latest_version": "4.92.0",
+  "latest_version": "4.93.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-bigqueryFunction-grammar",
-  "ts": 1753345440000,
-  "dependency_count": 4,
+  "ts": 1753389040000,
+  "dependency_count": 1,
   "ref_count": 10,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753346824908
+  "last_updated": 1753390024056
 }

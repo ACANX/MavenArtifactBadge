@@ -1,17 +1,17 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-runtime-java-extension-interpreted-functions-standard",
-  "latest_version": "4.92.0",
+  "latest_version": "4.93.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-interpreted-functions-standard",
-  "ts": 1753345440000,
+  "ts": 1753389040000,
   "dependency_count": 1,
-  "ref_count": 36,
+  "ref_count": 35,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753346829380
+  "last_updated": 1753390019551
 }
