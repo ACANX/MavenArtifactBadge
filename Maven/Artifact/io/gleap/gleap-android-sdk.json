@@ -1,0 +1,15 @@
+{
+  "group_id": "io.gleap",
+  "artifact_id": "gleap-android-sdk",
+  "latest_version": "14.7.3",
+  "description": "Know exactly why and how a bug happened. Get reports with screenshots, live action replays and all of the important metadata every time.",
+  "id": "pkg:maven/io.gleap/gleap-android-sdk",
+  "ts": 1753343101000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753343723033
+}
