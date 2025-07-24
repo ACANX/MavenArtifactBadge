@@ -1,15 +1,15 @@
 {
   "group_id": "software.xdev.tci",
   "artifact_id": "oidc-server-mock",
-  "latest_version": "2.3.0",
+  "latest_version": "2.4.0",
   "description": "TCI - oidc-server-mock",
   "id": "pkg:maven/software.xdev.tci/oidc-server-mock",
-  "ts": 1753270249000,
+  "ts": 1753341032000,
   "dependency_count": 0,
   "ref_count": 21,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753270616504
+  "last_updated": 1753342018375
 }
