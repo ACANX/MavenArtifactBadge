@@ -1,15 +1,15 @@
 {
   "group_id": "com.knotapi.knot",
   "artifact_id": "knotapi-android-sdk",
-  "latest_version": "2.0.13-rc15",
+  "latest_version": "2.0.13-rc023",
   "description": "The Knot SDK enables end users to seamlessly authenticate to their merchant accounts, serving as the foundation for Knot's merchant connectivity platform.",
   "id": "pkg:maven/com.knotapi.knot/knotapi-android-sdk",
-  "ts": 1753299405000,
+  "ts": 1753326159000,
   "dependency_count": 0,
-  "ref_count": 5,
+  "ref_count": 4,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753300244884
+  "last_updated": 1753326416433
 }
