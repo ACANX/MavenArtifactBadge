@@ -1,0 +1,15 @@
+{
+  "group_id": "org.qubership.atp.auth",
+  "artifact_id": "atp-auth-models",
+  "latest_version": "1.2.66",
+  "description": "Qubership Testing Platform Auth Library",
+  "id": "pkg:maven/org.qubership.atp.auth/atp-auth-models",
+  "ts": 1753382371000,
+  "dependency_count": 1,
+  "ref_count": 293,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753382816300
+}

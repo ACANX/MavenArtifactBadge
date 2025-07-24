@@ -1,0 +1,17 @@
+{
+  "group_id": "com.hedera.hashgraph",
+  "artifact_id": "app-service-contract-impl",
+  "latest_version": "0.64.1",
+  "description": "Default Hedera Smart Contract Service Implementation",
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-contract-impl",
+  "ts": 1753382112000,
+  "dependency_count": 1,
+  "ref_count": 50,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753382817284
+}
