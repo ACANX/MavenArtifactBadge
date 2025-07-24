@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java",
-  "latest_version": "4.7.7-20250724.164011",
+  "latest_version": "4.7.7-20250724.164344",
   "description": "微信开发Java SDK",
   "id": "pkg:maven/com.github.binarywang/wx-java",
-  "ts": 1753346608000,
+  "ts": 1753346815000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753346990000
+  "last_updated": 1753347417930
 }

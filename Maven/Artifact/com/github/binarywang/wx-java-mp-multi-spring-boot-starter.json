@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-mp-multi-spring-boot-starter",
-  "latest_version": "4.7.7-20250724.164011",
+  "latest_version": "4.7.7-20250724.164344",
   "description": "微信公众号开发的 Spring Boot Starter::支持多账号配置",
   "id": "pkg:maven/com.github.binarywang/wx-java-mp-multi-spring-boot-starter",
-  "ts": 1753346608000,
+  "ts": 1753346815000,
   "dependency_count": 0,
   "ref_count": 86,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753346989503
+  "last_updated": 1753347417372
 }
