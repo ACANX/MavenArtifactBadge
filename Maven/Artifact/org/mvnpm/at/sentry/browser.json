@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.sentry",
+  "artifact_id": "browser",
+  "latest_version": "9.41.0",
+  "description": "Official Sentry SDK for browsers",
+  "id": "pkg:maven/org.mvnpm.at.sentry/browser",
+  "ts": 1753375867000,
+  "dependency_count": 1,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753376220216
+}
