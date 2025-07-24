@@ -1,0 +1,15 @@
+{
+  "group_id": "org.xmtp",
+  "artifact_id": "android",
+  "latest_version": "4.3.1",
+  "description": "XMTP Android Library",
+  "id": "pkg:maven/org.xmtp/android",
+  "ts": 1753370411000,
+  "dependency_count": 0,
+  "ref_count": 18,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753370818341
+}
