@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.clerk",
   "artifact_id": "types",
-  "latest_version": "4.69.0",
+  "latest_version": "4.70.0",
   "description": "Typings for Clerk libraries.",
   "id": "pkg:maven/org.mvnpm.at.clerk/types",
-  "ts": 1753282082000,
+  "ts": 1753349583000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283221287
+  "last_updated": 1753350418625
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "com.jifeline",
   "artifact_id": "libOpenOBD",
-  "latest_version": "1.22.1",
+  "latest_version": "1.22.2",
   "description": "Generated Java library for the openOBD proto files",
   "id": "pkg:maven/com.jifeline/libOpenOBD",
-  "ts": 1753348282000,
+  "ts": 1753349476000,
   "dependency_count": 0,
   "ref_count": 23,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753349223184
+  "last_updated": 1753350419247
 }
