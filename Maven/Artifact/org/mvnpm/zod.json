@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "zod",
-  "latest_version": "4.0.7",
+  "latest_version": "4.0.8",
   "description": "TypeScript-first schema declaration and validation library with static type inference",
   "id": "pkg:maven/org.mvnpm/zod",
-  "ts": 1753315922000,
+  "ts": 1753329963000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753316214509
+  "last_updated": 1753330617384
 }
