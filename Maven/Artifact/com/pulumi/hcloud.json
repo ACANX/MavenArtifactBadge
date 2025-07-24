@@ -1,0 +1,17 @@
+{
+  "group_id": "com.pulumi",
+  "artifact_id": "hcloud",
+  "latest_version": "1.23.1",
+  "description": "A Pulumi package for creating and managing hcloud cloud resources.",
+  "id": "pkg:maven/com.pulumi/hcloud",
+  "ts": 1753399146000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753399617358
+}
