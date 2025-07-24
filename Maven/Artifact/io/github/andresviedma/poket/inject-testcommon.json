@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.andresviedma.poket",
   "artifact_id": "inject-testcommon",
-  "latest_version": "1.0.0-rc-7",
+  "latest_version": "1.0.0-rc-9",
   "description": "Kotlin utilities for advanced backends",
   "id": "pkg:maven/io.github.andresviedma.poket/inject-testcommon",
-  "ts": 1753311002000,
+  "ts": 1753395664000,
   "dependency_count": 0,
   "ref_count": 35,
   "categories": null,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753311364090
+  "last_updated": 1753396616774
 }
