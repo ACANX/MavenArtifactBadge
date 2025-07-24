@@ -1,0 +1,15 @@
+{
+  "group_id": "com.thewebsnippet",
+  "artifact_id": "manager",
+  "latest_version": "1.5.4",
+  "description": "A collection of manager and network connection",
+  "id": "pkg:maven/com.thewebsnippet/manager",
+  "ts": 1753354340000,
+  "dependency_count": 0,
+  "ref_count": 17,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753355219611
+}

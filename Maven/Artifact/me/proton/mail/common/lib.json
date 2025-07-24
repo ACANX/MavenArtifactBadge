@@ -1,0 +1,15 @@
+{
+  "group_id": "me.proton.mail.common",
+  "artifact_id": "lib",
+  "latest_version": "0.107.0",
+  "description": "A shared library for Proton Mail clients that implements common operations.",
+  "id": "pkg:maven/me.proton.mail.common/lib",
+  "ts": 1753354313000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "GNU GENERAL PUBLIC LICENSE, Version 3.0"
+  ],
+  "last_updated": 1753355219612
+}
