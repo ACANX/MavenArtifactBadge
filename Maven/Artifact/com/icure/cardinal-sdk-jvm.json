@@ -1,15 +1,15 @@
 {
   "group_id": "com.icure",
   "artifact_id": "cardinal-sdk-jvm",
-  "latest_version": "2.0.0-PREVIEW-11",
+  "latest_version": "2.0.0-PREVIEW-12",
   "description": "Cardinal SDK is a multiplatform SDK for the iCure platform.",
   "id": "pkg:maven/com.icure/cardinal-sdk-jvm",
-  "ts": 1753282469000,
+  "ts": 1753370068000,
   "dependency_count": 0,
   "ref_count": 36,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753283218946
+  "last_updated": 1753370418483
 }
