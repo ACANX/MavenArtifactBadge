@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-launchdarkly",
-  "latest_version": "2025.07.24.144009-3d29489",
+  "latest_version": "2025.07.24.151531-2275aae",
   "description": "A Wisp module for adapting LaunchDarkly SDK to wisp-feature",
   "id": "pkg:maven/app.cash.wisp/wisp-launchdarkly",
-  "ts": 1753369340000,
+  "ts": 1753371466000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753370219295
+  "last_updated": 1753372022868
 }
