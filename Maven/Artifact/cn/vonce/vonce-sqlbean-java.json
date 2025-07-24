@@ -1,17 +1,17 @@
 {
   "group_id": "cn.vonce",
   "artifact_id": "vonce-sqlbean-java",
-  "latest_version": "1.7.0-beta8",
+  "latest_version": "1.7.0-beta9",
   "description": "This is the Java implementation of SqlBean.",
   "id": "pkg:maven/cn.vonce/vonce-sqlbean-java",
-  "ts": 1753345046000,
-  "dependency_count": 0,
-  "ref_count": 2,
+  "ts": 1753353168000,
+  "dependency_count": 2,
+  "ref_count": 4,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753345428936
+  "last_updated": 1753353419653
 }
