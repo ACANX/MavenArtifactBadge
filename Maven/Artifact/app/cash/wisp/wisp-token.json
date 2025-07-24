@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-token",
-  "latest_version": "2025.07.24.151531-2275aae",
+  "latest_version": "2025.07.24.201900-fe77bf0",
   "description": "Token generation for universally unique ID",
   "id": "pkg:maven/app.cash.wisp/wisp-token",
-  "ts": 1753371466000,
+  "ts": 1753389682000,
   "dependency_count": 1,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753372022277
+  "last_updated": 1753390552493
 }

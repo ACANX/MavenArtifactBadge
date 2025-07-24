@@ -1,0 +1,17 @@
+{
+  "group_id": "com.urbanairship.android",
+  "artifact_id": "urbanairship-automation",
+  "latest_version": "19.10.0",
+  "description": "Airship Android SDK Automation module",
+  "id": "pkg:maven/com.urbanairship.android/urbanairship-automation",
+  "ts": 1753390380000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753390552079
+}

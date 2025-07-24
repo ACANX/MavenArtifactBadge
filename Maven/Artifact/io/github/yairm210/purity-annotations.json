@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.yairm210",
   "artifact_id": "purity-annotations",
-  "latest_version": "0.0.36",
+  "latest_version": "0.0.38",
   "description": "Annotations for the Purity Compiler Plugin, which allows you to mark Kotlin functions as pure and readonly",
   "id": "pkg:maven/io.github.yairm210/purity-annotations",
-  "ts": 1753363158000,
+  "ts": 1753389508000,
   "dependency_count": 0,
-  "ref_count": 1,
+  "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753364222251
+  "last_updated": 1753390552923
 }
