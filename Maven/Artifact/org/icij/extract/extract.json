@@ -1,0 +1,15 @@
+{
+  "group_id": "org.icij.extract",
+  "artifact_id": "extract",
+  "latest_version": "9.4.8",
+  "description": "A cross-platform command line tool for parallelised content extraction and analysis.",
+  "id": "pkg:maven/org.icij.extract/extract",
+  "ts": 1753364209000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753364819268
+}

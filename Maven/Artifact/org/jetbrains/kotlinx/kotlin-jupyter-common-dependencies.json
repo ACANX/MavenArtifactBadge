@@ -1,10 +1,10 @@
 {
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-common-dependencies",
-  "latest_version": "0.15.0-559",
+  "latest_version": "0.15.0-560",
   "description": "Notebook API entities used for building kernel documentation",
   "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-common-dependencies",
-  "ts": 1753359566000,
+  "ts": 1753364057000,
   "dependency_count": 4,
   "ref_count": 6,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753360429487
+  "last_updated": 1753364819966
 }
