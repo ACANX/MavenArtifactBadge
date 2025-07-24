@@ -1,10 +1,10 @@
 {
   "group_id": "uk.gov.nationalarchives",
   "artifact_id": "preservica-client-fs2_3",
-  "latest_version": "0.0.142",
+  "latest_version": "0.0.143",
   "description": "A client to communicate with the Preservica API",
   "id": "pkg:maven/uk.gov.nationalarchives/preservica-client-fs2_3",
-  "ts": 1753283923000,
+  "ts": 1753349082000,
   "dependency_count": 0,
   "ref_count": 97,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753284419187
+  "last_updated": 1753349822306
 }

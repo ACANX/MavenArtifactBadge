@@ -1,15 +1,15 @@
 {
   "group_id": "fr.aneo",
   "artifact_id": "armonik-java",
-  "latest_version": "3.27.0-jfextractenvars.59.0dbab26",
+  "latest_version": "3.27.0-jfextractenvars.60.9ef1fd3",
   "description": "GRPC java binding for the Armonik orchestrator API",
   "id": "pkg:maven/fr.aneo/armonik-java",
-  "ts": 1753348698000,
+  "ts": 1753349165000,
   "dependency_count": 0,
   "ref_count": 50,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753349221893
+  "last_updated": 1753349821743
 }

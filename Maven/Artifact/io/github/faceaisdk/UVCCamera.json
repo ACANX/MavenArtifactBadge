@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.faceaisdk",
   "artifact_id": "UVCCamera",
-  "latest_version": "2025.07.22",
+  "latest_version": "2025.07.23",
   "description": "On_device Offline Android Face Detection ,Recognition ,Liveness Detection Anti Spoofing and 1:N/M:N Face Search SDK",
   "id": "pkg:maven/io.github.faceaisdk/UVCCamera",
-  "ts": 1753345848000,
+  "ts": 1753349113000,
   "dependency_count": 0,
-  "ref_count": 6,
+  "ref_count": 3,
   "categories": null,
   "licenses": [
     "The FaceAISDK License, Version 1.0"
   ],
-  "last_updated": 1753346818758
+  "last_updated": 1753349822306
 }
