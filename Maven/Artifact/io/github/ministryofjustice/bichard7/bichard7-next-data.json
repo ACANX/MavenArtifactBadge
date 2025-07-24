@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.ministryofjustice.bichard7",
   "artifact_id": "bichard7-next-data",
-  "latest_version": "2.0.287",
+  "latest_version": "2.0.288",
   "description": "The data for bichard",
   "id": "pkg:maven/io.github.ministryofjustice.bichard7/bichard7-next-data",
-  "ts": 1753363718000,
+  "ts": 1753372200000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753364220442
+  "last_updated": 1753372620447
 }
