@@ -1,0 +1,15 @@
+{
+  "group_id": "com.mindee.sdk",
+  "artifact_id": "mindee-api-java",
+  "latest_version": "4.33.0-rc3",
+  "description": "Java Library to call Mindee's Off-The-Shelf and Custom APIs",
+  "id": "pkg:maven/com.mindee.sdk/mindee-api-java",
+  "ts": 1753344045000,
+  "dependency_count": 0,
+  "ref_count": 33,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753345022518
+}

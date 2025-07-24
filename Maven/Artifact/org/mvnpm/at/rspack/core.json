@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.rspack",
+  "artifact_id": "core",
+  "latest_version": "1.4.10",
+  "description": "The fast Rust-based web bundler with webpack-compatible API",
+  "id": "pkg:maven/org.mvnpm.at.rspack/core",
+  "ts": 1753344183000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753345022516
+}

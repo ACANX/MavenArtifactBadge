@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.atlaskit",
+  "artifact_id": "theme",
+  "latest_version": "19.0.1",
+  "description": "Theme contains solutions for global theming, colors, and other useful mixins.",
+  "id": "pkg:maven/org.mvnpm.at.atlaskit/theme",
+  "ts": 1753344727000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753345020425
+}
