@@ -1,0 +1,15 @@
+{
+  "group_id": "com.tryingtorun",
+  "artifact_id": "kmpcharts",
+  "latest_version": "0.1.0.alpha",
+  "description": "A cross platform library for charts",
+  "id": "pkg:maven/com.tryingtorun/kmpcharts",
+  "ts": 1753371792000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753372359445
+}

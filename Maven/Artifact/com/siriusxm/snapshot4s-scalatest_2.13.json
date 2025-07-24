@@ -1,15 +1,15 @@
 {
   "group_id": "com.siriusxm",
   "artifact_id": "snapshot4s-scalatest_2.13",
-  "latest_version": "0.1.8-9-e3e705c",
+  "latest_version": "0.1.8-10-90cee53",
   "description": "snapshot4s-scalatest",
   "id": "pkg:maven/com.siriusxm/snapshot4s-scalatest_2.13",
-  "ts": 1753370521000,
+  "ts": 1753371910000,
   "dependency_count": 0,
   "ref_count": 18,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753371423207
+  "last_updated": 1753372358836
 }

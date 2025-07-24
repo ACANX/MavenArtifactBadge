@@ -1,15 +1,15 @@
 {
   "group_id": "com.siriusxm",
   "artifact_id": "snapshot4s-core_2.12",
-  "latest_version": "0.1.8-9-e3e705c",
+  "latest_version": "0.1.8-10-90cee53",
   "description": "snapshot4s-core",
   "id": "pkg:maven/com.siriusxm/snapshot4s-core_2.12",
-  "ts": 1753370521000,
+  "ts": 1753371910000,
   "dependency_count": 3,
   "ref_count": 14,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753371422676
+  "last_updated": 1753372358237
 }
