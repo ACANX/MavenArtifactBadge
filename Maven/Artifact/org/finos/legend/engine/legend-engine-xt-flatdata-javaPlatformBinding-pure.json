@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-flatdata-javaPlatformBinding-pure",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-flatdata-javaPlatformBinding-pure",
-  "ts": 1753280048000,
-  "dependency_count": 2,
+  "ts": 1753345439000,
+  "dependency_count": 8,
   "ref_count": 16,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280821012
+  "last_updated": 1753346832589
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.rspack",
+  "artifact_id": "binding",
+  "latest_version": "1.4.10",
+  "description": "Node binding for rspack",
+  "id": "pkg:maven/org.mvnpm.at.rspack/binding",
+  "ts": 1753345803000,
+  "dependency_count": 1,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753346818759
+}

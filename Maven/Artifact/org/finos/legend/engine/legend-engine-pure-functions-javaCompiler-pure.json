@@ -1,11 +1,11 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-functions-javaCompiler-pure",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": "This provides native functions that allow runtime compilation and execution of Java code. This is intended\n        primarily to support development of Java generation code by providing access to compilation and execution in a\n        Pure IDE Light. Please note that native functions provided here are extremely unsafe for general usage as they\n        allow compilation and execution of arbitrary user supplied Java code. They should only be used in environments\n        where there are no concerns about users running unsafe code (such as a user running a local Pure IDE Light).",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-functions-javaCompiler-pure",
-  "ts": 1753280048000,
-  "dependency_count": 3,
+  "ts": 1753345439000,
+  "dependency_count": 4,
   "ref_count": 18,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753280823071
+  "last_updated": 1753346835825
 }

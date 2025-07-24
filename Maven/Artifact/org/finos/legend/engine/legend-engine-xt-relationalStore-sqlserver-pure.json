@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-relationalStore-sqlserver-pure",
+  "latest_version": "4.92.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sqlserver-pure",
+  "ts": 1753345440000,
+  "dependency_count": 1,
+  "ref_count": 20,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753346824157
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-external-format-execution",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-external-format-execution",
-  "ts": 1753280048000,
+  "ts": 1753345440000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753280819800
+  "last_updated": 1753346828772
 }

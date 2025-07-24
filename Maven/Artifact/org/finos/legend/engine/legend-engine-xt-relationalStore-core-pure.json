@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-relationalStore-core-pure",
+  "latest_version": "4.92.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-core-pure",
+  "ts": 1753345440000,
+  "dependency_count": 81,
+  "ref_count": 58,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753346828067
+}

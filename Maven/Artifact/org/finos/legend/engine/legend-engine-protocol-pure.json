@@ -1,11 +1,11 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-protocol-pure",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-protocol-pure",
-  "ts": 1753280049000,
-  "dependency_count": 37,
+  "ts": 1753345440000,
+  "dependency_count": 185,
   "ref_count": 14,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753280816649
+  "last_updated": 1753346820047
 }

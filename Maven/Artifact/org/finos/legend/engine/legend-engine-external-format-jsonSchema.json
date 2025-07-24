@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-external-format-jsonSchema",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-external-format-jsonSchema",
-  "ts": 1753280048000,
-  "dependency_count": 1,
+  "ts": 1753345440000,
+  "dependency_count": 3,
   "ref_count": 13,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280821659
+  "last_updated": 1753346822071
 }

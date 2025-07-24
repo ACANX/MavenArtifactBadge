@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-arrow-pure",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-arrow-pure",
-  "ts": 1753280048000,
-  "dependency_count": 1,
+  "ts": 1753345440000,
+  "dependency_count": 3,
   "ref_count": 11,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280818563
+  "last_updated": 1753346824907
 }

@@ -1,11 +1,11 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-executionPlan-dependencies",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-executionPlan-dependencies",
-  "ts": 1753280049000,
-  "dependency_count": 3,
+  "ts": 1753345439000,
+  "dependency_count": 18,
   "ref_count": 19,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753280814678
+  "last_updated": 1753346834618
 }

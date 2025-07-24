@@ -1,0 +1,17 @@
+{
+  "group_id": "sh.ory",
+  "artifact_id": "ory-client",
+  "latest_version": "1.21.0",
+  "description": "Java Client for Ory",
+  "id": "pkg:maven/sh.ory/ory-client",
+  "ts": 1753345423000,
+  "dependency_count": 0,
+  "ref_count": 29,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753346837024
+}
