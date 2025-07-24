@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.binarywang",
+  "artifact_id": "wx-java-qidian-solon-plugin",
+  "latest_version": "4.7.7-20250724.151853",
+  "description": "腾讯企点的 Solon Plugin",
+  "id": "pkg:maven/com.github.binarywang/wx-java-qidian-solon-plugin",
+  "ts": 1753341731000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753342199232
+}

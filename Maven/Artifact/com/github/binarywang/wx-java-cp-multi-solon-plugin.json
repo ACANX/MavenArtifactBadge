@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.binarywang",
+  "artifact_id": "wx-java-cp-multi-solon-plugin",
+  "latest_version": "4.7.7-20250724.151853",
+  "description": "微信企业号开发的 Solon Plugin::支持多账号配置",
+  "id": "pkg:maven/com.github.binarywang/wx-java-cp-multi-solon-plugin",
+  "ts": 1753341731000,
+  "dependency_count": 0,
+  "ref_count": 57,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753342199706
+}

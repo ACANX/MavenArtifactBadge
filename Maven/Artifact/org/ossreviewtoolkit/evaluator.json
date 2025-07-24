@@ -1,0 +1,15 @@
+{
+  "group_id": "org.ossreviewtoolkit",
+  "artifact_id": "evaluator",
+  "latest_version": "64.0.0",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
+  "id": "pkg:maven/org.ossreviewtoolkit/evaluator",
+  "ts": 1753341712000,
+  "dependency_count": 1,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753342200290
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.binarywang",
+  "artifact_id": "weixin-java-miniapp",
+  "latest_version": "4.7.7-20250724.151853",
+  "description": "微信小程序 Java SDK",
+  "id": "pkg:maven/com.github.binarywang/weixin-java-miniapp",
+  "ts": 1753341731000,
+  "dependency_count": 7,
+  "ref_count": 80,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753342199229
+}
