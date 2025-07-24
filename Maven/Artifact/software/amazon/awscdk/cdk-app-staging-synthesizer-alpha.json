@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "cdk-app-staging-synthesizer-alpha",
+  "latest_version": "2.207.0-alpha.0",
+  "description": "Cdk synthesizer for with app-scoped staging stack",
+  "id": "pkg:maven/software.amazon.awscdk/cdk-app-staging-synthesizer-alpha",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367219413
+}

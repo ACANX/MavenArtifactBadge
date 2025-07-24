@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "pipes-targets-alpha",
+  "latest_version": "2.207.0-alpha.0",
+  "description": "The CDK Construct Library for Amazon EventBridge Pipes Targets",
+  "id": "pkg:maven/software.amazon.awscdk/pipes-targets-alpha",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367218867
+}
