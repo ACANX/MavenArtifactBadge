@@ -1,10 +1,10 @@
 {
   "group_id": "org.springframework.boot",
   "artifact_id": "spring-boot-dependencies",
-  "latest_version": "3.5.4",
+  "latest_version": "4.0.0-M1",
   "description": "Spring Boot Dependencies",
   "id": "pkg:maven/org.springframework.boot/spring-boot-dependencies",
-  "ts": 1753355121000,
+  "ts": 1753374723000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753355822324
+  "last_updated": 1753375371121
 }
