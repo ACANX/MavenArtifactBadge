@@ -1,0 +1,17 @@
+{
+  "group_id": "com.daml",
+  "artifact_id": "transcode-codegen-typescript-sbt-daml2_2.12",
+  "latest_version": "0.0.1-main.20250724.104.650.vfc1e9b6",
+  "description": "Gradle Plugin for Typescript Code Generation",
+  "id": "pkg:maven/com.daml/transcode-codegen-typescript-sbt-daml2_2.12",
+  "ts": 1753327951000,
+  "dependency_count": 0,
+  "ref_count": 83,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753328427218
+}
