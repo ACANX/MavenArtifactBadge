@@ -1,0 +1,15 @@
+{
+  "group_id": "io.joyfill",
+  "artifact_id": "compose-jvm",
+  "latest_version": "2.0.0-Beta15",
+  "description": "The compose sdk to assist in building of the sdk",
+  "id": "pkg:maven/io.joyfill/compose-jvm",
+  "ts": 1753378415000,
+  "dependency_count": 0,
+  "ref_count": 39,
+  "categories": null,
+  "licenses": [
+    "Joyfill License"
+  ],
+  "last_updated": 1753379137985
+}

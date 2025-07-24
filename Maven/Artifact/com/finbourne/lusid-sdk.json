@@ -1,15 +1,15 @@
 {
   "group_id": "com.finbourne",
   "artifact_id": "lusid-sdk",
-  "latest_version": "2.0.1522",
+  "latest_version": "2.0.1523",
   "description": "lusid",
   "id": "pkg:maven/com.finbourne/lusid-sdk",
-  "ts": 1753317263000,
+  "ts": 1753378815000,
   "dependency_count": 0,
   "ref_count": 28,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753318020177
+  "last_updated": 1753379137980
 }
