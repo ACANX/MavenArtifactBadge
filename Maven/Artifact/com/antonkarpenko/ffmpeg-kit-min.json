@@ -1,10 +1,10 @@
 {
   "group_id": "com.antonkarpenko",
   "artifact_id": "ffmpeg-kit-min",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "description": "FFmpeg v7.1.1 Min",
   "id": "pkg:maven/com.antonkarpenko/ffmpeg-kit-min",
-  "ts": 1753385980000,
+  "ts": 1753388202000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
@@ -12,5 +12,5 @@
     "GNU Lesser General Public License v3.0",
     "LGPL 3.0"
   ],
-  "last_updated": 1753386418698
+  "last_updated": 1753388824467
 }

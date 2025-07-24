@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.carbon",
+  "artifact_id": "feature-flags",
+  "latest_version": "0.28.1",
+  "description": "Build with feature flags in Carbon",
+  "id": "pkg:maven/org.mvnpm.at.carbon/feature-flags",
+  "ts": 1753388283000,
+  "dependency_count": 1,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753388824466
+}

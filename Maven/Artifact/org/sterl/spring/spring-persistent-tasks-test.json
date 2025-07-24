@@ -1,0 +1,15 @@
+{
+  "group_id": "org.sterl.spring",
+  "artifact_id": "spring-persistent-tasks-test",
+  "latest_version": "2.1.3",
+  "description": "Contains JUnit test classes to support testing",
+  "id": "pkg:maven/org.sterl.spring/spring-persistent-tasks-test",
+  "ts": 1753388307000,
+  "dependency_count": 0,
+  "ref_count": 92,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753388824466
+}

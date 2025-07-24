@@ -1,10 +1,10 @@
 {
   "group_id": "dev.evo.elasticmagic",
   "artifact_id": "elasticmagic-serde-linuxx64",
-  "latest_version": "0.3.3",
+  "latest_version": "0.3.4",
   "description": "Elasticsearch Kotlin query DSL - serialization interface",
   "id": "pkg:maven/dev.evo.elasticmagic/elasticmagic-serde-linuxx64",
-  "ts": 1753380843000,
+  "ts": 1753388044000,
   "dependency_count": 4,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753381242953
+  "last_updated": 1753388825008
 }

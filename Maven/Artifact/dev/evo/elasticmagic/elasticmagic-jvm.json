@@ -1,10 +1,10 @@
 {
   "group_id": "dev.evo.elasticmagic",
   "artifact_id": "elasticmagic-jvm",
-  "latest_version": "0.3.3",
+  "latest_version": "0.3.4",
   "description": "Elasticsearch Kotlin query DSL",
   "id": "pkg:maven/dev.evo.elasticmagic/elasticmagic-jvm",
-  "ts": 1753380843000,
+  "ts": 1753388044000,
   "dependency_count": 2,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753381242321
+  "last_updated": 1753388825005
 }
