@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.sentry",
+  "artifact_id": "node-core",
+  "latest_version": "9.41.0",
+  "description": "Sentry Node-Core SDK",
+  "id": "pkg:maven/org.mvnpm.at.sentry/node-core",
+  "ts": 1753376946000,
+  "dependency_count": 1,
+  "ref_count": 32,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753377419785
+}

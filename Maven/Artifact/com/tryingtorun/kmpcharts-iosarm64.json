@@ -1,15 +1,15 @@
 {
   "group_id": "com.tryingtorun",
   "artifact_id": "kmpcharts-iosarm64",
-  "latest_version": "0.1.0.alpha",
+  "latest_version": "0.1.1-alpha",
   "description": "A cross platform library for charts",
   "id": "pkg:maven/com.tryingtorun/kmpcharts-iosarm64",
-  "ts": 1753371792000,
+  "ts": 1753376646000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753372359444
+  "last_updated": 1753377419787
 }

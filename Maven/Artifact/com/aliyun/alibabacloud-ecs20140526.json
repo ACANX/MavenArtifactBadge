@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "alibabacloud-ecs20140526",
+  "latest_version": "8.0.15",
+  "description": "Alibaba Cloud Ecs (20140526) Async SDK for Java",
+  "id": "pkg:maven/com.aliyun/alibabacloud-ecs20140526",
+  "ts": 1753377169000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753377419784
+}
