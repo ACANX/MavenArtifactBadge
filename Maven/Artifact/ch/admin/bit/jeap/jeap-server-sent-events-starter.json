@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-server-sent-events-starter",
+  "latest_version": "1.3.0",
+  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-server-sent-events-starter",
+  "ts": 1753361872000,
+  "dependency_count": 0,
+  "ref_count": 68,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363028633
+}

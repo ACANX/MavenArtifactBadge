@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "kafka-solon-cloud-plugin",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.1-RC",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/kafka-solon-cloud-plugin",
-  "ts": 1753256233000,
+  "ts": 1753362302000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256820206
+  "last_updated": 1753363023490
 }

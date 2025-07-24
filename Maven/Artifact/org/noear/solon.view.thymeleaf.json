@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon.view.thymeleaf",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.1-RC",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon.view.thymeleaf",
-  "ts": 1753256007000,
+  "ts": 1753361895000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256464849
+  "last_updated": 1753363028204
 }

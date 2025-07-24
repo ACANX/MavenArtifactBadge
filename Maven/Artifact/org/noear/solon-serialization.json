@@ -1,11 +1,11 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-serialization",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.1-RC",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-serialization",
-  "ts": 1753256049000,
-  "dependency_count": 14,
+  "ts": 1753362028000,
+  "dependency_count": 16,
   "ref_count": 3,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256463621
+  "last_updated": 1753363025675
 }
