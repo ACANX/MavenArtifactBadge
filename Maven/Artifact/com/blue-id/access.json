@@ -1,0 +1,15 @@
+{
+  "group_id": "com.blue-id",
+  "artifact_id": "access",
+  "latest_version": "9.12.0",
+  "description": "Access SDK to communicate with BlueID Access Devices",
+  "id": "pkg:maven/com.blue-id/access",
+  "ts": 1753373144000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": null,
+  "licenses": [
+    "Proprietary Software License"
+  ],
+  "last_updated": 1753373548606
+}
