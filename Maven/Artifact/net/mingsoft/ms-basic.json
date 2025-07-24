@@ -1,0 +1,17 @@
+{
+  "group_id": "net.mingsoft",
+  "artifact_id": "ms-basic",
+  "latest_version": "3.0.2.1",
+  "description": "ms-basic",
+  "id": "pkg:maven/net.mingsoft/ms-basic",
+  "ts": 1753324732000,
+  "dependency_count": 0,
+  "ref_count": 168,
+  "categories": [
+    "Build Tools"
+  ],
+  "licenses": [
+    "MS协议"
+  ],
+  "last_updated": 1753325220021
+}
