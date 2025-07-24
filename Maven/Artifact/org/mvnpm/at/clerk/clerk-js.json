@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.clerk",
   "artifact_id": "clerk-js",
-  "latest_version": "5.75.0",
+  "latest_version": "5.76.0",
   "description": "Clerk JS library",
   "id": "pkg:maven/org.mvnpm.at.clerk/clerk-js",
-  "ts": 1753281195000,
+  "ts": 1753348692000,
   "dependency_count": 0,
   "ref_count": 48,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753281795309
+  "last_updated": 1753349221894
 }

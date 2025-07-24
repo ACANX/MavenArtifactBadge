@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.nafg.dialogue-state",
+  "artifact_id": "twilio-base_2.13",
+  "latest_version": "0.16.0",
+  "description": "Define a Twilio app in terms of a sane call tree",
+  "id": "pkg:maven/io.github.nafg.dialogue-state/twilio-base_2.13",
+  "ts": 1753347881000,
+  "dependency_count": 2,
+  "ref_count": 45,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753349223795
+}
