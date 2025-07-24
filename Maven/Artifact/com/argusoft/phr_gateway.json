@@ -1,0 +1,15 @@
+{
+  "group_id": "com.argusoft",
+  "artifact_id": "phr_gateway",
+  "latest_version": "1.0.0",
+  "description": "PHR Gateway Library",
+  "id": "pkg:maven/com.argusoft/phr_gateway",
+  "ts": 1753337885000,
+  "dependency_count": 0,
+  "ref_count": 60,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753338416006
+}
