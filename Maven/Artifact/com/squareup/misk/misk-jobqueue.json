@@ -1,0 +1,17 @@
+{
+  "group_id": "com.squareup.misk",
+  "artifact_id": "misk-jobqueue",
+  "latest_version": "2025.07.24.205305-8178cff",
+  "description": "Open source application container in Kotlin",
+  "id": "pkg:maven/com.squareup.misk/misk-jobqueue",
+  "ts": 1753391756000,
+  "dependency_count": 3,
+  "ref_count": 27,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753392416611
+}

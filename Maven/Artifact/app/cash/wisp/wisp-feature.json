@@ -1,17 +1,17 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-feature",
-  "latest_version": "2025.07.24.201900-fe77bf0",
+  "latest_version": "2025.07.24.205305-8178cff",
   "description": "a module containing feature flag helpers",
   "id": "pkg:maven/app.cash.wisp/wisp-feature",
-  "ts": 1753389682000,
-  "dependency_count": 2,
-  "ref_count": 3,
+  "ts": 1753391723000,
+  "dependency_count": 5,
+  "ref_count": 8,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753390552498
+  "last_updated": 1753392418129
 }
