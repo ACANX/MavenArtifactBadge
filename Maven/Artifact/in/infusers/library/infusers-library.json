@@ -1,0 +1,15 @@
+{
+  "group_id": "in.infusers.library",
+  "artifact_id": "infusers-library",
+  "latest_version": "2025.07.0035",
+  "description": "Infusers api core",
+  "id": "pkg:maven/in.infusers.library/infusers-library",
+  "ts": 1753365474000,
+  "dependency_count": 0,
+  "ref_count": 344,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753366433594
+}
