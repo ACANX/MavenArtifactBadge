@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.ditto",
+  "artifact_id": "ditto-base-model",
+  "latest_version": "3.8.0-M2",
+  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
+  "id": "pkg:maven/org.eclipse.ditto/ditto-base-model",
+  "ts": 1753379173000,
+  "dependency_count": 53,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Eclipse Public License - Version 2.0"
+  ],
+  "last_updated": 1753379815432
+}
