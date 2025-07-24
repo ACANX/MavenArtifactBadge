@@ -1,0 +1,15 @@
+{
+  "group_id": "org.dromara.mica-mqtt",
+  "artifact_id": "mica-mqtt-common",
+  "latest_version": "2.5.1",
+  "description": "Mica mqtt client and server!",
+  "id": "pkg:maven/org.dromara.mica-mqtt/mica-mqtt-common",
+  "ts": 1753360776000,
+  "dependency_count": 8,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753361817054
+}

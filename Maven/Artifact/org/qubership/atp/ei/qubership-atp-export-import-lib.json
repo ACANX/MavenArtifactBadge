@@ -1,0 +1,15 @@
+{
+  "group_id": "org.qubership.atp.ei",
+  "artifact_id": "qubership-atp-export-import-lib",
+  "latest_version": "0.2.41",
+  "description": "Qubership Testing Platform Export Import Library",
+  "id": "pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib",
+  "ts": 1753361018000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753361815239
+}
