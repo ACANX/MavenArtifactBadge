@@ -1,0 +1,15 @@
+{
+  "group_id": "com.markelliot.barista",
+  "artifact_id": "barista-processor",
+  "latest_version": "0.113.0",
+  "description": "an opinionated java server library.",
+  "id": "pkg:maven/com.markelliot.barista/barista-processor",
+  "ts": 1753356117000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753356418106
+}
