@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.backfila",
   "artifact_id": "client-misk-hibernate",
-  "latest_version": "2025.07.23.173934-775d335",
+  "latest_version": "2025.07.24.041611-fe2805d",
   "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "id": "pkg:maven/app.cash.backfila/client-misk-hibernate",
-  "ts": 1753293069000,
+  "ts": 1753331273000,
   "dependency_count": 1,
   "ref_count": 78,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753293416338
+  "last_updated": 1753331816360
 }

@@ -1,11 +1,11 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-scala-generator_3",
-  "latest_version": "0.0.1-main.20250724.104.650.vfc1e9b6",
+  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
   "description": "Code generation for Scala",
   "id": "pkg:maven/com.daml/transcode-codegen-scala-generator_3",
-  "ts": 1753327854000,
-  "dependency_count": 1,
+  "ts": 1753331186000,
+  "dependency_count": 3,
   "ref_count": 31,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753328217832
+  "last_updated": 1753331817653
 }

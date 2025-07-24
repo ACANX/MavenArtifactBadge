@@ -1,10 +1,10 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-daml-lf-daml3.4_3",
-  "latest_version": "0.0.1-main.20250724.104.650.vfc1e9b6",
+  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
   "description": "Daml LF Schema extraction utilities",
   "id": "pkg:maven/com.daml/transcode-daml-lf-daml3.4_3",
-  "ts": 1753328034000,
+  "ts": 1753331342000,
   "dependency_count": 3,
   "ref_count": 30,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753328427216
+  "last_updated": 1753331816355
 }
