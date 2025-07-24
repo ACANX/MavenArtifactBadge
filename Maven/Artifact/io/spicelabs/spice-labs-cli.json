@@ -1,15 +1,15 @@
 {
   "group_id": "io.spicelabs",
   "artifact_id": "spice-labs-cli",
-  "latest_version": "0.2.14",
+  "latest_version": "0.2.15",
   "description": "Command-line interface for Spice Labs",
   "id": "pkg:maven/io.spicelabs/spice-labs-cli",
-  "ts": 1753396175000,
+  "ts": 1753397490000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753396615475
+  "last_updated": 1753398419258
 }
