@@ -1,0 +1,17 @@
+{
+  "group_id": "com.antgroup.antchain.openapi",
+  "artifact_id": "openapi-insurance_saas",
+  "latest_version": "1.9.4",
+  "description": "Ant Chain INSURANCE_SAAS SDK for Java",
+  "id": "pkg:maven/com.antgroup.antchain.openapi/openapi-insurance_saas",
+  "ts": 1753355414000,
+  "dependency_count": 0,
+  "ref_count": 24,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    ""
+  ],
+  "last_updated": 1753355820471
+}

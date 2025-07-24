@@ -1,0 +1,15 @@
+{
+  "group_id": "org.springframework.boot.aot",
+  "artifact_id": "org.springframework.boot.aot.gradle.plugin",
+  "latest_version": "3.5.4",
+  "description": "Spring Boot Gradle Plugins",
+  "id": "pkg:maven/org.springframework.boot.aot/org.springframework.boot.aot.gradle.plugin",
+  "ts": 1753355121000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753355821720
+}

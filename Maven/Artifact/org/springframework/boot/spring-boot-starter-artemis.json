@@ -1,0 +1,17 @@
+{
+  "group_id": "org.springframework.boot",
+  "artifact_id": "spring-boot-starter-artemis",
+  "latest_version": "3.5.4",
+  "description": "Starter for JMS messaging using Apache Artemis",
+  "id": "pkg:maven/org.springframework.boot/spring-boot-starter-artemis",
+  "ts": 1753355121000,
+  "dependency_count": 0,
+  "ref_count": 48,
+  "categories": [
+    "Dependency Injection and Aspect-Oriented"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753355820477
+}

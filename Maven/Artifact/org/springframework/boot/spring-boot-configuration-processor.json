@@ -1,0 +1,17 @@
+{
+  "group_id": "org.springframework.boot",
+  "artifact_id": "spring-boot-configuration-processor",
+  "latest_version": "3.5.4",
+  "description": "Spring Boot Configuration Annotation Processor",
+  "id": "pkg:maven/org.springframework.boot/spring-boot-configuration-processor",
+  "ts": 1753355121000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Dependency Injection and Aspect-Oriented"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753355821721
+}

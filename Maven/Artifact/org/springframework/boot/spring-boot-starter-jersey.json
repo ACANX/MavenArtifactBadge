@@ -1,0 +1,17 @@
+{
+  "group_id": "org.springframework.boot",
+  "artifact_id": "spring-boot-starter-jersey",
+  "latest_version": "3.5.4",
+  "description": "Starter for building RESTful web applications using JAX-RS and Jersey. An alternative to spring-boot-starter-web",
+  "id": "pkg:maven/org.springframework.boot/spring-boot-starter-jersey",
+  "ts": 1753355121000,
+  "dependency_count": 0,
+  "ref_count": 72,
+  "categories": [
+    "Dependency Injection and Aspect-Oriented"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753355822320
+}
