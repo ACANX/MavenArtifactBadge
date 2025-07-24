@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.josephlbarnett",
+  "artifact_id": "graphql",
+  "latest_version": "3.2.804",
+  "description": "Libraries for building kotlin services",
+  "id": "pkg:maven/io.github.josephlbarnett/graphql",
+  "ts": 1753314935000,
+  "dependency_count": 0,
+  "ref_count": 251,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753315615919
+}

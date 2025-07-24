@@ -1,0 +1,18 @@
+{
+  "group_id": "com.google.protobuf",
+  "artifact_id": "protobuf-kotlin-lite",
+  "latest_version": "4.32.0-RC1",
+  "description": "Kotlin lite Protocol Buffers library. Protocol Buffers are a way of encoding structured data in an\n    efficient yet extensible format.",
+  "id": "pkg:maven/com.google.protobuf/protobuf-kotlin-lite",
+  "ts": 1753314770000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Data Processors",
+    "Format"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753315616344
+}
