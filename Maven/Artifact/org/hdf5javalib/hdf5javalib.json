@@ -1,15 +1,15 @@
 {
   "group_id": "org.hdf5javalib",
   "artifact_id": "hdf5javalib",
-  "latest_version": "0.1.2",
+  "latest_version": "0.1.3",
   "description": "A Java library for reading and writing HDF5 files, supporting various data types and file structures.",
   "id": "pkg:maven/org.hdf5javalib/hdf5javalib",
-  "ts": 1753384008000,
+  "ts": 1753397086000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753384623187
+  "last_updated": 1753397631465
 }
