@@ -1,0 +1,17 @@
+{
+  "group_id": "com.gu.etag-caching",
+  "artifact_id": "aws-s3-sdk-v2_2.12",
+  "latest_version": "8.2.0-PREVIEW.support-logging-on-changed-values.2025-07-24T1438.0364f6f3",
+  "description": "aws-s3-sdk-v2",
+  "id": "pkg:maven/com.gu.etag-caching/aws-s3-sdk-v2_2.12",
+  "ts": 1753368214000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753369010558
+}

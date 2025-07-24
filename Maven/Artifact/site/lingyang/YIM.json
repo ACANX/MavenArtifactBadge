@@ -1,0 +1,15 @@
+{
+  "group_id": "site.lingyang",
+  "artifact_id": "YIM",
+  "latest_version": "5.0.1",
+  "description": "YIM for android",
+  "id": "pkg:maven/site.lingyang/YIM",
+  "ts": 1753368284000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "LGPL-3.0 license"
+  ],
+  "last_updated": 1753369009968
+}
