@@ -1,10 +1,10 @@
 {
   "group_id": "com.aliyun",
   "artifact_id": "dingtalk",
-  "latest_version": "2.2.30",
+  "latest_version": "2.2.31",
   "description": "Alibaba Cloud dingtalk SDK for Java",
   "id": "pkg:maven/com.aliyun/dingtalk",
-  "ts": 1753265203000,
+  "ts": 1753351490000,
   "dependency_count": 0,
   "ref_count": 34,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753265598430
+  "last_updated": 1753352114643
 }
