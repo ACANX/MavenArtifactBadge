@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "oauth2-authorization-server-autoconfigure",
+  "latest_version": "3.5.4.0",
+  "description": "Herodotus Cloud OAuth2 授权服务器必要组件自动配置模块",
+  "id": "pkg:maven/cn.herodotus.engine/oauth2-authorization-server-autoconfigure",
+  "ts": 1753367015000,
+  "dependency_count": 0,
+  "ref_count": 333,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821086
+}

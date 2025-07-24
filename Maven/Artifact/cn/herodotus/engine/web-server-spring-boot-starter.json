@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "web-server-spring-boot-starter",
+  "latest_version": "3.5.4.0",
+  "description": "Dante Cloud 基础 WebServer 配置模块",
+  "id": "pkg:maven/cn.herodotus.engine/web-server-spring-boot-starter",
+  "ts": 1753367015000,
+  "dependency_count": 3,
+  "ref_count": 118,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821087
+}

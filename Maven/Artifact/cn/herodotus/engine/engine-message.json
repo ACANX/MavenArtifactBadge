@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "engine-message",
+  "latest_version": "3.5.4.0",
+  "description": "Dante Engine",
+  "id": "pkg:maven/cn.herodotus.engine/engine-message",
+  "ts": 1753367015000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821539
+}
