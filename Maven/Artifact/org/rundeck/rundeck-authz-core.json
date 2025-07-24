@@ -1,0 +1,18 @@
+{
+  "group_id": "org.rundeck",
+  "artifact_id": "rundeck-authz-core",
+  "latest_version": "5.14.0-rc2-20250724",
+  "description": "Rundeck",
+  "id": "pkg:maven/org.rundeck/rundeck-authz-core",
+  "ts": 1753393033000,
+  "dependency_count": 2,
+  "ref_count": 1,
+  "categories": [
+    "Build Tools",
+    "Task Automation"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753393558777
+}
