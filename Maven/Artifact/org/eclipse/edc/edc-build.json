@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "edc-build",
+  "latest_version": "0.13.1",
+  "description": "edc :: edc-build",
+  "id": "pkg:maven/org.eclipse.edc/edc-build",
+  "ts": 1753363119000,
+  "dependency_count": 2,
+  "ref_count": 8,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363624365
+}

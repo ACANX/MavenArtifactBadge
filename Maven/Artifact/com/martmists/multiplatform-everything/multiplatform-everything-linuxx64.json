@@ -1,0 +1,15 @@
+{
+  "group_id": "com.martmists.multiplatform-everything",
+  "artifact_id": "multiplatform-everything-linuxx64",
+  "latest_version": "1.2.7",
+  "description": "Kotlin/Multiplatform NDArray with SIMD optimizations and low memory footprint",
+  "id": "pkg:maven/com.martmists.multiplatform-everything/multiplatform-everything-linuxx64",
+  "ts": 1753362942000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "3-Clause BSD NON-AI License"
+  ],
+  "last_updated": 1753363627062
+}

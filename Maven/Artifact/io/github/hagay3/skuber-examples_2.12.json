@@ -1,0 +1,17 @@
+{
+  "group_id": "io.github.hagay3",
+  "artifact_id": "skuber-examples_2.12",
+  "latest_version": "4.0.7",
+  "description": "skuber-examples",
+  "id": "pkg:maven/io.github.hagay3/skuber-examples_2.12",
+  "ts": 1753362986000,
+  "dependency_count": 0,
+  "ref_count": 41,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "APL2"
+  ],
+  "last_updated": 1753363627060
+}
