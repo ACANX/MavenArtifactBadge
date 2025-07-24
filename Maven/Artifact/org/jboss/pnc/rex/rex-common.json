@@ -1,0 +1,15 @@
+{
+  "group_id": "org.jboss.pnc.rex",
+  "artifact_id": "rex-common",
+  "latest_version": "1.1.1",
+  "description": "Clusterable scheduler of remotely executed tasks",
+  "id": "pkg:maven/org.jboss.pnc.rex/rex-common",
+  "ts": 1753371205000,
+  "dependency_count": 4,
+  "ref_count": 115,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753371567274
+}

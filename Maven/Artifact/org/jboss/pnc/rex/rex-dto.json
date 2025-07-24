@@ -1,0 +1,15 @@
+{
+  "group_id": "org.jboss.pnc.rex",
+  "artifact_id": "rex-dto",
+  "latest_version": "1.1.1",
+  "description": "Clusterable scheduler of remotely executed tasks",
+  "id": "pkg:maven/org.jboss.pnc.rex/rex-dto",
+  "ts": 1753371205000,
+  "dependency_count": 2,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753371567274
+}
