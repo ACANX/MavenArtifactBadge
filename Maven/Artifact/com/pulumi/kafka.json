@@ -1,0 +1,17 @@
+{
+  "group_id": "com.pulumi",
+  "artifact_id": "kafka",
+  "latest_version": "3.10.3",
+  "description": "A Pulumi package for creating and managing Kafka.",
+  "id": "pkg:maven/com.pulumi/kafka",
+  "ts": 1753329447000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753330018316
+}
