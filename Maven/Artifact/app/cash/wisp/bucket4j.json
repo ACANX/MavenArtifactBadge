@@ -1,0 +1,17 @@
+{
+  "group_id": "app.cash.wisp",
+  "artifact_id": "bucket4j",
+  "latest_version": "2025.07.24.144009-3d29489",
+  "description": "Provides a bucket4j backed implementation of Wisp's standard rate limiting interface",
+  "id": "pkg:maven/app.cash.wisp/bucket4j",
+  "ts": 1753369340000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753370219677
+}
