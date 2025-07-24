@@ -1,0 +1,15 @@
+{
+  "group_id": "com.turbomates",
+  "artifact_id": "ktor-audit",
+  "latest_version": "0.1.6",
+  "description": "Extensions for Hoplite config library",
+  "id": "pkg:maven/com.turbomates/ktor-audit",
+  "ts": 1753386490000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753387015804
+}

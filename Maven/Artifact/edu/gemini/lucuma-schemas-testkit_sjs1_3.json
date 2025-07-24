@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-schemas-testkit_sjs1_3",
+  "latest_version": "0.148.0",
+  "description": "testkit",
+  "id": "pkg:maven/edu.gemini/lucuma-schemas-testkit_sjs1_3",
+  "ts": 1753386507000,
+  "dependency_count": 0,
+  "ref_count": 76,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753387015803
+}
