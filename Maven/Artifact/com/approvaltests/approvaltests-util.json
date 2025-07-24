@@ -1,17 +1,17 @@
 {
   "group_id": "com.approvaltests",
   "artifact_id": "approvaltests-util",
-  "latest_version": "25.0.21",
+  "latest_version": "25.0.22",
   "description": "Utilities for ApprovalTests",
   "id": "pkg:maven/com.approvaltests/approvaltests-util",
-  "ts": 1753378324000,
+  "ts": 1753379661000,
   "dependency_count": 1,
-  "ref_count": 10,
+  "ref_count": 13,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753378620449
+  "last_updated": 1753380418351
 }

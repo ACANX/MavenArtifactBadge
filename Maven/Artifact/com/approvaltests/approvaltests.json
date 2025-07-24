@@ -1,17 +1,17 @@
 {
   "group_id": "com.approvaltests",
   "artifact_id": "approvaltests",
-  "latest_version": "25.0.21",
+  "latest_version": "25.0.22",
   "description": "Unit testing asserts made easy",
   "id": "pkg:maven/com.approvaltests/approvaltests",
-  "ts": 1753378324000,
+  "ts": 1753379661000,
   "dependency_count": 0,
-  "ref_count": 18,
+  "ref_count": 41,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753378620449
+  "last_updated": 1753380418352
 }
