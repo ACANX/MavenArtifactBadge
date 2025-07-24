@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-ui-service-actions",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-ui-service-actions",
-  "ts": 1753272414000,
+  "ts": 1753347840000,
   "dependency_count": 2,
   "ref_count": 0,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273623686
+  "last_updated": 1753348630476
 }

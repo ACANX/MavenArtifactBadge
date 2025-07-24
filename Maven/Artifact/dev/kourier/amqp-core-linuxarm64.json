@@ -1,15 +1,15 @@
 {
   "group_id": "dev.kourier",
   "artifact_id": "amqp-core-linuxarm64",
-  "latest_version": "0.0.6",
+  "latest_version": "0.0.7",
   "description": "Core AMQP models for kourier.",
   "id": "pkg:maven/dev.kourier/amqp-core-linuxarm64",
-  "ts": 1753279624000,
+  "ts": 1753347805000,
   "dependency_count": 1,
   "ref_count": 4,
   "categories": null,
   "licenses": [
-    "GPL-3.0"
+    "Apache 2.0"
   ],
-  "last_updated": 1753280824956
+  "last_updated": 1753348633068
 }

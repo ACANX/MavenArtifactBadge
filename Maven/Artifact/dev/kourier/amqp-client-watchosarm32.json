@@ -1,15 +1,15 @@
 {
   "group_id": "dev.kourier",
   "artifact_id": "amqp-client-watchosarm32",
-  "latest_version": "0.0.6",
+  "latest_version": "0.0.7",
   "description": "AMQP Client for kourier.",
   "id": "pkg:maven/dev.kourier/amqp-client-watchosarm32",
-  "ts": 1753279624000,
+  "ts": 1753347805000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": null,
   "licenses": [
-    "GPL-3.0"
+    "Apache 2.0"
   ],
-  "last_updated": 1753280825709
+  "last_updated": 1753348633621
 }

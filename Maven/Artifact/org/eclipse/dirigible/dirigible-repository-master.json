@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-repository-master",
+  "latest_version": "12.2.1",
+  "description": "Core modules packaged with Dirigible",
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-repository-master",
+  "ts": 1753347841000,
+  "dependency_count": 0,
+  "ref_count": 41,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Eclipse Public License - v 2.0"
+  ],
+  "last_updated": 1753348626633
+}

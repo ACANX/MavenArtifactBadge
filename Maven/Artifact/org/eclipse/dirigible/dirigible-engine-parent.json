@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-engine-parent",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-engine-parent",
-  "ts": 1753272414000,
+  "ts": 1753347841000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273629498
+  "last_updated": 1753348628231
 }

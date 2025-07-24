@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-ui-editor-csv",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-ui-editor-csv",
-  "ts": 1753272414000,
+  "ts": 1753347841000,
   "dependency_count": 2,
-  "ref_count": 44,
+  "ref_count": 19,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273628976
+  "last_updated": 1753348627755
 }

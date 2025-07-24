@@ -1,11 +1,11 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-repository-search",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": "Core modules packaged with Dirigible",
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-repository-search",
-  "ts": 1753272414000,
-  "dependency_count": 4,
+  "ts": 1753347840000,
+  "dependency_count": 5,
   "ref_count": 37,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Eclipse Public License - v 2.0"
   ],
-  "last_updated": 1753273625280
+  "last_updated": 1753348629411
 }
