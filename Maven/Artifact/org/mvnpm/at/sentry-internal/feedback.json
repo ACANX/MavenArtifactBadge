@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.sentry-internal",
+  "artifact_id": "feedback",
+  "latest_version": "9.41.0",
+  "description": "Sentry SDK integration for user feedback",
+  "id": "pkg:maven/org.mvnpm.at.sentry-internal/feedback",
+  "ts": 1753376223000,
+  "dependency_count": 1,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753376818086
+}
