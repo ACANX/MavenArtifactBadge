@@ -1,0 +1,17 @@
+{
+  "group_id": "io.joern",
+  "artifact_id": "macros_3",
+  "latest_version": "4.0.399",
+  "description": "macros",
+  "id": "pkg:maven/io.joern/macros_3",
+  "ts": 1753384381000,
+  "dependency_count": 3,
+  "ref_count": 41,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753385217747
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "io.joern",
+  "artifact_id": "console_3",
+  "latest_version": "4.0.399",
+  "description": "console",
+  "id": "pkg:maven/io.joern/console_3",
+  "ts": 1753384381000,
+  "dependency_count": 2,
+  "ref_count": 122,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753385217750
+}
