@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.binarywang",
+  "artifact_id": "wx-java-open-spring-boot-starter",
+  "latest_version": "4.7.7-20250724.154939",
+  "description": "微信开放平台开发的 Spring Boot Starter",
+  "id": "pkg:maven/com.github.binarywang/wx-java-open-spring-boot-starter",
+  "ts": 1753343570000,
+  "dependency_count": 0,
+  "ref_count": 81,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753344417558
+}

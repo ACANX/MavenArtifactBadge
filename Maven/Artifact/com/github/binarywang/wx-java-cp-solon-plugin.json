@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-cp-solon-plugin",
-  "latest_version": "4.7.7-20250724.151853",
+  "latest_version": "4.7.7-20250724.154939",
   "description": "微信企业号开发的 Solon Plugin",
   "id": "pkg:maven/com.github.binarywang/wx-java-cp-solon-plugin",
-  "ts": 1753341731000,
+  "ts": 1753343571000,
   "dependency_count": 0,
   "ref_count": 57,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753342199706
+  "last_updated": 1753344416989
 }
