@@ -1,0 +1,15 @@
+{
+  "group_id": "ph.samson.atbp",
+  "artifact_id": "atbp-cli_3",
+  "latest_version": "4.4",
+  "description": "atbp-cli",
+  "id": "pkg:maven/ph.samson.atbp/atbp-cli_3",
+  "ts": 1753340036000,
+  "dependency_count": 0,
+  "ref_count": 94,
+  "categories": null,
+  "licenses": [
+    "AGPL-3.0-or-later"
+  ],
+  "last_updated": 1753340397272
+}
