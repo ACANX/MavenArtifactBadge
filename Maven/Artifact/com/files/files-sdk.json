@@ -1,15 +1,15 @@
 {
   "group_id": "com.files",
   "artifact_id": "files-sdk",
-  "latest_version": "1.6.43",
+  "latest_version": "1.6.44",
   "description": "The Files.com Java client library provides convenient access to the Files.com API from JVM based applications.",
   "id": "pkg:maven/com.files/files-sdk",
-  "ts": 1753368077000,
+  "ts": 1753377811000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753369010560
+  "last_updated": 1753378620450
 }
