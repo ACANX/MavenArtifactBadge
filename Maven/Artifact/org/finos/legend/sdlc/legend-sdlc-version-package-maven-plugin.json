@@ -1,0 +1,17 @@
+{
+  "group_id": "org.finos.legend.sdlc",
+  "artifact_id": "legend-sdlc-version-package-maven-plugin",
+  "latest_version": "0.200.0",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "id": "pkg:maven/org.finos.legend.sdlc/legend-sdlc-version-package-maven-plugin",
+  "ts": 1753393980000,
+  "dependency_count": 0,
+  "ref_count": 41,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753394818068
+}

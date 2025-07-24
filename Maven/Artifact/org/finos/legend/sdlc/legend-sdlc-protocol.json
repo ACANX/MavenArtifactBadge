@@ -1,0 +1,17 @@
+{
+  "group_id": "org.finos.legend.sdlc",
+  "artifact_id": "legend-sdlc-protocol",
+  "latest_version": "0.200.0",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "id": "pkg:maven/org.finos.legend.sdlc/legend-sdlc-protocol",
+  "ts": 1753393980000,
+  "dependency_count": 13,
+  "ref_count": 8,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753394818067
+}
