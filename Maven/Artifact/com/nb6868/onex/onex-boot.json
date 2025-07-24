@@ -1,0 +1,15 @@
+{
+  "group_id": "com.nb6868.onex",
+  "artifact_id": "onex-boot",
+  "latest_version": "4.5.65",
+  "description": "OneX Admin Boot",
+  "id": "pkg:maven/com.nb6868.onex/onex-boot",
+  "ts": 1753318924000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753319218060
+}
