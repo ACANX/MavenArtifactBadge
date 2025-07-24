@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.congtuyenvip",
   "artifact_id": "oeg-sdk",
-  "latest_version": "1.0.16",
+  "latest_version": "1.0.17",
   "description": "Sdk for OEG's games",
   "id": "pkg:maven/io.github.congtuyenvip/oeg-sdk",
-  "ts": 1753247571000,
+  "ts": 1753332171000,
   "dependency_count": 0,
   "ref_count": 34,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753247819316
+  "last_updated": 1753333021484
 }
