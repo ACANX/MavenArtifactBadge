@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.j5ik2o",
+  "artifact_id": "event-store-adapter-java",
+  "latest_version": "1.2.58",
+  "description": "Event Store Adapter for Java",
+  "id": "pkg:maven/io.github.j5ik2o/event-store-adapter-java",
+  "ts": 1753316722000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "The MIT License"
+  ],
+  "last_updated": 1753317420973
+}
