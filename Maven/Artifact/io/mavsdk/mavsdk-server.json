@@ -1,0 +1,15 @@
+{
+  "group_id": "io.mavsdk",
+  "artifact_id": "mavsdk-server",
+  "latest_version": "3.8.0",
+  "description": "MAVSDK server for Android.",
+  "id": "pkg:maven/io.mavsdk/mavsdk-server",
+  "ts": 1753354212000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "BSD 3-Clause"
+  ],
+  "last_updated": 1753354612556
+}

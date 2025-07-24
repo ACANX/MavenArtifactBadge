@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.longportapp",
+  "artifact_id": "openapi-sdk",
+  "latest_version": "3.0.9",
+  "description": "LongPort OpenAPI SDK for Java",
+  "id": "pkg:maven/io.github.longportapp/openapi-sdk",
+  "ts": 1753353829000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753354612565
+}
