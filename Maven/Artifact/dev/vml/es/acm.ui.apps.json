@@ -1,15 +1,15 @@
 {
   "group_id": "dev.vml.es",
   "artifact_id": "acm.ui.apps",
-  "latest_version": "0.9.22",
+  "latest_version": "0.9.23",
   "description": "UI Apps package for AEM Content Manager",
   "id": "pkg:maven/dev.vml.es/acm.ui.apps",
-  "ts": 1753278985000,
+  "ts": 1753350825000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753279618079
+  "last_updated": 1753351618308
 }

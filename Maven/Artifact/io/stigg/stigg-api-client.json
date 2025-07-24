@@ -1,0 +1,15 @@
+{
+  "group_id": "io.stigg",
+  "artifact_id": "stigg-api-client",
+  "latest_version": "2.481.0",
+  "description": "API client for Stigg",
+  "id": "pkg:maven/io.stigg/stigg-api-client",
+  "ts": 1753351325000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "STIGG SDK LICENSE"
+  ],
+  "last_updated": 1753351618302
+}

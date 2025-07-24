@@ -1,0 +1,17 @@
+{
+  "group_id": "com.snowplowanalytics",
+  "artifact_id": "snowplow-common-enrich_2.12",
+  "latest_version": "6.0.0-rc11",
+  "description": "Common functionality for enriching raw Snowplow events",
+  "id": "pkg:maven/com.snowplowanalytics/snowplow-common-enrich_2.12",
+  "ts": 1753351005000,
+  "dependency_count": 0,
+  "ref_count": 231,
+  "categories": [
+    "Analytics"
+  ],
+  "licenses": [
+    "SLULA-1.1"
+  ],
+  "last_updated": 1753351618304
+}
