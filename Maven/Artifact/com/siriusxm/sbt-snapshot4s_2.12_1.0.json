@@ -1,15 +1,15 @@
 {
   "group_id": "com.siriusxm",
   "artifact_id": "sbt-snapshot4s_2.12_1.0",
-  "latest_version": "0.1.8-10-90cee53",
+  "latest_version": "0.1.8-11-38692d4",
   "description": "sbt-snapshot4s",
   "id": "pkg:maven/com.siriusxm/sbt-snapshot4s_2.12_1.0",
-  "ts": 1753371910000,
+  "ts": 1753373789000,
   "dependency_count": 0,
   "ref_count": 86,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753372358838
+  "last_updated": 1753374418683
 }
