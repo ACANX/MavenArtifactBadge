@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.andresviedma.poket",
   "artifact_id": "poket-guice",
-  "latest_version": "1.0.0-rc-9",
+  "latest_version": "1.0.0-rc-10",
   "description": "Kotlin utilities for advanced backends",
   "id": "pkg:maven/io.github.andresviedma.poket/poket-guice",
-  "ts": 1753395668000,
+  "ts": 1753396378000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": null,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753396616774
+  "last_updated": 1753396833917
 }
