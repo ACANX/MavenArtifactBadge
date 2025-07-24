@@ -1,10 +1,10 @@
 {
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-spring-starter",
-  "latest_version": "0.15.0-558",
+  "latest_version": "0.15.0-559",
   "description": "Interactive Jupyter-style console for Spring applications",
   "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-spring-starter",
-  "ts": 1753336079000,
+  "ts": 1753359566000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753336616582
+  "last_updated": 1753360428868
 }

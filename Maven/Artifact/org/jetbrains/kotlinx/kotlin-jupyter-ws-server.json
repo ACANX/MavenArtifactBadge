@@ -1,10 +1,10 @@
 {
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-ws-server",
-  "latest_version": "0.15.0-558",
+  "latest_version": "0.15.0-559",
   "description": "Kotlin Jupyter kernel with WebSocket protocol implementation",
   "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-ws-server",
-  "ts": 1753336079000,
+  "ts": 1753359566000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753336616584
+  "last_updated": 1753360428870
 }
