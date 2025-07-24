@@ -1,15 +1,15 @@
 {
   "group_id": "com.plumery.api",
   "artifact_id": "plumery-kotlin",
-  "latest_version": "0.6.1",
+  "latest_version": "0.7.0",
   "description": "Accounts object represents the accounts of a customer. It allows retrieval of\naccounts information.",
   "id": "pkg:maven/com.plumery.api/plumery-kotlin",
-  "ts": 1753329291000,
+  "ts": 1753386046000,
   "dependency_count": 0,
   "ref_count": 12,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753330018316
+  "last_updated": 1753386418698
 }
