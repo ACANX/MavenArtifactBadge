@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.themsp",
+  "artifact_id": "msp-core",
+  "latest_version": "2.3.0",
+  "description": "The industry-leading open-source header bidding solution",
+  "id": "pkg:maven/ai.themsp/msp-core",
+  "ts": 1753485003000,
+  "dependency_count": 0,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753485403142
+}
