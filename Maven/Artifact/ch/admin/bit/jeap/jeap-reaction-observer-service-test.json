@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-reaction-observer-service-test",
+  "latest_version": "1.8.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-service-test",
+  "ts": 1753453457000,
+  "dependency_count": 2,
+  "ref_count": 87,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454218511
+}

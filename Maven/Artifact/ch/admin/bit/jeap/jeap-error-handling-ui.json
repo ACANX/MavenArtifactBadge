@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-error-handling-ui",
+  "latest_version": "11.8.0",
+  "description": "JEAP Error Handling Parent",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-error-handling-ui",
+  "ts": 1753453658000,
+  "dependency_count": 1,
+  "ref_count": 39,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454218509
+}

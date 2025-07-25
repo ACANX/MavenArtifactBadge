@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-archrepo-test",
+  "latest_version": "1.28.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-test",
+  "ts": 1753453776000,
+  "dependency_count": 1,
+  "ref_count": 243,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454217927
+}
