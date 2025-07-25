@@ -1,10 +1,10 @@
 {
   "group_id": "info.unterrainer.commons",
   "artifact_id": "oauth-token-manager",
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.5",
   "description": "The parent-pom for all our java projects.",
   "id": "pkg:maven/info.unterrainer.commons/oauth-token-manager",
-  "ts": 1753427756000,
+  "ts": 1753436956000,
   "dependency_count": 0,
   "ref_count": 76,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Unlicense"
   ],
-  "last_updated": 1753428419464
+  "last_updated": 1753437421397
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "com.tencent.tcr",
   "artifact_id": "tcrsdk-lite",
-  "latest_version": "3.26.1",
+  "latest_version": "3.26.2",
   "description": "cloud render",
   "id": "pkg:maven/com.tencent.tcr/tcrsdk-lite",
-  "ts": 1753325697000,
+  "ts": 1753437164000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": null,
   "licenses": [
     "Tencent Binary License"
   ],
-  "last_updated": 1753326416435
+  "last_updated": 1753437420925
 }

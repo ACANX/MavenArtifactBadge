@@ -1,15 +1,15 @@
 {
   "group_id": "io.xdag",
   "artifact_id": "xdagj-crypto",
-  "latest_version": "0.1.0",
+  "latest_version": "0.1.2",
   "description": "A Java Crypto Library For XDAGJ",
   "id": "pkg:maven/io.xdag/xdagj-crypto",
-  "ts": 1753256243000,
+  "ts": 1753437014000,
   "dependency_count": 0,
   "ref_count": 40,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753256818737
+  "last_updated": 1753437421397
 }
