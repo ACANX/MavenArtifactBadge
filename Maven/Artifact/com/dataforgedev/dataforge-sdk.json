@@ -1,15 +1,15 @@
 {
   "group_id": "com.dataforgedev",
   "artifact_id": "dataforge-sdk",
-  "latest_version": "9.2.0-beta.11",
+  "latest_version": "9.2.0-rc.1",
   "description": "Dataforge SDK jar for DataForge Cloud usage",
   "id": "pkg:maven/com.dataforgedev/dataforge-sdk",
-  "ts": 1753367152000,
+  "ts": 1753454899000,
   "dependency_count": 0,
   "ref_count": 174,
   "categories": null,
   "licenses": [
     "DataForge License"
   ],
-  "last_updated": 1753367820154
+  "last_updated": 1753455401210
 }

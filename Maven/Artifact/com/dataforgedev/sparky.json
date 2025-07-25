@@ -1,15 +1,15 @@
 {
   "group_id": "com.dataforgedev",
   "artifact_id": "sparky",
-  "latest_version": "9.2.0-beta.11",
+  "latest_version": "9.2.0-rc.1",
   "description": "Sparky jar for DataForge Cloud usage",
   "id": "pkg:maven/com.dataforgedev/sparky",
-  "ts": 1753367250000,
+  "ts": 1753455001000,
   "dependency_count": 0,
   "ref_count": 222,
   "categories": null,
   "licenses": [
     "DataForge License"
   ],
-  "last_updated": 1753367820153
+  "last_updated": 1753455401205
 }
