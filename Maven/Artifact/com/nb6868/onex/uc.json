@@ -1,15 +1,15 @@
 {
   "group_id": "com.nb6868.onex",
   "artifact_id": "uc",
-  "latest_version": "4.5.65",
+  "latest_version": "4.5.66",
   "description": "用户中心",
   "id": "pkg:maven/com.nb6868.onex/uc",
-  "ts": 1753318924000,
+  "ts": 1753404681000,
   "dependency_count": 0,
   "ref_count": 112,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753319218059
+  "last_updated": 1753405019217
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "com.nb6868.onex",
   "artifact_id": "ip2region",
-  "latest_version": "4.5.65",
+  "latest_version": "4.5.66",
   "description": "离线IP地址定位",
   "id": "pkg:maven/com.nb6868.onex/ip2region",
-  "ts": 1753318924000,
+  "ts": 1753404681000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753319218060
+  "last_updated": 1753405019218
 }
