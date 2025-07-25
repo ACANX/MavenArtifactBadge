@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-csstype-js",
+  "latest_version": "2025.7.13-3.1.3",
+  "description": "Kotlin wrapper for CSSType",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-csstype-js",
+  "ts": 1753424143603,
+  "dependency_count": 3,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425417233
+}

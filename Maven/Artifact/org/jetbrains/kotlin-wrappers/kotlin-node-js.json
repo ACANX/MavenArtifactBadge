@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-node-js",
+  "latest_version": "2025.7.13-22.13.10",
+  "description": "Kotlin wrapper for Node.js",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-node-js",
+  "ts": 1753424243790,
+  "dependency_count": 8,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425415872
+}
