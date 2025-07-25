@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.brfkar",
+  "artifact_id": "framework",
+  "latest_version": "0.0.2",
+  "description": "Library to test MavenCentral upload",
+  "id": "pkg:maven/io.github.brfkar/framework",
+  "ts": 1753444965000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753445818396
+}
