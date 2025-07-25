@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.themsp",
+  "artifact_id": "unity-adapter",
+  "latest_version": "2.3.0",
+  "description": "Adapt Unity SDK to MSP Android SDK to support Unity Ads",
+  "id": "pkg:maven/ai.themsp/unity-adapter",
+  "ts": 1753485554000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753486017233
+}
