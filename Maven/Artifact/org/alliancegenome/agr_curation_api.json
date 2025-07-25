@@ -1,15 +1,15 @@
 {
   "group_id": "org.alliancegenome",
   "artifact_id": "agr_curation_api",
-  "latest_version": "v0.40.7",
+  "latest_version": "v0.40.8",
   "description": "This software is for using the curation api as a library",
   "id": "pkg:maven/org.alliancegenome/agr_curation_api",
-  "ts": 1753396029000,
+  "ts": 1753451640000,
   "dependency_count": 0,
   "ref_count": 665,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753396615475
+  "last_updated": 1753451945898
 }
