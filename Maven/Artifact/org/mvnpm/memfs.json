@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "memfs",
+  "latest_version": "4.19.0",
+  "description": "In-memory file-system with Node's fs API.",
+  "id": "pkg:maven/org.mvnpm/memfs",
+  "ts": 1753473965000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753474617760
+}
