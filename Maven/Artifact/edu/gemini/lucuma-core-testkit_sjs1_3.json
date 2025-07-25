@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-core-testkit_sjs1_3",
+  "latest_version": "0.137.2",
+  "description": "lucuma-core-testkit",
+  "id": "pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_3",
+  "ts": 1753451210000,
+  "dependency_count": 1,
+  "ref_count": 97,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753451818583
+}

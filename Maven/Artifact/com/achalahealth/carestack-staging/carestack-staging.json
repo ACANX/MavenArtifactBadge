@@ -1,15 +1,15 @@
 {
   "group_id": "com.achalahealth.carestack-staging",
   "artifact_id": "carestack-staging",
-  "latest_version": "1.0.6",
-  "description": "An application for Health Records Management",
+  "latest_version": "1.0.7",
+  "description": "A reactive Java SDK for the CareStack EHR platform, simplifying health records management with AI-powered FHIR bundle generation.",
   "id": "pkg:maven/com.achalahealth.carestack-staging/carestack-staging",
-  "ts": 1753428606000,
+  "ts": 1753451495000,
   "dependency_count": 0,
   "ref_count": 118,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753429515290
+  "last_updated": 1753451818578
 }
