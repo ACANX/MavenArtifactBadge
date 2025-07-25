@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "apache5-client",
+  "latest_version": "2.32.9-PREVIEW",
+  "description": null,
+  "id": "pkg:maven/software.amazon.awssdk/apache5-client",
+  "ts": 1753478241000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478822215
+}

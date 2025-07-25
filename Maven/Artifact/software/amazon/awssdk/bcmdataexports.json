@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "bcmdataexports",
+  "latest_version": "2.32.9",
+  "description": "The AWS Java SDK for BCM Data Exports module holds the client classes that are used for\n        communicating with BCM Data Exports.",
+  "id": "pkg:maven/software.amazon.awssdk/bcmdataexports",
+  "ts": 1753478161000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478822819
+}

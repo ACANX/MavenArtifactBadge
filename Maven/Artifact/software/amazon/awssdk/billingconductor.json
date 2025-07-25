@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "billingconductor",
+  "latest_version": "2.32.9",
+  "description": "The AWS Java SDK for Billingconductor module holds the client classes that are used for\n        communicating with Billingconductor.",
+  "id": "pkg:maven/software.amazon.awssdk/billingconductor",
+  "ts": 1753478129000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478823381
+}

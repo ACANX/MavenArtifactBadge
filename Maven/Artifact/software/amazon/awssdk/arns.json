@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "arns",
+  "latest_version": "2.32.9",
+  "description": "The AWS SDK for Java - Arns module holds the classes that are related to AWS ARN",
+  "id": "pkg:maven/software.amazon.awssdk/arns",
+  "ts": 1753478180000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478822814
+}
