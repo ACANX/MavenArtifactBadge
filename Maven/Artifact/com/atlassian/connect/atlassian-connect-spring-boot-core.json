@@ -1,10 +1,10 @@
 {
   "group_id": "com.atlassian.connect",
   "artifact_id": "atlassian-connect-spring-boot-core",
-  "latest_version": "5.1.13",
+  "latest_version": "5.1.15",
   "description": "Provides the core of Atlassian Connect for Spring Boot",
   "id": "pkg:maven/com.atlassian.connect/atlassian-connect-spring-boot-core",
-  "ts": 1753342110000,
+  "ts": 1753429803000,
   "dependency_count": 1,
   "ref_count": 71,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753342617673
+  "last_updated": 1753430219738
 }
