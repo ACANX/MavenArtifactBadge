@@ -1,15 +1,15 @@
 {
   "group_id": "software.sava",
   "artifact_id": "sava-rpc",
-  "latest_version": "24.20.0",
+  "latest_version": "24.21.0",
   "description": "Solana Java Core & RPC SDK",
   "id": "pkg:maven/software.sava/sava-rpc",
-  "ts": 1753396894000,
+  "ts": 1753481013000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "Apache License"
   ],
-  "last_updated": 1753397216025
+  "last_updated": 1753481821195
 }
