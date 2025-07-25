@@ -1,15 +1,15 @@
 {
   "group_id": "cn.devtech.libs",
   "artifact_id": "music-service-dropbox",
-  "latest_version": "0.0.2",
+  "latest_version": "0.0.3",
   "description": "Dropbox music service",
   "id": "pkg:maven/cn.devtech.libs/music-service-dropbox",
-  "ts": 1753350861000,
+  "ts": 1753407099000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753351618305
+  "last_updated": 1753407419517
 }
