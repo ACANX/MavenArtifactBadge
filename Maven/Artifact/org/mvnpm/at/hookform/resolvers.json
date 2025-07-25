@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.hookform",
+  "artifact_id": "resolvers",
+  "latest_version": "5.2.0",
+  "description": "React Hook Form validation resolvers: Yup, Joi, Superstruct, Zod, Vest, Class Validator, io-ts, Nope, computed-types, TypeBox, arktype, Typanion, Effect-TS and VineJS",
+  "id": "pkg:maven/org.mvnpm.at.hookform/resolvers",
+  "ts": 1753460825000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753461932827
+}

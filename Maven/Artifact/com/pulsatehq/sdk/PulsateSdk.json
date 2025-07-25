@@ -1,0 +1,15 @@
+{
+  "group_id": "com.pulsatehq.sdk",
+  "artifact_id": "PulsateSdk",
+  "latest_version": "4.7.12",
+  "description": "Pulsate SDK",
+  "id": "pkg:maven/com.pulsatehq.sdk/PulsateSdk",
+  "ts": 1753461377000,
+  "dependency_count": 0,
+  "ref_count": 55,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753461932825
+}
