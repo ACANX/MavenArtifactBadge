@@ -1,15 +1,15 @@
 {
   "group_id": "net.xdob.ratly",
   "artifact_id": "ratly-client",
-  "latest_version": "2.8.0",
+  "latest_version": "2.10.0",
   "description": "Distributed Database with Strong Consistency Based on Raft Protocol",
   "id": "pkg:maven/net.xdob.ratly/ratly-client",
-  "ts": 1753263736000,
+  "ts": 1753427752000,
   "dependency_count": 10,
-  "ref_count": 33,
+  "ref_count": 38,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753265221193
+  "last_updated": 1753428419829
 }
