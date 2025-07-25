@@ -1,0 +1,17 @@
+{
+  "group_id": "io.github.assimbly",
+  "artifact_id": "docconverter",
+  "latest_version": "1.14.2",
+  "description": "library to convert between XML, JSON and YAML documents",
+  "id": "pkg:maven/io.github.assimbly/docconverter",
+  "ts": 1753405707000,
+  "dependency_count": 0,
+  "ref_count": 37,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753406219255
+}
