@@ -1,10 +1,10 @@
 {
   "group_id": "com.steamstreet",
   "artifact_id": "awskt-lambda-logging",
-  "latest_version": "2.1.32",
+  "latest_version": "2.1.33",
   "description": "Helpers for logging in Lambdas in Kotlin",
   "id": "pkg:maven/com.steamstreet/awskt-lambda-logging",
-  "ts": 1753291602000,
+  "ts": 1753404753000,
   "dependency_count": 1,
   "ref_count": 11,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753292221514
+  "last_updated": 1753405621930
 }

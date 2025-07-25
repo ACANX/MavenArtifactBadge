@@ -1,10 +1,10 @@
 {
   "group_id": "com.steamstreet",
   "artifact_id": "awskt-lambda-appsync",
-  "latest_version": "2.1.32",
+  "latest_version": "2.1.33",
   "description": "Help for building AppSync lambdas in Kotlin",
   "id": "pkg:maven/com.steamstreet/awskt-lambda-appsync",
-  "ts": 1753291602000,
+  "ts": 1753404753000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753292221513
+  "last_updated": 1753405621925
 }
