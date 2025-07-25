@@ -1,15 +1,15 @@
 {
   "group_id": "xyz.rementia",
   "artifact_id": "openwakeword",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.3",
   "description": "Kotlin library for on-device wake word detection on Android using ONNX Runtime",
   "id": "pkg:maven/xyz.rementia/openwakeword",
-  "ts": 1753458609000,
+  "ts": 1753460033000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753459019244
+  "last_updated": 1753460820583
 }
