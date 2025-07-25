@@ -1,15 +1,15 @@
 {
   "group_id": "com.madgag.play-git-hub",
   "artifact_id": "testkit_2.13",
-  "latest_version": "7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1048.285e20d4",
+  "latest_version": "7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1118.a6497ce8",
   "description": "testkit",
   "id": "pkg:maven/com.madgag.play-git-hub/testkit_2.13",
-  "ts": 1753440743000,
+  "ts": 1753442472000,
   "dependency_count": 0,
   "ref_count": 93,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753441616185
+  "last_updated": 1753442818738
 }
