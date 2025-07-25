@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-miniapp-spring-boot-starter",
-  "latest_version": "4.7.7-20250725.113601",
+  "latest_version": "4.7.7-20250725.114118",
   "description": "微信小程序开发的 Spring Boot Starter",
   "id": "pkg:maven/com.github.binarywang/wx-java-miniapp-spring-boot-starter",
-  "ts": 1753414751000,
+  "ts": 1753415063000,
   "dependency_count": 0,
   "ref_count": 89,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415221542
+  "last_updated": 1753415817745
 }
