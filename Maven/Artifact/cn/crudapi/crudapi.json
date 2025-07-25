@@ -1,0 +1,15 @@
+{
+  "group_id": "cn.crudapi",
+  "artifact_id": "crudapi",
+  "latest_version": "0.0.4",
+  "description": "Zero code generation crud RESTful api",
+  "id": "pkg:maven/cn.crudapi/crudapi",
+  "ts": 1753449958000,
+  "dependency_count": 0,
+  "ref_count": 81,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753450616396
+}

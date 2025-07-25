@@ -1,0 +1,15 @@
+{
+  "group_id": "com.palantir.gradle.plugintesting",
+  "artifact_id": "plugin-testing-core",
+  "latest_version": "0.9.0",
+  "description": "Palantir open source project",
+  "id": "pkg:maven/com.palantir.gradle.plugintesting/plugin-testing-core",
+  "ts": 1753449797000,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753450616935
+}

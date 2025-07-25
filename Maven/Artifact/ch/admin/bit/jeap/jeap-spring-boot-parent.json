@@ -1,15 +1,15 @@
 {
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-spring-boot-parent",
-  "latest_version": "26.70.0",
+  "latest_version": "26.71.0",
   "description": "A common parent project",
   "id": "pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-parent",
-  "ts": 1753362898000,
+  "ts": 1753449895000,
   "dependency_count": 0,
   "ref_count": 39,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753363627064
+  "last_updated": 1753450616397
 }
