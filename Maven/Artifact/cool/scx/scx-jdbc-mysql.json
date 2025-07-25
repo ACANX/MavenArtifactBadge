@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-jdbc-mysql",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX JDBC MySQL",
   "id": "pkg:maven/cool.scx/scx-jdbc-mysql",
-  "ts": 1753437607000,
+  "ts": 1753440559000,
   "dependency_count": 2,
   "ref_count": 17,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438623489
+  "last_updated": 1753441019842
 }

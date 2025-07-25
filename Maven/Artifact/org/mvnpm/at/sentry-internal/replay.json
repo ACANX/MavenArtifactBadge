@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.sentry-internal",
   "artifact_id": "replay",
-  "latest_version": "9.41.0",
+  "latest_version": "9.42.0",
   "description": "User replays for Sentry",
   "id": "pkg:maven/org.mvnpm.at.sentry-internal/replay",
-  "ts": 1753373884000,
-  "dependency_count": 1,
+  "ts": 1753440665000,
+  "dependency_count": 2,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753374418009
+  "last_updated": 1753441019839
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-io",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX IO",
   "id": "pkg:maven/cool.scx/scx-io",
-  "ts": 1753437607000,
-  "dependency_count": 9,
+  "ts": 1753440559000,
+  "dependency_count": 7,
   "ref_count": 5,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438623489
+  "last_updated": 1753441019843
 }

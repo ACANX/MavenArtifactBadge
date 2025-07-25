@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-websocket-routing",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX WebSocket Routing",
   "id": "pkg:maven/cool.scx/scx-websocket-routing",
-  "ts": 1753437607000,
-  "dependency_count": 2,
-  "ref_count": 17,
+  "ts": 1753440559000,
+  "dependency_count": 1,
+  "ref_count": 3,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622967
+  "last_updated": 1753441019845
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-jdbc-spy",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX JDBC Spy",
   "id": "pkg:maven/cool.scx/scx-jdbc-spy",
-  "ts": 1753437607000,
+  "ts": 1753440559000,
   "dependency_count": 3,
   "ref_count": 13,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622970
+  "last_updated": 1753441019843
 }

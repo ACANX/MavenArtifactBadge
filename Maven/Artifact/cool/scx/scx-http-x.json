@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-http-x",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX HTTP X",
   "id": "pkg:maven/cool.scx/scx-http-x",
-  "ts": 1753437607000,
+  "ts": 1753440559000,
   "dependency_count": 3,
-  "ref_count": 18,
+  "ref_count": 9,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438623489
+  "last_updated": 1753441019842
 }

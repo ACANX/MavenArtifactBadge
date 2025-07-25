@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "A simple Web development framework",
   "id": "pkg:maven/cool.scx/scx",
-  "ts": 1753437607000,
+  "ts": 1753440559000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622966
+  "last_updated": 1753441020466
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-scheduling",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX Scheduling",
   "id": "pkg:maven/cool.scx/scx-scheduling",
-  "ts": 1753437607000,
+  "ts": 1753440559000,
   "dependency_count": 1,
   "ref_count": 5,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622968
+  "last_updated": 1753441020467
 }

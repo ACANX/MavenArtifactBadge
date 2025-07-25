@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-http-routing",
-  "latest_version": "3.8.7",
+  "latest_version": "3.8.8",
   "description": "SCX HTTP Routing",
   "id": "pkg:maven/cool.scx/scx-http-routing",
-  "ts": 1753437607000,
-  "dependency_count": 4,
+  "ts": 1753440559000,
+  "dependency_count": 3,
   "ref_count": 15,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622969
+  "last_updated": 1753441019845
 }
