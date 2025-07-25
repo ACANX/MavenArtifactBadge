@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-oauth-mock-server",
+  "latest_version": "3.12.0",
+  "description": "OAuth / OpenID Connect Server to use as a mock in tests and local development",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server",
+  "ts": 1753452995000,
+  "dependency_count": 1,
+  "ref_count": 117,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548131
+}

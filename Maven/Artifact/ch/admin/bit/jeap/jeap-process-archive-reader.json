@@ -1,12 +1,12 @@
 {
   "group_id": "ch.admin.bit.jeap",
-  "artifact_id": "jeap-initializer",
-  "latest_version": "2.16.0",
+  "artifact_id": "jeap-process-archive-reader",
+  "latest_version": "1.24.0",
   "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-initializer",
-  "ts": 1753452993000,
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-process-archive-reader",
+  "ts": 1753452972000,
   "dependency_count": 0,
-  "ref_count": 121,
+  "ref_count": 97,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"

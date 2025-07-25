@@ -1,15 +1,15 @@
 {
   "group_id": "ch.admin.bit.jeap",
-  "artifact_id": "jeap-initializer-parent",
-  "latest_version": "2.16.0",
+  "artifact_id": "jeap-deploymentlog-service",
+  "latest_version": "2.10.0",
   "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-initializer-parent",
-  "ts": 1753452993000,
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-service",
+  "ts": 1753453151000,
   "dependency_count": 0,
   "ref_count": 39,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753453548715
+  "last_updated": 1753453548127
 }

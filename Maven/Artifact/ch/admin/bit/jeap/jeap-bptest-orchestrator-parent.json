@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-bptest-orchestrator-parent",
+  "latest_version": "3.33.0",
+  "description": "Parent project of the jEAP Business Process Test Orchestrator",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator-parent",
+  "ts": 1753453024000,
+  "dependency_count": 0,
+  "ref_count": 39,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548130
+}
