@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.atlaskit",
+  "artifact_id": "feature-gate-js-client",
+  "latest_version": "5.5.2",
+  "description": "Atlassians wrapper for the Statsig js-lite client.",
+  "id": "pkg:maven/org.mvnpm.at.atlaskit/feature-gate-js-client",
+  "ts": 1753430766000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753431418508
+}
