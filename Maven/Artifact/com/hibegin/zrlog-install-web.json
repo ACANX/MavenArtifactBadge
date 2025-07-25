@@ -1,10 +1,10 @@
 {
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-install-web",
-  "latest_version": "3.2.5",
+  "latest_version": "3.2.8",
   "description": "ZrLog install web",
   "id": "pkg:maven/com.hibegin/zrlog-install-web",
-  "ts": 1753416956000,
+  "ts": 1753420900000,
   "dependency_count": 0,
   "ref_count": 13,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753417619912
+  "last_updated": 1753421217324
 }
