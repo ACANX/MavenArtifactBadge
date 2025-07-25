@@ -1,0 +1,15 @@
+{
+  "group_id": "io.orkes.conductor",
+  "artifact_id": "orkes-conductor-client-spring",
+  "latest_version": "4.0.12",
+  "description": "Spring autoconfig for Orkes Conductor Client and SDK",
+  "id": "pkg:maven/io.orkes.conductor/orkes-conductor-client-spring",
+  "ts": 1753439609000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753440420491
+}

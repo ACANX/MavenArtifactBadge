@@ -1,15 +1,15 @@
 {
   "group_id": "cool.scx",
   "artifact_id": "scx-object",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "description": "SCX Object",
   "id": "pkg:maven/cool.scx/scx-object",
-  "ts": 1753435588000,
+  "ts": 1753440077000,
   "dependency_count": 0,
   "ref_count": 8,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753436820221
+  "last_updated": 1753440420490
 }
