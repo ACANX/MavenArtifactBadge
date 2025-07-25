@@ -1,0 +1,17 @@
+{
+  "group_id": "com.apihug",
+  "artifact_id": "it-common-api",
+  "latest_version": "1.4.2-M1",
+  "description": "null",
+  "id": "pkg:maven/com.apihug/it-common-api",
+  "ts": 1753430225000,
+  "dependency_count": 11,
+  "ref_count": 9,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "GNU LESSER GENERAL PUBLIC LICENSE"
+  ],
+  "last_updated": 1753430818654
+}

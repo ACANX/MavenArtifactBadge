@@ -1,0 +1,17 @@
+{
+  "group_id": "com.apihug",
+  "artifact_id": "it-common-spring-data",
+  "latest_version": "1.4.2-M1",
+  "description": "null",
+  "id": "pkg:maven/com.apihug/it-common-spring-data",
+  "ts": 1753430225000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "GNU LESSER GENERAL PUBLIC LICENSE"
+  ],
+  "last_updated": 1753430819416
+}
