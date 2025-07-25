@@ -1,10 +1,10 @@
 {
   "group_id": "com.deliveryhero.whetstone",
   "artifact_id": "whetstone-gradle-plugin",
-  "latest_version": "1.1.3",
+  "latest_version": "1.1.4",
   "description": "Whetstone gradle plugin",
   "id": "pkg:maven/com.deliveryhero.whetstone/whetstone-gradle-plugin",
-  "ts": 1753432248000,
+  "ts": 1753472713000,
   "dependency_count": 1,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753432619376
+  "last_updated": 1753474019174
 }
