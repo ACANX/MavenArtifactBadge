@@ -1,0 +1,15 @@
+{
+  "group_id": "io.gravitee.llama.cpp",
+  "artifact_id": "llamaj.cpp",
+  "latest_version": "0.4.9",
+  "description": "Llamaj.cpp (contraction of llama.cpp and java/jextract) is a port of llama.cpp in the JVM using jextract.",
+  "id": "pkg:maven/io.gravitee.llama.cpp/llamaj.cpp",
+  "ts": 1753448988000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753449418675
+}
