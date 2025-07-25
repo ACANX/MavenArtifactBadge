@@ -1,10 +1,10 @@
 {
   "group_id": "com.apihug",
   "artifact_id": "it-common-spring-core",
-  "latest_version": "1.4.2-M1",
+  "latest_version": "1.4.2-RELEASE",
   "description": "null",
   "id": "pkg:maven/com.apihug/it-common-spring-core",
-  "ts": 1753430225000,
+  "ts": 1753434788000,
   "dependency_count": 1,
   "ref_count": 4,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "GNU LESSER GENERAL PUBLIC LICENSE"
   ],
-  "last_updated": 1753430818657
+  "last_updated": 1753435618832
 }
