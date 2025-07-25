@@ -1,0 +1,15 @@
+{
+  "group_id": "in.dezerv",
+  "artifact_id": "portfolio_tracker_sdk",
+  "latest_version": "0.1.0",
+  "description": "portfolio_tracker_sdk: Portfolio tracker for your Application",
+  "id": "pkg:maven/in.dezerv/portfolio_tracker_sdk",
+  "ts": 1753441535000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753442219742
+}
