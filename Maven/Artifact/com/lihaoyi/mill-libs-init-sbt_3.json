@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-sbt_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-init-sbt",
   "id": "pkg:maven/com.lihaoyi/mill-libs-init-sbt_3",
-  "ts": 1753282354000,
+  "ts": 1753437987000,
   "dependency_count": 0,
-  "ref_count": 15,
+  "ref_count": 47,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219763
+  "last_updated": 1753438620703
 }

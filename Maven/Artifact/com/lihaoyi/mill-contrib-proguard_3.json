@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-proguard_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-contrib-proguard",
   "id": "pkg:maven/com.lihaoyi/mill-contrib-proguard_3",
-  "ts": 1753282233000,
+  "ts": 1753437910000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283220252
+  "last_updated": 1753438621859
 }

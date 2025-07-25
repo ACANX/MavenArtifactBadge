@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-maven-worker_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-javalib-maven-worker",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-maven-worker_3",
-  "ts": 1753282476000,
+  "ts": 1753437995000,
   "dependency_count": 0,
   "ref_count": 86,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283218942
+  "last_updated": 1753438620701
 }

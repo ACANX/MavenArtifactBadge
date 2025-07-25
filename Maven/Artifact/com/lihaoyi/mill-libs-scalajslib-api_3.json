@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalajslib-api_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-scalajslib-api",
   "id": "pkg:maven/com.lihaoyi/mill-libs-scalajslib-api_3",
-  "ts": 1753282480000,
+  "ts": 1753438025000,
   "dependency_count": 3,
   "ref_count": 8,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283218524
+  "last_updated": 1753438620179
 }

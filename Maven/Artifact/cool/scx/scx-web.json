@@ -1,0 +1,15 @@
+{
+  "group_id": "cool.scx",
+  "artifact_id": "scx-web",
+  "latest_version": "3.8.7",
+  "description": "SCX Web",
+  "id": "pkg:maven/cool.scx/scx-web",
+  "ts": 1753437607000,
+  "dependency_count": 1,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753438622967
+}

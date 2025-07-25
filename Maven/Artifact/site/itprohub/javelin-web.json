@@ -1,15 +1,15 @@
 {
   "group_id": "site.itprohub",
   "artifact_id": "javelin-web",
-  "latest_version": "1.0.3",
+  "latest_version": "1.0.4",
   "description": "Lightweight Java framework",
   "id": "pkg:maven/site.itprohub/javelin-web",
-  "ts": 1753430916000,
+  "ts": 1753437494000,
   "dependency_count": 0,
   "ref_count": 26,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753431418507
+  "last_updated": 1753438623490
 }

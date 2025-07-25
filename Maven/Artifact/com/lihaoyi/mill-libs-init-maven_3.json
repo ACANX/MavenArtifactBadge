@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-maven_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-init-maven",
   "id": "pkg:maven/com.lihaoyi/mill-libs-init-maven_3",
-  "ts": 1753282342000,
+  "ts": 1753437979000,
   "dependency_count": 0,
-  "ref_count": 57,
+  "ref_count": 95,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219765
+  "last_updated": 1753438621227
 }

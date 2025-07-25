@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-exec_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-core-exec",
   "id": "pkg:maven/com.lihaoyi/mill-core-exec_3",
-  "ts": 1753282269000,
+  "ts": 1753437937000,
   "dependency_count": 3,
   "ref_count": 28,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283220247
+  "last_updated": 1753438621231
 }

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.bakdata.kafka",
+  "artifact_id": "streams-bootstrap-core",
+  "latest_version": "5.1.1",
+  "description": "Collection of commonly used modules when writing a Kafka Streams Application",
+  "id": "pkg:maven/com.bakdata.kafka/streams-bootstrap-core",
+  "ts": 1753437785000,
+  "dependency_count": 3,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753438622495
+}

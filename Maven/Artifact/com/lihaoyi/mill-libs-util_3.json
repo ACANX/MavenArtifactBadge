@@ -1,11 +1,11 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-util_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-util",
   "id": "pkg:maven/com.lihaoyi/mill-libs-util_3",
-  "ts": 1753282446000,
-  "dependency_count": 23,
+  "ts": 1753438049000,
+  "dependency_count": 35,
   "ref_count": 74,
   "categories": [
     "Other"
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219352
+  "last_updated": 1753438620176
 }

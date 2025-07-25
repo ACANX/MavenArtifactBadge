@@ -1,15 +1,15 @@
 {
   "group_id": "site.itprohub",
   "artifact_id": "javelin-core",
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.4",
   "description": "Lightweight Java framework",
   "id": "pkg:maven/site.itprohub/javelin-core",
-  "ts": 1753344421000,
-  "dependency_count": 0,
+  "ts": 1753437430000,
+  "dependency_count": 1,
   "ref_count": 28,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753345020428
+  "last_updated": 1753438623492
 }

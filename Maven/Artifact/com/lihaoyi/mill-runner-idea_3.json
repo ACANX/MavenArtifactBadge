@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-idea_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-runner-idea",
   "id": "pkg:maven/com.lihaoyi/mill-runner-idea_3",
-  "ts": 1753282464000,
+  "ts": 1753438061000,
   "dependency_count": 1,
   "ref_count": 37,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219349
+  "last_updated": 1753438620174
 }

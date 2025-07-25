@@ -1,0 +1,15 @@
+{
+  "group_id": "cool.scx",
+  "artifact_id": "scx-codec",
+  "latest_version": "3.8.7",
+  "description": "SCX Codec",
+  "id": "pkg:maven/cool.scx/scx-codec",
+  "ts": 1753437607000,
+  "dependency_count": 3,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753438622969
+}

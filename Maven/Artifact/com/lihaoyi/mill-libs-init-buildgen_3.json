@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-buildgen_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-22-3ffc87",
   "description": "mill-libs-init-buildgen",
   "id": "pkg:maven/com.lihaoyi/mill-libs-init-buildgen_3",
-  "ts": 1753282336000,
+  "ts": 1753437976000,
   "dependency_count": 3,
-  "ref_count": 10,
+  "ref_count": 52,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219766
+  "last_updated": 1753438621228
 }
