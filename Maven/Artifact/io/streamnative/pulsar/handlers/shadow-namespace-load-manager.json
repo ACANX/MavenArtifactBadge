@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "shadow-namespace-load-manager",
+  "latest_version": "4.0.5.4",
+  "description": "The load manager that implements the shadow namespace concept",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/shadow-namespace-load-manager",
+  "ts": 1753464133000,
+  "dependency_count": 6,
+  "ref_count": 292,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419447
+}

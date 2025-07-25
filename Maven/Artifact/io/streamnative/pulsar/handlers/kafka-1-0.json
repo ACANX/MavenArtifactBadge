@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "kafka-1-0",
+  "latest_version": "4.0.5.4",
+  "description": "The Kafka client wrapper for 1.0.0",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/kafka-1-0",
+  "ts": 1753464133000,
+  "dependency_count": 2,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419831
+}

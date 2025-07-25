@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "kafka-rest-servlet",
+  "latest_version": "4.0.5.4",
+  "description": "Kafka REST API servlet for Pulsar",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/kafka-rest-servlet",
+  "ts": 1753464133000,
+  "dependency_count": 1,
+  "ref_count": 307,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419445
+}
