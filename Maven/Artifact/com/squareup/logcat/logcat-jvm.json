@@ -1,0 +1,15 @@
+{
+  "group_id": "com.squareup.logcat",
+  "artifact_id": "logcat-jvm",
+  "latest_version": "0.3",
+  "description": "A tiny Kotlin API for cheap logging on top of Android's normal Log class.",
+  "id": "pkg:maven/com.squareup.logcat/logcat-jvm",
+  "ts": 1753427289000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753427816262
+}

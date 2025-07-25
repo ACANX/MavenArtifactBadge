@@ -1,15 +1,15 @@
 {
   "group_id": "com.sceyt",
   "artifact_id": "sceyt-chat-android-sdk",
-  "latest_version": "1.7.6",
+  "latest_version": "1.7.7",
   "description": "Sceyt Chat Android SDK",
   "id": "pkg:maven/com.sceyt/sceyt-chat-android-sdk",
-  "ts": 1753355647000,
+  "ts": 1753427148000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753355915157
+  "last_updated": 1753427816263
 }
