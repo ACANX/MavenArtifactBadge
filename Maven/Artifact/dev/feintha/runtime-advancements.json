@@ -1,15 +1,15 @@
 {
   "group_id": "dev.feintha",
   "artifact_id": "runtime-advancements",
-  "latest_version": "1.0",
+  "latest_version": "1.0.1",
   "description": "Utility for runtime advancement generation for Fabric",
   "id": "pkg:maven/dev.feintha/runtime-advancements",
-  "ts": 1753386977000,
+  "ts": 1753421840000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753387619415
+  "last_updated": 1753422419641
 }

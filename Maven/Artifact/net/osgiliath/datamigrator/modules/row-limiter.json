@@ -1,15 +1,15 @@
 {
   "group_id": "net.osgiliath.datamigrator.modules",
   "artifact_id": "row-limiter",
-  "latest_version": "1.104",
+  "latest_version": "1.105",
   "description": "Parent pom providing dependency and plugin management for applications built with Maven",
   "id": "pkg:maven/net.osgiliath.datamigrator.modules/row-limiter",
-  "ts": 1753298888000,
+  "ts": 1753421864000,
   "dependency_count": 0,
   "ref_count": 153,
   "categories": null,
   "licenses": [
     "Apache Licence 2.0"
   ],
-  "last_updated": 1753299418260
+  "last_updated": 1753422419638
 }
