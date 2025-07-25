@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-boot-undertow-add-jsp",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-boot-undertow-add-jsp",
-  "ts": 1753362003000,
+  "ts": 1753483151000,
   "dependency_count": 1,
   "ref_count": 13,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363026514
+  "last_updated": 1753483445245
 }

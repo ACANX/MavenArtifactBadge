@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "nami.coder.hessian",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/nami.coder.hessian",
-  "ts": 1753361756000,
+  "ts": 1753482967000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753362420408
+  "last_updated": 1753483448876
 }

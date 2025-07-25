@@ -1,11 +1,11 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-logging",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-logging",
-  "ts": 1753361829000,
-  "dependency_count": 4,
+  "ts": 1753483002000,
+  "dependency_count": 5,
   "ref_count": 3,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753362418281
+  "last_updated": 1753483447185
 }
