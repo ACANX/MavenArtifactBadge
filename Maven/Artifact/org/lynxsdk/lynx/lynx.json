@@ -1,0 +1,15 @@
+{
+  "group_id": "org.lynxsdk.lynx",
+  "artifact_id": "lynx",
+  "latest_version": "3.3.1",
+  "description": "lynx",
+  "id": "pkg:maven/org.lynxsdk.lynx/lynx",
+  "ts": 1753417024000,
+  "dependency_count": 1,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753417619910
+}

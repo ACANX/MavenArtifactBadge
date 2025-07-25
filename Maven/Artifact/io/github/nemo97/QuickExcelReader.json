@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.nemo97",
   "artifact_id": "QuickExcelReader",
-  "latest_version": "0.1-beta",
+  "latest_version": "0.3-beta",
   "description": "Read MS Excel file Quickly - QuickExcelReader",
   "id": "pkg:maven/io.github.nemo97/QuickExcelReader",
-  "ts": 1753335507000,
+  "ts": 1753416815000,
   "dependency_count": 0,
   "ref_count": 28,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753336019551
+  "last_updated": 1753417619913
 }
