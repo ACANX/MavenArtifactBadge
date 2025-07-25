@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "pulsar-solon-cloud-plugin",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/pulsar-solon-cloud-plugin",
-  "ts": 1753362302000,
+  "ts": 1753483569000,
   "dependency_count": 0,
-  "ref_count": 18,
+  "ref_count": 25,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363023485
+  "last_updated": 1753484122822
 }

@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon.cloud.eventplus",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon.cloud.eventplus",
-  "ts": 1753362281000,
+  "ts": 1753483545000,
   "dependency_count": 0,
-  "ref_count": 1,
+  "ref_count": 9,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363023922
+  "last_updated": 1753484124129
 }

@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-admin-client",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-admin-client",
-  "ts": 1753362556000,
+  "ts": 1753483596000,
   "dependency_count": 0,
-  "ref_count": 13,
+  "ref_count": 20,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363022667
+  "last_updated": 1753484122225
 }

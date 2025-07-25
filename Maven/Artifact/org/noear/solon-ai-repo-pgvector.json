@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-ai-repo-pgvector",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-ai-repo-pgvector",
-  "ts": 1753364225000,
+  "ts": 1753483658000,
   "dependency_count": 0,
-  "ref_count": 7,
+  "ref_count": 24,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364818659
+  "last_updated": 1753484122222
 }

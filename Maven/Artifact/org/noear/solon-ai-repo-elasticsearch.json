@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-ai-repo-elasticsearch",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-ai-repo-elasticsearch",
-  "ts": 1753364225000,
+  "ts": 1753483658000,
   "dependency_count": 0,
-  "ref_count": 51,
+  "ref_count": 68,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364819263
+  "last_updated": 1753484121501
 }
