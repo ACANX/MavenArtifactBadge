@@ -1,17 +1,17 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-deployment-testing",
-  "latest_version": "2025.07.25.134059-369d78b",
+  "latest_version": "2025.07.25.145602-753224f",
   "description": "a module containing deployment testing helpers, e.g. fakes",
   "id": "pkg:maven/app.cash.wisp/wisp-deployment-testing",
-  "ts": 1753452207000,
+  "ts": 1753456698000,
   "dependency_count": 1,
-  "ref_count": 3,
+  "ref_count": 2,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753453021776
+  "last_updated": 1753457822702
 }

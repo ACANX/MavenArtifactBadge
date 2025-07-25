@@ -1,0 +1,17 @@
+{
+  "group_id": "com.azure.resourcemanager",
+  "artifact_id": "azure-resourcemanager-appplatform",
+  "latest_version": "2.50.3",
+  "description": "Please note, this package has been deprecated and will no longer be maintained after 03/31/2025.\n    We recommend azure-resourcemanager-appcontainers (https://learn.microsoft.com/java/api/overview/azure/resourcemanager-appcontainers-readme) and azure-resourcemanager-containerservice (https://learn.microsoft.com/java/api/overview/azure/resourcemanager-containerservice-readme) as the replacement libraries.\n    Refer to Azure Spring Apps retirement announcement (https://aka.ms/asaretirement) for more retirement details and how to migrate to the new services.\n    Refer to our deprecation policy (https://aka.ms/azsdk/support-policies) for more details.",
+  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appplatform",
+  "ts": 1753456842000,
+  "dependency_count": 1,
+  "ref_count": 54,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "last_updated": 1753457819219
+}

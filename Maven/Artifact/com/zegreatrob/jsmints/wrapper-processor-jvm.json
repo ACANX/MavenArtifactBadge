@@ -1,10 +1,10 @@
 {
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "wrapper-processor-jvm",
-  "latest_version": "6.6.23",
+  "latest_version": "6.6.24",
   "description": "wrapper-processor",
   "id": "pkg:maven/com.zegreatrob.jsmints/wrapper-processor-jvm",
-  "ts": 1753370851000,
+  "ts": 1753457285000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753371421563
+  "last_updated": 1753457819213
 }

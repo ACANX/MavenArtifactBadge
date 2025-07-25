@@ -1,17 +1,17 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-client",
-  "latest_version": "2025.07.25.134059-369d78b",
+  "latest_version": "2025.07.25.145602-753224f",
   "description": "HTTP client with config and envoy support, built on okhttp",
   "id": "pkg:maven/app.cash.wisp/wisp-client",
-  "ts": 1753452207000,
-  "dependency_count": 6,
-  "ref_count": 8,
+  "ts": 1753456698000,
+  "dependency_count": 7,
+  "ref_count": 5,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753453021775
+  "last_updated": 1753457822701
 }

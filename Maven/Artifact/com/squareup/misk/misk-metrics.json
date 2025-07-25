@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-metrics",
-  "latest_version": "2025.07.25.134059-369d78b",
+  "latest_version": "2025.07.25.145602-753224f",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-metrics",
-  "ts": 1753452221000,
+  "ts": 1753456714000,
   "dependency_count": 10,
   "ref_count": 20,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753453020402
+  "last_updated": 1753457820537
 }

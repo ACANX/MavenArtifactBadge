@@ -1,17 +1,17 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-clustering",
-  "latest_version": "2025.07.25.134059-369d78b",
+  "latest_version": "2025.07.25.145602-753224f",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-clustering",
-  "ts": 1753452220000,
-  "dependency_count": 6,
-  "ref_count": 33,
+  "ts": 1753456714000,
+  "dependency_count": 7,
+  "ref_count": 36,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753453021056
+  "last_updated": 1753457820542
 }
