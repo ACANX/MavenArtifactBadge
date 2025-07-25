@@ -1,10 +1,10 @@
 {
   "group_id": "io.jooby",
   "artifact_id": "jooby-avaje-jsonb",
-  "latest_version": "4.0.0",
+  "latest_version": "4.0.1",
   "description": "The modular web framework for Java and Kotlin",
   "id": "pkg:maven/io.jooby/jooby-avaje-jsonb",
-  "ts": 1753456399000,
+  "ts": 1753484069000,
   "dependency_count": 0,
   "ref_count": 18,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753456914903
+  "last_updated": 1753484817785
 }
