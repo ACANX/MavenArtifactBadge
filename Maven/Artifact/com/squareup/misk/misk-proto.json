@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-proto",
-  "latest_version": "2025.07.24.205305-8178cff",
+  "latest_version": "2025.07.25.011628-1ca33aa",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-proto",
-  "ts": 1753391756000,
+  "ts": 1753407470000,
   "dependency_count": 1,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753392417103
+  "last_updated": 1753408019396
 }
