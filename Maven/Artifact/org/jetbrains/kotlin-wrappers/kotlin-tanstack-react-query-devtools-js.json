@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-tanstack-react-query-devtools-js",
+  "latest_version": "2025.7.13-5.83.0",
+  "description": "Kotlin wrapper for Tanstack React Query Devtools",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-query-devtools-js",
+  "ts": 1753424371901,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425633284
+}

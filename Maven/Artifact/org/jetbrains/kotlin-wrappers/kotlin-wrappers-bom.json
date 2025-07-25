@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-wrappers-bom",
+  "latest_version": "2025.7.13",
+  "description": "Kotlin Wrappers BOM",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-wrappers-bom",
+  "ts": 1753424443872,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425631944
+}

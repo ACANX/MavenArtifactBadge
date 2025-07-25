@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-vscode-js",
+  "latest_version": "2025.7.13-1.102.0",
+  "description": "Kotlin wrapper for VS Code API",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-vscode-js",
+  "ts": 1753424398453,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425632633
+}
