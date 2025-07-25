@@ -1,10 +1,10 @@
 {
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-core_3",
-  "latest_version": "0.137.3",
+  "latest_version": "0.137.4",
   "description": "lucuma-core",
   "id": "pkg:maven/edu.gemini/lucuma-core_3",
-  "ts": 1753454998000,
+  "ts": 1753458867000,
   "dependency_count": 4,
   "ref_count": 63,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753455401206
+  "last_updated": 1753459618559
 }
