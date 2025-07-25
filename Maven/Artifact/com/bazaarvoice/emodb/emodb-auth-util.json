@@ -1,0 +1,18 @@
+{
+  "group_id": "com.bazaarvoice.emodb",
+  "artifact_id": "emodb-auth-util",
+  "latest_version": "6.5.233",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-auth-util",
+  "ts": 1753471965000,
+  "dependency_count": 7,
+  "ref_count": 1,
+  "categories": [
+    "Data Management",
+    "Database"
+  ],
+  "licenses": [
+    "Copyright (c) 2025 Bazaarvoice, Inc."
+  ],
+  "last_updated": 1753472542603
+}
