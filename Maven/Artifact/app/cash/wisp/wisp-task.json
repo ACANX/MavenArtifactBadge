@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-task",
-  "latest_version": "2025.07.25.011628-1ca33aa",
+  "latest_version": "2025.07.25.115542-c2c85a0",
   "description": "a module containing task related helpers",
   "id": "pkg:maven/app.cash.wisp/wisp-task",
-  "ts": 1753407521000,
+  "ts": 1753445908000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753408016704
+  "last_updated": 1753447021099
 }

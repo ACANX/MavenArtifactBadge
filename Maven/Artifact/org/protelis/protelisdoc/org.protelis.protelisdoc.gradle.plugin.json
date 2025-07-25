@@ -1,0 +1,15 @@
+{
+  "group_id": "org.protelis.protelisdoc",
+  "artifact_id": "org.protelis.protelisdoc.gradle.plugin",
+  "latest_version": "3.0.102",
+  "description": "A translator from documented Protelis code to compiling Kotlin interfaces",
+  "id": "pkg:maven/org.protelis.protelisdoc/org.protelis.protelisdoc.gradle.plugin",
+  "ts": 1753446700000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753447018911
+}

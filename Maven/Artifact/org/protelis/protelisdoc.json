@@ -1,0 +1,19 @@
+{
+  "group_id": "org.protelis",
+  "artifact_id": "protelisdoc",
+  "latest_version": "3.0.102",
+  "description": "A translator from documented Protelis code to compiling Kotlin interfaces",
+  "id": "pkg:maven/org.protelis/protelisdoc",
+  "ts": 1753446700000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": [
+    "Data Processors",
+    "Format",
+    "CSS"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753447018912
+}

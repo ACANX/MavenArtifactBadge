@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-lease-testing",
-  "latest_version": "2025.07.25.011628-1ca33aa",
+  "latest_version": "2025.07.25.115542-c2c85a0",
   "description": "a module containing lease related code for testing",
   "id": "pkg:maven/app.cash.wisp/wisp-lease-testing",
-  "ts": 1753407521000,
+  "ts": 1753445908000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753408016702
+  "last_updated": 1753447021097
 }
