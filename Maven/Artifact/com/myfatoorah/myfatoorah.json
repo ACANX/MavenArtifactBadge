@@ -1,15 +1,15 @@
 {
   "group_id": "com.myfatoorah",
   "artifact_id": "myfatoorah",
-  "latest_version": "4.0.3-beta",
+  "latest_version": "4.0.3",
   "description": "This SDK simplify the MyFatoorah payment platforms integration with your app, that works smoothly and provide you a simple way to embed our payment functions within your app.",
   "id": "pkg:maven/com.myfatoorah/myfatoorah",
-  "ts": 1753455814000,
+  "ts": 1753459721000,
   "dependency_count": 0,
   "ref_count": 18,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753456617307
+  "last_updated": 1753460152877
 }
