@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "drools-solon-plugin",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/drools-solon-plugin",
-  "ts": 1753362602000,
+  "ts": 1753483299000,
   "dependency_count": 0,
   "ref_count": 46,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363354444
+  "last_updated": 1753483617005
 }

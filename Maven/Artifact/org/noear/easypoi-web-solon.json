@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "easypoi-web-solon",
-  "latest_version": "3.4.1-RC",
+  "latest_version": "3.4.1",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/easypoi-web-solon",
-  "ts": 1753362602000,
+  "ts": 1753483299000,
   "dependency_count": 1,
   "ref_count": 33,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753363354446
+  "last_updated": 1753483617006
 }
