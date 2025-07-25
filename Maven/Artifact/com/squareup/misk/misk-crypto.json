@@ -1,17 +1,17 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-crypto",
-  "latest_version": "2025.07.25.115542-c2c85a0",
+  "latest_version": "2025.07.25.134059-369d78b",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-crypto",
-  "ts": 1753445921000,
+  "ts": 1753452220000,
   "dependency_count": 1,
-  "ref_count": 57,
+  "ref_count": 50,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753447020091
+  "last_updated": 1753453021768
 }
