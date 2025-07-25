@@ -1,0 +1,17 @@
+{
+  "group_id": "info.unterrainer.commons",
+  "artifact_id": "websocket-server",
+  "latest_version": "1.0.2",
+  "description": "The parent-pom for all our java projects based on Javalin.",
+  "id": "pkg:maven/info.unterrainer.commons/websocket-server",
+  "ts": 1753451739000,
+  "dependency_count": 0,
+  "ref_count": 80,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Unlicense"
+  ],
+  "last_updated": 1753452418480
+}
