@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.andresviedma.poket",
   "artifact_id": "backends",
-  "latest_version": "1.0.0-rc-10",
+  "latest_version": "1.0.0-rc-11",
   "description": "Kotlin utilities for advanced backends",
   "id": "pkg:maven/io.github.andresviedma.poket/backends",
-  "ts": 1753396343000,
+  "ts": 1753402594000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753396833920
+  "last_updated": 1753403219838
 }

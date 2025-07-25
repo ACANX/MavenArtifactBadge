@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.andresviedma.poket",
   "artifact_id": "poket-facade",
-  "latest_version": "1.0.0-rc-10",
+  "latest_version": "1.0.0-rc-11",
   "description": "Kotlin utilities for advanced backends",
   "id": "pkg:maven/io.github.andresviedma.poket/poket-facade",
-  "ts": 1753396350000,
+  "ts": 1753402601000,
   "dependency_count": 8,
   "ref_count": 10,
   "categories": null,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753396833919
+  "last_updated": 1753403219838
 }
