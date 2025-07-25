@@ -1,10 +1,10 @@
 {
   "group_id": "com.softwaremill.sttp.tapir",
   "artifact_id": "tapir-nima-server_2.13",
-  "latest_version": "1.11.39",
+  "latest_version": "1.11.40",
   "description": "tapir-nima-server",
   "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-nima-server_2.13",
-  "ts": 1753362393000,
+  "ts": 1753458133000,
   "dependency_count": 0,
   "ref_count": 33,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache 2.0"
   ],
-  "last_updated": 1753363022671
+  "last_updated": 1753458417616
 }
