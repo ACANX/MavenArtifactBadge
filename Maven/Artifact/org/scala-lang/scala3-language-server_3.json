@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-language-server_3",
-  "latest_version": "3.7.3-RC1-bin-20250723-14b7f03-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250724-405e2bd-NIGHTLY",
   "description": "scala3-language-server",
   "id": "pkg:maven/org.scala-lang/scala3-language-server_3",
-  "ts": 1753334219000,
+  "ts": 1753421247000,
   "dependency_count": 0,
   "ref_count": 29,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753334788056
+  "last_updated": 1753421817019
 }
