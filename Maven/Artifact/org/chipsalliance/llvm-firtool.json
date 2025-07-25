@@ -1,0 +1,15 @@
+{
+  "group_id": "org.chipsalliance",
+  "artifact_id": "llvm-firtool",
+  "latest_version": "1.126.0",
+  "description": "Package of native firtool binary",
+  "id": "pkg:maven/org.chipsalliance/llvm-firtool",
+  "ts": 1753469753000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753470420363
+}
