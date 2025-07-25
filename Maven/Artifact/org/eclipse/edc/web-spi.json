@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "web-spi",
+  "latest_version": "0.13.1",
+  "description": "edc :: web-spi",
+  "id": "pkg:maven/org.eclipse.edc/web-spi",
+  "ts": 1753436148000,
+  "dependency_count": 4,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436819413
+}

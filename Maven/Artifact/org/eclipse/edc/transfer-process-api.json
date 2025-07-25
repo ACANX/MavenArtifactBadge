@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "transfer-process-api",
+  "latest_version": "0.13.1",
+  "description": "edc :: transfer-process-api",
+  "id": "pkg:maven/org.eclipse.edc/transfer-process-api",
+  "ts": 1753436148000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436818829
+}

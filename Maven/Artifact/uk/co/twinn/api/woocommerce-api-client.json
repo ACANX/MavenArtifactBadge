@@ -1,0 +1,15 @@
+{
+  "group_id": "uk.co.twinn.api",
+  "artifact_id": "woocommerce-api-client",
+  "latest_version": "0.1.0",
+  "description": "WooCommerce REST API Client for Java providing simple access to the features of the e-commerce platform's API.",
+  "id": "pkg:maven/uk.co.twinn.api/woocommerce-api-client",
+  "ts": 1753436236000,
+  "dependency_count": 0,
+  "ref_count": 24,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753436818273
+}

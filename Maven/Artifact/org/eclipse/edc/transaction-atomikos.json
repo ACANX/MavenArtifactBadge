@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "transaction-atomikos",
+  "latest_version": "0.13.1",
+  "description": "edc :: transaction-atomikos",
+  "id": "pkg:maven/org.eclipse.edc/transaction-atomikos",
+  "ts": 1753436148000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436818278
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "validator-data-address-http-data",
+  "latest_version": "0.13.1",
+  "description": "edc :: validator-data-address-http-data",
+  "id": "pkg:maven/org.eclipse.edc/validator-data-address-http-data",
+  "ts": 1753436148000,
+  "dependency_count": 1,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436818834
+}
