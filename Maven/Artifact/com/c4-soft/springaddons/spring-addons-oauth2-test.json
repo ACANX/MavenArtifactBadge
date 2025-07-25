@@ -1,0 +1,17 @@
+{
+  "group_id": "com.c4-soft.springaddons",
+  "artifact_id": "spring-addons-oauth2-test",
+  "latest_version": "9.0.0-M1",
+  "description": "Annotations to mock Spring OAuth2 Authentication during tests",
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-oauth2-test",
+  "ts": 1753448392000,
+  "dependency_count": 2,
+  "ref_count": 49,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753448817033
+}

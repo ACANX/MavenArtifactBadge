@@ -1,0 +1,15 @@
+{
+  "group_id": "com.sap.donotuse",
+  "artifact_id": "mvn-sample",
+  "latest_version": "11.2.0",
+  "description": "Sample Project for testing Maven Central Uploads",
+  "id": "pkg:maven/com.sap.donotuse/mvn-sample",
+  "ts": 1753448212000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "SAP DEVELOPER LICENSE AGREEMENT"
+  ],
+  "last_updated": 1753448817039
+}
