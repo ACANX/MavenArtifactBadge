@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-launchdarkly-core",
-  "latest_version": "2025.07.25.115542-c2c85a0",
+  "latest_version": "2025.07.25.191509-bd9c089",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-launchdarkly-core",
-  "ts": 1753445921000,
+  "ts": 1753472328000,
   "dependency_count": 1,
   "ref_count": 31,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753447020084
+  "last_updated": 1753473418441
 }

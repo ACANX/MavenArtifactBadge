@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-datadog",
-  "latest_version": "2025.07.25.145602-753224f",
+  "latest_version": "2025.07.25.191509-bd9c089",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-datadog",
-  "ts": 1753456714000,
+  "ts": 1753472327000,
   "dependency_count": 0,
   "ref_count": 23,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753457821169
+  "last_updated": 1753473419270
 }

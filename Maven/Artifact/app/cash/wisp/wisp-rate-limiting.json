@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-rate-limiting",
-  "latest_version": "2025.07.25.145602-753224f",
+  "latest_version": "2025.07.25.191509-bd9c089",
   "description": "a module defining a standard rate limiting interface",
   "id": "pkg:maven/app.cash.wisp/wisp-rate-limiting",
-  "ts": 1753456698000,
+  "ts": 1753472325000,
   "dependency_count": 5,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753457822700
+  "last_updated": 1753473419714
 }
