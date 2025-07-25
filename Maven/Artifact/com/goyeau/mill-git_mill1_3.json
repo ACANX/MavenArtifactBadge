@@ -1,0 +1,17 @@
+{
+  "group_id": "com.goyeau",
+  "artifact_id": "mill-git_mill1_3",
+  "latest_version": "0.3.0",
+  "description": "A git version plugin for Mill build tool",
+  "id": "pkg:maven/com.goyeau/mill-git_mill1_3",
+  "ts": 1753416574000,
+  "dependency_count": 0,
+  "ref_count": 59,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753417020766
+}
