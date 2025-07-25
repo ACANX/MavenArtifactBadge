@@ -1,10 +1,10 @@
 {
   "group_id": "org.sonarsource.sonarqube",
   "artifact_id": "webapp-assets",
-  "latest_version": "2025.4.0.23129",
+  "latest_version": "2025.4.0.23150",
   "description": "SonarQube Community Build Web App",
   "id": "pkg:maven/org.sonarsource.sonarqube/webapp-assets",
-  "ts": 1753391587000,
+  "ts": 1753432939000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "LGPL v.3"
   ],
-  "last_updated": 1753391819220
+  "last_updated": 1753433816743
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "com.finbourne",
   "artifact_id": "workflow-sdk",
-  "latest_version": "2.0.221",
+  "latest_version": "2.0.222",
   "description": "workflow",
   "id": "pkg:maven/com.finbourne/workflow-sdk",
-  "ts": 1753260699000,
+  "ts": 1753433380000,
   "dependency_count": 0,
   "ref_count": 28,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753261018020
+  "last_updated": 1753433816735
 }
