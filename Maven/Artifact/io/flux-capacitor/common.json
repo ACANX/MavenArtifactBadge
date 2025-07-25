@@ -1,10 +1,10 @@
 {
   "group_id": "io.flux-capacitor",
   "artifact_id": "common",
-  "latest_version": "0.1214.0",
+  "latest_version": "0.1215.0",
   "description": "Library with common components for Flux Capacitor clients and service.",
   "id": "pkg:maven/io.flux-capacitor/common",
-  "ts": 1753277826000,
+  "ts": 1753457485000,
   "dependency_count": 2,
   "ref_count": 34,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753278421402
+  "last_updated": 1753458079436
 }
