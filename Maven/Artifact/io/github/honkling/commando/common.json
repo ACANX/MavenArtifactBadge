@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.honkling.commando",
+  "artifact_id": "common",
+  "latest_version": "3.0.1",
+  "description": "A magic Kotlin command framework.",
+  "id": "pkg:maven/io.github.honkling.commando/common",
+  "ts": 1753422770000,
+  "dependency_count": 2,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753423020532
+}
