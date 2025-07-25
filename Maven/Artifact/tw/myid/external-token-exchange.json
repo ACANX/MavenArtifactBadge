@@ -1,0 +1,15 @@
+{
+  "group_id": "tw.myid",
+  "artifact_id": "external-token-exchange",
+  "latest_version": "1.0.0",
+  "description": "This is a public interface specifically for Keycloak's token exchange mechanism, making it easier to link accounts provided by identity providers.",
+  "id": "pkg:maven/tw.myid/external-token-exchange",
+  "ts": 1753429487000,
+  "dependency_count": 0,
+  "ref_count": 158,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753430113917
+}
