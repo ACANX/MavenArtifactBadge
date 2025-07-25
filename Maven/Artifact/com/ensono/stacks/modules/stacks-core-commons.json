@@ -1,15 +1,15 @@
 {
   "group_id": "com.ensono.stacks.modules",
   "artifact_id": "stacks-core-commons",
-  "latest_version": "3.0.10-PR",
+  "latest_version": "3.0.12",
   "description": "Common components for the Java Stacks solution",
   "id": "pkg:maven/com.ensono.stacks.modules/stacks-core-commons",
-  "ts": 1753433594000,
+  "ts": 1753443369000,
   "dependency_count": 0,
   "ref_count": 20,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753433816734
+  "last_updated": 1753443830086
 }
