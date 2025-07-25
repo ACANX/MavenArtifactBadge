@@ -1,0 +1,17 @@
+{
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-awssdk-v1",
+  "latest_version": "4.0.0",
+  "description": "The modular web framework for Java and Kotlin",
+  "id": "pkg:maven/io.jooby/jooby-awssdk-v1",
+  "ts": 1753456399000,
+  "dependency_count": 0,
+  "ref_count": 22,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753456916273
+}
