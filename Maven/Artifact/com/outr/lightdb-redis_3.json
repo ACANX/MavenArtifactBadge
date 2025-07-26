@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-redis_3",
+  "latest_version": "4.0.4",
+  "description": "lightdb-redis",
+  "id": "pkg:maven/com.outr/lightdb-redis_3",
+  "ts": 1753546484000,
+  "dependency_count": 1,
+  "ref_count": 36,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753546902525
+}

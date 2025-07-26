@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-rocks_3",
+  "latest_version": "4.0.4",
+  "description": "lightdb-rocks",
+  "id": "pkg:maven/com.outr/lightdb-rocks_3",
+  "ts": 1753546484000,
+  "dependency_count": 1,
+  "ref_count": 31,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753546902522
+}
