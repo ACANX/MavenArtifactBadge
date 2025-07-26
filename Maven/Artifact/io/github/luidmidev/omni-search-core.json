@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.luidmidev",
   "artifact_id": "omni-search-core",
-  "latest_version": "1.0.1",
+  "latest_version": "1.0.2",
   "description": "Dynamic and intelligent searches for domain entities. Compatible with different providers.",
   "id": "pkg:maven/io.github.luidmidev/omni-search-core",
-  "ts": 1753488103000,
+  "ts": 1753489937000,
   "dependency_count": 1,
   "ref_count": 6,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753489618862
+  "last_updated": 1753490758765
 }

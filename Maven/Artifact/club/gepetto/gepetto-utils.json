@@ -1,0 +1,15 @@
+{
+  "group_id": "club.gepetto",
+  "artifact_id": "gepetto-utils",
+  "latest_version": "1.0.47",
+  "description": "A collection of Compose and utility functions.",
+  "id": "pkg:maven/club.gepetto/gepetto-utils",
+  "ts": 1753490166000,
+  "dependency_count": 0,
+  "ref_count": 19,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753490758764
+}
