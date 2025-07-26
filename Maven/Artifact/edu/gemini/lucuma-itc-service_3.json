@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-itc-service_3",
+  "latest_version": "0.42.0",
+  "description": "lucuma-itc-service",
+  "id": "pkg:maven/edu.gemini/lucuma-itc-service_3",
+  "ts": 1753535031000,
+  "dependency_count": 0,
+  "ref_count": 159,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753535821525
+}
