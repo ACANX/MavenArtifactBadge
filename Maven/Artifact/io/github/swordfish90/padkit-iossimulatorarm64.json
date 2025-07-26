@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.swordfish90",
+  "artifact_id": "padkit-iossimulatorarm64",
+  "latest_version": "1.0.0-alpha1",
+  "description": "A virtual gamepad library for Jetpack Compose.",
+  "id": "pkg:maven/io.github.swordfish90/padkit-iossimulatorarm64",
+  "ts": 1753573060000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753573495215
+}
