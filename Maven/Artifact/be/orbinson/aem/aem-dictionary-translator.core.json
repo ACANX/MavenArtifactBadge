@@ -1,0 +1,15 @@
+{
+  "group_id": "be.orbinson.aem",
+  "artifact_id": "aem-dictionary-translator.core",
+  "latest_version": "1.6.0",
+  "description": "Core bundle for the Dictionary Translator",
+  "id": "pkg:maven/be.orbinson.aem/aem-dictionary-translator.core",
+  "ts": 1753532016000,
+  "dependency_count": 3,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753532821477
+}

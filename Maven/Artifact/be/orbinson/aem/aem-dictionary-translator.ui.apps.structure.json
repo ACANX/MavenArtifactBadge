@@ -1,0 +1,15 @@
+{
+  "group_id": "be.orbinson.aem",
+  "artifact_id": "aem-dictionary-translator.ui.apps.structure",
+  "latest_version": "1.6.0",
+  "description": "Empty package that defines the structure of the Adobe Experience Manager repository the Code packages in this\n        project deploy into.\n        Any roots in the Code packages of this project should have their parent enumerated in the Filters list below.",
+  "id": "pkg:maven/be.orbinson.aem/aem-dictionary-translator.ui.apps.structure",
+  "ts": 1753532016000,
+  "dependency_count": 1,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753532821479
+}
