@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.pluviopile",
+  "artifact_id": "moon-base",
+  "latest_version": "1.0.0",
+  "description": "moon-base",
+  "id": "pkg:maven/io.github.pluviopile/moon-base",
+  "ts": 1753514032000,
+  "dependency_count": 0,
+  "ref_count": 168,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753514801710
+}
