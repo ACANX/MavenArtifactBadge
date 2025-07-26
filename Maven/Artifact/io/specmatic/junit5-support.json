@@ -1,0 +1,15 @@
+{
+  "group_id": "io.specmatic",
+  "artifact_id": "junit5-support",
+  "latest_version": "2.17.3",
+  "description": "Specmatic JUnit 5 Support",
+  "id": "pkg:maven/io.specmatic/junit5-support",
+  "ts": 1753528069000,
+  "dependency_count": 1,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753529217696
+}
