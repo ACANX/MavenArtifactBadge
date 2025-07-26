@@ -1,15 +1,15 @@
 {
   "group_id": "com.fenxi365",
   "artifact_id": "fenxi365-open-sdk",
-  "latest_version": "1.0.15",
+  "latest_version": "1.0.16",
   "description": "分析云开放平台SDK",
   "id": "pkg:maven/com.fenxi365/fenxi365-open-sdk",
-  "ts": 1753413282000,
+  "ts": 1753525043000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753413620585
+  "last_updated": 1753525617309
 }
