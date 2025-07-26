@@ -1,10 +1,10 @@
 {
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-blog-web",
-  "latest_version": "3.2.35",
+  "latest_version": "3.2.36",
   "description": "ZrLog blog web",
   "id": "pkg:maven/com.hibegin/zrlog-blog-web",
-  "ts": 1753516223000,
+  "ts": 1753524187000,
   "dependency_count": 0,
   "ref_count": 17,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753516619564
+  "last_updated": 1753525018455
 }
