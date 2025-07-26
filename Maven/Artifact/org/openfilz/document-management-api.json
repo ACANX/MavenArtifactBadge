@@ -1,15 +1,15 @@
 {
   "group_id": "org.openfilz",
   "artifact_id": "document-management-api",
-  "latest_version": "1.0.36",
+  "latest_version": "1.0.37",
   "description": "Document Management Service providing REST APIs",
   "id": "pkg:maven/org.openfilz/document-management-api",
-  "ts": 1753545928000,
+  "ts": 1753546780000,
   "dependency_count": 0,
   "ref_count": 185,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753546618384
+  "last_updated": 1753547217088
 }
