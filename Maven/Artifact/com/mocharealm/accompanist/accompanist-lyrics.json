@@ -1,15 +1,15 @@
 {
   "group_id": "com.mocharealm.accompanist",
   "artifact_id": "accompanist-lyrics",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "description": "A general lyrics library for Kotlin",
   "id": "pkg:maven/com.mocharealm.accompanist/accompanist-lyrics",
-  "ts": 1753341427000,
+  "ts": 1753503808000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753342017799
+  "last_updated": 1753504617652
 }
