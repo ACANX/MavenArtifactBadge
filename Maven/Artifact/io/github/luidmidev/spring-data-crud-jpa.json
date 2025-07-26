@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.luidmidev",
+  "artifact_id": "spring-data-crud-jpa",
+  "latest_version": "1.6.0",
+  "description": "spring-crud",
+  "id": "pkg:maven/io.github.luidmidev/spring-data-crud-jpa",
+  "ts": 1753492331000,
+  "dependency_count": 0,
+  "ref_count": 44,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753493219694
+}
