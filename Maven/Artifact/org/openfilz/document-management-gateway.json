@@ -1,15 +1,15 @@
 {
   "group_id": "org.openfilz",
   "artifact_id": "document-management-gateway",
-  "latest_version": "1.0.34",
+  "latest_version": "1.0.35",
   "description": "Spring Cloud Gateway for Document Management System",
   "id": "pkg:maven/org.openfilz/document-management-gateway",
-  "ts": 1753459384000,
+  "ts": 1753545309000,
   "dependency_count": 0,
   "ref_count": 137,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753460153437
+  "last_updated": 1753546026114
 }

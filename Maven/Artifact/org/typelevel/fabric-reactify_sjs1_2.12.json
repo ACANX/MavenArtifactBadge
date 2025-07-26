@@ -1,10 +1,10 @@
 {
   "group_id": "org.typelevel",
   "artifact_id": "fabric-reactify_sjs1_2.12",
-  "latest_version": "1.18.0",
+  "latest_version": "1.18.1",
   "description": "fabric-reactify",
   "id": "pkg:maven/org.typelevel/fabric-reactify_sjs1_2.12",
-  "ts": 1753493260000,
+  "ts": 1753545483000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753493817129
+  "last_updated": 1753546026112
 }
