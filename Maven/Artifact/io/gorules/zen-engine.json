@@ -1,15 +1,15 @@
 {
   "group_id": "io.gorules",
   "artifact_id": "zen-engine",
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.5",
   "description": "GoRules ZEN Engine is a cross-platform, Open-Source Business Rules Engine (BRE)",
   "id": "pkg:maven/io.gorules/zen-engine",
-  "ts": 1753492072000,
+  "ts": 1753494953000,
   "dependency_count": 0,
-  "ref_count": 0,
+  "ref_count": 2,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753493220414
+  "last_updated": 1753495619498
 }
