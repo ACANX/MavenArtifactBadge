@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.natanimn",
   "artifact_id": "telebof",
-  "latest_version": "0.6.0",
+  "latest_version": "0.7.0",
   "description": "Easy and modern Java Telegram bot API",
   "id": "pkg:maven/io.github.natanimn/telebof",
-  "ts": 1753459398000,
+  "ts": 1753554959000,
   "dependency_count": 0,
   "ref_count": 18,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753460152883
+  "last_updated": 1753555619093
 }
