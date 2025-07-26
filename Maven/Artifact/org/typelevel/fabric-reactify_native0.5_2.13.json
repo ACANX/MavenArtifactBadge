@@ -1,10 +1,10 @@
 {
   "group_id": "org.typelevel",
   "artifact_id": "fabric-reactify_native0.5_2.13",
-  "latest_version": "1.18.1",
+  "latest_version": "1.18.2",
   "description": "fabric-reactify",
   "id": "pkg:maven/org.typelevel/fabric-reactify_native0.5_2.13",
-  "ts": 1753545483000,
+  "ts": 1753550436000,
   "dependency_count": 0,
   "ref_count": 27,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753546025583
+  "last_updated": 1753550818762
 }
