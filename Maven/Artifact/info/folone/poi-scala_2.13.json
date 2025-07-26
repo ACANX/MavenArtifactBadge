@@ -1,10 +1,10 @@
 {
   "group_id": "info.folone",
   "artifact_id": "poi-scala_2.13",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "description": "poi-scala",
   "id": "pkg:maven/info.folone/poi-scala_2.13",
-  "ts": 1753467634000,
+  "ts": 1753514724000,
   "dependency_count": 0,
   "ref_count": 19,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753468017579
+  "last_updated": 1753515419029
 }
