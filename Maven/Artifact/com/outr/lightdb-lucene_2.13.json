@@ -1,10 +1,10 @@
 {
   "group_id": "com.outr",
   "artifact_id": "lightdb-lucene_2.13",
-  "latest_version": "4.0.4",
+  "latest_version": "4.0.5",
   "description": "lightdb-lucene",
   "id": "pkg:maven/com.outr/lightdb-lucene_2.13",
-  "ts": 1753546484000,
+  "ts": 1753562786000,
   "dependency_count": 1,
   "ref_count": 38,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753546902522
+  "last_updated": 1753563419704
 }
