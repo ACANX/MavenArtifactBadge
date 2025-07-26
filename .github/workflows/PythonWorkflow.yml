@@ -9,6 +9,8 @@ on:
 jobs:
   build:
     runs-on: ubuntu-latest
+    env:
+      TZ: Asia/Shanghai
 
     steps:
       - name: CheckoutAutoCommitBranch
@@ -44,7 +46,7 @@ jobs:
         id: commit
         run: |
           # 设置精确到毫秒的时间戳
-          TIMESTAMP=$(date +'%Y%m%d%H%M%S%9N')
+          TIMESTAMP=$(date +'%Y%m%d.%H%M%S.%9N')
           git config --global user.email "github-actions[bot]@users.noreply.github.com"
           git config --global user.name "github-actions[bot]"
           
