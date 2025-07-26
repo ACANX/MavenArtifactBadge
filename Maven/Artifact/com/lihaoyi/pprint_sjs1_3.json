@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "pprint_sjs1_3",
-  "latest_version": "0.9.1",
+  "latest_version": "0.9.2",
   "description": "pprint",
   "id": "pkg:maven/com.lihaoyi/pprint_sjs1_3",
-  "ts": 1753371273000,
+  "ts": 1753507829000,
   "dependency_count": 0,
-  "ref_count": 12,
+  "ref_count": 15,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753371567270
+  "last_updated": 1753509144987
 }
