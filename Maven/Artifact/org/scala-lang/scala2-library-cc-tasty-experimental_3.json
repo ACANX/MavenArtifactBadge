@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala2-library-cc-tasty-experimental_3",
-  "latest_version": "3.7.3-RC1-bin-20250724-405e2bd-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250725-e2d23ed-NIGHTLY",
   "description": "scala2-library-cc-tasty",
   "id": "pkg:maven/org.scala-lang/scala2-library-cc-tasty-experimental_3",
-  "ts": 1753421247000,
+  "ts": 1753506281000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753421817014
+  "last_updated": 1753506674732
 }

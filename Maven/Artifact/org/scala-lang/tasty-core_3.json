@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "tasty-core_3",
-  "latest_version": "3.7.3-RC1-bin-20250724-405e2bd-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250725-e2d23ed-NIGHTLY",
   "description": "tasty-core-bootstrapped",
   "id": "pkg:maven/org.scala-lang/tasty-core_3",
-  "ts": 1753421247000,
+  "ts": 1753506281000,
   "dependency_count": 6,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753421817019
+  "last_updated": 1753506674733
 }
