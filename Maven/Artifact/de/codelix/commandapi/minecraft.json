@@ -1,15 +1,15 @@
 {
   "group_id": "de.codelix.commandapi",
   "artifact_id": "minecraft",
-  "latest_version": "4.1.0",
+  "latest_version": "4.2.0",
   "description": "Minecraft support for the CommandAPI",
   "id": "pkg:maven/de.codelix.commandapi/minecraft",
-  "ts": 1753547276000,
+  "ts": 1753548507000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753547817783
+  "last_updated": 1753549017888
 }
