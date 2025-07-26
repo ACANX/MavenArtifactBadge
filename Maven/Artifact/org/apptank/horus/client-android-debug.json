@@ -1,15 +1,15 @@
 {
   "group_id": "org.apptank.horus",
   "artifact_id": "client-android-debug",
-  "latest_version": "0.12.2",
+  "latest_version": "0.13.0",
   "description": "Horus is a client library for Kotlin Multiplatform aimed at providing an easy and simple way to store data locally and synchronize it with a remote server, ensuring data security and integrity.",
   "id": "pkg:maven/org.apptank.horus/client-android-debug",
-  "ts": 1753305432000,
+  "ts": 1753552419000,
   "dependency_count": 0,
   "ref_count": 18,
   "categories": null,
   "licenses": [
     "AGPL-3.0-only"
   ],
-  "last_updated": 1753305872594
+  "last_updated": 1753552809130
 }
