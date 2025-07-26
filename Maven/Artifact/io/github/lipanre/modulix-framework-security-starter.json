@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.lipanre",
   "artifact_id": "modulix-framework-security-starter",
-  "latest_version": "0.0.10",
+  "latest_version": "0.0.11",
   "description": "simple common business framework library",
   "id": "pkg:maven/io.github.lipanre/modulix-framework-security-starter",
-  "ts": 1753291388000,
+  "ts": 1753497267000,
   "dependency_count": 1,
-  "ref_count": 40,
+  "ref_count": 41,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753292225576
+  "last_updated": 1753498017795
 }
