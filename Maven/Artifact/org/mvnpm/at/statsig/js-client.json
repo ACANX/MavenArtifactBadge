@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.statsig",
   "artifact_id": "js-client",
-  "latest_version": "3.20.1",
+  "latest_version": "3.20.2",
   "description": "Statsig helps you move faster with feature gates (feature flags), and/or dynamic configs. It also allows you to run A/B/n tests to validate your new features and understand their impact on your KPIs. If you're new to Statsig, check out our product and cre",
   "id": "pkg:maven/org.mvnpm.at.statsig/js-client",
-  "ts": 1753402505000,
+  "ts": 1753488365000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": null,
   "licenses": [
     "ISC"
   ],
-  "last_updated": 1753403220357
+  "last_updated": 1753489618861
 }
