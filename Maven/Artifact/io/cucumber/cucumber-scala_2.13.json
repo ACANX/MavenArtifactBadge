@@ -1,10 +1,10 @@
 {
   "group_id": "io.cucumber",
   "artifact_id": "cucumber-scala_2.13",
-  "latest_version": "8.30.0",
+  "latest_version": "8.30.1",
   "description": "Cucumber for Scala",
   "id": "pkg:maven/io.cucumber/cucumber-scala_2.13",
-  "ts": 1753285034000,
+  "ts": 1753544738000,
   "dependency_count": 0,
   "ref_count": 26,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753285618306
+  "last_updated": 1753545368965
 }

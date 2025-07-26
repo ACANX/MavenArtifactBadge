@@ -1,10 +1,10 @@
 {
   "group_id": "org.springframework.modulith",
   "artifact_id": "spring-modulith-observability",
-  "latest_version": "1.4.2",
+  "latest_version": "2.0.0-M1",
   "description": "Modular monoliths with Spring Boot",
   "id": "pkg:maven/org.springframework.modulith/spring-modulith-observability",
-  "ts": 1753460205000,
+  "ts": 1753544943000,
   "dependency_count": 1,
   "ref_count": 38,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753460819991
+  "last_updated": 1753545368359
 }
