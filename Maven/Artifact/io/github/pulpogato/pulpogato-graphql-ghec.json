@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.pulpogato",
+  "artifact_id": "pulpogato-graphql-ghec",
+  "latest_version": "0.14.0",
+  "description": "GraphQL types for ghec",
+  "id": "pkg:maven/io.github.pulpogato/pulpogato-graphql-ghec",
+  "ts": 1753509120000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753510017377
+}
