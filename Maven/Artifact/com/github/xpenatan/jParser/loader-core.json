@@ -1,0 +1,15 @@
+{
+  "group_id": "com.github.xpenatan.jParser",
+  "artifact_id": "loader-core",
+  "latest_version": "1.0.0-b11",
+  "description": "Java JNI code parser",
+  "id": "pkg:maven/com.github.xpenatan.jParser/loader-core",
+  "ts": 1753550483000,
+  "dependency_count": 1,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753551417506
+}

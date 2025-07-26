@@ -1,0 +1,15 @@
+{
+  "group_id": "com.github.xpenatan.jParser",
+  "artifact_id": "loader-teavm",
+  "latest_version": "1.0.0-b11",
+  "description": "Java JNI code parser",
+  "id": "pkg:maven/com.github.xpenatan.jParser/loader-teavm",
+  "ts": 1753550483000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753551417508
+}
