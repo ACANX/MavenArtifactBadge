@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.erosb",
   "artifact_id": "kappa-undertow-adapter",
-  "latest_version": "2.0.0-RC16",
+  "latest_version": "2.0.0-RC17",
   "description": "Kappa adapter for working with Undertow",
   "id": "pkg:maven/com.github.erosb/kappa-undertow-adapter",
-  "ts": 1753290941000,
+  "ts": 1753553654000,
   "dependency_count": 0,
   "ref_count": 14,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753291426841
+  "last_updated": 1753554418747
 }
