@@ -1,15 +1,15 @@
 {
   "group_id": "de.sldw",
   "artifact_id": "compose-onboarding",
-  "latest_version": "1.2.0",
+  "latest_version": "1.2.7",
   "description": "Kotlin library designed to facilitate the creation of app introduction screens in Jetpack Compose",
   "id": "pkg:maven/de.sldw/compose-onboarding",
-  "ts": 1753530789000,
+  "ts": 1753537425000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753531196202
+  "last_updated": 1753537656903
 }

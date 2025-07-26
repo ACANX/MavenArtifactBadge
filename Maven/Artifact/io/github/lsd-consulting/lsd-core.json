@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.lsd-consulting",
   "artifact_id": "lsd-core",
-  "latest_version": "7.0.97",
+  "latest_version": "7.1.0",
   "description": "A library used to generate living sequence diagrams",
   "id": "pkg:maven/io.github.lsd-consulting/lsd-core",
-  "ts": 1753519841000,
+  "ts": 1753537426000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753520218171
+  "last_updated": 1753537656902
 }
