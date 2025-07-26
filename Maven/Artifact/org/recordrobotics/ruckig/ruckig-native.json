@@ -1,9 +1,9 @@
 {
   "group_id": "org.recordrobotics.ruckig",
-  "artifact_id": "ruckig-frc",
+  "artifact_id": "ruckig-native",
   "latest_version": "0.15.4",
-  "description": "JNI bindings for Ruckig for FRC",
-  "id": "pkg:maven/org.recordrobotics.ruckig/ruckig-frc",
+  "description": "Native WPILib JNI bindings for Ruckig for FRC",
+  "id": "pkg:maven/org.recordrobotics.ruckig/ruckig-native",
   "ts": 1753500915000,
   "dependency_count": 0,
   "ref_count": 0,
@@ -11,5 +11,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753501620902
+  "last_updated": 1753501620901
 }
