@@ -1,0 +1,15 @@
+{
+  "group_id": "com.moftium",
+  "artifact_id": "anymapper",
+  "latest_version": "1.0.0",
+  "description": "Flexible transformer for nested map and list structures.",
+  "id": "pkg:maven/com.moftium/anymapper",
+  "ts": 1753656188000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The MIT License"
+  ],
+  "last_updated": 1753656836684
+}
