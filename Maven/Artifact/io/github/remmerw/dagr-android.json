@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.remmerw",
   "artifact_id": "dagr-android",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "description": "UDP Client Server",
   "id": "pkg:maven/io.github.remmerw/dagr-android",
-  "ts": 1753549520000,
+  "ts": 1753605310000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753550217483
+  "last_updated": 1753605762154
 }
