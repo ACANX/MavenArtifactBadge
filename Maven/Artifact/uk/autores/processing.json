@@ -1,0 +1,15 @@
+{
+  "group_id": "uk.autores",
+  "artifact_id": "processing",
+  "latest_version": "11.1.5",
+  "description": "Annotation driven library for handling embedded resources.",
+  "id": "pkg:maven/uk.autores/processing",
+  "ts": 1753630269000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753630617033
+}
