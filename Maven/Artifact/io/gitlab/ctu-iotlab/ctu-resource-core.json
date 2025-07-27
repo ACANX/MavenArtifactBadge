@@ -1,0 +1,15 @@
+{
+  "group_id": "io.gitlab.ctu-iotlab",
+  "artifact_id": "ctu-resource-core",
+  "latest_version": "0.1.0",
+  "description": "This library to support the annotation to annotate, authorize and manage your resource",
+  "id": "pkg:maven/io.gitlab.ctu-iotlab/ctu-resource-core",
+  "ts": 1753644360000,
+  "dependency_count": 0,
+  "ref_count": 85,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753644919309
+}
