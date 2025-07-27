@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.remmerw",
   "artifact_id": "dagr-jvm",
-  "latest_version": "0.1.4",
+  "latest_version": "0.1.5",
   "description": "UDP Client Server",
   "id": "pkg:maven/io.github.remmerw/dagr-jvm",
-  "ts": 1753616192000,
+  "ts": 1753628685000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753616513014
+  "last_updated": 1753629417999
 }
