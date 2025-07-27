@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "kotlin-encryption",
+  "latest_version": "2025.7.6",
+  "description": "encryption utilities",
+  "id": "pkg:maven/dev.mbo/kotlin-encryption",
+  "ts": 1753649577000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753649942856
+}
