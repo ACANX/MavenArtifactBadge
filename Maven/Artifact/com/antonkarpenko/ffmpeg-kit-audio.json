@@ -1,10 +1,10 @@
 {
   "group_id": "com.antonkarpenko",
   "artifact_id": "ffmpeg-kit-audio",
-  "latest_version": "1.0.0",
+  "latest_version": "1.0.1",
   "description": "FFmpeg v7.1.1 Aduio",
   "id": "pkg:maven/com.antonkarpenko/ffmpeg-kit-audio",
-  "ts": 1753637582000,
+  "ts": 1753657507000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": null,
@@ -13,5 +13,5 @@
     "GNU Lesser General Public License v3.0",
     "LGPL 3.0"
   ],
-  "last_updated": 1753638179424
+  "last_updated": 1753658014760
 }
