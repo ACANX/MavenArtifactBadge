@@ -1,15 +1,15 @@
 {
   "group_id": "net.minestom",
   "artifact_id": "minestom",
-  "latest_version": "2025.07.26-1.21.8",
+  "latest_version": "2025.07.27-1.21.8",
   "description": "1.21.8 Lightweight Minecraft server",
   "id": "pkg:maven/net.minestom/minestom",
-  "ts": 1753492550000,
+  "ts": 1753621804000,
   "dependency_count": 1,
   "ref_count": 25,
   "categories": null,
   "licenses": [
     "Apache 2.0"
   ],
-  "last_updated": 1753493219693
+  "last_updated": 1753622219558
 }
