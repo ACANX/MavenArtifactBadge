@@ -1,0 +1,15 @@
+{
+  "group_id": "com.irurueta",
+  "artifact_id": "irurueta-android-gesture-bitmap-view",
+  "latest_version": "1.2.3",
+  "description": "A touch gesture capable Android view to display bitmaps and perform scaling, translation and rotation on the bitmap",
+  "id": "pkg:maven/com.irurueta/irurueta-android-gesture-bitmap-view",
+  "ts": 1753650399000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753651017694
+}
