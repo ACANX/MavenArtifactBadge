@@ -1,0 +1,15 @@
+{
+  "group_id": "fun.fengwk.gateway",
+  "artifact_id": "gateway-share",
+  "latest_version": "1.0.20",
+  "description": "Gateway Share",
+  "id": "pkg:maven/fun.fengwk.gateway/gateway-share",
+  "ts": 1753619073000,
+  "dependency_count": 0,
+  "ref_count": 106,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753619818432
+}
