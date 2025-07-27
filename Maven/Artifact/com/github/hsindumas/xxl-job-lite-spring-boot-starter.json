@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.hsindumas",
   "artifact_id": "xxl-job-lite-spring-boot-starter",
-  "latest_version": "1.3.0",
+  "latest_version": "1.4.0",
   "description": "The spring boot starter for xxl-job without embedServer",
   "id": "pkg:maven/com.github.hsindumas/xxl-job-lite-spring-boot-starter",
-  "ts": 1753588094000,
+  "ts": 1753589315000,
   "dependency_count": 0,
   "ref_count": 49,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "GNU GENERAL PUBLIC LICENSE, Version 3"
   ],
-  "last_updated": 1753588617170
+  "last_updated": 1753589729816
 }
