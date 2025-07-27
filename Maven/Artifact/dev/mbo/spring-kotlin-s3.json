@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-s3",
+  "latest_version": "2025.7.6",
+  "description": "S3 library for Kotlin with Spring Boot.",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-s3",
+  "ts": 1753651456000,
+  "dependency_count": 0,
+  "ref_count": 56,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753652216325
+}
