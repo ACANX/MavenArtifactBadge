@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "daisyui",
-  "latest_version": "5.0.47",
+  "latest_version": "5.0.48",
   "description": "daisyUI 5 - The Tailwind CSS Component Library",
   "id": "pkg:maven/org.mvnpm/daisyui",
-  "ts": 1753445164000,
+  "ts": 1753646768000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753445818394
+  "last_updated": 1753647338139
 }
