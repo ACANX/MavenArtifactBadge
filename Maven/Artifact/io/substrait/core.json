@@ -1,0 +1,15 @@
+{
+  "group_id": "io.substrait",
+  "artifact_id": "core",
+  "latest_version": "0.62.1",
+  "description": "Create a well-defined, cross-language specification for data compute operations",
+  "id": "pkg:maven/io.substrait/core",
+  "ts": 1753589749000,
+  "dependency_count": 2,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753590421879
+}
