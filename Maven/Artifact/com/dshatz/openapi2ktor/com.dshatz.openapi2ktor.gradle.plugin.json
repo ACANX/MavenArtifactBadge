@@ -1,0 +1,15 @@
+{
+  "group_id": "com.dshatz.openapi2ktor",
+  "artifact_id": "com.dshatz.openapi2ktor.gradle.plugin",
+  "latest_version": "1.0.4",
+  "description": "Ktor client and kotlin model generator.",
+  "id": "pkg:maven/com.dshatz.openapi2ktor/com.dshatz.openapi2ktor.gradle.plugin",
+  "ts": 1753579013000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007"
+  ],
+  "last_updated": 1753579619258
+}
