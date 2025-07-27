@@ -1,10 +1,10 @@
 {
   "group_id": "com.landawn",
   "artifact_id": "abacus-common",
-  "latest_version": "6.3.1",
+  "latest_version": "6.3.2",
   "description": "A general programming library in Java/Android. It's easy to learn and simple to use with concise and powerful APIs.",
   "id": "pkg:maven/com.landawn/abacus-common",
-  "ts": 1753648452000,
+  "ts": 1753659527000,
   "dependency_count": 0,
   "ref_count": 83,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753649218351
+  "last_updated": 1753660016108
 }

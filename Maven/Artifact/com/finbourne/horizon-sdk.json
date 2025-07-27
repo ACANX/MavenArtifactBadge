@@ -1,15 +1,15 @@
 {
   "group_id": "com.finbourne",
   "artifact_id": "horizon-sdk",
-  "latest_version": "2.0.1147",
+  "latest_version": "2.0.1148",
   "description": "horizon",
   "id": "pkg:maven/com.finbourne/horizon-sdk",
-  "ts": 1753462784000,
+  "ts": 1753659083000,
   "dependency_count": 0,
   "ref_count": 28,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753463215587
+  "last_updated": 1753660016110
 }
