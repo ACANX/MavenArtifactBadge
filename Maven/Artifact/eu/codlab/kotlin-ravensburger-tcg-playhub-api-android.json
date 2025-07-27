@@ -1,0 +1,15 @@
+{
+  "group_id": "eu.codlab",
+  "artifact_id": "kotlin-ravensburger-tcg-playhub-api-android",
+  "latest_version": "unspecified",
+  "description": "Ravensburger TCG Playhub API",
+  "id": "pkg:maven/eu.codlab/kotlin-ravensburger-tcg-playhub-api-android",
+  "ts": 1753647452000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "last_updated": 1753648017902
+}

@@ -1,15 +1,15 @@
 {
   "group_id": "software.sava",
   "artifact_id": "solana-version-catalog",
-  "latest_version": "24.2.2",
+  "latest_version": "24.2.3",
   "description": "Sava BOM & Version Catalog",
   "id": "pkg:maven/software.sava/solana-version-catalog",
-  "ts": 1753545140000,
+  "ts": 1753647385000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "Apache License"
   ],
-  "last_updated": 1753546026115
+  "last_updated": 1753648017904
 }
