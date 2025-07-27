@@ -1,17 +1,15 @@
 {
   "group_id": "io.jooby",
   "artifact_id": "jooby-apt",
-  "latest_version": "4.0.1",
-  "description": "The modular web framework for Java and Kotlin",
+  "latest_version": "4.0.2",
+  "description": null,
   "id": "pkg:maven/io.jooby/jooby-apt",
-  "ts": 1753484069000,
+  "ts": 1753653382000,
   "dependency_count": 1,
   "ref_count": 15,
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [
-    "The Apache Software License, Version 2.0"
-  ],
-  "last_updated": 1753484817782
+  "licenses": [],
+  "last_updated": 1753654019310
 }

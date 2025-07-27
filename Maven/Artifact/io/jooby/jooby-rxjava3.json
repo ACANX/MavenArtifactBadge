@@ -1,10 +1,10 @@
 {
   "group_id": "io.jooby",
   "artifact_id": "jooby-rxjava3",
-  "latest_version": "4.0.0",
+  "latest_version": "4.0.2",
   "description": "The modular web framework for Java and Kotlin",
   "id": "pkg:maven/io.jooby/jooby-rxjava3",
-  "ts": 1753456399000,
+  "ts": 1753653381000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753456915573
+  "last_updated": 1753654020744
 }

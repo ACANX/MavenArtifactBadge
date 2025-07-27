@@ -1,10 +1,10 @@
 {
   "group_id": "io.jooby",
   "artifact_id": "jooby-mutiny",
-  "latest_version": "4.0.1",
+  "latest_version": "4.0.2",
   "description": "The modular web framework for Java and Kotlin",
   "id": "pkg:maven/io.jooby/jooby-mutiny",
-  "ts": 1753484069000,
+  "ts": 1753653381000,
   "dependency_count": 0,
   "ref_count": 11,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753484818491
+  "last_updated": 1753654020740
 }

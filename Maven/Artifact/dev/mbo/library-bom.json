@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "library-bom",
+  "latest_version": "2025.7.6",
+  "description": "BOM for applications using my libs.",
+  "id": "pkg:maven/dev.mbo/library-bom",
+  "ts": 1753653405000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753654019305
+}
