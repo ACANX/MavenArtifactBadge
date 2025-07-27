@@ -1,15 +1,15 @@
 {
   "group_id": "io.mavsdk",
   "artifact_id": "mavsdk",
-  "latest_version": "3.8.0",
+  "latest_version": "3.8.1",
   "description": "MAVSDK client for Java.",
   "id": "pkg:maven/io.mavsdk/mavsdk",
-  "ts": 1753354009000,
+  "ts": 1753627130000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": null,
   "licenses": [
     "BSD 3-Clause"
   ],
-  "last_updated": 1753354612559
+  "last_updated": 1753627616999
 }
