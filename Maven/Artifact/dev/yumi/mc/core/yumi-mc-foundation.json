@@ -1,15 +1,15 @@
 {
   "group_id": "dev.yumi.mc.core",
   "artifact_id": "yumi-mc-foundation",
-  "latest_version": "1.0.0-alpha.3+1.21.1",
+  "latest_version": "1.0.0-alpha.4+1.21.1",
   "description": "A core library offering entrypoints and environment-related utilities to Minecraft mods.",
   "id": "pkg:maven/dev.yumi.mc.core/yumi-mc-foundation",
-  "ts": 1753573595000,
+  "ts": 1753574037000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": null,
   "licenses": [
     "Mozilla Public License Version 2.0"
   ],
-  "last_updated": 1753574002260
+  "last_updated": 1753574820383
 }
