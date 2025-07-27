@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-smtp",
+  "latest_version": "2025.7.6",
+  "description": "Mail sending API for Kotlin and Spring Boot.",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-smtp",
+  "ts": 1753651981000,
+  "dependency_count": 0,
+  "ref_count": 50,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753652321480
+}
