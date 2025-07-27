@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.tristan852",
   "artifact_id": "kite",
-  "latest_version": "1.4.2",
+  "latest_version": "1.4.3",
   "description": "A Connect Four solver",
   "id": "pkg:maven/io.github.tristan852/kite",
-  "ts": 1753613848000,
+  "ts": 1753615437000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "GNU General Public License version 3"
   ],
-  "last_updated": 1753614427245
+  "last_updated": 1753616215826
 }
