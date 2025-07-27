@@ -1,15 +1,15 @@
 {
   "group_id": "com.pushwoosh",
   "artifact_id": "pushwoosh-firebase",
-  "latest_version": "6.7.29",
+  "latest_version": "6.7.30",
   "description": "Pushwoosh Firebase",
   "id": "pkg:maven/com.pushwoosh/pushwoosh-firebase",
-  "ts": 1753276717000,
+  "ts": 1753588543000,
   "dependency_count": 0,
   "ref_count": 37,
   "categories": null,
   "licenses": [
     "Pushwoosh License"
   ],
-  "last_updated": 1753277822158
+  "last_updated": 1753589218752
 }
