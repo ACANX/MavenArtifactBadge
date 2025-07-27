@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.lsd-consulting",
   "artifact_id": "lsd-kotlin-conventions",
-  "latest_version": "1.1.2",
+  "latest_version": "1.1.4",
   "description": "Gradle convention plugins for LSD projects.",
   "id": "pkg:maven/io.github.lsd-consulting/lsd-kotlin-conventions",
-  "ts": 1753604737000,
+  "ts": 1753633762000,
   "dependency_count": 2,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753605419025
+  "last_updated": 1753634218134
 }
