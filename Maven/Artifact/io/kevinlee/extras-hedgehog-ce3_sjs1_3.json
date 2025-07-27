@@ -1,10 +1,10 @@
 {
   "group_id": "io.kevinlee",
   "artifact_id": "extras-hedgehog-ce3_sjs1_3",
-  "latest_version": "0.46.0",
+  "latest_version": "0.46.1",
   "description": "extras-hedgehog-ce3",
   "id": "pkg:maven/io.kevinlee/extras-hedgehog-ce3_sjs1_3",
-  "ts": 1753599560000,
+  "ts": 1753617552000,
   "dependency_count": 1,
   "ref_count": 34,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753600559252
+  "last_updated": 1753618019828
 }
