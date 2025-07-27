@@ -1,11 +1,11 @@
 {
   "group_id": "io.geewit.utils.web",
   "artifact_id": "core",
-  "latest_version": "3.0.6",
+  "latest_version": "3.0.7",
   "description": "A Java Utils Libraray By Geewit",
   "id": "pkg:maven/io.geewit.utils.web/core",
-  "ts": 1753607345000,
-  "dependency_count": 0,
+  "ts": 1753626061000,
+  "dependency_count": 2,
   "ref_count": 9,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753607817147
+  "last_updated": 1753626418092
 }
