@@ -1,10 +1,10 @@
 {
   "group_id": "org.hl7.fhir.testcases",
   "artifact_id": "fhir-test-cases",
-  "latest_version": "1.7.30",
+  "latest_version": "1.7.31",
   "description": "An open-source implementation of the FHIR specification in Java.",
   "id": "pkg:maven/org.hl7.fhir.testcases/fhir-test-cases",
-  "ts": 1753245875000,
+  "ts": 1753641030000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache Software License 2.0"
   ],
-  "last_updated": 1753246617019
+  "last_updated": 1753641416929
 }
