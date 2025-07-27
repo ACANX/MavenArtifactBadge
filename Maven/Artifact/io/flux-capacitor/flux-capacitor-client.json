@@ -1,10 +1,10 @@
 {
   "group_id": "io.flux-capacitor",
   "artifact_id": "flux-capacitor-client",
-  "latest_version": "0.1217.0",
+  "latest_version": "0.1219.0",
   "description": "Flux Capacitor provides messaging-as-a-service for distributed applications.",
   "id": "pkg:maven/io.flux-capacitor/flux-capacitor-client",
-  "ts": 1753570354000,
+  "ts": 1753601373000,
   "dependency_count": 0,
   "ref_count": 23,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753570617624
+  "last_updated": 1753602335750
 }
