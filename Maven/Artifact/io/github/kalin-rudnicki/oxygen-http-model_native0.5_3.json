@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.kalin-rudnicki",
   "artifact_id": "oxygen-http-model_native0.5_3",
-  "latest_version": "0.0.19",
+  "latest_version": "0.0.20",
   "description": "Adds standard models for HTTP.",
   "id": "pkg:maven/io.github.kalin-rudnicki/oxygen-http-model_native0.5_3",
-  "ts": 1753489208000,
+  "ts": 1753576575000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753490217261
+  "last_updated": 1753577219195
 }
