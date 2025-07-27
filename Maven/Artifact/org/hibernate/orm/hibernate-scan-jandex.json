@@ -1,10 +1,10 @@
 {
   "group_id": "org.hibernate.orm",
   "artifact_id": "hibernate-scan-jandex",
-  "latest_version": "7.0.7.Final",
+  "latest_version": "7.0.8.Final",
   "description": "Integrate support for Jandex into Hibernate O/RM",
   "id": "pkg:maven/org.hibernate.orm/hibernate-scan-jandex",
-  "ts": 1753254853000,
+  "ts": 1753575585000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753255259926
+  "last_updated": 1753576020967
 }

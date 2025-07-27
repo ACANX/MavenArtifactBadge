@@ -1,10 +1,10 @@
 {
   "group_id": "org.hibernate",
   "artifact_id": "hibernate-jfr",
-  "latest_version": "7.0.7.Final",
+  "latest_version": "7.0.8.Final",
   "description": "The `hibernate-jfr` module has been relocated to the `org.hibernate.orm` group",
   "id": "pkg:maven/org.hibernate/hibernate-jfr",
-  "ts": 1753254853000,
+  "ts": 1753575585000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -15,5 +15,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753255259549
+  "last_updated": 1753576020383
 }
