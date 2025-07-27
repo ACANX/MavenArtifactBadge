@@ -1,10 +1,10 @@
 {
   "group_id": "it.unibo.alchemist",
   "artifact_id": "alchemist-maintenance-tooling",
-  "latest_version": "42.2.7",
+  "latest_version": "42.2.8",
   "description": "Utilities for bug reporting and repository management",
   "id": "pkg:maven/it.unibo.alchemist/alchemist-maintenance-tooling",
-  "ts": 1753252494000,
+  "ts": 1753650572000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "GPL 3.0 with linking exception"
   ],
-  "last_updated": 1753253220234
+  "last_updated": 1753651464784
 }

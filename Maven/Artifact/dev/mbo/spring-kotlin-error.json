@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-error",
+  "latest_version": "2025.7.6",
+  "description": "API error handling library for Kotlin with Spring Boot.",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-error",
+  "ts": 1753650766000,
+  "dependency_count": 1,
+  "ref_count": 40,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753651464130
+}

@@ -1,15 +1,15 @@
 {
   "group_id": "glass.yasan.toolkit",
   "artifact_id": "core-iosx64",
-  "latest_version": "0.1.1",
+  "latest_version": "0.1.2",
   "description": "Personal development toolkit for Kotlin Multiplatform",
   "id": "pkg:maven/glass.yasan.toolkit/core-iosx64",
-  "ts": 1753569549000,
+  "ts": 1753650823000,
   "dependency_count": 1,
-  "ref_count": 3,
+  "ref_count": 4,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753570016838
+  "last_updated": 1753651464127
 }
