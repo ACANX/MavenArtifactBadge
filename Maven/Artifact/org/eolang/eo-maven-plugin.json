@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eolang",
+  "artifact_id": "eo-maven-plugin",
+  "latest_version": "0.57.3",
+  "description": "EO-to-Java Maven Plugin",
+  "id": "pkg:maven/org.eolang/eo-maven-plugin",
+  "ts": 1753609117000,
+  "dependency_count": 0,
+  "ref_count": 141,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753609620176
+}

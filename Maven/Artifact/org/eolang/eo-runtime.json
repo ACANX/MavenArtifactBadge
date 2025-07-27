@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eolang",
+  "artifact_id": "eo-runtime",
+  "latest_version": "0.57.3",
+  "description": "EO runtime library",
+  "id": "pkg:maven/org.eolang/eo-runtime",
+  "ts": 1753609117000,
+  "dependency_count": 0,
+  "ref_count": 27,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753609620176
+}
