@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-sms-tencent",
+  "latest_version": "0.0.12",
+  "description": "Tencent Cloud SMS service integration for reliable message delivery.\nProvides SMS sending capabilities through Tencent Cloud SMS API with template support and delivery tracking.",
+  "id": "pkg:maven/io.github.truenine/composeserver-sms-tencent",
+  "ts": 1753580353000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580819881
+}

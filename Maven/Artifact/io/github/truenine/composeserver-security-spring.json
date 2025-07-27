@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-security-spring",
+  "latest_version": "0.0.12",
+  "description": "Spring Security integration providing authentication, authorization, and security configurations.\nIncludes JWT token handling, CAPTCHA support, XSS protection, and comprehensive security filters.",
+  "id": "pkg:maven/io.github.truenine/composeserver-security-spring",
+  "ts": 1753580353000,
+  "dependency_count": 0,
+  "ref_count": 44,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580820405
+}

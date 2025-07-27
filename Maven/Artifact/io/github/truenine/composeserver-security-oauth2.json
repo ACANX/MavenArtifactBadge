@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-security-oauth2",
+  "latest_version": "0.0.12",
+  "description": "OAuth2 authentication and authorization implementation with support for various providers.\nProvides OAuth2 client configurations, token management, and third-party integration capabilities.",
+  "id": "pkg:maven/io.github.truenine/composeserver-security-oauth2",
+  "ts": 1753580353000,
+  "dependency_count": 1,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580819883
+}

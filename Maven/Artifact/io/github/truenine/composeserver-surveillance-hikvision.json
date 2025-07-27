@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-surveillance-hikvision",
+  "latest_version": "0.0.12",
+  "description": "Hikvision surveillance device integration module. Provides SDK wrapper and API clients for Hikvision cameras and surveillance equipment management.",
+  "id": "pkg:maven/io.github.truenine/composeserver-surveillance-hikvision",
+  "ts": 1753580353000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580819881
+}

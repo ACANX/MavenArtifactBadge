@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-surveillance-shared",
+  "latest_version": "0.0.12",
+  "description": "Shared components and utilities for surveillance systems integration. Provides common interfaces, data models, and utility functions for various surveillance device protocols.",
+  "id": "pkg:maven/io.github.truenine/composeserver-surveillance-shared",
+  "ts": 1753580353000,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580820404
+}

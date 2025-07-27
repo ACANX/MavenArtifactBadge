@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-rds-crud",
+  "latest_version": "0.0.12",
+  "description": "CRUD operation abstractions and utilities built on top of Jimmer ORM.\nProvides generic repository patterns, transaction management, and database operation helpers.",
+  "id": "pkg:maven/io.github.truenine/composeserver-rds-crud",
+  "ts": 1753580353000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580820407
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-oss-minio",
+  "latest_version": "0.0.12",
+  "description": "MinIO object storage integration providing S3-compatible storage operations.\nIncludes bucket management, file operations, and comprehensive testing with TestContainers support.",
+  "id": "pkg:maven/io.github.truenine/composeserver-oss-minio",
+  "ts": 1753580353000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753580820404
+}
