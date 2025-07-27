@@ -1,0 +1,15 @@
+{
+  "group_id": "fun.fengwk.convention4j",
+  "artifact_id": "convention4j-common",
+  "latest_version": "1.1.65",
+  "description": "Convention For Java",
+  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-common",
+  "ts": 1753635624000,
+  "dependency_count": 14,
+  "ref_count": 97,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753636620343
+}
