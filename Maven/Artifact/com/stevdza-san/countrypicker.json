@@ -1,15 +1,15 @@
 {
   "group_id": "com.stevdza-san",
   "artifact_id": "countrypicker",
-  "latest_version": "1.0.2",
+  "latest_version": "1.0.3",
   "description": "A lightweight and modern Compose Multiplatform library for picking and displaying country data.",
   "id": "pkg:maven/com.stevdza-san/countrypicker",
-  "ts": 1753627283000,
+  "ts": 1753648248000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753627790956
+  "last_updated": 1753648618981
 }
