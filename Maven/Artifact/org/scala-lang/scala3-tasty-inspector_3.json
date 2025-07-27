@@ -1,17 +1,17 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-tasty-inspector_3",
-  "latest_version": "3.7.3-RC1-bin-20250725-e2d23ed-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250726-1148afe-NIGHTLY",
   "description": "scala3-tasty-inspector",
   "id": "pkg:maven/org.scala-lang/scala3-tasty-inspector_3",
-  "ts": 1753506281000,
+  "ts": 1753593936000,
   "dependency_count": 1,
-  "ref_count": 13,
+  "ref_count": 0,
   "categories": [
     "Programming Language Utilities"
   ],
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753506674731
+  "last_updated": 1753594620983
 }

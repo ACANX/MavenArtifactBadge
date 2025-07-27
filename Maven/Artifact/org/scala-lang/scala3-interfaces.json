@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-interfaces",
-  "latest_version": "3.7.3-RC1-bin-20250725-e2d23ed-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250726-1148afe-NIGHTLY",
   "description": "scala3-interfaces",
   "id": "pkg:maven/org.scala-lang/scala3-interfaces",
-  "ts": 1753506281000,
+  "ts": 1753593936000,
   "dependency_count": 6,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753506674730
+  "last_updated": 1753594620981
 }

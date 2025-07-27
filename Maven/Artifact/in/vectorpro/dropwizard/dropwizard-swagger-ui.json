@@ -1,10 +1,10 @@
 {
   "group_id": "in.vectorpro.dropwizard",
   "artifact_id": "dropwizard-swagger-ui",
-  "latest_version": "4.19.1",
-  "description": "Swagger UI 4.x Static Resources for Dropwizard Swagger Integration",
+  "latest_version": "5.27.0",
+  "description": "Swagger UI 5.x Static Resources for Dropwizard Swagger Integration",
   "id": "pkg:maven/in.vectorpro.dropwizard/dropwizard-swagger-ui",
-  "ts": 1753547069000,
+  "ts": 1753593965000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753547817785
+  "last_updated": 1753594620979
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-library_3",
-  "latest_version": "3.7.3-RC1-bin-20250725-e2d23ed-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250726-1148afe-NIGHTLY",
   "description": "scala3-library-bootstrapped",
   "id": "pkg:maven/org.scala-lang/scala3-library_3",
-  "ts": 1753506281000,
+  "ts": 1753593936000,
   "dependency_count": 7,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753506674731
+  "last_updated": 1753594620982
 }
