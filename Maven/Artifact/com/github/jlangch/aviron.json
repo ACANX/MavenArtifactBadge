@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.jlangch",
   "artifact_id": "aviron",
-  "latest_version": "1.5.1",
+  "latest_version": "1.5.2",
   "description": "A Java ClamAV scanner client",
   "id": "pkg:maven/com.github.jlangch/aviron",
-  "ts": 1753592056000,
+  "ts": 1753594303000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753592817108
+  "last_updated": 1753595218159
 }
