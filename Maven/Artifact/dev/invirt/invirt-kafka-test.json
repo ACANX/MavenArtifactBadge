@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.invirt",
+  "artifact_id": "invirt-kafka-test",
+  "latest_version": "2.1.2-beta1",
+  "description": "null",
+  "id": "pkg:maven/dev.invirt/invirt-kafka-test",
+  "ts": 1753616605000,
+  "dependency_count": 0,
+  "ref_count": 83,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753617047604
+}
