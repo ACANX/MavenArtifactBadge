@@ -1,10 +1,10 @@
 {
   "group_id": "com.github.erosb",
   "artifact_id": "kappa-spring",
-  "latest_version": "2.0.0-RC17",
+  "latest_version": "2.0.0",
   "description": "Kappa - Spring integration",
   "id": "pkg:maven/com.github.erosb/kappa-spring",
-  "ts": 1753553654000,
+  "ts": 1753621161000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753554418747
+  "last_updated": 1753621619208
 }

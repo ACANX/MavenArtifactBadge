@@ -1,10 +1,10 @@
 {
   "group_id": "dev.jbang",
   "artifact_id": "jbang-cli",
-  "latest_version": "0.128.2",
+  "latest_version": "0.128.3",
   "description": "JBang Command Line Interface",
   "id": "pkg:maven/dev.jbang/jbang-cli",
-  "ts": 1753617681000,
+  "ts": 1753621344000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753618017112
+  "last_updated": 1753621619206
 }
