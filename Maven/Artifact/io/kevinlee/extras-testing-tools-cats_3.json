@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-testing-tools-cats_3",
+  "latest_version": "0.46.0",
+  "description": "extras-testing-tools-cats",
+  "id": "pkg:maven/io.kevinlee/extras-testing-tools-cats_3",
+  "ts": 1753599560000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753600557878
+}

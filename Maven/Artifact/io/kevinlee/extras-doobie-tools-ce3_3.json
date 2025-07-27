@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-doobie-tools-ce3_3",
+  "latest_version": "0.46.0",
+  "description": "extras-doobie-tools-ce3",
+  "id": "pkg:maven/io.kevinlee/extras-doobie-tools-ce3_3",
+  "ts": 1753599560000,
+  "dependency_count": 0,
+  "ref_count": 35,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753600556587
+}

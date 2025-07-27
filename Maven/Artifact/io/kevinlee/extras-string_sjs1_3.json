@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-string_sjs1_3",
+  "latest_version": "0.46.0",
+  "description": "extras-string",
+  "id": "pkg:maven/io.kevinlee/extras-string_sjs1_3",
+  "ts": 1753599560000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753600559253
+}

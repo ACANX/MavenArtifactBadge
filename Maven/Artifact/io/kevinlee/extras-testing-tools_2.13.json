@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-testing-tools_2.13",
+  "latest_version": "0.46.0",
+  "description": "extras-testing-tools",
+  "id": "pkg:maven/io.kevinlee/extras-testing-tools_2.13",
+  "ts": 1753599560000,
+  "dependency_count": 2,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753600557193
+}

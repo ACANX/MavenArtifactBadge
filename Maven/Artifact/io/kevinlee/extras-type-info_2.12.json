@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-type-info_2.12",
+  "latest_version": "0.46.0",
+  "description": "extras-type-info",
+  "id": "pkg:maven/io.kevinlee/extras-type-info_2.12",
+  "ts": 1753599560000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753600559974
+}
