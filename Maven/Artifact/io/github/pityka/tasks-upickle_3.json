@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.pityka",
   "artifact_id": "tasks-upickle_3",
-  "latest_version": "4.0.0-M10",
+  "latest_version": "4.0.0-M11",
   "description": "tasks-upickle",
   "id": "pkg:maven/io.github.pityka/tasks-upickle_3",
-  "ts": 1753386802000,
+  "ts": 1753622289000,
   "dependency_count": 0,
   "ref_count": 50,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753387131440
+  "last_updated": 1753622815644
 }

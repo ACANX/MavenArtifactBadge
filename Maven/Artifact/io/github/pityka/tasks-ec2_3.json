@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.pityka",
   "artifact_id": "tasks-ec2_3",
-  "latest_version": "4.0.0-M10",
+  "latest_version": "4.0.0-M11",
   "description": "tasks-ec2",
   "id": "pkg:maven/io.github.pityka/tasks-ec2_3",
-  "ts": 1753386802000,
+  "ts": 1753622289000,
   "dependency_count": 0,
   "ref_count": 57,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753387131434
+  "last_updated": 1753622815639
 }
