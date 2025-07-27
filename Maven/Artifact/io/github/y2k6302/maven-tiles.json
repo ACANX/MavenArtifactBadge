@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.y2k6302",
   "artifact_id": "maven-tiles",
-  "latest_version": "1.0.5",
+  "latest_version": "1.0.6",
   "description": "Maven Tiles for Spotless formatting",
   "id": "pkg:maven/io.github.y2k6302/maven-tiles",
-  "ts": 1753578634000,
+  "ts": 1753581021000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753579018441
+  "last_updated": 1753581420425
 }
