@@ -1,15 +1,15 @@
 {
   "group_id": "com.squareup.misk.vitess.vitess-database",
   "artifact_id": "com.squareup.misk.vitess.vitess-database.gradle.plugin",
-  "latest_version": "2025.07.28.144236-3cb5622",
+  "latest_version": "2025.07.28.164242-b838462",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk.vitess.vitess-database/com.squareup.misk.vitess.vitess-database.gradle.plugin",
-  "ts": 1753715148000,
+  "ts": 1753722313000,
   "dependency_count": 0,
-  "ref_count": 1,
+  "ref_count": 58,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753715820232
+  "last_updated": 1753723020274
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-gcp",
-  "latest_version": "2025.07.28.144236-3cb5622",
+  "latest_version": "2025.07.28.164242-b838462",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-gcp",
-  "ts": 1753715149000,
+  "ts": 1753722313000,
   "dependency_count": 0,
   "ref_count": 218,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753715819471
+  "last_updated": 1753723020767
 }

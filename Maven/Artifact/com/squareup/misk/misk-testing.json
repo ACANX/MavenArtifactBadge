@@ -1,17 +1,17 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-testing",
-  "latest_version": "2025.07.28.144236-3cb5622",
+  "latest_version": "2025.07.28.164242-b838462",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-testing",
-  "ts": 1753715148000,
+  "ts": 1753722313000,
   "dependency_count": 9,
-  "ref_count": 102,
+  "ref_count": 105,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753715820909
+  "last_updated": 1753723020765
 }

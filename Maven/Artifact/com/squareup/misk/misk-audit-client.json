@@ -1,17 +1,17 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-audit-client",
-  "latest_version": "2025.07.28.144236-3cb5622",
+  "latest_version": "2025.07.28.164242-b838462",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-audit-client",
-  "ts": 1753715148000,
+  "ts": 1753722313000,
   "dependency_count": 5,
-  "ref_count": 17,
+  "ref_count": 8,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753715820234
+  "last_updated": 1753723021325
 }

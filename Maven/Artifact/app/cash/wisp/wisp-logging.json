@@ -1,11 +1,11 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-logging",
-  "latest_version": "2025.07.28.144236-3cb5622",
+  "latest_version": "2025.07.28.164255-11cc719",
   "description": "a module containing logging helpers",
   "id": "pkg:maven/app.cash.wisp/wisp-logging",
-  "ts": 1753715130000,
-  "dependency_count": 32,
+  "ts": 1753722323000,
+  "dependency_count": 3,
   "ref_count": 5,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753715822460
+  "last_updated": 1753723020269
 }
