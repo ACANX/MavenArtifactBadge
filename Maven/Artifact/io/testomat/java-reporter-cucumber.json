@@ -1,15 +1,15 @@
 {
   "group_id": "io.testomat",
   "artifact_id": "java-reporter-cucumber",
-  "latest_version": "0.6.42",
+  "latest_version": "0.6.43",
   "description": "Java reporter library for Testomat.io integration with Cucumber",
   "id": "pkg:maven/io.testomat/java-reporter-cucumber",
-  "ts": 1753745561000,
+  "ts": 1753746437000,
   "dependency_count": 0,
   "ref_count": 23,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753746024318
+  "last_updated": 1753746854449
 }

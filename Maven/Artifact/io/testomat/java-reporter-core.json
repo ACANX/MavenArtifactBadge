@@ -1,15 +1,15 @@
 {
   "group_id": "io.testomat",
   "artifact_id": "java-reporter-core",
-  "latest_version": "0.6.42",
+  "latest_version": "0.6.43",
   "description": "Core functionality for Testomat.io Java test reporting library",
   "id": "pkg:maven/io.testomat/java-reporter-core",
-  "ts": 1753745527000,
+  "ts": 1753746402000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753746024318
+  "last_updated": 1753746854451
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "io.testomat",
   "artifact_id": "java-reporter-junit",
-  "latest_version": "0.6.42",
+  "latest_version": "0.6.43",
   "description": "Java reporter library for Testomat.io integration with JUnit 5",
   "id": "pkg:maven/io.testomat/java-reporter-junit",
-  "ts": 1753745562000,
+  "ts": 1753746437000,
   "dependency_count": 0,
   "ref_count": 12,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753746024317
+  "last_updated": 1753746854450
 }
