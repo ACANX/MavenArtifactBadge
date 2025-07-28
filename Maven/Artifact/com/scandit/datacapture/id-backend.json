@@ -1,0 +1,17 @@
+{
+  "group_id": "com.scandit.datacapture",
+  "artifact_id": "id-backend",
+  "latest_version": "7.5.0-beta.1",
+  "description": "ScanditIdCaptureBackend is a library required to use id capture capabilities from the Scandit Data Capture SDK.",
+  "id": "pkg:maven/com.scandit.datacapture/id-backend",
+  "ts": 1753728706000,
+  "dependency_count": 0,
+  "ref_count": 23,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Scandit Commercial License"
+  ],
+  "last_updated": 1753729621516
+}

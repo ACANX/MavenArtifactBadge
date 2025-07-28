@@ -1,0 +1,17 @@
+{
+  "group_id": "com.scandit.datacapture",
+  "artifact_id": "parser",
+  "latest_version": "7.5.0-beta.1",
+  "description": "The Scandit Parser Library parses data strings, e.g. as found in barcodes, into a set of key-value mappings.",
+  "id": "pkg:maven/com.scandit.datacapture/parser",
+  "ts": 1753728706000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Scandit Commercial License"
+  ],
+  "last_updated": 1753729621516
+}

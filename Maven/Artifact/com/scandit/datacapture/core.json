@@ -1,0 +1,17 @@
+{
+  "group_id": "com.scandit.datacapture",
+  "artifact_id": "core",
+  "latest_version": "7.5.0-beta.1",
+  "description": "ScanditCaptureCore builds the foundation of all data capture related functionality offered by the Scandit Data Capture SDK.",
+  "id": "pkg:maven/com.scandit.datacapture/core",
+  "ts": 1753728706000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Scandit Commercial License"
+  ],
+  "last_updated": 1753729621516
+}
