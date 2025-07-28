@@ -1,10 +1,10 @@
 {
   "group_id": "org.swisspush.gateleen",
   "artifact_id": "gateleen-core",
-  "latest_version": "2.1.26",
+  "latest_version": "2.1.27",
   "description": "Middleware library based on Vert.x to build advanced JSON/REST communication servers",
   "id": "pkg:maven/org.swisspush.gateleen/gateleen-core",
-  "ts": 1753671252000,
+  "ts": 1753674539000,
   "dependency_count": 20,
   "ref_count": 46,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753672019214
+  "last_updated": 1753675025741
 }

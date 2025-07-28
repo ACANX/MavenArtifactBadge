@@ -1,0 +1,15 @@
+{
+  "group_id": "cn.silwings.dicti18n",
+  "artifact_id": "dict-i18n-loader-core",
+  "latest_version": "1.0.1",
+  "description": "Core implementations for dictionary resource loading",
+  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-loader-core",
+  "ts": 1753674616000,
+  "dependency_count": 6,
+  "ref_count": 18,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753675025264
+}

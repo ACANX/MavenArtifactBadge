@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.jsousa32",
+  "artifact_id": "lib-bigdata",
+  "latest_version": "1.0.14",
+  "description": "Biblioteca Dealboard",
+  "id": "pkg:maven/io.github.jsousa32/lib-bigdata",
+  "ts": 1753674571000,
+  "dependency_count": 0,
+  "ref_count": 33,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753675025264
+}
