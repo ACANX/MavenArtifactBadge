@@ -1,0 +1,15 @@
+{
+  "group_id": "ir.moke.microfox",
+  "artifact_id": "microfox-service-discovery",
+  "latest_version": "0.6",
+  "description": "MicroFox Framework",
+  "id": "pkg:maven/ir.moke.microfox/microfox-service-discovery",
+  "ts": 1753674773000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753675619990
+}
