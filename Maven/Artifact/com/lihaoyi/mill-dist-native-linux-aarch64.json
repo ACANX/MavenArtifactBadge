@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-linux-aarch64",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-dist-native-linux-aarch64",
   "id": "pkg:maven/com.lihaoyi/mill-dist-native-linux-aarch64",
-  "ts": 1753437235000,
+  "ts": 1753699692000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753437619433
+  "last_updated": 1753700219602
 }
