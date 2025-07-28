@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.ccezarst",
+  "artifact_id": "componentEngine",
+  "latest_version": "0.0.1",
+  "description": "A component engine enabling modular architecture with multithreading support by default.",
+  "id": "pkg:maven/io.github.ccezarst/componentEngine",
+  "ts": 1753718225000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Creative Commons Attribution-ShareAlike 4.0 International"
+  ],
+  "last_updated": 1753718378482
+}
