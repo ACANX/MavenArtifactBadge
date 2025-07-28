@@ -1,15 +1,15 @@
 {
   "group_id": "ch.ubique.kmp",
   "artifact_id": "network-iossimulatorarm64",
-  "latest_version": "1.2.0-rc03",
+  "latest_version": "1.2.0-rc05",
   "description": "Kotlin Multiplatform Library for Networking",
   "id": "pkg:maven/ch.ubique.kmp/network-iossimulatorarm64",
-  "ts": 1753369871000,
+  "ts": 1753685094000,
   "dependency_count": 0,
   "ref_count": 12,
   "categories": null,
   "licenses": [
     "License"
   ],
-  "last_updated": 1753370219291
+  "last_updated": 1753687021377
 }
