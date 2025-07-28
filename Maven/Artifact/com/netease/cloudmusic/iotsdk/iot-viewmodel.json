@@ -1,15 +1,15 @@
 {
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot-viewmodel",
-  "latest_version": "0.4.5.20250728165419",
+  "latest_version": "0.4.5.20250728175822",
   "description": "CMIotSdk多终端SDK",
   "id": "pkg:maven/com.netease.cloudmusic.iotsdk/iot-viewmodel",
-  "ts": 1753692975000,
+  "ts": 1753696820000,
   "dependency_count": 1,
-  "ref_count": 6,
+  "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753693622017
+  "last_updated": 1753697430502
 }

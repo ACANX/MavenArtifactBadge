@@ -1,15 +1,15 @@
 {
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot-sdk-base",
-  "latest_version": "0.4.5.20250728165419",
+  "latest_version": "0.4.5.20250728175822",
   "description": "CMIotSdk多终端SDK",
   "id": "pkg:maven/com.netease.cloudmusic.iotsdk/iot-sdk-base",
-  "ts": 1753692975000,
+  "ts": 1753696820000,
   "dependency_count": 3,
   "ref_count": 33,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753693622845
+  "last_updated": 1753697430504
 }
