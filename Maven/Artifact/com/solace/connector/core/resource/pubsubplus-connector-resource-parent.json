@@ -1,15 +1,15 @@
 {
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-resource-parent",
-  "latest_version": "2.16.2",
+  "latest_version": "2.16.3",
   "description": "Parent for Remote Resources for PubSub+ Connector Framework",
   "id": "pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-resource-parent",
-  "ts": 1753278518000,
+  "ts": 1753717272000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753279619469
+  "last_updated": 1753718220462
 }

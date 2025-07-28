@@ -1,15 +1,15 @@
 {
   "group_id": "com.solace.connector.core.test",
   "artifact_id": "pubsubplus-connector-jsonschema-test-support",
-  "latest_version": "2.16.2",
+  "latest_version": "2.16.3",
   "description": "Utilities to help test JSON schemas for PubSub+ Connectors",
   "id": "pkg:maven/com.solace.connector.core.test/pubsubplus-connector-jsonschema-test-support",
-  "ts": 1753278518000,
+  "ts": 1753717272000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753279618818
+  "last_updated": 1753718220458
 }
