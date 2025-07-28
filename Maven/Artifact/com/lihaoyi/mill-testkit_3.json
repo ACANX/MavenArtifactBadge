@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-testkit_3",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-testkit",
   "id": "pkg:maven/com.lihaoyi/mill-testkit_3",
-  "ts": 1753438072000,
+  "ts": 1753700537000,
   "dependency_count": 0,
-  "ref_count": 44,
+  "ref_count": 13,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753438620172
+  "last_updated": 1753701426994
 }

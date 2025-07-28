@@ -1,0 +1,15 @@
+{
+  "group_id": "com.smartcat.aem.connector",
+  "artifact_id": "smartcat-connector.core",
+  "latest_version": "1.0.24",
+  "description": "Core bundle for Smartcat Translation Connector",
+  "id": "pkg:maven/com.smartcat.aem.connector/smartcat-connector.core",
+  "ts": 1753700917000,
+  "dependency_count": 1,
+  "ref_count": 21,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753701426992
+}

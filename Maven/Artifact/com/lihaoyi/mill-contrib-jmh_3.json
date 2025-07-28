@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-jmh_3",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-contrib-jmh",
   "id": "pkg:maven/com.lihaoyi/mill-contrib-jmh_3",
-  "ts": 1753437896000,
+  "ts": 1753700280000,
   "dependency_count": 0,
   "ref_count": 8,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753438621863
+  "last_updated": 1753701429524
 }

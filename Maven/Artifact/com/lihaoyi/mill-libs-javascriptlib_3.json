@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javascriptlib_3",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-javascriptlib",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javascriptlib_3",
-  "ts": 1753438012000,
+  "ts": 1753700453000,
   "dependency_count": 1,
   "ref_count": 42,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753438620698
+  "last_updated": 1753701427688
 }

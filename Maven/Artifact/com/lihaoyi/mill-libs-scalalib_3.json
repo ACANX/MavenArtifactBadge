@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalalib_3",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-scalalib",
   "id": "pkg:maven/com.lihaoyi/mill-libs-scalalib_3",
-  "ts": 1753438035000,
-  "dependency_count": 14,
-  "ref_count": 44,
+  "ts": 1753700481000,
+  "dependency_count": 9,
+  "ref_count": 13,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753438620177
+  "last_updated": 1753701427685
 }

@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-api_3",
-  "latest_version": "1.0.1-22-3ffc87",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-core-api",
   "id": "pkg:maven/com.lihaoyi/mill-core-api_3",
-  "ts": 1753437931000,
-  "dependency_count": 41,
-  "ref_count": 43,
+  "ts": 1753700327000,
+  "dependency_count": 20,
+  "ref_count": 45,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753438621232
+  "last_updated": 1753701428854
 }

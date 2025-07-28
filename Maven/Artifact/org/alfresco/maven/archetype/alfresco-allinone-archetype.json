@@ -1,0 +1,18 @@
+{
+  "group_id": "org.alfresco.maven.archetype",
+  "artifact_id": "alfresco-allinone-archetype",
+  "latest_version": "4.12.0-A1",
+  "description": "Sample multi-module project for All-in-One development on the Alfresco platform. Includes modules for Platform/Repository JAR and Share JAR",
+  "id": "pkg:maven/org.alfresco.maven.archetype/alfresco-allinone-archetype",
+  "ts": 1753700303000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Processors",
+    "Templating"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753701428859
+}

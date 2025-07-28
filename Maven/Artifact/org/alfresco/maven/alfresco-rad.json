@@ -1,0 +1,17 @@
+{
+  "group_id": "org.alfresco.maven",
+  "artifact_id": "alfresco-rad",
+  "latest_version": "4.12.0-A1",
+  "description": "SDK module for Rapid Development support, such as Alfresco JUnit runner",
+  "id": "pkg:maven/org.alfresco.maven/alfresco-rad",
+  "ts": 1753700303000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Build Tools"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753701428858
+}

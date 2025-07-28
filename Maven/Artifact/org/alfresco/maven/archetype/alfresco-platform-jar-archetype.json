@@ -1,0 +1,18 @@
+{
+  "group_id": "org.alfresco.maven.archetype",
+  "artifact_id": "alfresco-platform-jar-archetype",
+  "latest_version": "4.12.0-A1",
+  "description": "Sample project with full support for lifecycle and rapid development of Platform/Repository JARs and AMPs (Alfresco Module Packages)",
+  "id": "pkg:maven/org.alfresco.maven.archetype/alfresco-platform-jar-archetype",
+  "ts": 1753700303000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Processors",
+    "Templating"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753701428860
+}
