@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.josephlbarnett",
   "artifact_id": "server",
-  "latest_version": "3.2.804",
+  "latest_version": "3.3.815",
   "description": "Libraries for building kotlin services",
   "id": "pkg:maven/io.github.josephlbarnett/server",
-  "ts": 1753314935000,
+  "ts": 1753672640000,
   "dependency_count": 1,
-  "ref_count": 241,
+  "ref_count": 229,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753315615920
+  "last_updated": 1753673223843
 }

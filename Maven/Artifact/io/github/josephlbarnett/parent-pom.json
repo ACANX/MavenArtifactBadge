@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.josephlbarnett",
   "artifact_id": "parent-pom",
-  "latest_version": "3.2.804",
+  "latest_version": "3.3.815",
   "description": "Parent pom for downstream projects",
   "id": "pkg:maven/io.github.josephlbarnett/parent-pom",
-  "ts": 1753314935000,
+  "ts": 1753672640000,
   "dependency_count": 0,
-  "ref_count": 14,
+  "ref_count": 10,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753315615919
+  "last_updated": 1753673223842
 }

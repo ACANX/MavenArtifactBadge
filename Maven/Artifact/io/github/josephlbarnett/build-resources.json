@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.josephlbarnett",
   "artifact_id": "build-resources",
-  "latest_version": "3.2.804",
+  "latest_version": "3.3.815",
   "description": "Resources for use during the build process",
   "id": "pkg:maven/io.github.josephlbarnett/build-resources",
-  "ts": 1753314935000,
+  "ts": 1753672640000,
   "dependency_count": 9,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753315615918
+  "last_updated": 1753673223845
 }
