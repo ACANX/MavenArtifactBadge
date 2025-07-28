@@ -1,15 +1,15 @@
 {
   "group_id": "com.tanx",
   "artifact_id": "TanxUISDK",
-  "latest_version": "3.7.23",
+  "latest_version": "3.7.23.1",
   "description": "TanxUISDK lib.",
   "id": "pkg:maven/com.tanx/TanxUISDK",
-  "ts": 1753433354000,
+  "ts": 1753688845000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753433816735
+  "last_updated": 1753690618258
 }
