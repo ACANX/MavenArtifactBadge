@@ -1,17 +1,15 @@
 {
   "group_id": "software.amazon.awssdk",
   "artifact_id": "archetype-lambda",
-  "latest_version": "2.32.9",
+  "latest_version": "2.32.10",
   "description": "The AWS SDK for Java - Maven archetype for Java lambda function using AWS Java SDK 2.x",
   "id": "pkg:maven/software.amazon.awssdk/archetype-lambda",
-  "ts": 1753478146000,
+  "ts": 1753739315000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [
-    "Apache License, Version 2.0"
-  ],
-  "last_updated": 1753478823377
+  "licenses": [],
+  "last_updated": 1753739725684
 }

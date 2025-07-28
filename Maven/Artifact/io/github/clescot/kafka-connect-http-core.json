@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.clescot",
+  "artifact_id": "kafka-connect-http-core",
+  "latest_version": "0.8.58",
+  "description": "core library of Kafka Connect HTTP.",
+  "id": "pkg:maven/io.github.clescot/kafka-connect-http-core",
+  "ts": 1753739347000,
+  "dependency_count": 2,
+  "ref_count": 24,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753739725682
+}

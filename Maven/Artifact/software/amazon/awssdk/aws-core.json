@@ -1,15 +1,15 @@
 {
   "group_id": "software.amazon.awssdk",
   "artifact_id": "aws-core",
-  "latest_version": "2.32.9",
+  "latest_version": "2.32.10",
   "description": "The AWS SDK for Java - Core runtime module holds the classes that are used by the individual service\n        clients to interact with\n        Amazon Web Services. Users need to depend on aws-java-sdk artifact for accessing individual client classes.",
   "id": "pkg:maven/software.amazon.awssdk/aws-core",
-  "ts": 1753478298000,
+  "ts": 1753739272000,
   "dependency_count": 0,
   "ref_count": 34,
   "categories": [
     "Software Development Kit"
   ],
   "licenses": [],
-  "last_updated": 1753478820806
+  "last_updated": 1753739726341
 }

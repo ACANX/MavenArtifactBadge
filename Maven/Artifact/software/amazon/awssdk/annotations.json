@@ -1,15 +1,15 @@
 {
   "group_id": "software.amazon.awssdk",
   "artifact_id": "annotations",
-  "latest_version": "2.32.9",
+  "latest_version": "2.32.10",
   "description": null,
   "id": "pkg:maven/software.amazon.awssdk/annotations",
-  "ts": 1753478197000,
-  "dependency_count": 3,
+  "ts": 1753739252000,
+  "dependency_count": 2,
   "ref_count": 0,
   "categories": [
     "Software Development Kit"
   ],
   "licenses": [],
-  "last_updated": 1753478822812
+  "last_updated": 1753739726344
 }
