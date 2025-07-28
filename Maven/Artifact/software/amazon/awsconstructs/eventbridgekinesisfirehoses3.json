@@ -1,10 +1,10 @@
 {
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "eventbridgekinesisfirehoses3",
-  "latest_version": "2.87.0",
+  "latest_version": "2.89.0",
   "description": "CDK Constructs for Amazon CloudWatch Events Rule to Amazon Kinesis Firehose to Amazon S3 integration.",
   "id": "pkg:maven/software.amazon.awsconstructs/eventbridgekinesisfirehoses3",
-  "ts": 1753729584000,
+  "ts": 1753738428000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753730155335
+  "last_updated": 1753739194972
 }

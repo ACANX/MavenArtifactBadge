@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "wafwebaclcloudfront",
+  "latest_version": "2.89.0",
+  "description": "CDK constructs for defining an AWS web WAF connected to Amazon CloudFront.",
+  "id": "pkg:maven/software.amazon.awsconstructs/wafwebaclcloudfront",
+  "ts": 1753738428000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753739195441
+}
