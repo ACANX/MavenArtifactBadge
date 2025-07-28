@@ -1,10 +1,10 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-library_sjs1_3",
-  "latest_version": "3.7.3-RC1-bin-20250726-1148afe-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250728-95b37a7-NIGHTLY",
   "description": "scala3-library-bootstrappedJS",
   "id": "pkg:maven/org.scala-lang/scala3-library_sjs1_3",
-  "ts": 1753593936000,
+  "ts": 1753684182000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753594620980
+  "last_updated": 1753685221143
 }

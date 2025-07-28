@@ -1,17 +1,17 @@
 {
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-compiler_3",
-  "latest_version": "3.7.3-RC1-bin-20250726-1148afe-NIGHTLY",
+  "latest_version": "3.7.3-RC1-bin-20250728-95b37a7-NIGHTLY",
   "description": "scala3-compiler-bootstrapped",
   "id": "pkg:maven/org.scala-lang/scala3-compiler_3",
-  "ts": 1753593936000,
+  "ts": 1753684182000,
   "dependency_count": 5,
-  "ref_count": 0,
+  "ref_count": 13,
   "categories": [
     "Programming Language Utilities"
   ],
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753594620981
+  "last_updated": 1753685221143
 }
