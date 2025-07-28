@@ -1,0 +1,15 @@
+{
+  "group_id": "aws.sdk.kotlin.hll.dynamodbmapper.schema.generator",
+  "artifact_id": "aws.sdk.kotlin.hll.dynamodbmapper.schema.generator.gradle.plugin",
+  "latest_version": "1.5.5-beta",
+  "description": "Plugin used to generate DynamoDbMapper schemas from user classes",
+  "id": "pkg:maven/aws.sdk.kotlin.hll.dynamodbmapper.schema.generator/aws.sdk.kotlin.hll.dynamodbmapper.schema.generator.gradle.plugin",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744636973
+}

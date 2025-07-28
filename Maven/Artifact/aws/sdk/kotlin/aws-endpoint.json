@@ -1,11 +1,11 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "aws-endpoint",
-  "latest_version": "1.5.4",
+  "latest_version": "1.5.5",
   "description": "AWS Endpoint Support",
   "id": "pkg:maven/aws.sdk.kotlin/aws-endpoint",
-  "ts": 1753486078000,
-  "dependency_count": 175,
+  "ts": 1753741682000,
+  "dependency_count": 340,
   "ref_count": 3,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488428207
+  "last_updated": 1753744635406
 }

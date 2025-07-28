@@ -1,11 +1,11 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "dynamodb-mapper-schema-generator-plugin",
-  "latest_version": "1.5.4-beta",
+  "latest_version": "1.5.5-beta",
   "description": "Plugin used to generate DynamoDbMapper schemas from user classes",
   "id": "pkg:maven/aws.sdk.kotlin/dynamodb-mapper-schema-generator-plugin",
-  "ts": 1753486078000,
-  "dependency_count": 0,
+  "ts": 1753741683000,
+  "dependency_count": 1,
   "ref_count": 5,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488428756
+  "last_updated": 1753744621342
 }

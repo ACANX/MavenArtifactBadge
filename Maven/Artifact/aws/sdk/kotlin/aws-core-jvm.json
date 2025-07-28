@@ -1,11 +1,11 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "aws-core-jvm",
-  "latest_version": "1.5.4",
+  "latest_version": "1.5.5",
   "description": "AWS client runtime core",
   "id": "pkg:maven/aws.sdk.kotlin/aws-core-jvm",
-  "ts": 1753486079000,
-  "dependency_count": 175,
+  "ts": 1753741683000,
+  "dependency_count": 334,
   "ref_count": 8,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488420394
+  "last_updated": 1753744620192
 }

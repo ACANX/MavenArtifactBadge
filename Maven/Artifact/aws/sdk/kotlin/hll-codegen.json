@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "hll-codegen",
+  "latest_version": "1.5.5-beta",
+  "description": "Common code-generation utilities used by AWS SDK for Kotlin's high level libraries",
+  "id": "pkg:maven/aws.sdk.kotlin/hll-codegen",
+  "ts": 1753741682000,
+  "dependency_count": 3,
+  "ref_count": 9,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744634384
+}

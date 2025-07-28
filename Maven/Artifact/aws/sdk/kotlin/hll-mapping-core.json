@@ -1,10 +1,10 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "hll-mapping-core",
-  "latest_version": "1.5.4-beta",
+  "latest_version": "1.5.5-beta",
   "description": "Common data mapping utilities used by AWS SDK for Kotlin's high level libraries",
   "id": "pkg:maven/aws.sdk.kotlin/hll-mapping-core",
-  "ts": 1753486078000,
+  "ts": 1753741682000,
   "dependency_count": 1,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488429254
+  "last_updated": 1753744636974
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "cloudsearchdomain",
-  "latest_version": "1.5.4",
+  "latest_version": "1.5.5",
   "description": "The AWS SDK for Kotlin client for CloudSearch Domain",
   "id": "pkg:maven/aws.sdk.kotlin/cloudsearchdomain",
-  "ts": 1753486078000,
+  "ts": 1753741682000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488427097
+  "last_updated": 1753744632777
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "dynamodb-mapper-jvm",
-  "latest_version": "1.5.4-beta",
+  "latest_version": "1.5.5-beta",
   "description": "High level DynamoDbMapper client",
   "id": "pkg:maven/aws.sdk.kotlin/dynamodb-mapper-jvm",
-  "ts": 1753486078000,
+  "ts": 1753741682000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488423774
+  "last_updated": 1753744624233
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "aws.sdk.kotlin",
   "artifact_id": "dynamodb-mapper-codegen",
-  "latest_version": "1.5.4-beta",
+  "latest_version": "1.5.5-beta",
   "description": "DynamoDbMapper code generation",
   "id": "pkg:maven/aws.sdk.kotlin/dynamodb-mapper-codegen",
-  "ts": 1753486079000,
+  "ts": 1753741682000,
   "dependency_count": 1,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753488422218
+  "last_updated": 1753744636450
 }
