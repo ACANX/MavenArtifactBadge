@@ -1,15 +1,15 @@
 {
   "group_id": "com.palantir.launching",
   "artifact_id": "go-init",
-  "latest_version": "1.196.0",
+  "latest_version": "1.197.0",
   "description": "Palantir open source project",
   "id": "pkg:maven/com.palantir.launching/go-init",
-  "ts": 1753726579000,
+  "ts": 1753731640000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753727202087
+  "last_updated": 1753732024127
 }
