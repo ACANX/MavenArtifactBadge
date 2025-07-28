@@ -1,0 +1,16 @@
+{
+  "group_id": "org.poly-gamma.android.origin",
+  "artifact_id": "origin-antifraud-standalone",
+  "latest_version": "0.1.1.1.1753660854",
+  "description": "Standalone Origin Anti-fraud SDK.",
+  "id": "pkg:maven/org.poly-gamma.android.origin/origin-antifraud-standalone",
+  "ts": 1753660879000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License, version 2.0",
+    "MIT License"
+  ],
+  "last_updated": 1753661223327
+}
