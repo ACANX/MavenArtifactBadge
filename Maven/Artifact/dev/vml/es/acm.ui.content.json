@@ -1,15 +1,15 @@
 {
   "group_id": "dev.vml.es",
   "artifact_id": "acm.ui.content",
-  "latest_version": "0.9.26",
+  "latest_version": "0.9.27",
   "description": "UI Content Package for AEM Content Manager",
   "id": "pkg:maven/dev.vml.es/acm.ui.content",
-  "ts": 1753694553000,
+  "ts": 1753697108000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753695115539
+  "last_updated": 1753697820529
 }
