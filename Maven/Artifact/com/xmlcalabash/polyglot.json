@@ -1,10 +1,10 @@
 {
   "group_id": "com.xmlcalabash",
   "artifact_id": "polyglot",
-  "latest_version": "3.0.11",
+  "latest_version": "3.0.12",
   "description": "An polyglot step for XML Calabash 3.x",
   "id": "pkg:maven/com.xmlcalabash/polyglot",
-  "ts": 1753466715000,
+  "ts": 1753685418000,
   "dependency_count": 0,
   "ref_count": 33,
   "categories": [
@@ -15,5 +15,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753467417073
+  "last_updated": 1753688226986
 }
