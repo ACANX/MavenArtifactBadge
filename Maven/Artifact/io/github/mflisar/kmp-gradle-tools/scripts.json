@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.mflisar.kmp-gradle-tools",
   "artifact_id": "scripts",
-  "latest_version": "1.3.7",
+  "latest_version": "1.3.8",
   "description": "kmp-gradle-tools - scripts module - scripts for kmp projects",
   "id": "pkg:maven/io.github.mflisar.kmp-gradle-tools/scripts",
-  "ts": 1753707162000,
+  "ts": 1753707830000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": null,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753708018136
+  "last_updated": 1753708623333
 }
