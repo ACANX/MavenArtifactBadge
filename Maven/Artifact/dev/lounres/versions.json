@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.lounres",
+  "artifact_id": "versions",
+  "latest_version": "2025.7.28.19",
+  "description": "Common versions that I use in my projects",
+  "id": "pkg:maven/dev.lounres/versions",
+  "ts": 1753732683000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753733220486
+}

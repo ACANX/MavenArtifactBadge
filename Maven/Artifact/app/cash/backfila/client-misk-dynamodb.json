@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.backfila",
   "artifact_id": "client-misk-dynamodb",
-  "latest_version": "2025.07.24.041611-fe2805d",
+  "latest_version": "2025.07.28.193750-99c8949",
   "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "id": "pkg:maven/app.cash.backfila/client-misk-dynamodb",
-  "ts": 1753331273000,
+  "ts": 1753732179000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753331816963
+  "last_updated": 1753733220960
 }
