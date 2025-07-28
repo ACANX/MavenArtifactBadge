@@ -1,15 +1,15 @@
 {
   "group_id": "ch.ubique.kmp",
   "artifact_id": "network",
-  "latest_version": "1.2.0-rc05",
+  "latest_version": "1.2.0-rc06",
   "description": "Kotlin Multiplatform Library for Networking",
   "id": "pkg:maven/ch.ubique.kmp/network",
-  "ts": 1753685094000,
+  "ts": 1753696655000,
   "dependency_count": 0,
   "ref_count": 11,
   "categories": null,
   "licenses": [
     "License"
   ],
-  "last_updated": 1753687021375
+  "last_updated": 1753697220918
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.lokksmith",
+  "artifact_id": "lokksmith-core-iossimulatorarm64",
+  "latest_version": "0.3.3",
+  "description": "Kotlin Multiplatform OpenID Connect client library",
+  "id": "pkg:maven/dev.lokksmith/lokksmith-core-iossimulatorarm64",
+  "ts": 1753696510000,
+  "dependency_count": 1,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753697221476
+}
