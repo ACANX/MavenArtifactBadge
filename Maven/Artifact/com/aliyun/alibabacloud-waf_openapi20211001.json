@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "alibabacloud-waf_openapi20211001",
+  "latest_version": "6.0.3",
+  "description": "Alibaba Cloud waf-openapi (20211001) Async SDK for Java",
+  "id": "pkg:maven/com.aliyun/alibabacloud-waf_openapi20211001",
+  "ts": 1753722973000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753723542927
+}
