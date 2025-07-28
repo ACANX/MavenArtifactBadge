@@ -1,0 +1,17 @@
+{
+  "group_id": "se.bjurr.gitchangelog",
+  "artifact_id": "git-changelog-maven-plugin",
+  "latest_version": "2.2.8",
+  "description": "Maven plugin that can generate a changelog from git repo.",
+  "id": "pkg:maven/se.bjurr.gitchangelog/git-changelog-maven-plugin",
+  "ts": 1753692570000,
+  "dependency_count": 0,
+  "ref_count": 58,
+  "categories": [
+    "Logging"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753693023318
+}
