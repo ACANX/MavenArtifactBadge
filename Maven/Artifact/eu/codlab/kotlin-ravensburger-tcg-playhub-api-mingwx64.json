@@ -1,15 +1,15 @@
 {
   "group_id": "eu.codlab",
   "artifact_id": "kotlin-ravensburger-tcg-playhub-api-mingwx64",
-  "latest_version": "unspecified",
+  "latest_version": "0.0.1",
   "description": "Ravensburger TCG Playhub API",
   "id": "pkg:maven/eu.codlab/kotlin-ravensburger-tcg-playhub-api-mingwx64",
-  "ts": 1753647452000,
+  "ts": 1753662865000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": null,
   "licenses": [
     "GPL-3.0"
   ],
-  "last_updated": 1753648017899
+  "last_updated": 1753663625579
 }
