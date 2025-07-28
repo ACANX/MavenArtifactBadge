@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hisp",
+  "artifact_id": "dhis2-java-client",
+  "latest_version": "2.2.7",
+  "description": "DHIS 2 API client for Java.",
+  "id": "pkg:maven/org.hisp/dhis2-java-client",
+  "ts": 1753710924000,
+  "dependency_count": 0,
+  "ref_count": 31,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "BSD"
+  ],
+  "last_updated": 1753711618818
+}
