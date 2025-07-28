@@ -1,10 +1,10 @@
 {
   "group_id": "org.xwiki.rendering",
   "artifact_id": "xwiki-rendering-standalone",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "XWiki Rendering - Standalone Distribution",
   "id": "pkg:maven/org.xwiki.rendering/xwiki-rendering-standalone",
-  "ts": 1753252661000,
+  "ts": 1753694716000,
   "dependency_count": 0,
   "ref_count": 82,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753253219602
+  "last_updated": 1753695114501
 }
