@@ -1,17 +1,17 @@
 {
   "group_id": "io.avaje",
   "artifact_id": "avaje-inject",
-  "latest_version": "11.6-javax",
+  "latest_version": "12.0-RC1",
   "description": "avaje-inject dependency injection library using source code generation",
   "id": "pkg:maven/io.avaje/avaje-inject",
-  "ts": 1753392011000,
-  "dependency_count": 3,
-  "ref_count": 0,
+  "ts": 1753695762000,
+  "dependency_count": 1,
+  "ref_count": 16,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753392416083
+  "last_updated": 1753696312199
 }

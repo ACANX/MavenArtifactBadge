@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "utest_sjs1_2.12",
-  "latest_version": "0.9.0-M2",
+  "latest_version": "0.9.0-M3",
   "description": "utest",
   "id": "pkg:maven/com.lihaoyi/utest_sjs1_2.12",
-  "ts": 1753598847000,
+  "ts": 1753695735000,
   "dependency_count": 0,
   "ref_count": 20,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753599321170
+  "last_updated": 1753696312201
 }
