@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "electron-to-chromium",
-  "latest_version": "1.5.191",
+  "latest_version": "1.5.192",
   "description": "Provides a list of electron-to-chromium version mappings",
   "id": "pkg:maven/org.mvnpm/electron-to-chromium",
-  "ts": 1753430584000,
+  "ts": 1753733349000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "ISC"
   ],
-  "last_updated": 1753430818652
+  "last_updated": 1753733645766
 }
