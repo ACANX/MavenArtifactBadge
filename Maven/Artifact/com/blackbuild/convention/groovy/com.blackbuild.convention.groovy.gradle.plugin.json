@@ -1,0 +1,15 @@
+{
+  "group_id": "com.blackbuild.convention.groovy",
+  "artifact_id": "com.blackbuild.convention.groovy.gradle.plugin",
+  "latest_version": "2.0.0-rc.60",
+  "description": "Adds Groovy and Spock dependencies to the project",
+  "id": "pkg:maven/com.blackbuild.convention.groovy/com.blackbuild.convention.groovy.gradle.plugin",
+  "ts": 1753737915000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "MIT License (MIT)"
+  ],
+  "last_updated": 1753738367434
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.blackbuild.klum.ast",
+  "artifact_id": "klum-ast",
+  "latest_version": "2.0.0-rc.60",
+  "description": "compileOnly part of KlumAST",
+  "id": "pkg:maven/com.blackbuild.klum.ast/klum-ast",
+  "ts": 1753737915000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Developer Tools"
+  ],
+  "licenses": [
+    "MIT License (MIT)"
+  ],
+  "last_updated": 1753738367432
+}
