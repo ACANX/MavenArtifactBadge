@@ -1,0 +1,15 @@
+{
+  "group_id": "cn.therouter",
+  "artifact_id": "router",
+  "latest_version": "1.3.0-rc7",
+  "description": "Android 动态路由库-移动端模块化解决方案",
+  "id": "pkg:maven/cn.therouter/router",
+  "ts": 1753674040000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753674419475
+}
