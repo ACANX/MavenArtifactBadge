@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "react",
-  "latest_version": "9.42.0",
+  "latest_version": "9.42.1",
   "description": "Official Sentry SDK for React.js",
   "id": "pkg:maven/org.mvnpm.at.sentry/react",
-  "ts": 1753438686000,
+  "ts": 1753705991000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753439220585
+  "last_updated": 1753706217520
 }

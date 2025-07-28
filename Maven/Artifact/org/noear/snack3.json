@@ -1,0 +1,17 @@
+{
+  "group_id": "org.noear",
+  "artifact_id": "snack3",
+  "latest_version": "3.2.136",
+  "description": "Java project for snack3",
+  "id": "pkg:maven/org.noear/snack3",
+  "ts": 1753705833000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753706217521
+}
