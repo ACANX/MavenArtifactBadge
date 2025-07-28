@@ -1,0 +1,15 @@
+{
+  "group_id": "com.lightningkite",
+  "artifact_id": "kotlinx-serialization-csv-durable-jvm",
+  "latest_version": "0.2.11-1-local",
+  "description": "A tool for communication between a server using LightningServer and a client.",
+  "id": "pkg:maven/com.lightningkite/kotlinx-serialization-csv-durable-jvm",
+  "ts": 1753739652000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "last_updated": 1753740418241
+}
