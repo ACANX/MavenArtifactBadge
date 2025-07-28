@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-ai-shared",
-  "latest_version": "0.0.12",
+  "latest_version": "0.0.13",
   "description": "AI shared components for artificial intelligence integration and context management.\nProvides common interfaces and utilities for AI model interactions and intelligent processing.",
   "id": "pkg:maven/io.github.truenine/composeserver-ai-shared",
-  "ts": 1753580353000,
+  "ts": 1753721304000,
   "dependency_count": 1,
   "ref_count": 4,
   "categories": null,
   "licenses": [
     "GNU Lesser General Public License v2.1"
   ],
-  "last_updated": 1753580819882
+  "last_updated": 1753721818503
 }

@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-depend-xxl-job",
-  "latest_version": "0.0.12",
+  "latest_version": "0.0.13",
   "description": "XXL-JOB distributed task scheduling framework integration for enterprise job management.\nProvides distributed task execution, scheduling, and monitoring capabilities with fault tolerance.",
   "id": "pkg:maven/io.github.truenine/composeserver-depend-xxl-job",
-  "ts": 1753580353000,
+  "ts": 1753721304000,
   "dependency_count": 0,
   "ref_count": 25,
   "categories": null,
   "licenses": [
     "GNU Lesser General Public License v2.1"
   ],
-  "last_updated": 1753580819880
+  "last_updated": 1753721818500
 }
