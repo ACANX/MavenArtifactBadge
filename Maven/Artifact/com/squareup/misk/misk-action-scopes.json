@@ -1,17 +1,17 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-action-scopes",
-  "latest_version": "2025.07.25.191509-bd9c089",
+  "latest_version": "2025.07.28.010103-7c1aed7",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-action-scopes",
-  "ts": 1753472327000,
-  "dependency_count": 3,
-  "ref_count": 9,
+  "ts": 1753665749000,
+  "dependency_count": 2,
+  "ref_count": 25,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753473418871
+  "last_updated": 1753666619348
 }

@@ -1,11 +1,11 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-backoff",
-  "latest_version": "2025.07.25.145602-753224f",
+  "latest_version": "2025.07.28.010103-7c1aed7",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-backoff",
-  "ts": 1753456714000,
-  "dependency_count": 17,
+  "ts": 1753665749000,
+  "dependency_count": 14,
   "ref_count": 1,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753457820542
+  "last_updated": 1753666617924
 }

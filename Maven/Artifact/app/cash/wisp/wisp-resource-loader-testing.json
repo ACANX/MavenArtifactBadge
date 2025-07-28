@@ -1,17 +1,17 @@
 {
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-resource-loader-testing",
-  "latest_version": "2025.07.25.191509-bd9c089",
+  "latest_version": "2025.07.28.010103-7c1aed7",
   "description": "Test resource loading helpers",
   "id": "pkg:maven/app.cash.wisp/wisp-resource-loader-testing",
-  "ts": 1753472325000,
+  "ts": 1753665796000,
   "dependency_count": 0,
-  "ref_count": 4,
+  "ref_count": 5,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753473419712
+  "last_updated": 1753666617427
 }
