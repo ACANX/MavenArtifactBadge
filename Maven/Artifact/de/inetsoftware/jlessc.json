@@ -1,10 +1,10 @@
 {
   "group_id": "de.inetsoftware",
   "artifact_id": "jlessc",
-  "latest_version": "1.13",
+  "latest_version": "1.14",
   "description": "A Less CSS compiler written completely in Java (pure Java).",
   "id": "pkg:maven/de.inetsoftware/jlessc",
-  "ts": 1753684362000,
+  "ts": 1753689770000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753685827727
+  "last_updated": 1753691223157
 }

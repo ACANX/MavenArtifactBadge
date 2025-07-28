@@ -1,15 +1,15 @@
 {
   "group_id": "ch.linkyard.mcp",
   "artifact_id": "mcp-server_3",
-  "latest_version": "0.2.0",
+  "latest_version": "0.3.0",
   "description": "Library to implement model context protocol servers (MCP) in scala using fs2 and cats effect.",
   "id": "pkg:maven/ch.linkyard.mcp/mcp-server_3",
-  "ts": 1753298199000,
+  "ts": 1753690198000,
   "dependency_count": 0,
-  "ref_count": 42,
+  "ref_count": 43,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753298819367
+  "last_updated": 1753691218482
 }

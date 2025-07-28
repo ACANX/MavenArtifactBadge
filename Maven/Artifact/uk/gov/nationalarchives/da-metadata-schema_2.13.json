@@ -1,10 +1,10 @@
 {
   "group_id": "uk.gov.nationalarchives",
   "artifact_id": "da-metadata-schema_2.13",
-  "latest_version": "0.0.70",
+  "latest_version": "0.0.71",
   "description": "JSON Schema to describe The National Archives catalogue metadata",
   "id": "pkg:maven/uk.gov.nationalarchives/da-metadata-schema_2.13",
-  "ts": 1753364382000,
+  "ts": 1753689435000,
   "dependency_count": 0,
   "ref_count": 32,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753364817946
+  "last_updated": 1753691223161
 }
