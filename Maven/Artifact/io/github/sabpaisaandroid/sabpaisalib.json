@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.sabpaisaandroid",
+  "artifact_id": "sabpaisalib",
+  "latest_version": "0.0.4",
+  "description": "Sabpaisa payment gateway library",
+  "id": "pkg:maven/io.github.sabpaisaandroid/sabpaisalib",
+  "ts": 1753677554000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753678016705
+}
