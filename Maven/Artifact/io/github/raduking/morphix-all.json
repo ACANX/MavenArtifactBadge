@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.raduking",
+  "artifact_id": "morphix-all",
+  "latest_version": "1.0.6",
+  "description": "A library that exposes generic Java utility methods and and a package for converting a source object to a destination object.",
+  "id": "pkg:maven/io.github.raduking/morphix-all",
+  "ts": 1753745760000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753746419024
+}
