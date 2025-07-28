@@ -1,15 +1,15 @@
 {
   "group_id": "software.xdev",
   "artifact_id": "testcontainers-advanced-imagebuilder",
-  "latest_version": "2.1.0",
+  "latest_version": "2.1.1",
   "description": "testcontainers-advanced-imagebuilder",
   "id": "pkg:maven/software.xdev/testcontainers-advanced-imagebuilder",
-  "ts": 1753430079000,
+  "ts": 1753706533000,
   "dependency_count": 0,
   "ref_count": 14,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753430819421
+  "last_updated": 1753707419238
 }
