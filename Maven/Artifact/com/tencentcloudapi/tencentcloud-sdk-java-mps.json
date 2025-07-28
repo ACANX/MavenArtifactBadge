@@ -1,10 +1,10 @@
 {
   "group_id": "com.tencentcloudapi",
-  "artifact_id": "tencentcloud-sdk-java-lke",
+  "artifact_id": "tencentcloud-sdk-java-mps",
   "latest_version": "3.1.1310",
   "description": "Tencent Cloud Open API SDK for Java",
-  "id": "pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-lke",
-  "ts": 1753734897000,
+  "id": "pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-mps",
+  "ts": 1753734919000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": [
