@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.chrimle",
+  "artifact_id": "semantic-versioning",
+  "latest_version": "1.0.3",
+  "description": "Simple Project for Semantic Version Strings in Java!",
+  "id": "pkg:maven/io.github.chrimle/semantic-versioning",
+  "ts": 1753704270000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753705020278
+}

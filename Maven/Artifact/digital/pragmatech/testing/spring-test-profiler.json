@@ -1,15 +1,15 @@
 {
   "group_id": "digital.pragmatech.testing",
   "artifact_id": "spring-test-profiler",
-  "latest_version": "0.0.7",
+  "latest_version": "0.0.9",
   "description": "Spring Test insights and context caching visualization",
   "id": "pkg:maven/digital.pragmatech.testing/spring-test-profiler",
-  "ts": 1753339763000,
+  "ts": 1753704235000,
   "dependency_count": 0,
-  "ref_count": 30,
+  "ref_count": 32,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753340215347
+  "last_updated": 1753705020279
 }
