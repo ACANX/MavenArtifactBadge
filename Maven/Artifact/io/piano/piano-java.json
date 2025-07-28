@@ -1,0 +1,15 @@
+{
+  "group_id": "io.piano",
+  "artifact_id": "piano-java",
+  "latest_version": "16.538.0",
+  "description": "Piano VX Java SDK",
+  "id": "pkg:maven/io.piano/piano-java",
+  "ts": 1753669159000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753669617588
+}
