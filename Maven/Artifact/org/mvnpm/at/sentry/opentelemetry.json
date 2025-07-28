@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "opentelemetry",
-  "latest_version": "9.42.0",
+  "latest_version": "9.42.1",
   "description": "Official Sentry utilities for OpenTelemetry",
   "id": "pkg:maven/org.mvnpm.at.sentry/opentelemetry",
-  "ts": 1753444986000,
-  "dependency_count": 0,
+  "ts": 1753719311000,
+  "dependency_count": 1,
   "ref_count": 12,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753445818395
+  "last_updated": 1753720018640
 }

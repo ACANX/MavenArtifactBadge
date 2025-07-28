@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "lucide-react",
-  "latest_version": "0.528.0",
+  "latest_version": "0.532.0",
   "description": "A Lucide icon library package for React applications.",
   "id": "pkg:maven/org.mvnpm/lucide-react",
-  "ts": 1753704551000,
+  "ts": 1753719131000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "ISC"
   ],
-  "last_updated": 1753705627910
+  "last_updated": 1753720019205
 }

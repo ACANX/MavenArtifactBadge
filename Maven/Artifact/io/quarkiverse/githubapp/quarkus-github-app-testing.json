@@ -1,10 +1,10 @@
 {
   "group_id": "io.quarkiverse.githubapp",
   "artifact_id": "quarkus-github-app-testing",
-  "latest_version": "2.10.0",
+  "latest_version": "2.10.1",
   "description": "Parent POM for Quarkiverse projects that includes the default release and artifact publishing related\n    configuration",
   "id": "pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-testing",
-  "ts": 1753691411000,
+  "ts": 1753718734000,
   "dependency_count": 0,
   "ref_count": 218,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753691815630
+  "last_updated": 1753720019748
 }

@@ -1,10 +1,10 @@
 {
   "group_id": "io.quarkiverse.githubapp",
   "artifact_id": "quarkus-github-app-command-airline",
-  "latest_version": "2.10.0",
+  "latest_version": "2.10.1",
   "description": "Add comment-based commands to your GitHub App",
   "id": "pkg:maven/io.quarkiverse.githubapp/quarkus-github-app-command-airline",
-  "ts": 1753691411000,
+  "ts": 1753718734000,
   "dependency_count": 1,
   "ref_count": 137,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753691815629
+  "last_updated": 1753720019750
 }

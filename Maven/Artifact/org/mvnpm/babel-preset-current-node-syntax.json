@@ -1,0 +1,17 @@
+{
+  "group_id": "org.mvnpm",
+  "artifact_id": "babel-preset-current-node-syntax",
+  "latest_version": "1.1.1",
+  "description": "A Babel preset that enables parsing of proposals supported by the current Node.js version.",
+  "id": "pkg:maven/org.mvnpm/babel-preset-current-node-syntax",
+  "ts": 1753718776000,
+  "dependency_count": 0,
+  "ref_count": 30,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753720019747
+}
