@@ -1,0 +1,15 @@
+{
+  "group_id": "com.metaeffekt.universe",
+  "artifact_id": "ae-metaeffekt-universe",
+  "latest_version": "1.15.0",
+  "description": "POM for publishing the metaeffekt universe to Maven Central.",
+  "id": "pkg:maven/com.metaeffekt.universe/ae-metaeffekt-universe",
+  "ts": 1753687106000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "metaeffekt Universe License 1.1"
+  ],
+  "last_updated": 1753688822627
+}
