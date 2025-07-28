@@ -1,0 +1,15 @@
+{
+  "group_id": "io.fleak.zephflow",
+  "artifact_id": "api",
+  "latest_version": "0.2.4-rc.6",
+  "description": "Zephflow Core - Api Module",
+  "id": "pkg:maven/io.fleak.zephflow/api",
+  "ts": 1753714555000,
+  "dependency_count": 3,
+  "ref_count": 21,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753715823932
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "com.browserstack",
   "artifact_id": "browserstack-java-sdk",
-  "latest_version": "1.38.1",
+  "latest_version": "1.38.2",
   "description": "Java SDK for Browserstack Selenium Tests",
   "id": "pkg:maven/com.browserstack/browserstack-java-sdk",
-  "ts": 1753362951000,
+  "ts": 1753714295000,
   "dependency_count": 0,
   "ref_count": 42,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "BrowserStack License"
   ],
-  "last_updated": 1753363627061
+  "last_updated": 1753715823932
 }
