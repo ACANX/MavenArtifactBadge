@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.gekko-z",
+  "artifact_id": "call-chain-analyzer",
+  "latest_version": "0.1.0",
+  "description": "A Java tool for analyzing call chains in Spring projects using JavaParser",
+  "id": "pkg:maven/io.github.gekko-z/call-chain-analyzer",
+  "ts": 1753693908000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753694823530
+}
