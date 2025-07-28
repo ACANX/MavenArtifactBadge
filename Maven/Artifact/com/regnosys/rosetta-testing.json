@@ -1,0 +1,15 @@
+{
+  "group_id": "com.regnosys",
+  "artifact_id": "rosetta-testing",
+  "latest_version": "11.75.0",
+  "description": "Rune Testing is a java library that is utilised by Rosetta Code Generators and models expressed in the Rosetta DSL.",
+  "id": "pkg:maven/com.regnosys/rosetta-testing",
+  "ts": 1753726407000,
+  "dependency_count": 0,
+  "ref_count": 128,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753727202087
+}
