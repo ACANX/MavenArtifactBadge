@@ -1,0 +1,15 @@
+{
+  "group_id": "com.codbex.phoebe",
+  "artifact_id": "codbex-phoebe-integration-tests",
+  "latest_version": "3.17.0",
+  "description": "codbex phoebe",
+  "id": "pkg:maven/com.codbex.phoebe/codbex-phoebe-integration-tests",
+  "ts": 1753683544000,
+  "dependency_count": 0,
+  "ref_count": 124,
+  "categories": null,
+  "licenses": [
+    "Eclipse Public License - v 2.0"
+  ],
+  "last_updated": 1753684024164
+}

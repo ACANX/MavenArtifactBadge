@@ -1,0 +1,17 @@
+{
+  "group_id": "io.mateu",
+  "artifact_id": "uidl",
+  "latest_version": "3.0-alpha.106",
+  "description": "parent project",
+  "id": "pkg:maven/io.mateu/uidl",
+  "ts": 1753683386000,
+  "dependency_count": 10,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753684024167
+}
