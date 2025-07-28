@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.yumi.commons",
+  "artifact_id": "yumi-commons-event",
+  "latest_version": "1.0.0-beta.1",
+  "description": "An event framework designed to be flexible and easy to use.",
+  "id": "pkg:maven/dev.yumi.commons/yumi-commons-event",
+  "ts": 1753723998000,
+  "dependency_count": 1,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Mozilla Public License Version 2.0"
+  ],
+  "last_updated": 1753724691308
+}

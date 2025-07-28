@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.yumi.commons",
+  "artifact_id": "yumi-commons-core",
+  "latest_version": "1.0.0-beta.1",
+  "description": "A library containing core utilities for the Yumi ecosystem.",
+  "id": "pkg:maven/dev.yumi.commons/yumi-commons-core",
+  "ts": 1753723998000,
+  "dependency_count": 3,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Mozilla Public License Version 2.0"
+  ],
+  "last_updated": 1753724691308
+}

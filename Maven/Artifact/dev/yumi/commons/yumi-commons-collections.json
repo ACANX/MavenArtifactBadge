@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.yumi.commons",
+  "artifact_id": "yumi-commons-collections",
+  "latest_version": "1.0.0-beta.1",
+  "description": "A library of collections-related utilities.",
+  "id": "pkg:maven/dev.yumi.commons/yumi-commons-collections",
+  "ts": 1753723998000,
+  "dependency_count": 2,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Mozilla Public License Version 2.0"
+  ],
+  "last_updated": 1753724691307
+}
