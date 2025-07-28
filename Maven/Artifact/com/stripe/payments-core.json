@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "payments-core",
+  "latest_version": "21.22.0",
+  "description": "The core module of Stripe Payment Android SDK",
+  "id": "pkg:maven/com.stripe/payments-core",
+  "ts": 1753733603000,
+  "dependency_count": 6,
+  "ref_count": 34,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415633
+}

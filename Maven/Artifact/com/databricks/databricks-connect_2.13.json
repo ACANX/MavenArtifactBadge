@@ -1,10 +1,10 @@
 {
   "group_id": "com.databricks",
   "artifact_id": "databricks-connect_2.13",
-  "latest_version": "17.1.0",
+  "latest_version": "17.1.1",
   "description": "Develop locally and connect IDEs, notebook servers and running applications to Databricks clusters.",
   "id": "pkg:maven/com.databricks/databricks-connect_2.13",
-  "ts": 1753265091000,
+  "ts": 1753733786000,
   "dependency_count": 0,
   "ref_count": 49,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "DB License"
   ],
-  "last_updated": 1753265598431
+  "last_updated": 1753734415631
 }

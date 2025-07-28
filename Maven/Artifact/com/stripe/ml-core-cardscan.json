@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "ml-core-cardscan",
+  "latest_version": "21.22.0",
+  "description": "the machine learning module with cardscan specific tflite runtime",
+  "id": "pkg:maven/com.stripe/ml-core-cardscan",
+  "ts": 1753733603000,
+  "dependency_count": 1,
+  "ref_count": 5,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734416231
+}

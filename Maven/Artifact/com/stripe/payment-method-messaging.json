@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "payment-method-messaging",
+  "latest_version": "21.22.0",
+  "description": "The Payment Method Messaging module of Stripe Android SDK",
+  "id": "pkg:maven/com.stripe/payment-method-messaging",
+  "ts": 1753733603000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415634
+}
