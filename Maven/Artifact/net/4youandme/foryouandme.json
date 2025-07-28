@@ -1,10 +1,10 @@
 {
   "group_id": "net.4youandme",
   "artifact_id": "foryouandme",
-  "latest_version": "0.4.34",
+  "latest_version": "0.4.35",
   "description": "ForYouAndMe Android SDK",
   "id": "pkg:maven/net.4youandme/foryouandme",
-  "ts": 1753354935000,
+  "ts": 1753702266000,
   "dependency_count": 0,
   "ref_count": 92,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "ForYouAndMe Android SDK"
   ],
-  "last_updated": 1753355219609
+  "last_updated": 1753703217671
 }

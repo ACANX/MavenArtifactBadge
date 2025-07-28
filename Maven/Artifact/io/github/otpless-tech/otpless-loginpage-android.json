@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.otpless-tech",
+  "artifact_id": "otpless-loginpage-android",
+  "latest_version": "1.1.1",
+  "description": "improvements and bug fixes",
+  "id": "pkg:maven/io.github.otpless-tech/otpless-loginpage-android",
+  "ts": 1753702190000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753703217672
+}
