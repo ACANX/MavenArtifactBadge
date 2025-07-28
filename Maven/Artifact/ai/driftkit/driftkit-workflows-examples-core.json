@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-workflows-examples-core",
+  "latest_version": "0.5.3",
+  "description": "Core workflow example implementations",
+  "id": "pkg:maven/ai.driftkit/driftkit-workflows-examples-core",
+  "ts": 1753734146000,
+  "dependency_count": 1,
+  "ref_count": 181,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735020590
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-vector",
+  "latest_version": "0.5.3",
+  "description": "Vector store implementations for DriftKit",
+  "id": "pkg:maven/ai.driftkit/driftkit-vector",
+  "ts": 1753734146000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019950
+}

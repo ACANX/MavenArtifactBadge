@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-embedding-core",
+  "latest_version": "0.5.3",
+  "description": "Core embedding functionality for DriftKit",
+  "id": "pkg:maven/ai.driftkit/driftkit-embedding-core",
+  "ts": 1753734146000,
+  "dependency_count": 7,
+  "ref_count": 70,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019948
+}

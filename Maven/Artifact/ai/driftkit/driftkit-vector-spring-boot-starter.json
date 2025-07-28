@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-vector-spring-boot-starter",
+  "latest_version": "0.5.3",
+  "description": "Spring Boot auto-configuration for DriftKit Vector",
+  "id": "pkg:maven/ai.driftkit/driftkit-vector-spring-boot-starter",
+  "ts": 1753734146000,
+  "dependency_count": 3,
+  "ref_count": 181,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735020590
+}

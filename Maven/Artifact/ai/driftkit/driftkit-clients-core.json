@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-clients-core",
+  "latest_version": "0.5.3",
+  "description": "Core client abstractions and implementations for language models",
+  "id": "pkg:maven/ai.driftkit/driftkit-clients-core",
+  "ts": 1753734146000,
+  "dependency_count": 12,
+  "ref_count": 45,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019947
+}

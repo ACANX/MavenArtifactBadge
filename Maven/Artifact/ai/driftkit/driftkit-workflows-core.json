@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-workflows-core",
+  "latest_version": "0.5.3",
+  "description": "Core workflow engine and graph processing functionality",
+  "id": "pkg:maven/ai.driftkit/driftkit-workflows-core",
+  "ts": 1753734146000,
+  "dependency_count": 4,
+  "ref_count": 56,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019949
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-context-engineering-core",
+  "latest_version": "0.5.3",
+  "description": "Core template and prompt functionality for DriftKit",
+  "id": "pkg:maven/ai.driftkit/driftkit-context-engineering-core",
+  "ts": 1753734146000,
+  "dependency_count": 5,
+  "ref_count": 41,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735020588
+}
