@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.twwch",
   "artifact_id": "openai-sdk",
-  "latest_version": "1.0.8",
+  "latest_version": "1.0.9",
   "description": "Java SDK for OpenAI API",
   "id": "pkg:maven/io.github.twwch/openai-sdk",
-  "ts": 1753677844000,
+  "ts": 1753678523000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753678619341
+  "last_updated": 1753679054407
 }
