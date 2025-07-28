@@ -1,15 +1,15 @@
 {
   "group_id": "com.acanx.meta",
   "artifact_id": "os-dependencies",
-  "latest_version": "0.3.2",
+  "latest_version": "0.3.3",
   "description": "Meta Open Source BOM",
   "id": "pkg:maven/com.acanx.meta/os-dependencies",
-  "ts": 1753314102000,
+  "ts": 1753681089000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753314419269
+  "last_updated": 1753681618877
 }
