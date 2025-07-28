@@ -1,0 +1,15 @@
+{
+  "group_id": "com.turbopuffer",
+  "artifact_id": "turbopuffer-java-core",
+  "latest_version": "0.2.4",
+  "description": "turbopuffer is a fast search engine that combines vector and full-text search\nusing object storage.",
+  "id": "pkg:maven/com.turbopuffer/turbopuffer-java-core",
+  "ts": 1753723675000,
+  "dependency_count": 2,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753724216222
+}
