@@ -1,10 +1,10 @@
 {
   "group_id": "com.mohaine",
   "artifact_id": "mohaine-utils",
-  "latest_version": "2.0.1",
+  "latest_version": "2.0.2",
   "description": "Collection of simple utils",
   "id": "pkg:maven/com.mohaine/mohaine-utils",
-  "ts": 1753484880000,
+  "ts": 1753711641000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753485403142
+  "last_updated": 1753712219282
 }
