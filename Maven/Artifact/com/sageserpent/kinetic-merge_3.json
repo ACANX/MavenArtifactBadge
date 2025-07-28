@@ -1,15 +1,15 @@
 {
   "group_id": "com.sageserpent",
   "artifact_id": "kinetic-merge_3",
-  "latest_version": "1.8.0",
+  "latest_version": "1.8.1",
   "description": "Merge branches in the presence of code motion within and between files.",
   "id": "pkg:maven/com.sageserpent/kinetic-merge_3",
-  "ts": 1753718273000,
+  "ts": 1753726051000,
   "dependency_count": 0,
   "ref_count": 60,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753718820426
+  "last_updated": 1753726618495
 }

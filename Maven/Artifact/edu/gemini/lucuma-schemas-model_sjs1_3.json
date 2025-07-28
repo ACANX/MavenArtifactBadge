@@ -1,17 +1,17 @@
 {
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-schemas-model_sjs1_3",
-  "latest_version": "0.149.0",
+  "latest_version": "0.149.1",
   "description": "model",
   "id": "pkg:maven/edu.gemini/lucuma-schemas-model_sjs1_3",
-  "ts": 1753390729000,
+  "ts": 1753725422000,
   "dependency_count": 2,
-  "ref_count": 74,
+  "ref_count": 75,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753391222379
+  "last_updated": 1753726619547
 }

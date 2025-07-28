@@ -1,10 +1,10 @@
 {
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-schemas_3",
-  "latest_version": "0.149.0",
+  "latest_version": "0.149.1",
   "description": "lucumaSchemas",
   "id": "pkg:maven/edu.gemini/lucuma-schemas_3",
-  "ts": 1753390729000,
+  "ts": 1753725422000,
   "dependency_count": 0,
   "ref_count": 70,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753391222378
+  "last_updated": 1753726619547
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "com.regnosys",
+  "artifact_id": "serialization",
+  "latest_version": "11.75.0",
+  "description": "Rune Common is a java library that is utilised by Rune Code Generators and models expressed in the Rune DSL.",
+  "id": "pkg:maven/com.regnosys/serialization",
+  "ts": 1753725714000,
+  "dependency_count": 0,
+  "ref_count": 45,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753726618986
+}

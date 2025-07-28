@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-prometheus",
-  "latest_version": "2025.07.28.164255-11cc719",
+  "latest_version": "2025.07.28.173311-f514123",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-prometheus",
-  "ts": 1753722340000,
+  "ts": 1753725394000,
   "dependency_count": 1,
   "ref_count": 27,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753723544720
+  "last_updated": 1753726620158
 }
