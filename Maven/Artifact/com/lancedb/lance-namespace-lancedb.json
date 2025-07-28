@@ -1,0 +1,15 @@
+{
+  "group_id": "com.lancedb",
+  "artifact_id": "lance-namespace-lancedb",
+  "latest_version": "0.0.3",
+  "description": "Utilities to work with LanceDB Cloud and Enterprise as a Lance REST Namespace",
+  "id": "pkg:maven/com.lancedb/lance-namespace-lancedb",
+  "ts": 1753681928000,
+  "dependency_count": 0,
+  "ref_count": 35,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753682215312
+}

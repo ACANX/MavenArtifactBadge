@@ -1,0 +1,15 @@
+{
+  "group_id": "com.barion",
+  "artifact_id": "nfcemvreader",
+  "latest_version": "0.0.1",
+  "description": "Barion NFC EMV Reader",
+  "id": "pkg:maven/com.barion/nfcemvreader",
+  "ts": 1753681546000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753682215314
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "com.lancedb",
+  "artifact_id": "lance-namespace-core",
+  "latest_version": "0.0.3",
+  "description": "Lance Namespace client core library",
+  "id": "pkg:maven/com.lancedb/lance-namespace-core",
+  "ts": 1753681928000,
+  "dependency_count": 4,
+  "ref_count": 38,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753682215312
+}

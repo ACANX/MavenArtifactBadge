@@ -1,0 +1,15 @@
+{
+  "group_id": "com.lancedb",
+  "artifact_id": "lance-namespace-springboot-server",
+  "latest_version": "0.0.3",
+  "description": "Lance Namespace",
+  "id": "pkg:maven/com.lancedb/lance-namespace-springboot-server",
+  "ts": 1753681928000,
+  "dependency_count": 1,
+  "ref_count": 70,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753682215313
+}
