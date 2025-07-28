@@ -1,10 +1,10 @@
 {
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-rate-limiting-bucket4j-mysql",
-  "latest_version": "2025.07.28.010103-7c1aed7",
+  "latest_version": "2025.07.28.130947-2489043",
   "description": "Open source application container in Kotlin",
   "id": "pkg:maven/com.squareup.misk/misk-rate-limiting-bucket4j-mysql",
-  "ts": 1753665749000,
+  "ts": 1753709510000,
   "dependency_count": 0,
   "ref_count": 27,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753666618404
+  "last_updated": 1753710421927
 }

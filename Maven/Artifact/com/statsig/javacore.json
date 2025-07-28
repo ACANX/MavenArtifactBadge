@@ -1,0 +1,15 @@
+{
+  "group_id": "com.statsig",
+  "artifact_id": "javacore",
+  "latest_version": "0.6.2-rc.2507281318",
+  "description": "A feature gating and a/b testing java library for statsig",
+  "id": "pkg:maven/com.statsig/javacore",
+  "ts": 1753709352000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "ISC License (ISC)"
+  ],
+  "last_updated": 1753710423365
+}

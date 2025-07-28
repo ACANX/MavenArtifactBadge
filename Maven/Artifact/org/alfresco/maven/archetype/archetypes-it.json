@@ -1,10 +1,10 @@
 {
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "archetypes-it",
-  "latest_version": "4.12.0-A1",
+  "latest_version": "4.12.0",
   "description": "Archetypes Integration Tests",
   "id": "pkg:maven/org.alfresco.maven.archetype/archetypes-it",
-  "ts": 1753700303000,
+  "ts": 1753709247000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753701428859
+  "last_updated": 1753710423367
 }

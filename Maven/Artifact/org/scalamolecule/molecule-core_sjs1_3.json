@@ -1,0 +1,17 @@
+{
+  "group_id": "org.scalamolecule",
+  "artifact_id": "molecule-core_sjs1_3",
+  "latest_version": "0.24.2",
+  "description": "molecule",
+  "id": "pkg:maven/org.scalamolecule/molecule-core_sjs1_3",
+  "ts": 1753709707000,
+  "dependency_count": 7,
+  "ref_count": 20,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753710420684
+}
