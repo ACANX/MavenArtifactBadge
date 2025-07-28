@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "apigatewayv2websocketsqs",
+  "latest_version": "2.87.0",
+  "description": "CDK constructs for defining an interaction between an AWS Lambda function and an Amazon S3 bucket.",
+  "id": "pkg:maven/software.amazon.awsconstructs/apigatewayv2websocketsqs",
+  "ts": 1753729583000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753730155867
+}

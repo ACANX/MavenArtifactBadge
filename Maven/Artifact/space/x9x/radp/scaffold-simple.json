@@ -1,0 +1,15 @@
+{
+  "group_id": "space.x9x.radp",
+  "artifact_id": "scaffold-simple",
+  "latest_version": "3.23",
+  "description": "简易版(DDD架构)",
+  "id": "pkg:maven/space.x9x.radp/scaffold-simple",
+  "ts": 1753728922000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License, Version 3"
+  ],
+  "last_updated": 1753730157900
+}

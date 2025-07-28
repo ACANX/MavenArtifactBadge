@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "eventbridgekinesisstreams",
+  "latest_version": "2.87.0",
+  "description": "CDK Constructs for deploying Amazon CloudWatch Events Rule that invokes Amazon Kinesis Data Stream",
+  "id": "pkg:maven/software.amazon.awsconstructs/eventbridgekinesisstreams",
+  "ts": 1753729583000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753730155867
+}

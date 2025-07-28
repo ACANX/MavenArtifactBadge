@@ -1,0 +1,17 @@
+{
+  "group_id": "io.getstream",
+  "artifact_id": "stream-video-android-bom",
+  "latest_version": "1.10.0",
+  "description": "Stream Video official Android SDK",
+  "id": "pkg:maven/io.getstream/stream-video-android-bom",
+  "ts": 1753729635000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Stream License"
+  ],
+  "last_updated": 1753730155334
+}

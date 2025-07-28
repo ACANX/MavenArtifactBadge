@@ -1,0 +1,15 @@
+{
+  "group_id": "space.x9x.radp",
+  "artifact_id": "radp-design-pattern-framework",
+  "latest_version": "3.23",
+  "description": "设计模式框架",
+  "id": "pkg:maven/space.x9x.radp/radp-design-pattern-framework",
+  "ts": 1753728922000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License, Version 3"
+  ],
+  "last_updated": 1753730157423
+}

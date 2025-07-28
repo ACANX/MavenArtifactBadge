@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "cloudfrontoais3",
+  "latest_version": "2.87.0",
+  "description": "CDK Constructs for AWS Cloudfront to AWS S3 integration.",
+  "id": "pkg:maven/software.amazon.awsconstructs/cloudfrontoais3",
+  "ts": 1753729583000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753730155866
+}

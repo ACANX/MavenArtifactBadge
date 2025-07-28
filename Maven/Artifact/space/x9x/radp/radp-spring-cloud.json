@@ -1,0 +1,15 @@
+{
+  "group_id": "space.x9x.radp",
+  "artifact_id": "radp-spring-cloud",
+  "latest_version": "3.23",
+  "description": "统一依赖管理",
+  "id": "pkg:maven/space.x9x.radp/radp-spring-cloud",
+  "ts": 1753728922000,
+  "dependency_count": 2,
+  "ref_count": 93,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License, Version 3"
+  ],
+  "last_updated": 1753730157899
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "in.bottomhalf",
+  "artifact_id": "ps-api",
+  "latest_version": "1.0-1",
+  "description": "Persistence storage calling helper api",
+  "id": "pkg:maven/in.bottomhalf/ps-api",
+  "ts": 1753729282000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753730156424
+}
