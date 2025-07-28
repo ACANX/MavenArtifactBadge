@@ -1,0 +1,15 @@
+{
+  "group_id": "is.codion",
+  "artifact_id": "codion-tools-monitor-model",
+  "latest_version": "0.18.42",
+  "description": "Codion Application Framework",
+  "id": "pkg:maven/is.codion/codion-tools-monitor-model",
+  "ts": 1753704636000,
+  "dependency_count": 1,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "last_updated": 1753705627326
+}

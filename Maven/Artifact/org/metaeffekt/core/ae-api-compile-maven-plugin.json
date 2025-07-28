@@ -1,10 +1,10 @@
 {
   "group_id": "org.metaeffekt.core",
   "artifact_id": "ae-api-compile-maven-plugin",
-  "latest_version": "0.141.1",
+  "latest_version": "0.141.2",
   "description": "Core project with fundamental runtime and build support.",
   "id": "pkg:maven/org.metaeffekt.core/ae-api-compile-maven-plugin",
-  "ts": 1753645077000,
+  "ts": 1753705062000,
   "dependency_count": 0,
   "ref_count": 41,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753646066071
+  "last_updated": 1753705624718
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "is.codion",
+  "artifact_id": "codion-framework-bom",
+  "latest_version": "0.18.42",
+  "description": "Codion Application Framework BOM",
+  "id": "pkg:maven/is.codion/codion-framework-bom",
+  "ts": 1753704792000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "last_updated": 1753705626077
+}
