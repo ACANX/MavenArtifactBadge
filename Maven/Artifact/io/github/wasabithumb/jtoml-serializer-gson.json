@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.wasabithumb",
+  "artifact_id": "jtoml-serializer-gson",
+  "latest_version": "1.0.0",
+  "description": "Gson integration for JToml",
+  "id": "pkg:maven/io.github.wasabithumb/jtoml-serializer-gson",
+  "ts": 1753721932000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753722424309
+}

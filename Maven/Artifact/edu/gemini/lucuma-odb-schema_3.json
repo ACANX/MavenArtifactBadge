@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-odb-schema_3",
+  "latest_version": "0.26.0",
+  "description": "lucuma-odb-schema",
+  "id": "pkg:maven/edu.gemini/lucuma-odb-schema_3",
+  "ts": 1753721873000,
+  "dependency_count": 1,
+  "ref_count": 65,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753722424310
+}
