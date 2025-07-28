@@ -1,10 +1,10 @@
 {
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-cachemgr",
-  "latest_version": "6.5.233",
+  "latest_version": "6.5.234",
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "id": "pkg:maven/com.bazaarvoice.emodb/emodb-cachemgr",
-  "ts": 1753471965000,
+  "ts": 1753709782000,
   "dependency_count": 11,
   "ref_count": 72,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753472543612
+  "last_updated": 1753711019775
 }

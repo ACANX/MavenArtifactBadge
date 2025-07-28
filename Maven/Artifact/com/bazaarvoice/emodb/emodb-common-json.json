@@ -1,10 +1,10 @@
 {
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-common-json",
-  "latest_version": "6.5.233",
+  "latest_version": "6.5.234",
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "id": "pkg:maven/com.bazaarvoice.emodb/emodb-common-json",
-  "ts": 1753471965000,
+  "ts": 1753709782000,
   "dependency_count": 43,
   "ref_count": 14,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753472543124
+  "last_updated": 1753711019143
 }

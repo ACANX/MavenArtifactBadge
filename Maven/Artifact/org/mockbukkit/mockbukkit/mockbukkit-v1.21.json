@@ -1,15 +1,15 @@
 {
   "group_id": "org.mockbukkit.mockbukkit",
   "artifact_id": "mockbukkit-v1.21",
-  "latest_version": "4.72.4",
+  "latest_version": "4.72.5",
   "description": "MockBukkit is a mocking framework for bukkit to allow the easy unit testing of Bukkit plugins.",
   "id": "pkg:maven/org.mockbukkit.mockbukkit/mockbukkit-v1.21",
-  "ts": 1753709608000,
+  "ts": 1753710139000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753710420690
+  "last_updated": 1753711018585
 }
