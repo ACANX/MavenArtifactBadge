@@ -1,15 +1,15 @@
 {
   "group_id": "top.aoyudi.deepseek",
   "artifact_id": "deepseek4j",
-  "latest_version": "2.5.3",
-  "description": "Java client for DeepSeek API, providing seamless integration\n        with DeepSeek's powerful AI chat and function calling capabilities.\n        Supports synchronous and asynchronous requests, automatic tool registration,\n        and Spring Boot auto-configuration.\n\n        DeepSeek API 的 Java 客户端，提供无缝集成具有 DeepSeek 强大的 AI 聊天和函数调用功能。\n        支持同步异步请求、自动工具注册、和 Spring Boot 自动配置。",
+  "latest_version": "3.0.0",
+  "description": "Java client for DeepSeek API, providing seamless integration\n        with DeepSeek's powerful AI chat, function calling and RAG capabilities.\n        Supports synchronous and asynchronous requests, automatic tool registration,\n        and Spring Boot auto-configuration.\n\n        DeepSeek API 的 Java 客户端，提供无缝集成具有 DeepSeek 强大的 AI 聊天、函数调用以及RAG增强检索功能。\n        支持同步异步请求、自动工具注册、和 Spring Boot 自动配置。",
   "id": "pkg:maven/top.aoyudi.deepseek/deepseek4j",
-  "ts": 1753541576000,
+  "ts": 1753703325000,
   "dependency_count": 0,
-  "ref_count": 52,
+  "ref_count": 91,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753542418472
+  "last_updated": 1753703770480
 }
