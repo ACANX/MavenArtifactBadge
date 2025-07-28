@@ -1,0 +1,17 @@
+{
+  "group_id": "org.silentsoft",
+  "artifact_id": "simpleicons4j",
+  "latest_version": "15.8.0",
+  "description": "SimpleIcons4J is a Java implementation of the simple-icons JavaScript library and is inspired by simpleicons.org.",
+  "id": "pkg:maven/org.silentsoft/simpleicons4j",
+  "ts": 1753661306000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753661817192
+}

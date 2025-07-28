@@ -1,10 +1,10 @@
 {
   "group_id": "uk.gov.nationalarchives",
   "artifact_id": "tdr-metadata-validation_2.13",
-  "latest_version": "0.0.159",
+  "latest_version": "0.0.160",
   "description": "A library to validate input metadata for Transfer Digital Records",
   "id": "pkg:maven/uk.gov.nationalarchives/tdr-metadata-validation_2.13",
-  "ts": 1753432521000,
+  "ts": 1753661550000,
   "dependency_count": 0,
   "ref_count": 60,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753433218581
+  "last_updated": 1753661817191
 }
