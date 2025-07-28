@@ -1,10 +1,10 @@
 {
   "group_id": "io.flux-capacitor",
   "artifact_id": "java-client",
-  "latest_version": "0.1220.1",
+  "latest_version": "0.1221.0",
   "description": "Default Java client library for interfacing with Flux Capacitor.",
   "id": "pkg:maven/io.flux-capacitor/java-client",
-  "ts": 1753625646000,
+  "ts": 1753707646000,
   "dependency_count": 2,
   "ref_count": 68,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753626418705
+  "last_updated": 1753708018132
 }

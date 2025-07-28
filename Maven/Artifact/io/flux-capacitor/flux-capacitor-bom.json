@@ -1,10 +1,10 @@
 {
   "group_id": "io.flux-capacitor",
   "artifact_id": "flux-capacitor-bom",
-  "latest_version": "0.1220.1",
+  "latest_version": "0.1221.0",
   "description": "Centralized version management for all Flux Capacitor modules.",
   "id": "pkg:maven/io.flux-capacitor/flux-capacitor-bom",
-  "ts": 1753625646000,
+  "ts": 1753707646000,
   "dependency_count": 0,
   "ref_count": 23,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753626418705
+  "last_updated": 1753708018133
 }

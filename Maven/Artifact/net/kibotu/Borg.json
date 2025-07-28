@@ -1,15 +1,15 @@
 {
   "group_id": "net.kibotu",
   "artifact_id": "Borg",
-  "latest_version": "1.0.4",
+  "latest_version": "1.0.5",
   "description": "Borg is a robust dependency management and initialization system for modular app components.",
   "id": "pkg:maven/net.kibotu/Borg",
-  "ts": 1753706342000,
+  "ts": 1753707321000,
   "dependency_count": 0,
   "ref_count": 4,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753706820443
+  "last_updated": 1753708018134
 }
