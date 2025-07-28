@@ -1,10 +1,10 @@
 {
   "group_id": "com.freeletics.khonshu",
   "artifact_id": "state-machine-linuxarm64",
-  "latest_version": "0.31.0",
+  "latest_version": "0.31.1",
   "description": "Khonshu StateMachine",
   "id": "pkg:maven/com.freeletics.khonshu/state-machine-linuxarm64",
-  "ts": 1753344365000,
+  "ts": 1753713093000,
   "dependency_count": 0,
   "ref_count": 3,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753345021767
+  "last_updated": 1753714021339
 }

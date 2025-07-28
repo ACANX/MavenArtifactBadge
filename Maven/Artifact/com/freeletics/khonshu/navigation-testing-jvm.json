@@ -1,10 +1,10 @@
 {
   "group_id": "com.freeletics.khonshu",
   "artifact_id": "navigation-testing-jvm",
-  "latest_version": "0.31.0",
+  "latest_version": "0.31.1",
   "description": "Khonshu Navigation Testing",
   "id": "pkg:maven/com.freeletics.khonshu/navigation-testing-jvm",
-  "ts": 1753344365000,
+  "ts": 1753713093000,
   "dependency_count": 1,
   "ref_count": 12,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753345022512
+  "last_updated": 1753714021341
 }
