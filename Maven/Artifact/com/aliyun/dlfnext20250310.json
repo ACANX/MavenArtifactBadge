@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "dlfnext20250310",
+  "latest_version": "2.3.0",
+  "description": "Alibaba Cloud DlfNext (20250310) SDK for Java",
+  "id": "pkg:maven/com.aliyun/dlfnext20250310",
+  "ts": 1753672151000,
+  "dependency_count": 0,
+  "ref_count": 20,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753672620395
+}
