@@ -1,0 +1,15 @@
+{
+  "group_id": "com.stytch.dfp",
+  "artifact_id": "dfp",
+  "latest_version": "1.0.7",
+  "description": "Stytch Android DFP SDK",
+  "id": "pkg:maven/com.stytch.dfp/dfp",
+  "ts": 1753730256000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "Stytch License"
+  ],
+  "last_updated": 1753730819217
+}
