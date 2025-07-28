@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "graphql-solon-plugin",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/graphql-solon-plugin",
-  "ts": 1753483299000,
+  "ts": 1753693199000,
   "dependency_count": 0,
   "ref_count": 39,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483617001
+  "last_updated": 1753694225896
 }

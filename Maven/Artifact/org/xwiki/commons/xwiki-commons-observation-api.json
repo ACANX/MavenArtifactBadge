@@ -1,11 +1,11 @@
 {
   "group_id": "org.xwiki.commons",
   "artifact_id": "xwiki-commons-observation-api",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "XWiki Commons - Observation - API",
   "id": "pkg:maven/org.xwiki.commons/xwiki-commons-observation-api",
-  "ts": 1753251708000,
-  "dependency_count": 34,
+  "ts": 1753693384000,
+  "dependency_count": 35,
   "ref_count": 8,
   "categories": [
     "Documentation"
@@ -13,5 +13,5 @@
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753252621564
+  "last_updated": 1753694222582
 }

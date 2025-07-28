@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "wood-solon-plugin",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/wood-solon-plugin",
-  "ts": 1753483283000,
+  "ts": 1753693171000,
   "dependency_count": 0,
-  "ref_count": 5,
+  "ref_count": 8,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483618242
+  "last_updated": 1753694226677
 }

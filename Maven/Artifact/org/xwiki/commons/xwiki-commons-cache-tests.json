@@ -1,17 +1,17 @@
 {
   "group_id": "org.xwiki.commons",
   "artifact_id": "xwiki-commons-cache-tests",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "XWiki Commons - Cache - Tests",
   "id": "pkg:maven/org.xwiki.commons/xwiki-commons-cache-tests",
-  "ts": 1753251707000,
+  "ts": 1753693384000,
   "dependency_count": 1,
-  "ref_count": 27,
+  "ref_count": 48,
   "categories": [
     "Documentation"
   ],
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753252623147
+  "last_updated": 1753694224680
 }

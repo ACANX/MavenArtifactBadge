@@ -1,17 +1,17 @@
 {
   "group_id": "org.xwiki.commons",
   "artifact_id": "xwiki-commons-tool-extension-plugin",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "A Maven plugin providing various XWiki Extension related tools",
   "id": "pkg:maven/org.xwiki.commons/xwiki-commons-tool-extension-plugin",
-  "ts": 1753251708000,
+  "ts": 1753693384000,
   "dependency_count": 0,
-  "ref_count": 132,
+  "ref_count": 98,
   "categories": [
     "Documentation"
   ],
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753252621565
+  "last_updated": 1753694222580
 }

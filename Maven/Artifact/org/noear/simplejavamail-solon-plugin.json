@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "simplejavamail-solon-plugin",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "https://www.simplejavamail.org/",
   "id": "pkg:maven/org.noear/simplejavamail-solon-plugin",
-  "ts": 1753483299000,
+  "ts": 1753693199000,
   "dependency_count": 0,
   "ref_count": 15,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483617003
+  "last_updated": 1753694226277
 }

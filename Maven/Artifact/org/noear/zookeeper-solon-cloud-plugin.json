@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "zookeeper-solon-cloud-plugin",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/zookeeper-solon-cloud-plugin",
-  "ts": 1753483567000,
+  "ts": 1753693264000,
   "dependency_count": 0,
   "ref_count": 26,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753484122826
+  "last_updated": 1753694225087
 }
