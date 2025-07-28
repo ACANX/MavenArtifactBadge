@@ -1,15 +1,15 @@
 {
   "group_id": "com.becomap.sdk",
   "artifact_id": "becomap",
-  "latest_version": "1.0.0",
+  "latest_version": "2.0.0",
   "description": "Interactive indoor mapping SDK for Android applications. Provides comprehensive indoor navigation, location services, and interactive map features.",
   "id": "pkg:maven/com.becomap.sdk/becomap",
-  "ts": 1753614241000,
+  "ts": 1753716119000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753614834680
+  "last_updated": 1753716669857
 }
