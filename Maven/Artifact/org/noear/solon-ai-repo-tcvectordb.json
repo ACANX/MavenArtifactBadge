@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-ai-repo-tcvectordb",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-ai-repo-tcvectordb",
-  "ts": 1753483658000,
+  "ts": 1753693116000,
   "dependency_count": 0,
-  "ref_count": 70,
+  "ref_count": 53,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753484121506
+  "last_updated": 1753693619328
 }

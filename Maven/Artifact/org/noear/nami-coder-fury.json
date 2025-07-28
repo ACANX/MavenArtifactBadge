@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "nami-coder-fury",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/nami-coder-fury",
-  "ts": 1753482967000,
+  "ts": 1753692814000,
   "dependency_count": 1,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483448879
+  "last_updated": 1753693627324
 }

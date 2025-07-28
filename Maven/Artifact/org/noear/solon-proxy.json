@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-proxy",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-proxy",
-  "ts": 1753482932000,
+  "ts": 1753692864000,
   "dependency_count": 4,
   "ref_count": 4,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483449598
+  "last_updated": 1753693626044
 }

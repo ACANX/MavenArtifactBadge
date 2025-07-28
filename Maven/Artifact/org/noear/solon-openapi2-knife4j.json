@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-openapi2-knife4j",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-openapi2-knife4j",
-  "ts": 1753483002000,
+  "ts": 1753692875000,
   "dependency_count": 1,
   "ref_count": 6,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483447182
+  "last_updated": 1753693624806
 }

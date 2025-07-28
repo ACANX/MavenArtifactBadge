@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-serialization-fury",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-serialization-fury",
-  "ts": 1753483155000,
+  "ts": 1753693057000,
   "dependency_count": 1,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483443960
+  "last_updated": 1753693619985
 }

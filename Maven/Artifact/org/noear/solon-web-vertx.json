@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-web-vertx",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-web-vertx",
-  "ts": 1753483113000,
+  "ts": 1753692920000,
   "dependency_count": 1,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483447179
+  "last_updated": 1753693624135
 }

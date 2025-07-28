@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon.web.cors",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon.web.cors",
-  "ts": 1753482968000,
+  "ts": 1753692779000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483448314
+  "last_updated": 1753693627992
 }

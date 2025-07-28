@@ -1,11 +1,11 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-boot-smarthttp",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-boot-smarthttp",
-  "ts": 1753483151000,
-  "dependency_count": 3,
+  "ts": 1753693045000,
+  "dependency_count": 4,
   "ref_count": 10,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483444601
+  "last_updated": 1753693621331
 }

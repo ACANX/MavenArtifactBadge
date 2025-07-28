@@ -1,11 +1,11 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-web-sse",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-web-sse",
-  "ts": 1753483113000,
-  "dependency_count": 1,
+  "ts": 1753692920000,
+  "dependency_count": 3,
   "ref_count": 7,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483447178
+  "last_updated": 1753693624137
 }

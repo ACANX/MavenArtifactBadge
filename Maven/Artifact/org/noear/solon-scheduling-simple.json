@@ -1,11 +1,11 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-scheduling-simple",
-  "latest_version": "3.4.1",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-scheduling-simple",
-  "ts": 1753483131000,
-  "dependency_count": 1,
+  "ts": 1753692931000,
+  "dependency_count": 2,
   "ref_count": 6,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753483445252
+  "last_updated": 1753693622851
 }
