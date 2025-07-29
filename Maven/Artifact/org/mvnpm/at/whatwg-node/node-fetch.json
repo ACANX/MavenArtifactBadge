@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.whatwg-node/node-fetch",
+  "description": "Fetch API implementation for Node",
   "group_id": "org.mvnpm.at.whatwg-node",
   "artifact_id": "node-fetch",
-  "latest_version": "0.7.23",
-  "description": "Fetch API implementation for Node",
-  "id": "pkg:maven/org.mvnpm.at.whatwg-node/node-fetch",
-  "ts": 1753704370000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "0.7.24",
+  "ts_publish": 1753805712000,
+  "ts_update": 1753806434888,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753705020278
+  "categories": null,
+  "dsv": 1
 }
