@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.moderne/moderne-cli-j",
+  "description": "The Moderne CLI is a multi-repository tool for transforming source code.",
   "group_id": "io.moderne",
   "artifact_id": "moderne-cli-j",
-  "latest_version": "1.0.3443",
-  "description": "The Moderne CLI is a multi-repository tool for transforming source code.",
-  "id": "pkg:maven/io.moderne/moderne-cli-j",
-  "ts": 1753315750000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.0.3444",
+  "ts_publish": 1753823632000,
+  "ts_update": 1753824230032,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Moderne, Inc. Commercial License"
   ],
-  "last_updated": 1753316214511
+  "categories": null,
+  "dsv": 1
 }

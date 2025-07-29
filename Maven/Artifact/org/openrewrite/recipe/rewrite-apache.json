@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.openrewrite.recipe/rewrite-apache",
+  "description": "Apache Migration",
   "group_id": "org.openrewrite.recipe",
   "artifact_id": "rewrite-apache",
-  "latest_version": "2.13.1",
-  "description": "Apache Migration",
-  "id": "pkg:maven/org.openrewrite.recipe/rewrite-apache",
-  "ts": 1753309697000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.13.2",
+  "ts_publish": 1753824021000,
+  "ts_update": 1753824229522,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "Moderne Source Available License"
   ],
-  "last_updated": 1753310214775
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
