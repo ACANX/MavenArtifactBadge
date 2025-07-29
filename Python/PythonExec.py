@@ -130,6 +130,7 @@ def create_maven_artifact_json_file(data: dict):
     # 准备要保存的数据（排除不需要的字段）
     save_data = {
         "id": data.get("id", ""),
+        "description": data.get("description", ""),
         "group_id": group_id,
         "artifact_id": artifact_id,
         "version_latest": data.get("latest_version", "N/A"),
@@ -137,7 +138,6 @@ def create_maven_artifact_json_file(data: dict):
         "ts_updated": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
         "count_dep": data.get("dep_count", 0),
         "count_ref": data.get("ref_count", 0),
-        "description": data.get("description", ""),
         "licenses": data.get("licenses", []),
         "categories": data.get("categories", [])
     }
