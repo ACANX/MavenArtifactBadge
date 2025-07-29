@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.affise/module-huawei",
+  "description": "Affise Attribution Library Huawei Module",
+  "group_id": "com.affise",
+  "artifact_id": "module-huawei",
+  "version_latest": "1.6.61",
+  "ts_publish": 1753789978000,
+  "ts_update": 1753790218909,
+  "count_dep": 8,
+  "count_ref": 0,
+  "licenses": [
+    "MIT license"
+  ],
+  "categories": null,
+  "dsv": 1
+}

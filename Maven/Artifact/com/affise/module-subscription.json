@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.affise/module-subscription",
+  "description": "Affise Attribution Library Subscription Module",
+  "group_id": "com.affise",
+  "artifact_id": "module-subscription",
+  "version_latest": "1.6.61",
+  "ts_publish": 1753789844000,
+  "ts_update": 1753790218912,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "MIT license"
+  ],
+  "categories": null,
+  "dsv": 1
+}
