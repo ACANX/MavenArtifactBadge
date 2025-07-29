@@ -3,9 +3,9 @@
   "description": "A Plugin for easily publishing artifacts on Maven Central",
   "group_id": "org.danilopianini.publish-on-central",
   "artifact_id": "org.danilopianini.publish-on-central.gradle.plugin",
-  "version_latest": "9.1.1-dev01-04e17ca",
-  "ts_publish": 1753826458000,
-  "ts_update": 1753826820949,
+  "version_latest": "9.1.1-dev01-5722c6c",
+  "ts_publish": 1753828642000,
+  "ts_update": 1753829224756,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
