@@ -1,17 +1,17 @@
 {
+  "id": "pkg:maven/com.hibegin/zrlog-base",
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-base",
-  "latest_version": "3.2.42",
+  "latest_version": "3.2.43",
+  "ts": 1753758784000,
+  "last_updated": 1753759218146,
   "description": "ZrLog base logic code repo",
-  "id": "pkg:maven/com.hibegin/zrlog-base",
-  "ts": 1753756751000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753757233659
+  "dep_count": 2,
+  "ref_count": 0,
+  "categories": [
+    "MULTI-PROJECT"
+  ]
 }
