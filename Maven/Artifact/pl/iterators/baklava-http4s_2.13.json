@@ -3,9 +3,9 @@
   "description": "baklava-http4s",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-http4s_2.13",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753774465000,
-  "ts_update": 1753775220443,
+  "version_latest": "1.0.4",
+  "ts_publish": 1753782544000,
+  "ts_update": 1753784221503,
   "count_dep": 40,
   "count_ref": 1,
   "licenses": [

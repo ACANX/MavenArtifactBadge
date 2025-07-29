@@ -3,11 +3,11 @@
   "description": "baklava-scalatest",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-scalatest_3",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753774465000,
-  "ts_update": 1753775220441,
+  "version_latest": "1.0.4",
+  "ts_publish": 1753782544000,
+  "ts_update": 1753784221503,
   "count_dep": 38,
-  "count_ref": 1,
+  "count_ref": 3,
   "licenses": [
     "Apache-2.0"
   ],
