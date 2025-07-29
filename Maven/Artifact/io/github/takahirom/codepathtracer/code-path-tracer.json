@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.takahirom.codepathtracer",
+  "artifact_id": "code-path-tracer",
+  "latest_version": "0.1.1",
+  "description": "Simple, powerful method tracing for JVM and Android",
+  "id": "pkg:maven/io.github.takahirom.codepathtracer/code-path-tracer",
+  "ts": 1753754779000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753755417056
+}
