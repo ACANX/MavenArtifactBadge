@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.jooby/jooby-avaje-inject",
+  "description": "The modular web framework for Java and Kotlin",
   "group_id": "io.jooby",
   "artifact_id": "jooby-avaje-inject",
-  "latest_version": "4.0.2",
-  "description": null,
-  "id": "pkg:maven/io.jooby/jooby-avaje-inject",
-  "ts": 1753653382000,
-  "dependency_count": 0,
-  "ref_count": 10,
+  "version_latest": "4.0.3",
+  "ts_publish": 1753816413000,
+  "ts_update": 1753817000450,
+  "count_dep": 19,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753654019310
+  "dsv": 1
 }

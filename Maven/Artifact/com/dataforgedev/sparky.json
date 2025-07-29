@@ -3,9 +3,9 @@
   "description": "Sparky jar for DataForge Cloud usage",
   "group_id": "com.dataforgedev",
   "artifact_id": "sparky",
-  "version_latest": "9.2.0-rc.7",
-  "ts_publish": 1753806670000,
-  "ts_update": 1753807622695,
+  "version_latest": "9.2.0-rc.8",
+  "ts_publish": 1753816508000,
+  "ts_update": 1753816998832,
   "count_dep": 222,
   "count_ref": 0,
   "licenses": [

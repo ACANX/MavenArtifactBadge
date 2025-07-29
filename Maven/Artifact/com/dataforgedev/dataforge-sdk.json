@@ -3,9 +3,9 @@
   "description": "Dataforge SDK jar for DataForge Cloud usage",
   "group_id": "com.dataforgedev",
   "artifact_id": "dataforge-sdk",
-  "version_latest": "9.2.0-rc.7",
-  "ts_publish": 1753806565000,
-  "ts_update": 1753807625546,
+  "version_latest": "9.2.0-rc.8",
+  "ts_publish": 1753816564000,
+  "ts_update": 1753816998832,
   "count_dep": 174,
   "count_ref": 0,
   "licenses": [
