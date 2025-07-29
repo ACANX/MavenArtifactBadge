@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin",
+  "description": "Support for artifact analysis",
   "group_id": "com.metaeffekt.artifact.analysis",
   "artifact_id": "ae-tmd-packaging-plugin",
-  "latest_version": "0.144.1",
-  "description": "Support for artifact analysis",
-  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-tmd-packaging-plugin",
-  "ts": 1753650016000,
-  "dependency_count": 0,
-  "ref_count": 256,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.144.2",
+  "ts_publish": 1753782060000,
+  "ts_update": 1753783619950,
+  "count_dep": 256,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753651018698
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

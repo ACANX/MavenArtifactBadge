@@ -3,9 +3,9 @@
   "description": "sql2java manager class package for accessing database",
   "group_id": "com.gitee.l0km",
   "artifact_id": "sql2java-manager",
-  "version_latest": "5.6.0-alpha5",
-  "ts_publish": 1753771031000,
-  "ts_update": 1753771618535,
+  "version_latest": "5.6.0-alpha6",
+  "ts_publish": 1753781691000,
+  "ts_update": 1753783620566,
   "count_dep": 24,
   "count_ref": 2,
   "licenses": [

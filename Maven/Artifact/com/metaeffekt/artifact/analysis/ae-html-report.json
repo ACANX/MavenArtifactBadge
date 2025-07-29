@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report",
+  "description": "Support for artifact analysis",
   "group_id": "com.metaeffekt.artifact.analysis",
   "artifact_id": "ae-html-report",
-  "latest_version": "0.144.1",
-  "description": "Support for artifact analysis",
-  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-html-report",
-  "ts": 1753650016000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.144.2",
+  "ts_publish": 1753782060000,
+  "ts_update": 1753783620559,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753651017696
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
