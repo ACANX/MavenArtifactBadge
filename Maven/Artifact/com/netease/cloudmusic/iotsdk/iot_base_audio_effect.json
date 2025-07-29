@@ -1,15 +1,15 @@
 {
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot_base_audio_effect",
-  "latest_version": "0.4.5.20250728175822",
+  "latest_version": "0.4.5.20250729105222",
   "description": "CMIotSdk多终端SDK",
   "id": "pkg:maven/com.netease.cloudmusic.iotsdk/iot_base_audio_effect",
-  "ts": 1753696820000,
+  "ts": 1753757629000,
   "dependency_count": 1,
-  "ref_count": 0,
+  "ref_count": 11,
   "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753697430503
+  "last_updated": 1753758417578
 }
