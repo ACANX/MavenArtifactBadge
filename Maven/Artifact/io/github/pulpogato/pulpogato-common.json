@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.pulpogato",
+  "artifact_id": "pulpogato-common",
+  "latest_version": "0.14.0",
+  "description": "Common utilities for Pulpogato REST types",
+  "id": "pkg:maven/io.github.pulpogato/pulpogato-common",
+  "ts": 1753509120000,
+  "dependency_count": 6,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753510017375
+}

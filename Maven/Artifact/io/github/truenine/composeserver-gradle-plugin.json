@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-gradle-plugin",
+  "latest_version": "0.0.13",
+  "description": "Custom Gradle plugin for Compose Server development workflow automation.\nProvides project configuration, build conventions, and Spring Boot integration for development efficiency.",
+  "id": "pkg:maven/io.github.truenine/composeserver-gradle-plugin",
+  "ts": 1753721304000,
+  "dependency_count": 1,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753721819048
+}

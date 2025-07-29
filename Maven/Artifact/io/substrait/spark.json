@@ -1,0 +1,15 @@
+{
+  "group_id": "io.substrait",
+  "artifact_id": "spark",
+  "latest_version": "0.62.1",
+  "description": "Create a well-defined, cross-language specification for data compute operations",
+  "id": "pkg:maven/io.substrait/spark",
+  "ts": 1753589750000,
+  "dependency_count": 0,
+  "ref_count": 142,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753590421879
+}

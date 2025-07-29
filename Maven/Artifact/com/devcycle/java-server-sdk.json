@@ -1,0 +1,17 @@
+{
+  "group_id": "com.devcycle",
+  "artifact_id": "java-server-sdk",
+  "latest_version": "2.8.0",
+  "description": "Server side SDK to interact with DevCycle.",
+  "id": "pkg:maven/com.devcycle/java-server-sdk",
+  "ts": 1753734719000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735185337
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-androidlib-hilt_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-androidlib-hilt",
   "id": "pkg:maven/com.lihaoyi/mill-libs-androidlib-hilt_3",
-  "ts": 1753282322000,
+  "ts": 1753700380000,
   "dependency_count": 0,
   "ref_count": 20,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219768
+  "last_updated": 1753701428315
 }

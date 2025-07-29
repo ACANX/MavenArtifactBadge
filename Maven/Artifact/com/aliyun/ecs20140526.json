@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "ecs20140526",
+  "latest_version": "8.1.0",
+  "description": "Alibaba Cloud Elastic Compute Service (20140526) SDK for Java",
+  "id": "pkg:maven/com.aliyun/ecs20140526",
+  "ts": 1753723327000,
+  "dependency_count": 0,
+  "ref_count": 40,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753723542922
+}

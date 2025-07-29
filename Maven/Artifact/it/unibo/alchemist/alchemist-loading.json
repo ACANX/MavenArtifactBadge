@@ -1,10 +1,10 @@
 {
   "group_id": "it.unibo.alchemist",
   "artifact_id": "alchemist-loading",
-  "latest_version": "42.2.7",
+  "latest_version": "42.2.8",
   "description": "Alchemist Machinery to load from files",
   "id": "pkg:maven/it.unibo.alchemist/alchemist-loading",
-  "ts": 1753252494000,
+  "ts": 1753650573000,
   "dependency_count": 6,
   "ref_count": 29,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "GPL 3.0 with linking exception"
   ],
-  "last_updated": 1753253220235
+  "last_updated": 1753651464783
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.de-gupta",
+  "artifact_id": "cleanCrud",
+  "latest_version": "0.0.4",
+  "description": "A library for implementing clean architecture based crud operations",
+  "id": "pkg:maven/io.github.de-gupta/cleanCrud",
+  "ts": 1753704958000,
+  "dependency_count": 0,
+  "ref_count": 57,
+  "categories": null,
+  "licenses": [
+    "GPL-3.0 License"
+  ],
+  "last_updated": 1753705625401
+}

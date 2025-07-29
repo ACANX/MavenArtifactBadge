@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.devrev.sdk",
+  "artifact_id": "observability",
+  "latest_version": "2.0.4",
+  "description": "DevRev Observability SDK for Android. Fast integration of Session Analytics into your Android application.",
+  "id": "pkg:maven/ai.devrev.sdk/observability",
+  "ts": 1753424698000,
+  "dependency_count": 1,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753425631940
+}

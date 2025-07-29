@@ -1,0 +1,15 @@
+{
+  "group_id": "com.easy-query",
+  "artifact_id": "sql-db-support",
+  "latest_version": "3.0.60",
+  "description": "java object query distributed connector",
+  "id": "pkg:maven/com.easy-query/sql-db-support",
+  "ts": 1753687346000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753688820811
+}

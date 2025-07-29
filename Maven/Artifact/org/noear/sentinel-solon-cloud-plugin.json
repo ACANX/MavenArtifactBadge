@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "sentinel-solon-cloud-plugin",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/sentinel-solon-cloud-plugin",
-  "ts": 1753256219000,
+  "ts": 1753693403000,
   "dependency_count": 0,
-  "ref_count": 2,
+  "ref_count": 9,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256820860
+  "last_updated": 1753694222055
 }

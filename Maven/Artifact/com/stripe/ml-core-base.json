@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "ml-core-base",
+  "latest_version": "21.22.0",
+  "description": "The base machine learning module for Stripe Android SDKs",
+  "id": "pkg:maven/com.stripe/ml-core-base",
+  "ts": 1753733603000,
+  "dependency_count": 3,
+  "ref_count": 3,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415636
+}

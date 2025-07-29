@@ -1,0 +1,15 @@
+{
+  "group_id": "com.ibm.watsonx",
+  "artifact_id": "watsonx-ai-core",
+  "latest_version": "0.4.0",
+  "description": "Core library for watsonx.ai SDK containing shared utilities, and base classes \n  used across multiple modules. This module provides the foundational components to \n  facilitate consistent and reusable functionality within the SDK.",
+  "id": "pkg:maven/com.ibm.watsonx/watsonx-ai-core",
+  "ts": 1753611170000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753612017585
+}

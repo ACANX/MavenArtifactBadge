@@ -1,0 +1,15 @@
+{
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-flyway",
+  "latest_version": "4.0.2",
+  "description": null,
+  "id": "pkg:maven/io.jooby/jooby-flyway",
+  "ts": 1753653381000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753654020742
+}

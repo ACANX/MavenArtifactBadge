@@ -1,10 +1,10 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-test-mft",
-  "latest_version": "4.91.0",
+  "latest_version": "4.93.0",
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-test-mft",
-  "ts": 1753280049000,
+  "ts": 1753389041000,
   "dependency_count": 1,
   "ref_count": 71,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753280816034
+  "last_updated": 1753390018558
 }

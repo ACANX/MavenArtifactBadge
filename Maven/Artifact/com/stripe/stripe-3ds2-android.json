@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "stripe-3ds2-android",
+  "latest_version": "21.22.0",
+  "description": "Stripe 3DS2 Android SDK",
+  "id": "pkg:maven/com.stripe/stripe-3ds2-android",
+  "ts": 1753733603000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734416231
+}

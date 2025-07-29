@@ -1,0 +1,15 @@
+{
+  "group_id": "org.babyfish.jimmer",
+  "artifact_id": "jimmer-core",
+  "latest_version": "0.9.101",
+  "description": "The most advanced ORM of JVM, for both java & kotlin",
+  "id": "pkg:maven/org.babyfish.jimmer/jimmer-core",
+  "ts": 1753631077000,
+  "dependency_count": 7,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753631452310
+}

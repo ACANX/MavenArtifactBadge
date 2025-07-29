@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.corefinance",
+  "artifact_id": "microservice-common-mongodb",
+  "latest_version": "0.0.37",
+  "description": "microservice-common-mongodb library.",
+  "id": "pkg:maven/tech.corefinance/microservice-common-mongodb",
+  "ts": 1753694352000,
+  "dependency_count": 0,
+  "ref_count": 76,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753695116126
+}

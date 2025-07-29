@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-catalog_3",
+  "latest_version": "0.137.4",
+  "description": "lucuma-catalog",
+  "id": "pkg:maven/edu.gemini/lucuma-catalog_3",
+  "ts": 1753458867000,
+  "dependency_count": 2,
+  "ref_count": 89,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753459618558
+}

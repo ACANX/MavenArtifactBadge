@@ -1,0 +1,15 @@
+{
+  "group_id": "com.easy-query",
+  "artifact_id": "sql-mssql",
+  "latest_version": "3.0.60",
+  "description": "java object query distributed connector",
+  "id": "pkg:maven/com.easy-query/sql-mssql",
+  "ts": 1753687346000,
+  "dependency_count": 2,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753688820357
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "cloudhsm",
+  "latest_version": "2.32.9",
+  "description": "The AWS Java SDK for AWS CloudHSM holds the client classes that are used for communicating with the AWS\n        CloudHSM Service",
+  "id": "pkg:maven/software.amazon.awssdk/cloudhsm",
+  "ts": 1753478192000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478822813
+}

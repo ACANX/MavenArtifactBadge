@@ -1,10 +1,10 @@
 {
   "group_id": "org.xwiki.rendering",
   "artifact_id": "xwiki-rendering-syntaxes",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "Syntaxes parsers/renderers implementations supported by XWiki Platform",
   "id": "pkg:maven/org.xwiki.rendering/xwiki-rendering-syntaxes",
-  "ts": 1753252661000,
+  "ts": 1753694716000,
   "dependency_count": 0,
   "ref_count": 38,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753253218539
+  "last_updated": 1753695115034
 }

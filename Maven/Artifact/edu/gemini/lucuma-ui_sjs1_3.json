@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-ui_sjs1_3",
+  "latest_version": "0.147.4",
+  "description": "lucuma-ui",
+  "id": "pkg:maven/edu.gemini/lucuma-ui_sjs1_3",
+  "ts": 1753727204000,
+  "dependency_count": 1,
+  "ref_count": 206,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753727819992
+}

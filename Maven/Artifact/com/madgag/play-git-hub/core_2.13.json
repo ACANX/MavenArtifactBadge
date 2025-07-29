@@ -1,15 +1,15 @@
 {
   "group_id": "com.madgag.play-git-hub",
   "artifact_id": "core_2.13",
-  "latest_version": "7.0.2",
+  "latest_version": "7.0.3-PREVIEW.add-support-for-getting-authenticated-github-app.2025-07-25T1048.285e20d4",
   "description": "core",
   "id": "pkg:maven/com.madgag.play-git-hub/core_2.13",
-  "ts": 1753281960000,
+  "ts": 1753440743000,
   "dependency_count": 1,
   "ref_count": 67,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753282630840
+  "last_updated": 1753441616185
 }

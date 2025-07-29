@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.jiguang.sdk.ad.third",
+  "artifact_id": "jgads",
+  "latest_version": "3.0.1.1",
+  "description": "jgAds aar",
+  "id": "pkg:maven/cn.jiguang.sdk.ad.third/jgads",
+  "ts": 1753351460000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753352115319
+}

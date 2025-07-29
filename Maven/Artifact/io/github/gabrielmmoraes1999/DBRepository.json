@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.gabrielmmoraes1999",
+  "artifact_id": "DBRepository",
+  "latest_version": "1.4.2",
+  "description": "Gerenciador de banco de dados.",
+  "id": "pkg:maven/io.github.gabrielmmoraes1999/DBRepository",
+  "ts": 1753399526000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753400016286
+}

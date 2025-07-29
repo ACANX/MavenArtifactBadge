@@ -1,0 +1,15 @@
+{
+  "group_id": "space.x9x.radp",
+  "artifact_id": "radp-smoke-tests-redis",
+  "latest_version": "3.23",
+  "description": "Redis Smoke Tests",
+  "id": "pkg:maven/space.x9x.radp/radp-smoke-tests-redis",
+  "ts": 1753728922000,
+  "dependency_count": 0,
+  "ref_count": 95,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License, Version 3"
+  ],
+  "last_updated": 1753730157902
+}

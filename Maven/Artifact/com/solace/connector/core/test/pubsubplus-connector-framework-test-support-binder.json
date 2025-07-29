@@ -1,15 +1,15 @@
 {
   "group_id": "com.solace.connector.core.test",
   "artifact_id": "pubsubplus-connector-framework-test-support-binder",
-  "latest_version": "2.16.2",
+  "latest_version": "2.16.3",
   "description": "Testing Tools and Base for Binder Tests",
   "id": "pkg:maven/com.solace.connector.core.test/pubsubplus-connector-framework-test-support-binder",
-  "ts": 1753278518000,
+  "ts": 1753717272000,
   "dependency_count": 0,
   "ref_count": 75,
   "categories": null,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753279619470
+  "last_updated": 1753718221435
 }

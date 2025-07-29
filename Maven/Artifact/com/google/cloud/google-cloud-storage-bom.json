@@ -1,0 +1,17 @@
+{
+  "group_id": "com.google.cloud",
+  "artifact_id": "google-cloud-storage-bom",
+  "latest_version": "2.54.0",
+  "description": "BOM for Google Cloud Storage",
+  "id": "pkg:maven/com.google.cloud/google-cloud-storage-bom",
+  "ts": 1753745285000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Cloud Computing"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753745818400
+}

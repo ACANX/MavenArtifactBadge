@@ -1,0 +1,15 @@
+{
+  "group_id": "cloud.shoplive",
+  "artifact_id": "shoplive-network",
+  "latest_version": "1.7.4",
+  "description": "Shoplive Android SDK",
+  "id": "pkg:maven/cloud.shoplive/shoplive-network",
+  "ts": 1753669431000,
+  "dependency_count": 0,
+  "ref_count": 20,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753670217838
+}

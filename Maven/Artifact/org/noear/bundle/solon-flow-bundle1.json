@@ -1,15 +1,13 @@
 {
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-flow-bundle1",
-  "latest_version": "3.4.1-M3",
-  "description": "Java project for solon",
+  "latest_version": "3.4.2",
+  "description": null,
   "id": "pkg:maven/org.noear.bundle/solon-flow-bundle1",
-  "ts": 1753256105000,
+  "ts": 1753693013000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
-  "licenses": [
-    "The Apache Software License, Version 2.0"
-  ],
-  "last_updated": 1753256821632
+  "licenses": [],
+  "last_updated": 1753693622012
 }

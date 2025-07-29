@@ -1,0 +1,17 @@
+{
+  "group_id": "com.actelion.research",
+  "artifact_id": "openchemlib",
+  "latest_version": "2025.7.3",
+  "description": "Open Source Chemistry Library",
+  "id": "pkg:maven/com.actelion.research/openchemlib",
+  "ts": 1753504132000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "BSD 3-Clause License"
+  ],
+  "last_updated": 1753504617650
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.querqy",
+  "artifact_id": "querqy-elasticsearch",
+  "latest_version": "1.7.es8184.0",
+  "description": "Querqy library for query rewriting: Querqy for Elasticsearch",
+  "id": "pkg:maven/org.querqy/querqy-elasticsearch",
+  "ts": 1753371121000,
+  "dependency_count": 0,
+  "ref_count": 50,
+  "categories": null,
+  "licenses": [
+    "Apache 2"
+  ],
+  "last_updated": 1753371567275
+}

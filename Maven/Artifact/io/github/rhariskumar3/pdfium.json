@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.rhariskumar3",
+  "artifact_id": "pdfium",
+  "latest_version": "1.0.7",
+  "description": "AndroidPDFPreview is a lightweight and easy-to-use SDK that enables you to display and interact with PDF documents in your Android apps",
+  "id": "pkg:maven/io.github.rhariskumar3/pdfium",
+  "ts": 1753717069000,
+  "dependency_count": 1,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753717621673
+}

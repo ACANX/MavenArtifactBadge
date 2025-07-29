@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.vality",
+  "artifact_id": "swag-anapi-v2-server",
+  "latest_version": "1.105-a7a19a0-epic-1",
+  "description": "Generates jar artifact containing compiled openapi classes based on generated openapi yaml files",
+  "id": "pkg:maven/dev.vality/swag-anapi-v2-server",
+  "ts": 1753712249000,
+  "dependency_count": 0,
+  "ref_count": 44,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753712823347
+}

@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-functionActivator-protocol",
-  "latest_version": "4.91.0",
+  "latest_version": "4.93.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-functionActivator-protocol",
-  "ts": 1753280048000,
-  "dependency_count": 3,
+  "ts": 1753389040000,
+  "dependency_count": 2,
   "ref_count": 4,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280821017
+  "last_updated": 1753390021938
 }

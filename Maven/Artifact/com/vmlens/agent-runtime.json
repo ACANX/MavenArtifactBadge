@@ -1,0 +1,17 @@
+{
+  "group_id": "com.vmlens",
+  "artifact_id": "agent-runtime",
+  "latest_version": "1.2.7",
+  "description": "parent pom",
+  "id": "pkg:maven/com.vmlens/agent-runtime",
+  "ts": 1753366455000,
+  "dependency_count": 0,
+  "ref_count": 9,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753367218406
+}

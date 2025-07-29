@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.sentry-internal",
+  "artifact_id": "browser-utils",
+  "latest_version": "9.42.1",
+  "description": "Browser Utilities for all Sentry JavaScript SDKs",
+  "id": "pkg:maven/org.mvnpm.at.sentry-internal/browser-utils",
+  "ts": 1753708149000,
+  "dependency_count": 2,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753708623332
+}

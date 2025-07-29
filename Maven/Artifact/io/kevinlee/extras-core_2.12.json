@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-core_2.12",
+  "latest_version": "0.46.1",
+  "description": "extras-core",
+  "id": "pkg:maven/io.kevinlee/extras-core_2.12",
+  "ts": 1753617552000,
+  "dependency_count": 12,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753618017845
+}

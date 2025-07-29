@@ -1,10 +1,10 @@
 {
   "group_id": "io.nearpay",
   "artifact_id": "nearpay-sdk",
-  "latest_version": "2.1.93",
+  "latest_version": "2.1.94",
   "description": "A concise description of my library",
   "id": "pkg:maven/io.nearpay/nearpay-sdk",
-  "ts": 1753262007000,
+  "ts": 1753350327000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753262816584
+  "last_updated": 1753350840374
 }

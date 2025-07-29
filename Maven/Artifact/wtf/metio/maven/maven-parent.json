@@ -1,0 +1,15 @@
+{
+  "group_id": "wtf.metio.maven",
+  "artifact_id": "maven-parent",
+  "latest_version": "2025.7.25",
+  "description": "Maven parent POM for Java projects",
+  "id": "pkg:maven/wtf.metio.maven/maven-parent",
+  "ts": 1753412768000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "BSD Zero Clause License"
+  ],
+  "last_updated": 1753413423366
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.faceaisdk",
+  "artifact_id": "Android",
+  "latest_version": "2025.07.24",
+  "description": "On_device Offline Android Face Detection ,Recognition ,Liveness Detection Anti Spoofing and 1:N/M:N Face Search SDK",
+  "id": "pkg:maven/io.github.faceaisdk/Android",
+  "ts": 1753365935000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "The FaceAISDK License, Version 1.0"
+  ],
+  "last_updated": 1753366433590
+}

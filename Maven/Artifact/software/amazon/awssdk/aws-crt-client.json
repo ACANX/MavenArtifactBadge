@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "aws-crt-client",
+  "latest_version": "2.32.10",
+  "description": null,
+  "id": "pkg:maven/software.amazon.awssdk/aws-crt-client",
+  "ts": 1753739275000,
+  "dependency_count": 0,
+  "ref_count": 23,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753739725689
+}

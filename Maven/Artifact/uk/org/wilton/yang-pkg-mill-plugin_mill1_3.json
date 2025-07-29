@@ -1,0 +1,15 @@
+{
+  "group_id": "uk.org.wilton",
+  "artifact_id": "yang-pkg-mill-plugin_mill1_3",
+  "latest_version": "0.0.10",
+  "description": "Yang Packages Mill Plugin",
+  "id": "pkg:maven/uk.org.wilton/yang-pkg-mill-plugin_mill1_3",
+  "ts": 1753716106000,
+  "dependency_count": 0,
+  "ref_count": 60,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753716669858
+}

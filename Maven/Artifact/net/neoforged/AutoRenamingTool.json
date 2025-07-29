@@ -1,0 +1,15 @@
+{
+  "group_id": "net.neoforged",
+  "artifact_id": "AutoRenamingTool",
+  "latest_version": "2.0.11",
+  "description": "A tool that renames java bytecode elements.",
+  "id": "pkg:maven/net.neoforged/AutoRenamingTool",
+  "ts": 1753549918000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "LGPL-2.1-only"
+  ],
+  "last_updated": 1753550217477
+}

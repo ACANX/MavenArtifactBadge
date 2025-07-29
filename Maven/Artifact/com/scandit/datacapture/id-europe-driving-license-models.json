@@ -1,0 +1,17 @@
+{
+  "group_id": "com.scandit.datacapture",
+  "artifact_id": "id-europe-driving-license-models",
+  "latest_version": "7.5.0-beta.1",
+  "description": "ScanditIdEuropeDrivingLicense is a library that enables decoding of the back of European driving licenses.",
+  "id": "pkg:maven/com.scandit.datacapture/id-europe-driving-license-models",
+  "ts": 1753728706000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Scandit Commercial License"
+  ],
+  "last_updated": 1753729621515
+}

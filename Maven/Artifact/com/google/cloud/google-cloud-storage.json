@@ -1,0 +1,17 @@
+{
+  "group_id": "com.google.cloud",
+  "artifact_id": "google-cloud-storage",
+  "latest_version": "2.54.0",
+  "description": "Java idiomatic client for Google Cloud Storage.",
+  "id": "pkg:maven/com.google.cloud/google-cloud-storage",
+  "ts": 1753745285000,
+  "dependency_count": 0,
+  "ref_count": 163,
+  "categories": [
+    "Cloud Computing"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753745818401
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "snslambda",
+  "latest_version": "2.89.0",
+  "description": "CDK Constructs for AWS SNS to AWS Lambda integration",
+  "id": "pkg:maven/software.amazon.awsconstructs/snslambda",
+  "ts": 1753738428000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753739194974
+}

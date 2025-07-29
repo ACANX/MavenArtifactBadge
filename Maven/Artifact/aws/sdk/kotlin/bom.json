@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "bom",
+  "latest_version": "1.5.5",
+  "description": "Provides a version catalog",
+  "id": "pkg:maven/aws.sdk.kotlin/bom",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744635409
+}

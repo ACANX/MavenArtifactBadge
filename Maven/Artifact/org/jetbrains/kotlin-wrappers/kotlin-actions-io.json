@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-actions-io",
+  "latest_version": "2025.7.13-1.1.3",
+  "description": "Kotlin wrapper for GitHub Actions IO",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-io",
+  "ts": 1753424090042,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425417962
+}

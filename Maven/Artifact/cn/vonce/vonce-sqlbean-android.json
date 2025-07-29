@@ -1,10 +1,10 @@
 {
   "group_id": "cn.vonce",
   "artifact_id": "vonce-sqlbean-android",
-  "latest_version": "1.7.0-beta7",
+  "latest_version": "1.7.0-beta9",
   "description": "This is a tool that uses Java object-oriented thinking to write and generate Sql statements, and on this basis, it implements lightweight plug-in support for Android. A large number of commonly used Sql execution methods are built into the plug-in, the purpose is to improve development efficiency, reduce a large number of Sql statement writing, and let developers focus more on writing business code.",
   "id": "pkg:maven/cn.vonce/vonce-sqlbean-android",
-  "ts": 1753256028000,
+  "ts": 1753353112000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753256464277
+  "last_updated": 1753353419654
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-cacheable",
+  "latest_version": "0.0.13",
+  "description": "Caching abstractions and implementations supporting both distributed and local caching strategies.\nIncludes Redis integration for distributed caching and Caffeine for high-performance local caching.",
+  "id": "pkg:maven/io.github.truenine/composeserver-cacheable",
+  "ts": 1753721304000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753721818497
+}

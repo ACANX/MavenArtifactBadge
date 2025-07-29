@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-chat-assistant-framework",
+  "latest_version": "0.5.3",
+  "description": "Reusable chat assistant framework for building workflow-based chatbots",
+  "id": "pkg:maven/ai.driftkit/driftkit-chat-assistant-framework",
+  "ts": 1753734146000,
+  "dependency_count": 0,
+  "ref_count": 94,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019949
+}

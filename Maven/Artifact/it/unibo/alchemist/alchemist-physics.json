@@ -1,10 +1,10 @@
 {
   "group_id": "it.unibo.alchemist",
   "artifact_id": "alchemist-physics",
-  "latest_version": "42.2.7",
+  "latest_version": "42.2.8",
   "description": "Abstraction for pedestrians capable of interacting physically.",
   "id": "pkg:maven/it.unibo.alchemist/alchemist-physics",
-  "ts": 1753252500000,
+  "ts": 1753650578000,
   "dependency_count": 10,
   "ref_count": 17,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "GPL 3.0 with linking exception"
   ],
-  "last_updated": 1753253219610
+  "last_updated": 1753651464782
 }

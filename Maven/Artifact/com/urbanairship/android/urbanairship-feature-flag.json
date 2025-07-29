@@ -1,0 +1,17 @@
+{
+  "group_id": "com.urbanairship.android",
+  "artifact_id": "urbanairship-feature-flag",
+  "latest_version": "19.10.0",
+  "description": "Airship Android Feature Flags extension.",
+  "id": "pkg:maven/com.urbanairship.android/urbanairship-feature-flag",
+  "ts": 1753390380000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753390552076
+}

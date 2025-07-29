@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.jhipster.lite",
+  "artifact_id": "jhlite",
+  "latest_version": "1.34.0",
+  "description": "JHipster Lite",
+  "id": "pkg:maven/tech.jhipster.lite/jhlite",
+  "ts": 1753337785000,
+  "dependency_count": 0,
+  "ref_count": 139,
+  "categories": null,
+  "licenses": [
+    "Apache License, version 2.0"
+  ],
+  "last_updated": 1753338416007
+}

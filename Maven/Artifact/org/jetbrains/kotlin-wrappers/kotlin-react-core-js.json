@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-react-core-js",
+  "latest_version": "2025.7.13-19.1.0",
+  "description": "Kotlin wrapper for React",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-core-js",
+  "ts": 1753424294719,
+  "dependency_count": 12,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425633944
+}

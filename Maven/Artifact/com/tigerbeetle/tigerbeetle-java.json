@@ -1,0 +1,15 @@
+{
+  "group_id": "com.tigerbeetle",
+  "artifact_id": "tigerbeetle-java",
+  "latest_version": "0.16.52",
+  "description": "The distributed financial accounting database designed for mission critical safety and performance.",
+  "id": "pkg:maven/com.tigerbeetle/tigerbeetle-java",
+  "ts": 1753719951000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753720601403
+}

@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-codesig_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-runner-codesig",
   "id": "pkg:maven/com.lihaoyi/mill-runner-codesig_3",
-  "ts": 1753282458000,
+  "ts": 1753700515000,
   "dependency_count": 2,
-  "ref_count": 45,
+  "ref_count": 20,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219349
+  "last_updated": 1753701426996
 }

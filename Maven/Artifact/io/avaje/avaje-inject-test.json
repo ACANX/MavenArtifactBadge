@@ -1,0 +1,17 @@
+{
+  "group_id": "io.avaje",
+  "artifact_id": "avaje-inject-test",
+  "latest_version": "12.0-RC1",
+  "description": "testing support for avaje-inject dependency injection",
+  "id": "pkg:maven/io.avaje/avaje-inject-test",
+  "ts": 1753695762000,
+  "dependency_count": 0,
+  "ref_count": 29,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753696312200
+}

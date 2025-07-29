@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.blueburble",
+  "artifact_id": "common-convert",
+  "latest_version": "1.5.6",
+  "description": "This is a utility library for common conversions.",
+  "id": "pkg:maven/io.github.blueburble/common-convert",
+  "ts": 1753694882000,
+  "dependency_count": 0,
+  "ref_count": 92,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753695423935
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.corefinance",
+  "artifact_id": "common-kafka",
+  "latest_version": "0.0.37",
+  "description": "common-kafka library.",
+  "id": "pkg:maven/tech.corefinance/common-kafka",
+  "ts": 1753694352000,
+  "dependency_count": 0,
+  "ref_count": 76,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753695116125
+}

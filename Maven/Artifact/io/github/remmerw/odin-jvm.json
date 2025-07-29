@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.remmerw",
+  "artifact_id": "odin-jvm",
+  "latest_version": "0.4.0",
+  "description": "API library for Odin application",
+  "id": "pkg:maven/io.github.remmerw/odin-jvm",
+  "ts": 1753689211000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753691223811
+}

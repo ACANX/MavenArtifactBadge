@@ -1,0 +1,15 @@
+{
+  "group_id": "com.olvind.typo",
+  "artifact_id": "typo-dsl-doobie_2.13",
+  "latest_version": "0.30.0",
+  "description": "Typed postgres boilerplate generation",
+  "id": "pkg:maven/com.olvind.typo/typo-dsl-doobie_2.13",
+  "ts": 1753665899000,
+  "dependency_count": 0,
+  "ref_count": 21,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753666617423
+}

@@ -1,17 +1,17 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon.cache.jedis",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon.cache.jedis",
-  "ts": 1753255848000,
+  "ts": 1753692875000,
   "dependency_count": 0,
-  "ref_count": 1,
+  "ref_count": 9,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256466090
+  "last_updated": 1753693625430
 }

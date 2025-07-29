@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.mflisar.kmp-gradle-tools",
+  "artifact_id": "gradle-plugin",
+  "latest_version": "1.3.8",
+  "description": "kmp-gradle-tools - gradle-plugin module - a gradle plugin that provides common functions for kmp libraries",
+  "id": "pkg:maven/io.github.mflisar.kmp-gradle-tools/gradle-plugin",
+  "ts": 1753707830000,
+  "dependency_count": 1,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753708623334
+}

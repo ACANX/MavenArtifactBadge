@@ -1,0 +1,15 @@
+{
+  "group_id": "cz.jeme",
+  "artifact_id": "bestium",
+  "latest_version": "2.0.0",
+  "description": "A powerful library plugin for creating Minecraft entities with custom behavior",
+  "id": "pkg:maven/cz.jeme/bestium",
+  "ts": 1753729227000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License v3.0"
+  ],
+  "last_updated": 1753730156425
+}

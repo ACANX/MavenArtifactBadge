@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.boswelja.xmldtd",
+  "artifact_id": "deserialize",
+  "latest_version": "1.0.0-alpha01",
+  "description": "Deserialize XML DTD into type-safe Kotlin objects.",
+  "id": "pkg:maven/io.github.boswelja.xmldtd/deserialize",
+  "ts": 1753589283000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "CC-BY-SA-4.0"
+  ],
+  "last_updated": 1753589729817
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "com.regnosys.rosetta.code-generators",
+  "artifact_id": "sample",
+  "latest_version": "11.75.0",
+  "description": "A sample Rosetta code generator",
+  "id": "pkg:maven/com.regnosys.rosetta.code-generators/sample",
+  "ts": 1753726922000,
+  "dependency_count": 0,
+  "ref_count": 80,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753727819995
+}

@@ -1,0 +1,19 @@
+{
+  "group_id": "fr.inria.gforge.spoon",
+  "artifact_id": "spoon-core",
+  "latest_version": "11.2.2-beta-4",
+  "description": "Spoon is a tool for meta-programming, analysis and transformation of Java programs.",
+  "id": "pkg:maven/fr.inria.gforge.spoon/spoon-core",
+  "ts": 1753583934000,
+  "dependency_count": 1,
+  "ref_count": 52,
+  "categories": [
+    "Build Tools",
+    "Code Analysis"
+  ],
+  "licenses": [
+    "MIT",
+    "CeCILL-C"
+  ],
+  "last_updated": 1753584418632
+}

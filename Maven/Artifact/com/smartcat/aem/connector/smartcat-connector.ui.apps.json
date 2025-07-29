@@ -1,0 +1,15 @@
+{
+  "group_id": "com.smartcat.aem.connector",
+  "artifact_id": "smartcat-connector.ui.apps",
+  "latest_version": "1.0.24",
+  "description": "Connector provides ability to localize content using smartcat.ai.",
+  "id": "pkg:maven/com.smartcat.aem.connector/smartcat-connector.ui.apps",
+  "ts": 1753700917000,
+  "dependency_count": 0,
+  "ref_count": 18,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753701426992
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "auditmanager",
+  "latest_version": "2.32.10",
+  "description": "The AWS Java SDK for Audit Manager module holds the client classes that are used for\n        communicating with Audit Manager.",
+  "id": "pkg:maven/software.amazon.awssdk/auditmanager",
+  "ts": 1753739355000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753739725681
+}

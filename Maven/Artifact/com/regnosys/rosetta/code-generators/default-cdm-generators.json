@@ -1,0 +1,15 @@
+{
+  "group_id": "com.regnosys.rosetta.code-generators",
+  "artifact_id": "default-cdm-generators",
+  "latest_version": "11.75.0",
+  "description": "Setup for the generators that are run as part of the CDM distribution build",
+  "id": "pkg:maven/com.regnosys.rosetta.code-generators/default-cdm-generators",
+  "ts": 1753726922000,
+  "dependency_count": 0,
+  "ref_count": 137,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753727819994
+}

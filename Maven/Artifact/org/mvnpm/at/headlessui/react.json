@@ -1,15 +1,15 @@
 {
   "group_id": "org.mvnpm.at.headlessui",
   "artifact_id": "react",
-  "latest_version": "2.2.5",
+  "latest_version": "2.2.6",
   "description": "A set of completely unstyled, fully accessible UI components for React, designed to integrate beautifully with Tailwind CSS.",
   "id": "pkg:maven/org.mvnpm.at.headlessui/react",
-  "ts": 1753272544000,
+  "ts": 1753375147000,
   "dependency_count": 0,
   "ref_count": 29,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753273621821
+  "last_updated": 1753375617212
 }

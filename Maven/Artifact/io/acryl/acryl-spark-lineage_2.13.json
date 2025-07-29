@@ -1,0 +1,17 @@
+{
+  "group_id": "io.acryl",
+  "artifact_id": "acryl-spark-lineage_2.13",
+  "latest_version": "0.2.18-rc11",
+  "description": "Library to push data lineage from spark to datahub (Scala 2.13)",
+  "id": "pkg:maven/io.acryl/acryl-spark-lineage_2.13",
+  "ts": 1753350290000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753350840376
+}

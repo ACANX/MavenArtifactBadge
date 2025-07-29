@@ -1,10 +1,10 @@
 {
   "group_id": "io.agora.rtc",
   "artifact_id": "iris-rtc",
-  "latest_version": "4.5.2.145-build.1",
+  "latest_version": "4.5.2.29574-dev.1",
   "description": "Agora SDK",
   "id": "pkg:maven/io.agora.rtc/iris-rtc",
-  "ts": 1753265311000,
+  "ts": 1753432459000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "AGORA SDK License"
   ],
-  "last_updated": 1753265816871
+  "last_updated": 1753433218582
 }

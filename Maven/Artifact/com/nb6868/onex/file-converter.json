@@ -1,0 +1,15 @@
+{
+  "group_id": "com.nb6868.onex",
+  "artifact_id": "file-converter",
+  "latest_version": "4.5.67",
+  "description": "文件转换器",
+  "id": "pkg:maven/com.nb6868.onex/file-converter",
+  "ts": 1753680283000,
+  "dependency_count": 0,
+  "ref_count": 115,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753681024267
+}

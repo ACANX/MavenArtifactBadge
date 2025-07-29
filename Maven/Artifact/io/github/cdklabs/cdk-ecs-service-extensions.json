@@ -1,0 +1,17 @@
+{
+  "group_id": "io.github.cdklabs",
+  "artifact_id": "cdk-ecs-service-extensions",
+  "latest_version": "2.0.1-alpha.716",
+  "description": "The CDK Construct Library that helps you build ECS services using simple extensions",
+  "id": "pkg:maven/io.github.cdklabs/cdk-ecs-service-extensions",
+  "ts": 1753490119000,
+  "dependency_count": 0,
+  "ref_count": 18,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753490758764
+}

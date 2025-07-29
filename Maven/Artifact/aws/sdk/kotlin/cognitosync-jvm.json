@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "cognitosync-jvm",
+  "latest_version": "1.5.5",
+  "description": "The AWS SDK for Kotlin client for Cognito Sync",
+  "id": "pkg:maven/aws.sdk.kotlin/cognitosync-jvm",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 26,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744635948
+}

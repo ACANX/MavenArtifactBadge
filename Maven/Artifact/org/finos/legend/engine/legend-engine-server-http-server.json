@@ -1,0 +1,17 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-server-http-server",
+  "latest_version": "4.92.0",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-server-http-server",
+  "ts": 1753345440000,
+  "dependency_count": 1,
+  "ref_count": 486,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753346822811
+}

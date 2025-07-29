@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-server-service",
+  "latest_version": "1.7.0-beta1",
+  "description": "snail-job-server-service",
+  "id": "pkg:maven/com.aizuda/snail-job-server-service",
+  "ts": 1753716798000,
+  "dependency_count": 3,
+  "ref_count": 156,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753717623441
+}

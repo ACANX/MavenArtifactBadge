@@ -1,0 +1,17 @@
+{
+  "group_id": "com.azure.resourcemanager",
+  "artifact_id": "azure-resourcemanager-containerservice",
+  "latest_version": "2.53.0",
+  "description": "This package contains Microsoft Azure Container Service SDK. For documentation on how to use this package, please see https://aka.ms/azsdk/java/mgmt",
+  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-containerservice",
+  "ts": 1753456842000,
+  "dependency_count": 1,
+  "ref_count": 18,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "last_updated": 1753457819882
+}

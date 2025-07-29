@@ -1,0 +1,15 @@
+{
+  "group_id": "com.statsig",
+  "artifact_id": "serversdk",
+  "latest_version": "2.2.0",
+  "description": "A feature gating and a/b testing library for statsig",
+  "id": "pkg:maven/com.statsig/serversdk",
+  "ts": 1753314383000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "ISC License (ISC)"
+  ],
+  "last_updated": 1753315016256
+}

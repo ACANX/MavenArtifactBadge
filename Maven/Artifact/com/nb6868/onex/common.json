@@ -1,0 +1,15 @@
+{
+  "group_id": "com.nb6868.onex",
+  "artifact_id": "common",
+  "latest_version": "4.5.67",
+  "description": "onex common libs",
+  "id": "pkg:maven/com.nb6868.onex/common",
+  "ts": 1753680283000,
+  "dependency_count": 7,
+  "ref_count": 345,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753681024267
+}

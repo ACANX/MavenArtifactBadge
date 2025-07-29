@@ -1,15 +1,15 @@
 {
   "group_id": "fi.evolver",
   "artifact_id": "evolver-ai-vaadin-cs",
-  "latest_version": "12.0.0",
+  "latest_version": "12.1.1",
   "description": "Parent for Evolver projects",
   "id": "pkg:maven/fi.evolver/evolver-ai-vaadin-cs",
-  "ts": 1753272449000,
+  "ts": 1753362142000,
   "dependency_count": 0,
   "ref_count": 418,
   "categories": null,
   "licenses": [
     "All rights reserved"
   ],
-  "last_updated": 1753273621822
+  "last_updated": 1753363025277
 }

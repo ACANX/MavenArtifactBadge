@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-sqlserver-datasource",
+  "latest_version": "1.7.0-beta1",
+  "description": "snail-job-sqlserver-datasource",
+  "id": "pkg:maven/com.aizuda/snail-job-sqlserver-datasource",
+  "ts": 1753716798000,
+  "dependency_count": 4,
+  "ref_count": 66,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753717623444
+}

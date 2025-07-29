@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "apigateway",
+  "latest_version": "2.32.10",
+  "description": "The AWS Java SDK for Amazon API Gateway module holds the client classes that are used for communicating\n        with Amazon API\n        Gateway",
+  "id": "pkg:maven/software.amazon.awssdk/apigateway",
+  "ts": 1753739184000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753739727003
+}

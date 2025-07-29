@@ -1,10 +1,10 @@
 {
   "group_id": "com.yahoo.vespa",
   "artifact_id": "service-monitor",
-  "latest_version": "8.554.5",
+  "latest_version": "8.555.25",
   "description": "Service monitor component for hosted vespa.",
   "id": "pkg:maven/com.yahoo.vespa/service-monitor",
-  "ts": 1753270680000,
+  "ts": 1753716542000,
   "dependency_count": 2,
   "ref_count": 70,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753271200411
+  "last_updated": 1753717020529
 }

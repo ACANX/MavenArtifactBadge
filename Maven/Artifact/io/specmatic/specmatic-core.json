@@ -1,0 +1,15 @@
+{
+  "group_id": "io.specmatic",
+  "artifact_id": "specmatic-core",
+  "latest_version": "2.17.3",
+  "description": "Turn your contracts into executable specifications. Contract Driven Development - Collaboratively Design & Independently Deploy MicroServices & MicroFrontends.",
+  "id": "pkg:maven/io.specmatic/specmatic-core",
+  "ts": 1753528069000,
+  "dependency_count": 2,
+  "ref_count": 30,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753529217696
+}

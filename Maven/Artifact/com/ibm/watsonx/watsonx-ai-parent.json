@@ -1,0 +1,15 @@
+{
+  "group_id": "com.ibm.watsonx",
+  "artifact_id": "watsonx-ai-parent",
+  "latest_version": "0.4.0",
+  "description": "Java client library and SDK for IBM watsonx.ai",
+  "id": "pkg:maven/com.ibm.watsonx/watsonx-ai-parent",
+  "ts": 1753611170000,
+  "dependency_count": 0,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753612017585
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "access-sdk-wxapp",
+  "latest_version": "3.5.4.0",
+  "description": "基于 Spring Authorization Server 的 微信小程序外部接入基础核心组件模块",
+  "id": "pkg:maven/cn.herodotus.engine/access-sdk-wxapp",
+  "ts": 1753367015000,
+  "dependency_count": 3,
+  "ref_count": 93,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821541
+}

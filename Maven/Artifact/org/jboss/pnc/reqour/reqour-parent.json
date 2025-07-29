@@ -1,0 +1,15 @@
+{
+  "group_id": "org.jboss.pnc.reqour",
+  "artifact_id": "reqour-parent",
+  "latest_version": "3.2.7",
+  "description": "Repour, but written in Quarkus",
+  "id": "pkg:maven/org.jboss.pnc.reqour/reqour-parent",
+  "ts": 1753694891000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753695423935
+}

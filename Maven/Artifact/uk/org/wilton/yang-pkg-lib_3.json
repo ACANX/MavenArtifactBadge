@@ -1,0 +1,15 @@
+{
+  "group_id": "uk.org.wilton",
+  "artifact_id": "yang-pkg-lib_3",
+  "latest_version": "0.0.10",
+  "description": "YANG Packages Library",
+  "id": "pkg:maven/uk.org.wilton/yang-pkg-lib_3",
+  "ts": 1753716104000,
+  "dependency_count": 1,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753716669858
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-mui-system-js",
+  "latest_version": "2025.7.13-5.17.1",
+  "description": "Kotlin wrapper for MUI System",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-system-js",
+  "ts": 1753424231568,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425415873
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.smartboot.feat",
+  "artifact_id": "feat-cloud-starter",
+  "latest_version": "1.2.0",
+  "description": "a lightweight http server",
+  "id": "pkg:maven/tech.smartboot.feat/feat-cloud-starter",
+  "ts": 1753347645000,
+  "dependency_count": 1,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "GNU Affero General Public License version 3.0"
+  ],
+  "last_updated": 1753348633624
+}

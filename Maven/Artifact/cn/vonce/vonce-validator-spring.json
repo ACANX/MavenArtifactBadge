@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.vonce",
+  "artifact_id": "vonce-validator-spring",
+  "latest_version": "1.0.0-beta1",
+  "description": "This is the spring project of Validator.",
+  "id": "pkg:maven/cn.vonce/vonce-validator-spring",
+  "ts": 1753667542000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The MIT License"
+  ],
+  "last_updated": 1753668416085
+}

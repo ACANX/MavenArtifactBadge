@@ -1,0 +1,15 @@
+{
+  "group_id": "org.sterl.spring",
+  "artifact_id": "spring-persistent-tasks-db",
+  "latest_version": "2.1.3",
+  "description": "Setup DB using liquibase for spring persistent tasks",
+  "id": "pkg:maven/org.sterl.spring/spring-persistent-tasks-db",
+  "ts": 1753388307000,
+  "dependency_count": 1,
+  "ref_count": 32,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753388824466
+}

@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-testrunner_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-javalib-testrunner",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-testrunner_3",
-  "ts": 1753282388000,
-  "dependency_count": 15,
-  "ref_count": 11,
+  "ts": 1753700448000,
+  "dependency_count": 9,
+  "ref_count": 28,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219758
+  "last_updated": 1753701427689
 }

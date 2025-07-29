@@ -1,0 +1,15 @@
+{
+  "group_id": "com.alibaba.hologres",
+  "artifact_id": "holo-client",
+  "latest_version": "2.6.6",
+  "description": "client for Hologres",
+  "id": "pkg:maven/com.alibaba.hologres/holo-client",
+  "ts": 1753331817000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "hologres client license"
+  ],
+  "last_updated": 1753332416910
+}

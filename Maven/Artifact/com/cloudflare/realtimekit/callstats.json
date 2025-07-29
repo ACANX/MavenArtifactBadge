@@ -1,15 +1,15 @@
 {
   "group_id": "com.cloudflare.realtimekit",
   "artifact_id": "callstats",
-  "latest_version": "1.7.19",
+  "latest_version": "1.7.20",
   "description": "Cloudflare RealtimeKit KMM Client for CallStats",
   "id": "pkg:maven/com.cloudflare.realtimekit/callstats",
-  "ts": 1753289130000,
+  "ts": 1753427359000,
   "dependency_count": 0,
   "ref_count": 8,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753289817308
+  "last_updated": 1753427816259
 }

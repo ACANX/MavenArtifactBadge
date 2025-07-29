@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/com.github.xpenatan.jParser/jParser-cpp",
+  "group_id": "com.github.xpenatan.jParser",
+  "artifact_id": "jParser-cpp",
+  "latest_version": "1.0.0-b12",
+  "ts": 1753759348000,
+  "last_updated": 1753760221188,
+  "description": "Java JNI code parser",
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "dep_count": 2,
+  "ref_count": 1,
+  "categories": null
+}

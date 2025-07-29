@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "ec2-alpha",
+  "latest_version": "2.207.0-alpha.0",
+  "description": "The CDK construct library for VPC V2",
+  "id": "pkg:maven/software.amazon.awscdk/ec2-alpha",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367219413
+}

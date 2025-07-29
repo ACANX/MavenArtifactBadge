@@ -1,0 +1,15 @@
+{
+  "group_id": "top.lingkang",
+  "artifact_id": "final-validator",
+  "latest_version": "2.3.3",
+  "description": "final-validator\n        是一个JavaBean元数据校验模型和方法验证，能够自定义注解来扩展校验范围，符合国内开发习惯的参数校验java库",
+  "id": "pkg:maven/top.lingkang/final-validator",
+  "ts": 1753549861000,
+  "dependency_count": 1,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "Mulan Permissive Software License"
+  ],
+  "last_updated": 1753550217478
+}

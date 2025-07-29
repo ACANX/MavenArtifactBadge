@@ -1,10 +1,10 @@
 {
   "group_id": "app.cash.backfila",
   "artifact_id": "client-sqldelight",
-  "latest_version": "2025.07.23.173934-775d335",
+  "latest_version": "2025.07.28.193750-99c8949",
   "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "id": "pkg:maven/app.cash.backfila/client-sqldelight",
-  "ts": 1753293069000,
+  "ts": 1753732179000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753293416340
+  "last_updated": 1753733220959
 }

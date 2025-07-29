@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.dimkich.integration.testing.kafka",
+  "artifact_id": "integration-testing-kafka",
+  "latest_version": "0.2.0",
+  "description": "Provides convenient way of write and support integration tests for Spring Framework",
+  "id": "pkg:maven/io.github.dimkich.integration.testing.kafka/integration-testing-kafka",
+  "ts": 1753701341000,
+  "dependency_count": 0,
+  "ref_count": 110,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753702016597
+}

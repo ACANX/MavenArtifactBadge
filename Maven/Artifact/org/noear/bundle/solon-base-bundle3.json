@@ -1,15 +1,15 @@
 {
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-base-bundle3",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear.bundle/solon-base-bundle3",
-  "ts": 1753255987000,
+  "ts": 1753692920000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256465430
+  "last_updated": 1753693624133
 }

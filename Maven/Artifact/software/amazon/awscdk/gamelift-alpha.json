@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "gamelift-alpha",
+  "latest_version": "2.207.0-alpha.0",
+  "description": "The CDK Construct Library for AWS::GameLift",
+  "id": "pkg:maven/software.amazon.awscdk/gamelift-alpha",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367219412
+}

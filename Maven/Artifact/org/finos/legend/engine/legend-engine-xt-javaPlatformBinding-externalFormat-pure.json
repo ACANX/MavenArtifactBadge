@@ -1,0 +1,15 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-javaPlatformBinding-externalFormat-pure",
+  "latest_version": "4.93.0",
+  "description": null,
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-javaPlatformBinding-externalFormat-pure",
+  "ts": 1753389040000,
+  "dependency_count": 3,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753390024464
+}

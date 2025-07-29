@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkiverse.roq",
+  "artifact_id": "quarkus-roq-plugin-tagging-deployment",
+  "latest_version": "1.7.0.CR3",
+  "description": "Generate static websites out of your Quarkus web application.",
+  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-tagging-deployment",
+  "ts": 1753713476000,
+  "dependency_count": 0,
+  "ref_count": 232,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753714019312
+}

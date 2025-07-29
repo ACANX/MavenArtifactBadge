@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "validator-lib",
+  "latest_version": "0.13.1",
+  "description": "edc :: validator-lib",
+  "id": "pkg:maven/org.eclipse.edc/validator-lib",
+  "ts": 1753436148000,
+  "dependency_count": 4,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436819414
+}

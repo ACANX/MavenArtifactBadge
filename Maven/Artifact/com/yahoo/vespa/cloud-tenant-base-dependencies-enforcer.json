@@ -1,10 +1,10 @@
 {
   "group_id": "com.yahoo.vespa",
   "artifact_id": "cloud-tenant-base-dependencies-enforcer",
-  "latest_version": "8.554.5",
+  "latest_version": "8.555.25",
   "description": "Parent POM for all Vespa Cloud applications.",
   "id": "pkg:maven/com.yahoo.vespa/cloud-tenant-base-dependencies-enforcer",
-  "ts": 1753270680000,
+  "ts": 1753716543000,
   "dependency_count": 0,
   "ref_count": 66,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753271202965
+  "last_updated": 1753717018614
 }

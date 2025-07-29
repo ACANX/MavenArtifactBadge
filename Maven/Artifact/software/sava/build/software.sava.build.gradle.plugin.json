@@ -1,0 +1,15 @@
+{
+  "group_id": "software.sava.build",
+  "artifact_id": "software.sava.build.gradle.plugin",
+  "latest_version": "0.1.27",
+  "description": "Sava Gradle Conventions",
+  "id": "pkg:maven/software.sava.build/software.sava.build.gradle.plugin",
+  "ts": 1753396380000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache License"
+  ],
+  "last_updated": 1753396833916
+}

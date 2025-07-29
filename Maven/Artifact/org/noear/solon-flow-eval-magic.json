@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-flow-eval-magic",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-flow-eval-magic",
-  "ts": 1753256105000,
+  "ts": 1753693013000,
   "dependency_count": 0,
   "ref_count": 5,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256821632
+  "last_updated": 1753693622013
 }

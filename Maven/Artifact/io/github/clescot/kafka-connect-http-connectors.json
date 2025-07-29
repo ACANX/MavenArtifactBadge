@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.clescot",
+  "artifact_id": "kafka-connect-http-connectors",
+  "latest_version": "0.8.59",
+  "description": "bundle of kafka connect connectors.",
+  "id": "pkg:maven/io.github.clescot/kafka-connect-http-connectors",
+  "ts": 1753746371000,
+  "dependency_count": 1,
+  "ref_count": 136,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753746854452
+}

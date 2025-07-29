@@ -1,10 +1,10 @@
 {
   "group_id": "dev.kensa",
   "artifact_id": "kensa-core",
-  "latest_version": "0.5.17",
+  "latest_version": "0.5.18",
   "description": "A BDD testing framework for Kotlin & Java",
   "id": "pkg:maven/dev.kensa/kensa-core",
-  "ts": 1753282093000,
+  "ts": 1753719289000,
   "dependency_count": 5,
   "ref_count": 13,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753283220726
+  "last_updated": 1753720018643
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.module-federation",
+  "artifact_id": "runtime-core",
+  "latest_version": "0.17.1",
+  "description": "- Can be combined with the build plug-in to share basic dependencies according to policies to reduce the number of module downloads and improve the loading speed of modules. - Only consume part of the export of the remote module and will not fully downloa",
+  "id": "pkg:maven/org.mvnpm.at.module-federation/runtime-core",
+  "ts": 1753374244000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753375017675
+}

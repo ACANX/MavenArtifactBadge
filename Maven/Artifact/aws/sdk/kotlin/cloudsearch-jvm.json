@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "cloudsearch-jvm",
+  "latest_version": "1.5.5",
+  "description": "The AWS SDK for Kotlin client for CloudSearch",
+  "id": "pkg:maven/aws.sdk.kotlin/cloudsearch-jvm",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 27,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744632780
+}

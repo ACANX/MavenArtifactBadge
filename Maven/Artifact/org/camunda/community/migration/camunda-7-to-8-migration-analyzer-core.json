@@ -1,0 +1,15 @@
+{
+  "group_id": "org.camunda.community.migration",
+  "artifact_id": "camunda-7-to-8-migration-analyzer-core",
+  "latest_version": "0.13.1",
+  "description": "This POM defines the required plugins and profiles to allow a Camunda Community Hub release build.\n        Inherit this POM when you want to use https://github.com/camunda-community-hub/community-action-maven-release",
+  "id": "pkg:maven/org.camunda.community.migration/camunda-7-to-8-migration-analyzer-core",
+  "ts": 1753346493000,
+  "dependency_count": 2,
+  "ref_count": 35,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753346818100
+}

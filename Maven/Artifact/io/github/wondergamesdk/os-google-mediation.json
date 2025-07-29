@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.wondergamesdk",
+  "artifact_id": "os-google-mediation",
+  "latest_version": "1.5.2",
+  "description": "WonderGame海外Google应用市场多聚合SDK",
+  "id": "pkg:maven/io.github.wondergamesdk/os-google-mediation",
+  "ts": 1753352879000,
+  "dependency_count": 0,
+  "ref_count": 104,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753353419655
+}

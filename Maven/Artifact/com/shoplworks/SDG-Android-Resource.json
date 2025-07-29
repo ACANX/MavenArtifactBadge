@@ -1,0 +1,15 @@
+{
+  "group_id": "com.shoplworks",
+  "artifact_id": "SDG-Android-Resource",
+  "latest_version": "1.1.0",
+  "description": "SDG is a collection of design resources, reusable components and guidelines for creating Shopl's products.",
+  "id": "pkg:maven/com.shoplworks/SDG-Android-Resource",
+  "ts": 1753311896000,
+  "dependency_count": 2,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753312618526
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-common-log",
+  "latest_version": "1.7.0-beta1",
+  "description": "snail-job-common-log",
+  "id": "pkg:maven/com.aizuda/snail-job-common-log",
+  "ts": 1753716798000,
+  "dependency_count": 21,
+  "ref_count": 40,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753717623445
+}

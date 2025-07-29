@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-js",
+  "latest_version": "2025.7.13",
+  "description": "Kotlin wrappers for standard JS objects",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js",
+  "ts": 1753424207124,
+  "dependency_count": 11,
+  "ref_count": 2,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425416521
+}

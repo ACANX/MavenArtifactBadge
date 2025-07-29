@@ -1,0 +1,15 @@
+{
+  "group_id": "app.rive",
+  "artifact_id": "rive-android",
+  "latest_version": "10.3.1",
+  "description": "Rive is a real-time interactive design and animation tool. Use our collaborative editor to create motion graphics that respond to different states and user inputs. Then load your animations into apps, games, and websites with our lightweight open-source runtimes.",
+  "id": "pkg:maven/app.rive/rive-android",
+  "ts": 1753705174000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753705624714
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.elf4j",
+  "artifact_id": "elf4j-provider",
+  "latest_version": "16.0.2",
+  "description": "Native logging service provider implementation of ELF4J (Easy Logging Facade For Java)",
+  "id": "pkg:maven/io.github.elf4j/elf4j-provider",
+  "ts": 1753737472000,
+  "dependency_count": 0,
+  "ref_count": 20,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753738367436
+}

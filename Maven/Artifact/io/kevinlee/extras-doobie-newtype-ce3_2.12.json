@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-doobie-newtype-ce3_2.12",
+  "latest_version": "0.46.1",
+  "description": "extras-doobie-newtype-ce3",
+  "id": "pkg:maven/io.kevinlee/extras-doobie-newtype-ce3_2.12",
+  "ts": 1753617552000,
+  "dependency_count": 0,
+  "ref_count": 23,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753618017115
+}

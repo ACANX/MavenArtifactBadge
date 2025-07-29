@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.corefinance",
+  "artifact_id": "microservice-common-jpa",
+  "latest_version": "0.0.37",
+  "description": "microservice-common-jpa library.",
+  "id": "pkg:maven/tech.corefinance/microservice-common-jpa",
+  "ts": 1753694352000,
+  "dependency_count": 1,
+  "ref_count": 91,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753695116124
+}

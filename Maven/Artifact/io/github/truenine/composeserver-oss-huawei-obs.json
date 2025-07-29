@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-oss-huawei-obs",
+  "latest_version": "0.0.13",
+  "description": "Huawei Cloud OBS (Object Storage Service) integration for enterprise-grade cloud storage.\nProvides comprehensive OBS operations including object management, lifecycle policies, and security configurations.",
+  "id": "pkg:maven/io.github.truenine/composeserver-oss-huawei-obs",
+  "ts": 1753721304000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753721818497
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "pulsar-protocol-handler-kafka-parent",
+  "latest_version": "4.0.5.4",
+  "description": "Parent for Kafka on Pulsar implemented using Pulsar Protocol Handler.",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka-parent",
+  "ts": 1753464133000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419450
+}

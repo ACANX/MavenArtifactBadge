@@ -1,0 +1,17 @@
+{
+  "group_id": "io.joern",
+  "artifact_id": "dataflowengineoss_3",
+  "latest_version": "4.0.399",
+  "description": "dataflowengineoss",
+  "id": "pkg:maven/io.joern/dataflowengineoss_3",
+  "ts": 1753384381000,
+  "dependency_count": 15,
+  "ref_count": 76,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753385217745
+}

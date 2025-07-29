@@ -1,0 +1,17 @@
+{
+  "group_id": "io.hyperfoil.tools",
+  "artifact_id": "hyperfoil-qDup",
+  "latest_version": "0.10.3",
+  "description": "Coordinate multiple terminal shell connections for queuing performance tests and collecting output files",
+  "id": "pkg:maven/io.hyperfoil.tools/hyperfoil-qDup",
+  "ts": 1753673802000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753674419477
+}

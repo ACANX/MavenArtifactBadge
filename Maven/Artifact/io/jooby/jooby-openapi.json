@@ -1,0 +1,17 @@
+{
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-openapi",
+  "latest_version": "4.0.2",
+  "description": "The modular web framework for Java and Kotlin",
+  "id": "pkg:maven/io.jooby/jooby-openapi",
+  "ts": 1753653381000,
+  "dependency_count": 2,
+  "ref_count": 78,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753654020738
+}

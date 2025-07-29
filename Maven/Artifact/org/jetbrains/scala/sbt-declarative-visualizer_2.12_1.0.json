@@ -1,0 +1,18 @@
+{
+  "group_id": "org.jetbrains.scala",
+  "artifact_id": "sbt-declarative-visualizer_2.12_1.0",
+  "latest_version": "5.0.5",
+  "description": "sbt-declarative-visualizer",
+  "id": "pkg:maven/org.jetbrains.scala/sbt-declarative-visualizer_2.12_1.0",
+  "ts": 1753440663000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0",
+    "MIT"
+  ],
+  "last_updated": 1753441019840
+}

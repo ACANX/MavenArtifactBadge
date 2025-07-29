@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "kafka-client-api",
+  "latest_version": "4.0.5.4",
+  "description": "The Kafka client API without any Kafka dependency",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/kafka-client-api",
+  "ts": 1753464133000,
+  "dependency_count": 2,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419830
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-validation",
+  "latest_version": "2025.7.6",
+  "description": "Validation library for Kotlin with Spring Boot",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-validation",
+  "ts": 1753651712000,
+  "dependency_count": 0,
+  "ref_count": 29,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753652216324
+}

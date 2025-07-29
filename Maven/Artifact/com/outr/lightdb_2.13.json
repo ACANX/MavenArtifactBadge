@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb_2.13",
+  "latest_version": "4.0.5",
+  "description": "lightdb",
+  "id": "pkg:maven/com.outr/lightdb_2.13",
+  "ts": 1753562786000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419080
+}

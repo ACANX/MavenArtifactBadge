@@ -1,15 +1,17 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-sql-mongodb",
-  "latest_version": "12.2.0",
-  "description": null,
+  "latest_version": "12.2.1",
+  "description": "Core modules packaged with Dirigible",
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-sql-mongodb",
-  "ts": 1753272414000,
+  "ts": 1753347840000,
   "dependency_count": 1,
-  "ref_count": 33,
+  "ref_count": 113,
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753273629499
+  "licenses": [
+    "Eclipse Public License - v 2.0"
+  ],
+  "last_updated": 1753348632488
 }

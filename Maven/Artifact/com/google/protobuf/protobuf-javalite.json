@@ -1,0 +1,18 @@
+{
+  "group_id": "com.google.protobuf",
+  "artifact_id": "protobuf-javalite",
+  "latest_version": "4.32.0-RC1",
+  "description": "Lite version of Protocol Buffers library. This version is optimized for code size, but does\n    not guarantee API/ABI stability.",
+  "id": "pkg:maven/com.google.protobuf/protobuf-javalite",
+  "ts": 1753314770000,
+  "dependency_count": 1,
+  "ref_count": 0,
+  "categories": [
+    "Data Processors",
+    "Format"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753315616345
+}

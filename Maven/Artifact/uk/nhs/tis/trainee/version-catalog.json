@@ -1,0 +1,15 @@
+{
+  "group_id": "uk.nhs.tis.trainee",
+  "artifact_id": "version-catalog",
+  "latest_version": "0.0.7",
+  "description": "A version catalog for TIS Trainee services.",
+  "id": "pkg:maven/uk.nhs.tis.trainee/version-catalog",
+  "ts": 1753386449000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753387015804
+}

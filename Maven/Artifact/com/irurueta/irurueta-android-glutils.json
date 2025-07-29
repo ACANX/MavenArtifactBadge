@@ -1,0 +1,15 @@
+{
+  "group_id": "com.irurueta",
+  "artifact_id": "irurueta-android-glutils",
+  "latest_version": "1.1.6",
+  "description": "OpenGL utilities for Android",
+  "id": "pkg:maven/com.irurueta/irurueta-android-glutils",
+  "ts": 1753625292000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753625818490
+}

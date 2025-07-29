@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-cache",
+  "latest_version": "2025.7.6",
+  "description": "Caching library for Kotlin with Spring Boot.",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-cache",
+  "ts": 1753649916000,
+  "dependency_count": 0,
+  "ref_count": 53,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753650420332
+}

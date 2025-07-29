@@ -1,0 +1,15 @@
+{
+  "group_id": "io.joyfill",
+  "artifact_id": "wisdom-watchosarm64",
+  "latest_version": "2.0.0-Beta15",
+  "description": "A library to help with editing joyfill documents",
+  "id": "pkg:maven/io.joyfill/wisdom-watchosarm64",
+  "ts": 1753378415000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Joyfill License"
+  ],
+  "last_updated": 1753379139620
+}

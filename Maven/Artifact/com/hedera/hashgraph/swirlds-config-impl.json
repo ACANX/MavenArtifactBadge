@@ -1,0 +1,17 @@
+{
+  "group_id": "com.hedera.hashgraph",
+  "artifact_id": "swirlds-config-impl",
+  "latest_version": "0.64.1",
+  "description": "Hedera Hashgraph is a software platform designed to build fully-distributed applications that harness the power of the cloud without servers. Now you can develop applications with fairness in decision making, speed, trust and reliability, at a fraction of the cost of traditional server-based platforms.",
+  "id": "pkg:maven/com.hedera.hashgraph/swirlds-config-impl",
+  "ts": 1753382112000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753382816307
+}

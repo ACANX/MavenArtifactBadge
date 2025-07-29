@@ -1,0 +1,15 @@
+{
+  "group_id": "io.growdeck.sdk",
+  "artifact_id": "playtime",
+  "latest_version": "1.0.6",
+  "description": "A lightweight Android SDK for Growdeck.",
+  "id": "pkg:maven/io.growdeck.sdk/playtime",
+  "ts": 1753440439000,
+  "dependency_count": 0,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753440749441
+}

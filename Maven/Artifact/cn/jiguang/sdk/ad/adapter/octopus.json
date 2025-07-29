@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.jiguang.sdk.ad.adapter",
+  "artifact_id": "octopus",
+  "latest_version": "1.6.3.8.06191",
+  "description": "octopus adapter sdk",
+  "id": "pkg:maven/cn.jiguang.sdk.ad.adapter/octopus",
+  "ts": 1753336557000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753337217678
+}

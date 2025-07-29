@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.chrimle",
+  "artifact_id": "exception-factory",
+  "latest_version": "0.1.0",
+  "description": "Create Exception instances with Factory-methods and Builder patterns!",
+  "id": "pkg:maven/io.github.chrimle/exception-factory",
+  "ts": 1753703294000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753703770480
+}

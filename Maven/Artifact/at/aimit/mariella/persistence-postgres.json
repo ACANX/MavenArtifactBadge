@@ -1,0 +1,15 @@
+{
+  "group_id": "at.aimit.mariella",
+  "artifact_id": "persistence-postgres",
+  "latest_version": "1.0.11",
+  "description": "JPA compliant ORM for Java and data class mapper for Kotlin",
+  "id": "pkg:maven/at.aimit.mariella/persistence-postgres",
+  "ts": 1753366379000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "MIT license"
+  ],
+  "last_updated": 1753367218407
+}

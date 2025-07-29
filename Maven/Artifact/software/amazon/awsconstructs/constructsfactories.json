@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "constructsfactories",
+  "latest_version": "2.89.0",
+  "description": "Factories to allow creation of individual resources",
+  "id": "pkg:maven/software.amazon.awsconstructs/constructsfactories",
+  "ts": 1753738428000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753739196281
+}

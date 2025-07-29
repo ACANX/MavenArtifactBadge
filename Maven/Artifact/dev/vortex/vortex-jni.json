@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.vortex",
+  "artifact_id": "vortex-jni",
+  "latest_version": "0.42.1",
+  "description": "JNI bindings for the Vortex format",
+  "id": "pkg:maven/dev.vortex/vortex-jni",
+  "ts": 1753382327000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753382816301
+}

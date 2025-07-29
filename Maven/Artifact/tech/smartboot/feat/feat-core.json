@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.smartboot.feat",
+  "artifact_id": "feat-core",
+  "latest_version": "1.2.0",
+  "description": "a lightweight http server",
+  "id": "pkg:maven/tech.smartboot.feat/feat-core",
+  "ts": 1753347645000,
+  "dependency_count": 4,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "GNU Affero General Public License version 3.0"
+  ],
+  "last_updated": 1753348633625
+}

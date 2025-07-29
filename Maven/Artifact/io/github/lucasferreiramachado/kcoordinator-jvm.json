@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.lucasferreiramachado",
+  "artifact_id": "kcoordinator-jvm",
+  "latest_version": "0.0.1",
+  "description": "A lightweight, cross-platform Coordinator library, written in pure Kotlin.",
+  "id": "pkg:maven/io.github.lucasferreiramachado/kcoordinator-jvm",
+  "ts": 1753749385000,
+  "dependency_count": 1,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753750022093
+}

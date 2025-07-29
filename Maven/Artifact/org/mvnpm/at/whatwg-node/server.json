@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.whatwg-node",
+  "artifact_id": "server",
+  "latest_version": "0.10.11",
+  "description": "Fetch API compliant HTTP Server adapter",
+  "id": "pkg:maven/org.mvnpm.at.whatwg-node/server",
+  "ts": 1753704730000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753705626077
+}

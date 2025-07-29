@@ -1,0 +1,15 @@
+{
+  "group_id": "com.glean",
+  "artifact_id": "proxy",
+  "latest_version": "1.0.1",
+  "description": "An HTTP proxy built on LittleProxy and Netty that serves as an alternative to AWS NAT Gateway.",
+  "id": "pkg:maven/com.glean/proxy",
+  "ts": 1753747329000,
+  "dependency_count": 0,
+  "ref_count": 62,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753748284662
+}

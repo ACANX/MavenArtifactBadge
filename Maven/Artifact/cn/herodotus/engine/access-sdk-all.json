@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "access-sdk-all",
+  "latest_version": "3.5.4.0",
+  "description": "基于 Spring Authorization Server 的外部接入统一处理逻辑业务组件模块",
+  "id": "pkg:maven/cn.herodotus.engine/access-sdk-all",
+  "ts": 1753367015000,
+  "dependency_count": 2,
+  "ref_count": 152,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821092
+}

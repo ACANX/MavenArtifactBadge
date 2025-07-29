@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-itc-testkit_sjs1_3",
+  "latest_version": "0.42.0",
+  "description": "lucuma-itc-testkit",
+  "id": "pkg:maven/edu.gemini/lucuma-itc-testkit_sjs1_3",
+  "ts": 1753535031000,
+  "dependency_count": 0,
+  "ref_count": 126,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753535821526
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.danilopianini.gradle-pre-commit-git-hooks",
+  "artifact_id": "org.danilopianini.gradle-pre-commit-git-hooks.gradle.plugin",
+  "latest_version": "2.0.29-dev08-0dbc231",
+  "description": "A Gradle plugin enforcing pre-commit and commit-msg Git hooks configuration. Conventional-commits-ready.",
+  "id": "pkg:maven/org.danilopianini.gradle-pre-commit-git-hooks/org.danilopianini.gradle-pre-commit-git-hooks.gradle.plugin",
+  "ts": 1753465478000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753466182242
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "net.orivis",
+  "artifact_id": "orivis-core",
+  "latest_version": "0.5.4",
+  "description": "Parent pom providing dependency and plugin management for applications built with Maven",
+  "id": "pkg:maven/net.orivis/orivis-core",
+  "ts": 1753365840000,
+  "dependency_count": 0,
+  "ref_count": 91,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753366433591
+}

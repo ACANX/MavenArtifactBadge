@@ -1,0 +1,15 @@
+{
+  "group_id": "io.gitee.rengy",
+  "artifact_id": "rengy-dependency",
+  "latest_version": "1.0.0",
+  "description": "依赖定义",
+  "id": "pkg:maven/io.gitee.rengy/rengy-dependency",
+  "ts": 1753411154000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753411618959
+}

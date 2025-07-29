@@ -1,15 +1,15 @@
 {
   "group_id": "live.ditto",
   "artifact_id": "ditto-cpp",
-  "latest_version": "4.11.2-preview.1",
+  "latest_version": "4.12.0-preview.1",
   "description": "Ditto C++ SDK for Android",
   "id": "pkg:maven/live.ditto/ditto-cpp",
-  "ts": 1753259516000,
+  "ts": 1753372883000,
   "dependency_count": 0,
   "ref_count": 7,
   "categories": null,
   "licenses": [
     "Ditto Binary License"
   ],
-  "last_updated": 1753260384880
+  "last_updated": 1753373217977
 }

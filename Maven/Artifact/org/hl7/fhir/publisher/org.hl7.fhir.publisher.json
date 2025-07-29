@@ -1,10 +1,10 @@
 {
   "group_id": "org.hl7.fhir.publisher",
   "artifact_id": "org.hl7.fhir.publisher",
-  "latest_version": "2.0.11",
+  "latest_version": "2.0.12",
   "description": "A tool to take a set of inputs and create a standard FHIR IG",
   "id": "pkg:maven/org.hl7.fhir.publisher/org.hl7.fhir.publisher",
-  "ts": 1753253262000,
+  "ts": 1753646950000,
   "dependency_count": 0,
   "ref_count": 126,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753253706857
+  "last_updated": 1753647338137
 }

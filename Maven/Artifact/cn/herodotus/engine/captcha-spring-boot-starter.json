@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "captcha-spring-boot-starter",
+  "latest_version": "3.5.4.0",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud 基础核心组件模块",
+  "id": "pkg:maven/cn.herodotus.engine/captcha-spring-boot-starter",
+  "ts": 1753367015000,
+  "dependency_count": 2,
+  "ref_count": 127,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821086
+}

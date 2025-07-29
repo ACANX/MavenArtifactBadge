@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-javaGeneration-pure",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-javaGeneration-pure",
-  "ts": 1753280048000,
-  "dependency_count": 5,
+  "ts": 1753345440000,
+  "dependency_count": 28,
   "ref_count": 16,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280821019
+  "last_updated": 1753346824155
 }

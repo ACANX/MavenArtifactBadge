@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "dynamodbstreamspipesstepfunctions",
+  "latest_version": "2.89.0",
+  "description": "CDK Constructs for Amazon DynamoDB Streams to AWS Step Functions via Amazon EventBridge Pipes integration.",
+  "id": "pkg:maven/software.amazon.awsconstructs/dynamodbstreamspipesstepfunctions",
+  "ts": 1753738428000,
+  "dependency_count": 0,
+  "ref_count": 20,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753739196809
+}

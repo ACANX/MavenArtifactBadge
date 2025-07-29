@@ -1,0 +1,17 @@
+{
+  "group_id": "cn.herodotus.engine",
+  "artifact_id": "access-sdk-sms",
+  "latest_version": "3.5.4.0",
+  "description": "手机短信、小程序、公众号、JustAuth等外部登录处理逻辑集成模块",
+  "id": "pkg:maven/cn.herodotus.engine/access-sdk-sms",
+  "ts": 1753367015000,
+  "dependency_count": 3,
+  "ref_count": 168,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License Version 2.0"
+  ],
+  "last_updated": 1753367821085
+}

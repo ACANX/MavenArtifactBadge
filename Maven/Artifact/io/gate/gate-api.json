@@ -1,0 +1,17 @@
+{
+  "group_id": "io.gate",
+  "artifact_id": "gate-api",
+  "latest_version": "6.103.0",
+  "description": "Java client for gateapi",
+  "id": "pkg:maven/io.gate/gate-api",
+  "ts": 1753349354000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Unlicense"
+  ],
+  "last_updated": 1753349817491
+}

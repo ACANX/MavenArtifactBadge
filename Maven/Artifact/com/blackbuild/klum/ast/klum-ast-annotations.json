@@ -1,0 +1,17 @@
+{
+  "group_id": "com.blackbuild.klum.ast",
+  "artifact_id": "klum-ast-annotations",
+  "latest_version": "2.0.0-rc.60",
+  "description": "Annontations for Klum AST",
+  "id": "pkg:maven/com.blackbuild.klum.ast/klum-ast-annotations",
+  "ts": 1753737915000,
+  "dependency_count": 3,
+  "ref_count": 2,
+  "categories": [
+    "Developer Tools"
+  ],
+  "licenses": [
+    "MIT License (MIT)"
+  ],
+  "last_updated": 1753738367435
+}

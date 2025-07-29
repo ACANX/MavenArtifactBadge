@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.edc.edc-build-base",
+  "artifact_id": "org.eclipse.edc.edc-build-base.gradle.plugin",
+  "latest_version": "0.13.1",
+  "description": "edc :: edc-build",
+  "id": "pkg:maven/org.eclipse.edc.edc-build-base/org.eclipse.edc.edc-build-base.gradle.plugin",
+  "ts": 1753363119000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363624369
+}

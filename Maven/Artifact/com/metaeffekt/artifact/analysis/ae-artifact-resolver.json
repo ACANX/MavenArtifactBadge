@@ -1,0 +1,17 @@
+{
+  "group_id": "com.metaeffekt.artifact.analysis",
+  "artifact_id": "ae-artifact-resolver",
+  "latest_version": "0.144.1",
+  "description": "Support for artifact analysis",
+  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-artifact-resolver",
+  "ts": 1753650016000,
+  "dependency_count": 5,
+  "ref_count": 132,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753651018155
+}

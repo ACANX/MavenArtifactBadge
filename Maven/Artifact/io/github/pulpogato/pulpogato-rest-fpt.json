@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.pulpogato",
+  "artifact_id": "pulpogato-rest-fpt",
+  "latest_version": "0.14.0",
+  "description": "REST types for fpt",
+  "id": "pkg:maven/io.github.pulpogato/pulpogato-rest-fpt",
+  "ts": 1753509120000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753510017378
+}

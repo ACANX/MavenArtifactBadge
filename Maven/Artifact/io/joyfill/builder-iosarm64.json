@@ -1,0 +1,15 @@
+{
+  "group_id": "io.joyfill",
+  "artifact_id": "builder-iosarm64",
+  "latest_version": "2.0.0-Beta15",
+  "description": "A kotlin DSL to help in building a document programitcally",
+  "id": "pkg:maven/io.joyfill/builder-iosarm64",
+  "ts": 1753378415000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Joyfill License"
+  ],
+  "last_updated": 1753379137982
+}

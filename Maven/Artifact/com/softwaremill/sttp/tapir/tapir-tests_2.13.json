@@ -1,0 +1,17 @@
+{
+  "group_id": "com.softwaremill.sttp.tapir",
+  "artifact_id": "tapir-tests_2.13",
+  "latest_version": "1.11.39",
+  "description": "tapir-tests",
+  "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-tests_2.13",
+  "ts": 1753364945000,
+  "dependency_count": 13,
+  "ref_count": 49,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache 2.0"
+  ],
+  "last_updated": 1753366021997
+}

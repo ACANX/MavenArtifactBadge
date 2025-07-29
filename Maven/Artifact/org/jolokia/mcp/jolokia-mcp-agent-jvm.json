@@ -1,0 +1,15 @@
+{
+  "group_id": "org.jolokia.mcp",
+  "artifact_id": "jolokia-mcp-agent-jvm",
+  "latest_version": "0.4.1",
+  "description": "Jolokia MCP :: JVM :: Agent",
+  "id": "pkg:maven/org.jolokia.mcp/jolokia-mcp-agent-jvm",
+  "ts": 1753695440000,
+  "dependency_count": 0,
+  "ref_count": 166,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753696030768
+}

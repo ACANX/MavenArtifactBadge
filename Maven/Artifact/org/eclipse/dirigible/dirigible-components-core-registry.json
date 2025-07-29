@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-core-registry",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-core-registry",
-  "ts": 1753272414000,
+  "ts": 1753347840000,
   "dependency_count": 8,
-  "ref_count": 44,
+  "ref_count": 2,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273624233
+  "last_updated": 1753348629934
 }

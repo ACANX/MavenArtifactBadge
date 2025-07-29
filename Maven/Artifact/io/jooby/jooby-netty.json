@@ -1,0 +1,17 @@
+{
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-netty",
+  "latest_version": "4.0.2",
+  "description": "The modular web framework for Java and Kotlin",
+  "id": "pkg:maven/io.jooby/jooby-netty",
+  "ts": 1753653382000,
+  "dependency_count": 4,
+  "ref_count": 27,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753654019306
+}

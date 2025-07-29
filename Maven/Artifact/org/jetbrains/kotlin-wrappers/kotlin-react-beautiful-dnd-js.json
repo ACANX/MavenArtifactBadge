@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-react-beautiful-dnd-js",
+  "latest_version": "2025.7.13-13.1.1",
+  "description": "Kotlin wrapper for react-beautiful-dnd (rbd)",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-beautiful-dnd-js",
+  "ts": 1753424283151,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425634540
+}

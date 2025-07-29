@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/dev.zacsweers.metro/runtime-iosx64",
+  "group_id": "dev.zacsweers.metro",
+  "artifact_id": "runtime-iosx64",
+  "latest_version": "0.6.0-2.2.20-Beta1-alpha01",
+  "ts": 1753759737000,
+  "last_updated": 1753760220503,
+  "description": "A multiplatform, compile-time injection framework for Kotlin.",
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "dep_count": 3,
+  "ref_count": 0,
+  "categories": null
+}

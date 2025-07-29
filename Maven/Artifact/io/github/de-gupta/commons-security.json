@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.de-gupta",
+  "artifact_id": "commons-security",
+  "latest_version": "0.0.5",
+  "description": "A library for security",
+  "id": "pkg:maven/io.github.de-gupta/commons-security",
+  "ts": 1753444518000,
+  "dependency_count": 0,
+  "ref_count": 47,
+  "categories": null,
+  "licenses": [
+    "GPL-3.0 License"
+  ],
+  "last_updated": 1753445220420
+}

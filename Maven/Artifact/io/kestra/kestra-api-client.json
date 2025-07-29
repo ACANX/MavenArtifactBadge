@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kestra",
+  "artifact_id": "kestra-api-client",
+  "latest_version": "0.0.3",
+  "description": "io.kestra:kestra-api-client:0.0.3",
+  "id": "pkg:maven/io.kestra/kestra-api-client",
+  "ts": 1753722044000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753723021941
+}

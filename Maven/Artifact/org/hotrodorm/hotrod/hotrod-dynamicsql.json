@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hotrodorm.hotrod",
+  "artifact_id": "hotrod-dynamicsql",
+  "latest_version": "5.0.2",
+  "description": "HotRod is an ORM for Java, Spring and SpringBoot.",
+  "id": "pkg:maven/org.hotrodorm.hotrod/hotrod-dynamicsql",
+  "ts": 1753380279000,
+  "dependency_count": 5,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753381018056
+}

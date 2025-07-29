@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-linux-amd64",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-dist-native-linux-amd64",
   "id": "pkg:maven/com.lihaoyi/mill-dist-native-linux-amd64",
-  "ts": 1753282278000,
+  "ts": 1753700349000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283220246
+  "last_updated": 1753701428315
 }

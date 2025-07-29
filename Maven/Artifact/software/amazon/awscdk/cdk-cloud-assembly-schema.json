@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "cdk-cloud-assembly-schema",
+  "latest_version": "48.1.0",
+  "description": "Schema for the protocol between CDK framework and CDK CLI",
+  "id": "pkg:maven/software.amazon.awscdk/cdk-cloud-assembly-schema",
+  "ts": 1753336064000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753336616587
+}

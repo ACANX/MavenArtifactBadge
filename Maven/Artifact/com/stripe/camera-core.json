@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "camera-core",
+  "latest_version": "21.22.0",
+  "description": "The camera core module of Stripe Android SDK",
+  "id": "pkg:maven/com.stripe/camera-core",
+  "ts": 1753733603000,
+  "dependency_count": 2,
+  "ref_count": 12,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415635
+}

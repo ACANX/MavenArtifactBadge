@@ -1,0 +1,17 @@
+{
+  "group_id": "com.vmlens",
+  "artifact_id": "api",
+  "latest_version": "1.2.7",
+  "description": "api to control vmlens",
+  "id": "pkg:maven/com.vmlens/api",
+  "ts": 1753366455000,
+  "dependency_count": 10,
+  "ref_count": 3,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753367218404
+}

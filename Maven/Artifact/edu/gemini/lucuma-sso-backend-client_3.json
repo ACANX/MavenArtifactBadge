@@ -1,0 +1,17 @@
+{
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-sso-backend-client_3",
+  "latest_version": "0.9.1",
+  "description": "lucuma-sso-backend-client",
+  "id": "pkg:maven/edu.gemini/lucuma-sso-backend-client_3",
+  "ts": 1753467866000,
+  "dependency_count": 0,
+  "ref_count": 100,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753468119871
+}

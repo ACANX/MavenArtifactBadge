@@ -1,10 +1,10 @@
 {
   "group_id": "com.zaxxer",
   "artifact_id": "HikariCP",
-  "latest_version": "6.3.2",
+  "latest_version": "7.0.0",
   "description": "Ultimate JDBC Connection Pool",
   "id": "pkg:maven/com.zaxxer/HikariCP",
-  "ts": 1753288254000,
+  "ts": 1753724448000,
   "dependency_count": 0,
   "ref_count": 51,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753288573484
+  "last_updated": 1753725325987
 }

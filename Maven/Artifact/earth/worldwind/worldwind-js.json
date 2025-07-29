@@ -1,0 +1,17 @@
+{
+  "group_id": "earth.worldwind",
+  "artifact_id": "worldwind-js",
+  "latest_version": "1.8.0",
+  "description": "The WorldWind Kotlin SDK (WWK) includes the library, examples and tutorials for building multiplatform 3D virtual globe applications for Android, Web and Java.",
+  "id": "pkg:maven/earth.worldwind/worldwind-js",
+  "ts": 1753367571000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753369010563
+}

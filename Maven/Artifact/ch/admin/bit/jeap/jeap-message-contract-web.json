@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-message-contract-web",
+  "latest_version": "3.36.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-message-contract-web",
+  "ts": 1753453155000,
+  "dependency_count": 1,
+  "ref_count": 144,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548126
+}

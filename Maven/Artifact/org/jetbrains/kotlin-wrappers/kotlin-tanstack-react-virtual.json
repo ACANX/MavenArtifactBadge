@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-tanstack-react-virtual",
+  "latest_version": "2025.7.13-3.13.12",
+  "description": "Kotlin wrapper for Tanstack React Virtual",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-virtual",
+  "ts": 1753424384560,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425632635
+}

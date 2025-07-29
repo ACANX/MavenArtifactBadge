@@ -1,10 +1,10 @@
 {
   "group_id": "dev.kensa",
   "artifact_id": "kensa-framework-kotest",
-  "latest_version": "0.5.17",
+  "latest_version": "0.5.18",
   "description": "null",
   "id": "pkg:maven/dev.kensa/kensa-framework-kotest",
-  "ts": 1753282093000,
+  "ts": 1753719289000,
   "dependency_count": 0,
   "ref_count": 2,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753283220727
+  "last_updated": 1753720018643
 }

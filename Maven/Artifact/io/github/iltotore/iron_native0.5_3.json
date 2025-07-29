@@ -1,0 +1,17 @@
+{
+  "group_id": "io.github.iltotore",
+  "artifact_id": "iron_native0.5_3",
+  "latest_version": "3.0.3",
+  "description": "Strong type constraints for Scala",
+  "id": "pkg:maven/io.github.iltotore/iron_native0.5_3",
+  "ts": 1753691918000,
+  "dependency_count": 5,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753692420232
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-hibernate-validator",
+  "latest_version": "4.0.2",
+  "description": null,
+  "id": "pkg:maven/io.jooby/jooby-hibernate-validator",
+  "ts": 1753653382000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753654019948
+}

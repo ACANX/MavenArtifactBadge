@@ -1,0 +1,15 @@
+{
+  "group_id": "com.kazakago.swr.compose",
+  "artifact_id": "swr-iossimulatorarm64",
+  "latest_version": "0.7.2",
+  "description": "\"React SWR\" ported for Jetpack Compose & Compose Multiplatform",
+  "id": "pkg:maven/com.kazakago.swr.compose/swr-iossimulatorarm64",
+  "ts": 1753596753000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753597621036
+}

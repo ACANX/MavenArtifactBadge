@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.binarywang",
+  "artifact_id": "wx-java-channel-multi-spring-boot-starter",
+  "latest_version": "4.7.7-20250725.114118",
+  "description": "微信视频号开发的 Spring Boot Starter::支持多账号配置",
+  "id": "pkg:maven/com.github.binarywang/wx-java-channel-multi-spring-boot-starter",
+  "ts": 1753415063000,
+  "dependency_count": 0,
+  "ref_count": 91,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753415817247
+}

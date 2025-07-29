@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.themsp",
+  "artifact_id": "mobilefuse-adapter",
+  "latest_version": "2.3.0",
+  "description": "Adapt MobileFuse SDK to MSP Android SDK to support MobileFuse Ads",
+  "id": "pkg:maven/ai.themsp/mobilefuse-adapter",
+  "ts": 1753485452000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753486017234
+}

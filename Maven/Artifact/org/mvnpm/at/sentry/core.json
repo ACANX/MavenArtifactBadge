@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.sentry",
+  "artifact_id": "core",
+  "latest_version": "9.42.1",
+  "description": "Base implementation for all Sentry JavaScript SDKs",
+  "id": "pkg:maven/org.mvnpm.at.sentry/core",
+  "ts": 1753706349000,
+  "dependency_count": 2,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753706820443
+}

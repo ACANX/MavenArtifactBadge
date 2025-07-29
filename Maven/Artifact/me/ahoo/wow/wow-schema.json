@@ -1,15 +1,15 @@
 {
   "group_id": "me.ahoo.wow",
   "artifact_id": "wow-schema",
-  "latest_version": "5.25.9",
+  "latest_version": "5.26.8",
   "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
   "id": "pkg:maven/me.ahoo.wow/wow-schema",
-  "ts": 1753263827000,
+  "ts": 1753753219000,
   "dependency_count": 4,
   "ref_count": 45,
   "categories": null,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753265220008
+  "last_updated": 1753754221555
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "org.eclipse.edc.openapi-merger",
+  "artifact_id": "org.eclipse.edc.openapi-merger.gradle.plugin",
+  "latest_version": "0.13.1",
+  "description": "edc :: openapi-merger",
+  "id": "pkg:maven/org.eclipse.edc.openapi-merger/org.eclipse.edc.openapi-merger.gradle.plugin",
+  "ts": 1753363119000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363624369
+}

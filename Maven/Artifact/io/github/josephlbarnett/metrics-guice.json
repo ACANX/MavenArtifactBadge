@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.josephlbarnett",
+  "artifact_id": "metrics-guice",
+  "latest_version": "3.3.815",
+  "description": "Libraries for building kotlin services",
+  "id": "pkg:maven/io.github.josephlbarnett/metrics-guice",
+  "ts": 1753672640000,
+  "dependency_count": 2,
+  "ref_count": 29,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753673223845
+}

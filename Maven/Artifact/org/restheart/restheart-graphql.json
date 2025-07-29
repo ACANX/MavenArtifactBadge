@@ -1,10 +1,10 @@
 {
   "group_id": "org.restheart",
   "artifact_id": "restheart-graphql",
-  "latest_version": "8.6.0",
+  "latest_version": "8.6.1",
   "description": "RESTHeart MongoDB - GraphQL plugin",
   "id": "pkg:maven/org.restheart/restheart-graphql",
-  "ts": 1753261107000,
+  "ts": 1753696748000,
   "dependency_count": 0,
   "ref_count": 31,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "GNU Affero General Public License (AGPL) version 3.0"
   ],
-  "last_updated": 1753261617385
+  "last_updated": 1753697220914
 }

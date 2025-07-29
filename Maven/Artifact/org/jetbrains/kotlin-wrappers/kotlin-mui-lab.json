@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-mui-lab",
+  "latest_version": "2025.7.13-5.0.0-alpha.176",
+  "description": "Kotlin wrapper for MUI Lab",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-lab",
+  "ts": 1753424216760,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425416520
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.metaeffekt.artifact.analysis",
+  "artifact_id": "ae-modules-pom",
+  "latest_version": "0.144.1",
+  "description": "Support for artifact analysis",
+  "id": "pkg:maven/com.metaeffekt.artifact.analysis/ae-modules-pom",
+  "ts": 1753650016000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753651018158
+}

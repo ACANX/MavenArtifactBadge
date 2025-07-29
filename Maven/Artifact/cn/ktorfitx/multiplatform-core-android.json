@@ -1,0 +1,15 @@
+{
+  "group_id": "cn.ktorfitx",
+  "artifact_id": "multiplatform-core-android",
+  "latest_version": "3.2.2-3.0.2",
+  "description": "Ktorfitx 基于 KSP2 的代码生成框架，在 Kotlin Multiplatform 中是 RESTful API 框架，在 Ktor Server 中是 路由以及参数解析框架",
+  "id": "pkg:maven/cn.ktorfitx/multiplatform-core-android",
+  "ts": 1753427623000,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753428422154
+}

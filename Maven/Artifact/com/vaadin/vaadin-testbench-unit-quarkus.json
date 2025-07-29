@@ -1,0 +1,17 @@
+{
+  "group_id": "com.vaadin",
+  "artifact_id": "vaadin-testbench-unit-quarkus",
+  "latest_version": "9.4.2",
+  "description": "Vaadin Testbench UI Unit Tests for Quarkus",
+  "id": "pkg:maven/com.vaadin/vaadin-testbench-unit-quarkus",
+  "ts": 1753359157000,
+  "dependency_count": 0,
+  "ref_count": 33,
+  "categories": [
+    "Application Product Development Platform"
+  ],
+  "licenses": [
+    "Vaadin Commercial License and Service Terms"
+  ],
+  "last_updated": 1753360019332
+}

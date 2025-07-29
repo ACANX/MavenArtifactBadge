@@ -1,0 +1,17 @@
+{
+  "group_id": "app.cash.wisp",
+  "artifact_id": "wisp-lease",
+  "latest_version": "2025.07.28.173311-f514123",
+  "description": "a module containing lease related code",
+  "id": "pkg:maven/app.cash.wisp/wisp-lease",
+  "ts": 1753725384000,
+  "dependency_count": 8,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753726621873
+}

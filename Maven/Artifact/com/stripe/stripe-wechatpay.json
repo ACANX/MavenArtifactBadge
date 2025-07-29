@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "stripe-wechatpay",
+  "latest_version": "21.22.0",
+  "description": "The WeChat Pay module of Stripe Android Payments SDK",
+  "id": "pkg:maven/com.stripe/stripe-wechatpay",
+  "ts": 1753733603000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415638
+}

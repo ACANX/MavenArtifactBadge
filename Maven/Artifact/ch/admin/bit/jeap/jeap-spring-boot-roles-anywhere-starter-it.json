@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-spring-boot-roles-anywhere-starter-it",
+  "latest_version": "1.0.0",
+  "description": "Integration Tests for the jeap-spring-boot-roles-anywhere-starter",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-spring-boot-roles-anywhere-starter-it",
+  "ts": 1753349672000,
+  "dependency_count": 0,
+  "ref_count": 46,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753350418625
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-security-crypto",
+  "latest_version": "0.0.13",
+  "description": "Cryptographic utilities and security functions using Spring Security and BouncyCastle.\nProvides encryption/decryption, hashing, digital signatures, and secure random number generation.",
+  "id": "pkg:maven/io.github.truenine/composeserver-security-crypto",
+  "ts": 1753721304000,
+  "dependency_count": 4,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "last_updated": 1753721818505
+}

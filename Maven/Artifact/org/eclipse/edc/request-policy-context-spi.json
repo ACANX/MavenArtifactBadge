@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "request-policy-context-spi",
+  "latest_version": "0.13.1",
+  "description": "edc :: request-policy-context-spi",
+  "id": "pkg:maven/org.eclipse.edc/request-policy-context-spi",
+  "ts": 1753436148000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436819415
+}

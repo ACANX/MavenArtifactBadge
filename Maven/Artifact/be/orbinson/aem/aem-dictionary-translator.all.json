@@ -1,0 +1,15 @@
+{
+  "group_id": "be.orbinson.aem",
+  "artifact_id": "aem-dictionary-translator.all",
+  "latest_version": "1.6.0",
+  "description": "All package for the Dictionary Translator",
+  "id": "pkg:maven/be.orbinson.aem/aem-dictionary-translator.all",
+  "ts": 1753532016000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753532821479
+}

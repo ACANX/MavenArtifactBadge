@@ -39,7 +39,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     group_id = data.get("group_id", "")
     artifact_id = data.get("artifact_id", "")
     latest_version = data.get("latest_version", "N/A")
-    dependency_count = data.get("dependency_count", 0)
+    dep_count = data.get("dep_count", 0)
     ref_count = data.get("ref_count", 0)
     
     # 安全处理分类数据
@@ -83,7 +83,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     <text x="0" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold">最新版本:</text>
     <text x="110" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
     <text x="0" y="100" font-family="Arial" font-size="18" fill="white" font-weight="bold">依赖数: </text>
-    <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
+    <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dep_count}</tspan></text>
     <text x="0" y="130" font-family="Arial" font-size="18" fill="white" font-weight="bold">引用量: </text>  
     <text x="110" y="130" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
     <text x="0" y="160" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
@@ -129,17 +129,18 @@ def create_maven_artifact_json_file(data: dict):
     
     # 准备要保存的数据（排除不需要的字段）
     save_data = {
+        "id": data.get("id", ""),
+        "description": data.get("description", ""),
         "group_id": group_id,
         "artifact_id": artifact_id,
-        "latest_version": data.get("latest_version", "N/A"),
-        "description": data.get("description", ""),
-        "id": data.get("id", ""),
-        "ts": data.get("ts", 0),
-        "dependency_count": data.get("dependency_count", 0),
-        "ref_count": data.get("ref_count", 0),
-        "categories": data.get("categories", []),
+        "version_latest": data.get("latest_version", "N/A"),
+        "ts_publish": data.get("ts", 0),
+        "ts_update": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
+        "count_dep": data.get("dep_count", 0),
+        "count_ref": data.get("ref_count", 0),
         "licenses": data.get("licenses", []),
-        "last_updated": int(time.time() * 1000)  # 添加当前时间戳作为最后更新时间
+        "categories": data.get("categories", []),
+        "dsv": 1
     }
     try:
         # 写入JSON文件
@@ -186,15 +187,15 @@ def fetch_maven_components_page(page: int) -> List[Dict[str, Any]]:
 def parse_component_data(component: Dict[str, Any]) -> Dict[str, Any]:
     """解析单个构件元数据"""
     return {
+        "id": component.get("id", ""),
         "group_id": component.get("namespace", ""),
         "artifact_id": component.get("name", ""),
         "latest_version": component.get("latestVersionInfo", {}).get("version", "N/A"),
         "ts": component.get("latestVersionInfo", {}).get("timestampUnixWithMS", int(time.time() * 1000-300*1000)),
-        "dependency_count": component.get("dependencyOfCount", 0),
-        "ref_count": component.get("dependentOnCount", 0),
         "description": component.get("description", ""),
-        "id": component.get("id", ""),
         "licenses": component.get("latestVersionInfo", {}).get("licenses", []),
+        "dep_count": component.get("dependentOnCount", 0),
+        "ref_count": component.get("dependencyOfCount", 0),
         "categories": component.get("categories", [])
     }
 
@@ -236,7 +237,7 @@ def generate_badges_for_components():
                 print(f"   Group ID: {data['group_id']}")
                 print(f"   Artifact ID: {data['artifact_id']}")
                 print(f"   最新版本: {data['latest_version']}")
-                print(f"   依赖数量: {data['dependency_count']}")
+                print(f"   依赖数量: {data['dep_count']}")
                 print(f"   被引用量: {data['ref_count']}")
                 if data['categories']:
                     categories_str = ", ".join(data['categories'])

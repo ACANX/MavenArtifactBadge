@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.themsp",
+  "artifact_id": "moloco-adapter",
+  "latest_version": "2.3.0",
+  "description": "Adapt Moloco SDK to MSP Android SDK to support Moloco Ads",
+  "id": "pkg:maven/ai.themsp/moloco-adapter",
+  "ts": 1753485488000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753486017234
+}

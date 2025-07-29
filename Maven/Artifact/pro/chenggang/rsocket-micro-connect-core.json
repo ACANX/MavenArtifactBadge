@@ -1,0 +1,17 @@
+{
+  "group_id": "pro.chenggang",
+  "artifact_id": "rsocket-micro-connect-core",
+  "latest_version": "0.2.4.RELEASE",
+  "description": "RSocket Micro Connect Core",
+  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect-core",
+  "ts": 1753450194000,
+  "dependency_count": 3,
+  "ref_count": 37,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753450616393
+}

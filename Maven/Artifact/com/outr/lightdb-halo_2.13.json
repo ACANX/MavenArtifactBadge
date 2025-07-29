@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-halo_2.13",
+  "latest_version": "4.0.5",
+  "description": "lightdb-halo",
+  "id": "pkg:maven/com.outr/lightdb-halo_2.13",
+  "ts": 1753562786000,
+  "dependency_count": 1,
+  "ref_count": 35,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419705
+}

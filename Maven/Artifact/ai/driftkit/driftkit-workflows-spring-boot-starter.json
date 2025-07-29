@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.driftkit",
+  "artifact_id": "driftkit-workflows-spring-boot-starter",
+  "latest_version": "0.5.3",
+  "description": "Spring Boot auto-configuration for DriftKit Workflows",
+  "id": "pkg:maven/ai.driftkit/driftkit-workflows-spring-boot-starter",
+  "ts": 1753734146000,
+  "dependency_count": 3,
+  "ref_count": 109,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753735019947
+}

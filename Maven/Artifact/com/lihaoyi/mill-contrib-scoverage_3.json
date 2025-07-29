@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scoverage_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-contrib-scoverage",
   "id": "pkg:maven/com.lihaoyi/mill-contrib-scoverage_3",
-  "ts": 1753282241000,
+  "ts": 1753700308000,
   "dependency_count": 0,
   "ref_count": 9,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283220251
+  "last_updated": 1753701428857
 }

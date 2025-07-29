@@ -1,10 +1,10 @@
 {
   "group_id": "com.gu",
   "artifact_id": "logic-signals_3",
-  "latest_version": "1.0.3",
+  "latest_version": "2.0.0",
   "description": "logic-signals",
   "id": "pkg:maven/com.gu/logic-signals_3",
-  "ts": 1753301831000,
+  "ts": 1753743996000,
   "dependency_count": 0,
   "ref_count": 35,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753302419818
+  "last_updated": 1753745818964
 }

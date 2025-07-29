@@ -1,0 +1,15 @@
+{
+  "group_id": "org.ossreviewtoolkit.clients",
+  "artifact_id": "oss-index-client",
+  "latest_version": "64.0.0",
+  "description": "A client to communicate with the Sonatype OSS Index API.",
+  "id": "pkg:maven/org.ossreviewtoolkit.clients/oss-index-client",
+  "ts": 1753341712000,
+  "dependency_count": 0,
+  "ref_count": 16,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753342200291
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-backgroundwrapper",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-javalib-backgroundwrapper",
   "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-backgroundwrapper",
-  "ts": 1753282358000,
+  "ts": 1753700414000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219763
+  "last_updated": 1753701428309
 }

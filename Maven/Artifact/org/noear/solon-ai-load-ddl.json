@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "solon-ai-load-ddl",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/solon-ai-load-ddl",
-  "ts": 1753256105000,
+  "ts": 1753693116000,
   "dependency_count": 0,
   "ref_count": 6,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256821635
+  "last_updated": 1753693619983
 }

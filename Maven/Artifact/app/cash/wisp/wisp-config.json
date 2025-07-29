@@ -1,0 +1,17 @@
+{
+  "group_id": "app.cash.wisp",
+  "artifact_id": "wisp-config",
+  "latest_version": "2025.07.28.173311-f514123",
+  "description": "a module containing config helpers",
+  "id": "pkg:maven/app.cash.wisp/wisp-config",
+  "ts": 1753725384000,
+  "dependency_count": 28,
+  "ref_count": 13,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753726621872
+}

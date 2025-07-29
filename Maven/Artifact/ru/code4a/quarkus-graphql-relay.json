@@ -1,0 +1,15 @@
+{
+  "group_id": "ru.code4a",
+  "artifact_id": "quarkus-graphql-relay",
+  "latest_version": "0.10.0",
+  "description": "A comprehensive library for implementing the Relay GraphQL specification in Quarkus applications. \n  It provides secure node identification, cursor-based pagination, connection pattern implementation, \n  and seamless integration with JPA/Hibernate for building Relay-compliant GraphQL APIs.",
+  "id": "pkg:maven/ru.code4a/quarkus-graphql-relay",
+  "ts": 1753747652000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753748284658
+}

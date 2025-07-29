@@ -1,0 +1,17 @@
+{
+  "group_id": "io.avaje",
+  "artifact_id": "avaje-inject-events",
+  "latest_version": "11.6-javax",
+  "description": "avaje-inject events plugins for event publishing/consuming",
+  "id": "pkg:maven/io.avaje/avaje-inject-events",
+  "ts": 1753392011000,
+  "dependency_count": 4,
+  "ref_count": 10,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753392416084
+}

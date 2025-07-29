@@ -1,0 +1,17 @@
+{
+  "group_id": "org.teasoft",
+  "artifact_id": "bee-spring-boot-starter",
+  "latest_version": "2.5.2.boot2.7.16",
+  "description": "bee-spring-boot-starter",
+  "id": "pkg:maven/org.teasoft/bee-spring-boot-starter",
+  "ts": 1753719496000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753720018640
+}

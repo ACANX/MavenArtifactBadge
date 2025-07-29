@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-datasource-template",
+  "latest_version": "1.7.0-beta1",
+  "description": "snail-datasource-template",
+  "id": "pkg:maven/com.aizuda/snail-job-datasource-template",
+  "ts": 1753716798000,
+  "dependency_count": 14,
+  "ref_count": 83,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753717623440
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "pl.metaprogramming",
+  "artifact_id": "codegen-maven-plugin",
+  "latest_version": "2.2.0",
+  "description": "Java code generator framework",
+  "id": "pkg:maven/pl.metaprogramming/codegen-maven-plugin",
+  "ts": 1753478711000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753479417489
+}

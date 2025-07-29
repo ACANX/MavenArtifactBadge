@@ -1,0 +1,15 @@
+{
+  "group_id": "io.joyfill",
+  "artifact_id": "api-iossimulatorarm64",
+  "latest_version": "2.0.0-Beta15",
+  "description": "The kotlin api to help communicate with the joyfill api",
+  "id": "pkg:maven/io.joyfill/api-iossimulatorarm64",
+  "ts": 1753378415000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "Joyfill License"
+  ],
+  "last_updated": 1753379138517
+}

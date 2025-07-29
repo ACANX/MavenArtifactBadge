@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-analytics-mapping-http-api",
-  "latest_version": "4.91.0",
+  "latest_version": "4.93.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-mapping-http-api",
-  "ts": 1753280049000,
+  "ts": 1753389040000,
   "dependency_count": 0,
   "ref_count": 25,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280816648
+  "last_updated": 1753390022846
 }

@@ -1,17 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-mongodb-jdbc",
-  "latest_version": "12.2.0",
-  "description": "Core modules packaged with Dirigible",
+  "latest_version": "12.2.1",
+  "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-mongodb-jdbc",
-  "ts": 1753272414000,
+  "ts": 1753347841000,
   "dependency_count": 2,
-  "ref_count": 65,
+  "ref_count": 64,
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [
-    "Eclipse Public License - v 2.0"
-  ],
-  "last_updated": 1753273623065
+  "licenses": [],
+  "last_updated": 1753348626629
 }

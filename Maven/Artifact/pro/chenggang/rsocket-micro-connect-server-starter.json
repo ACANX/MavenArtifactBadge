@@ -1,0 +1,17 @@
+{
+  "group_id": "pro.chenggang",
+  "artifact_id": "rsocket-micro-connect-server-starter",
+  "latest_version": "0.2.4.RELEASE",
+  "description": "RSocket Micro Connect Server Starter",
+  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect-server-starter",
+  "ts": 1753450194000,
+  "dependency_count": 0,
+  "ref_count": 83,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753450616394
+}

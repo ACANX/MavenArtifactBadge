@@ -1,11 +1,11 @@
 {
   "group_id": "org.xwiki.commons",
   "artifact_id": "xwiki-commons-context",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "XWiki Commons - Context",
   "id": "pkg:maven/org.xwiki.commons/xwiki-commons-context",
-  "ts": 1753251707000,
-  "dependency_count": 18,
+  "ts": 1753693384000,
+  "dependency_count": 22,
   "ref_count": 8,
   "categories": [
     "Documentation"
@@ -13,5 +13,5 @@
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753252623151
+  "last_updated": 1753694223876
 }

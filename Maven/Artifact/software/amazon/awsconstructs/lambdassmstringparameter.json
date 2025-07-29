@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awsconstructs",
+  "artifact_id": "lambdassmstringparameter",
+  "latest_version": "2.89.0",
+  "description": "CDK constructs for defining an interaction between an AWS Lambda function and AWS Systems Manager Parameter Store String parameter",
+  "id": "pkg:maven/software.amazon.awsconstructs/lambdassmstringparameter",
+  "ts": 1753738428000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753739196282
+}

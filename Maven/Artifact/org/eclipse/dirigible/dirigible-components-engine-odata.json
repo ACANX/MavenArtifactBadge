@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-engine-odata",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-odata",
-  "ts": 1753272414000,
+  "ts": 1753347841000,
   "dependency_count": 1,
   "ref_count": 53,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273621825
+  "last_updated": 1753348626627
 }

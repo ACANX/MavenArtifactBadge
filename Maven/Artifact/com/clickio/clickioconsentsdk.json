@@ -1,0 +1,15 @@
+{
+  "group_id": "com.clickio",
+  "artifact_id": "clickioconsentsdk",
+  "latest_version": "1.0.0-rc11",
+  "description": "A library for managing consent by Clickio",
+  "id": "pkg:maven/com.clickio/clickioconsentsdk",
+  "ts": 1753436729000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "The MIT License"
+  ],
+  "last_updated": 1753437092626
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eolang",
+  "artifact_id": "eo-parser",
+  "latest_version": "0.57.3",
+  "description": "EO-to-XML Parser",
+  "id": "pkg:maven/org.eolang/eo-parser",
+  "ts": 1753609117000,
+  "dependency_count": 1,
+  "ref_count": 43,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753609620175
+}

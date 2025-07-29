@@ -1,10 +1,10 @@
 {
   "group_id": "io.github.pityka",
   "artifact_id": "tasks-kubernetes_2.13",
-  "latest_version": "4.0.0-M9",
+  "latest_version": "4.0.0-M11",
   "description": "tasks-kubernetes",
   "id": "pkg:maven/io.github.pityka/tasks-kubernetes_2.13",
-  "ts": 1753307657000,
+  "ts": 1753622289000,
   "dependency_count": 0,
   "ref_count": 87,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753308421681
+  "last_updated": 1753622815640
 }

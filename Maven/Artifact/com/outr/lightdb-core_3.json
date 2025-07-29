@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-core_3",
+  "latest_version": "4.0.5",
+  "description": "lightdb-core",
+  "id": "pkg:maven/com.outr/lightdb-core_3",
+  "ts": 1753562786000,
+  "dependency_count": 13,
+  "ref_count": 32,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419706
+}

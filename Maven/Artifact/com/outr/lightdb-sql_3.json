@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-sql_3",
+  "latest_version": "4.0.5",
+  "description": "lightdb-sql",
+  "id": "pkg:maven/com.outr/lightdb-sql_3",
+  "ts": 1753562786000,
+  "dependency_count": 5,
+  "ref_count": 36,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419077
+}

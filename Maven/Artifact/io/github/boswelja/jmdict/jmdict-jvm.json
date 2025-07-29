@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.boswelja.jmdict",
+  "artifact_id": "jmdict-jvm",
+  "latest_version": "2025.07.27-dev",
+  "description": "Pre-packaged Japanese-Multilingual dictionary for all your Kotlin Multiplatform needs!",
+  "id": "pkg:maven/io.github.boswelja.jmdict/jmdict-jvm",
+  "ts": 1753590203000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "CC-BY-SA-4.0"
+  ],
+  "last_updated": 1753591017418
+}

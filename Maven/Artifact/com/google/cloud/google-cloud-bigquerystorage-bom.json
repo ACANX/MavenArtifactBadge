@@ -1,0 +1,17 @@
+{
+  "group_id": "com.google.cloud",
+  "artifact_id": "google-cloud-bigquerystorage-bom",
+  "latest_version": "3.16.1",
+  "description": "BOM for BigQuery Storage",
+  "id": "pkg:maven/com.google.cloud/google-cloud-bigquerystorage-bom",
+  "ts": 1753745270000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Cloud Computing"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753745818962
+}

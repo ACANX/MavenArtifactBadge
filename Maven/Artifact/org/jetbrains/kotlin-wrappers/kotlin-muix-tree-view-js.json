@@ -1,0 +1,17 @@
+{
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-muix-tree-view-js",
+  "latest_version": "2025.7.13-7.28.0",
+  "description": "Kotlin wrapper for MUI X Tree View",
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-muix-tree-view-js",
+  "ts": 1753424257046,
+  "dependency_count": 1,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753425415872
+}

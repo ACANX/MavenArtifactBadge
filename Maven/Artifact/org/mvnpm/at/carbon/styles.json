@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.carbon",
+  "artifact_id": "styles",
+  "latest_version": "1.86.1",
+  "description": "Styles for the Carbon Design System",
+  "id": "pkg:maven/org.mvnpm.at.carbon/styles",
+  "ts": 1753388474000,
+  "dependency_count": 0,
+  "ref_count": 27,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753388824464
+}

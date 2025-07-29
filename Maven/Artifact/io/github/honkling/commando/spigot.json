@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.honkling.commando",
+  "artifact_id": "spigot",
+  "latest_version": "3.0.2",
+  "description": "A magic Kotlin command framework.",
+  "id": "pkg:maven/io.github.honkling.commando/spigot",
+  "ts": 1753425626000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753426021256
+}

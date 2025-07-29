@@ -1,0 +1,15 @@
+{
+  "group_id": "com.webull.openapi",
+  "artifact_id": "webull-java-sdk-example",
+  "latest_version": "0.2.13",
+  "description": "Webull OpenAPI Java SDK",
+  "id": "pkg:maven/com.webull.openapi/webull-java-sdk-example",
+  "ts": 1753695054000,
+  "dependency_count": 0,
+  "ref_count": 72,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753695423541
+}

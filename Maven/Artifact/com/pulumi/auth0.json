@@ -1,0 +1,17 @@
+{
+  "group_id": "com.pulumi",
+  "artifact_id": "auth0",
+  "latest_version": "3.23.1",
+  "description": "A Pulumi package for creating and managing auth0 cloud resources.",
+  "id": "pkg:maven/com.pulumi/auth0",
+  "ts": 1753478762000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753479417487
+}

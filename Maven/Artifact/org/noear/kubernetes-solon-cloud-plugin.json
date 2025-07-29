@@ -1,10 +1,10 @@
 {
   "group_id": "org.noear",
   "artifact_id": "kubernetes-solon-cloud-plugin",
-  "latest_version": "3.4.1-M3",
+  "latest_version": "3.4.2",
   "description": "Java project for solon",
   "id": "pkg:maven/org.noear/kubernetes-solon-cloud-plugin",
-  "ts": 1753256237000,
+  "ts": 1753693264000,
   "dependency_count": 0,
   "ref_count": 36,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256819364
+  "last_updated": 1753694225092
 }

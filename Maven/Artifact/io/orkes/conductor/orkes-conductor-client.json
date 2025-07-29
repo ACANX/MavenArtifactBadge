@@ -1,0 +1,15 @@
+{
+  "group_id": "io.orkes.conductor",
+  "artifact_id": "orkes-conductor-client",
+  "latest_version": "4.0.12",
+  "description": "Orkes Conductor client (http)",
+  "id": "pkg:maven/io.orkes.conductor/orkes-conductor-client",
+  "ts": 1753439581000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753439818337
+}

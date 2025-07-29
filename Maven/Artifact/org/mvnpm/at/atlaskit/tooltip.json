@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.atlaskit",
+  "artifact_id": "tooltip",
+  "latest_version": "20.3.3",
+  "description": "A tooltip is a floating, non-actionable label used to explain a user interface element or feature.",
+  "id": "pkg:maven/org.mvnpm.at.atlaskit/tooltip",
+  "ts": 1753345635000,
+  "dependency_count": 0,
+  "ref_count": 35,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753346818760
+}

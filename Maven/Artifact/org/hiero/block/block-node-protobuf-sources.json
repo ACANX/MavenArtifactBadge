@@ -1,0 +1,15 @@
+{
+  "group_id": "org.hiero.block",
+  "artifact_id": "block-node-protobuf-sources",
+  "latest_version": "0.15.0-rc1",
+  "description": "Hiero Block Node Protobuf Sources",
+  "id": "pkg:maven/org.hiero.block/block-node-protobuf-sources",
+  "ts": 1753394609000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753394818061
+}

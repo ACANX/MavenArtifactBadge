@@ -1,0 +1,17 @@
+{
+  "group_id": "pl.metaprogramming",
+  "artifact_id": "codegen-gradle-plugin",
+  "latest_version": "2.2.0",
+  "description": "Java code generator framework - Gradle plugin",
+  "id": "pkg:maven/pl.metaprogramming/codegen-gradle-plugin",
+  "ts": 1753478711000,
+  "dependency_count": 1,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753479417489
+}

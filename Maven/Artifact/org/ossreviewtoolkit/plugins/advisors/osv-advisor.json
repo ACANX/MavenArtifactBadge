@@ -1,0 +1,15 @@
+{
+  "group_id": "org.ossreviewtoolkit.plugins.advisors",
+  "artifact_id": "osv-advisor",
+  "latest_version": "64.0.0",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
+  "id": "pkg:maven/org.ossreviewtoolkit.plugins.advisors/osv-advisor",
+  "ts": 1753341711000,
+  "dependency_count": 2,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753342200293
+}

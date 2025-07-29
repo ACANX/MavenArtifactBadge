@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "integration-tests",
+  "latest_version": "4.0.5.4",
+  "description": "Parent for Kafka on Pulsar implemented using Pulsar Protocol Handler.",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/integration-tests",
+  "ts": 1753464133000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419447
+}

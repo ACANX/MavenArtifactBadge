@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.sandydunlop",
+  "artifact_id": "markista",
+  "latest_version": "0.1.5",
+  "description": "Markdown Doclet",
+  "id": "pkg:maven/io.github.sandydunlop/markista",
+  "ts": 1753550303000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GPLv3"
+  ],
+  "last_updated": 1753550531374
+}

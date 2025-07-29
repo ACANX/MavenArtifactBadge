@@ -1,0 +1,15 @@
+{
+  "group_id": "com.astrapay",
+  "artifact_id": "android-sdk",
+  "latest_version": "3.2.9",
+  "description": "AstraPay Android SDK",
+  "id": "pkg:maven/com.astrapay/android-sdk",
+  "ts": 1753685009000,
+  "dependency_count": 0,
+  "ref_count": 45,
+  "categories": null,
+  "licenses": [
+    "Apache License"
+  ],
+  "last_updated": 1753687022393
+}

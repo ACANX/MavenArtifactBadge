@@ -1,0 +1,17 @@
+{
+  "group_id": "com.bakdata.kafka",
+  "artifact_id": "streams-bootstrap-cli",
+  "latest_version": "5.1.1",
+  "description": "Base classes to create standalone Java applications using picocli",
+  "id": "pkg:maven/com.bakdata.kafka/streams-bootstrap-cli",
+  "ts": 1753437785000,
+  "dependency_count": 1,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753438622495
+}

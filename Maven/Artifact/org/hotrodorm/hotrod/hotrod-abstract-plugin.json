@@ -1,0 +1,17 @@
+{
+  "group_id": "org.hotrodorm.hotrod",
+  "artifact_id": "hotrod-abstract-plugin",
+  "latest_version": "5.0.2",
+  "description": "HotRod is an ORM for Java, Spring and SpringBoot.",
+  "id": "pkg:maven/org.hotrodorm.hotrod/hotrod-abstract-plugin",
+  "ts": 1753380279000,
+  "dependency_count": 2,
+  "ref_count": 20,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753381018054
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "org.hibernate.orm",
   "artifact_id": "hibernate-graalvm",
-  "latest_version": "7.0.7.Final",
+  "latest_version": "7.0.8.Final",
   "description": "Experimental extension to make it easier to compile applications into a GraalVM native image",
   "id": "pkg:maven/org.hibernate.orm/hibernate-graalvm",
-  "ts": 1753254853000,
+  "ts": 1753575585000,
   "dependency_count": 0,
   "ref_count": 1,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753255259545
+  "last_updated": 1753576020380
 }

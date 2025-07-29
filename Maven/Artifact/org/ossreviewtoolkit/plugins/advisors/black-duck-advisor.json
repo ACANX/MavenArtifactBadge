@@ -1,0 +1,15 @@
+{
+  "group_id": "org.ossreviewtoolkit.plugins.advisors",
+  "artifact_id": "black-duck-advisor",
+  "latest_version": "64.0.0",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
+  "id": "pkg:maven/org.ossreviewtoolkit.plugins.advisors/black-duck-advisor",
+  "ts": 1753341712000,
+  "dependency_count": 2,
+  "ref_count": 9,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753342199711
+}

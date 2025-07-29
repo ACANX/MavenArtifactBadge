@@ -1,10 +1,10 @@
 {
   "group_id": "com.yahoo.vespa",
   "artifact_id": "http-client",
-  "latest_version": "8.554.5",
+  "latest_version": "8.555.25",
   "description": "HTTP client wrapper around an Apache http client 5",
   "id": "pkg:maven/com.yahoo.vespa/http-client",
-  "ts": 1753270680000,
+  "ts": 1753716542000,
   "dependency_count": 3,
   "ref_count": 19,
   "categories": [
@@ -14,5 +14,5 @@
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753271201021
+  "last_updated": 1753717020533
 }

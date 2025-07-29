@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-server-interface",
+  "latest_version": "1.7.0-beta1",
+  "description": "snail-job-server-interface",
+  "id": "pkg:maven/com.aizuda/snail-job-server-interface",
+  "ts": 1753716798000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753717622898
+}

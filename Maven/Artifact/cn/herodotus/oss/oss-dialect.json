@@ -1,0 +1,15 @@
+{
+  "group_id": "cn.herodotus.oss",
+  "artifact_id": "oss-dialect",
+  "latest_version": "3.5.4.0",
+  "description": "Dante Cloud 生态产品 Dante OSS Dependencies Bom",
+  "id": "pkg:maven/cn.herodotus.oss/oss-dialect",
+  "ts": 1753371695000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753372359450
+}

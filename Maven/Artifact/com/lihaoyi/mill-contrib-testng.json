@@ -1,10 +1,10 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-testng",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-contrib-testng",
   "id": "pkg:maven/com.lihaoyi/mill-contrib-testng",
-  "ts": 1753282243000,
+  "ts": 1753700311000,
   "dependency_count": 0,
   "ref_count": 10,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283220250
+  "last_updated": 1753701428856
 }

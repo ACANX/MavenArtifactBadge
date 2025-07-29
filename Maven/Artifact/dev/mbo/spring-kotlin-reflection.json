@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.mbo",
+  "artifact_id": "spring-kotlin-reflection",
+  "latest_version": "2025.7.6",
+  "description": "Reflection library for Kotlin with Spring Boot",
+  "id": "pkg:maven/dev.mbo/spring-kotlin-reflection",
+  "ts": 1753650248000,
+  "dependency_count": 0,
+  "ref_count": 22,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753651017695
+}

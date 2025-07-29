@@ -1,0 +1,17 @@
+{
+  "group_id": "org.scalamolecule",
+  "artifact_id": "molecule-base_3",
+  "latest_version": "0.24.2",
+  "description": "molecule",
+  "id": "pkg:maven/org.scalamolecule/molecule-base_3",
+  "ts": 1753709707000,
+  "dependency_count": 8,
+  "ref_count": 2,
+  "categories": [
+    "Other"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753710420688
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "de.crazydev22.slimjar",
+  "artifact_id": "de.crazydev22.slimjar.gradle.plugin",
+  "latest_version": "2.1.2",
+  "description": "A simple and robust runtime dependency manager for JVM languages.",
+  "id": "pkg:maven/de.crazydev22.slimjar/de.crazydev22.slimjar.gradle.plugin",
+  "ts": 1753698309000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": null,
+  "licenses": [
+    "The MIT License"
+  ],
+  "last_updated": 1753699017673
+}

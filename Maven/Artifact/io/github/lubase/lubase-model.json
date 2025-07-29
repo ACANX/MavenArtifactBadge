@@ -1,15 +1,15 @@
 {
   "group_id": "io.github.lubase",
   "artifact_id": "lubase-model",
-  "latest_version": "1.6.6",
+  "latest_version": "1.6.7",
   "description": "base model",
   "id": "pkg:maven/io.github.lubase/lubase-model",
-  "ts": 1753252466000,
-  "dependency_count": 3,
+  "ts": 1753499695000,
+  "dependency_count": 0,
   "ref_count": 23,
   "categories": null,
   "licenses": [
     "AGPL 3.0"
   ],
-  "last_updated": 1753253220725
+  "last_updated": 1753500418422
 }

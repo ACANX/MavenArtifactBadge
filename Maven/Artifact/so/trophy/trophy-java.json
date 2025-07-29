@@ -1,15 +1,15 @@
 {
   "group_id": "so.trophy",
   "artifact_id": "trophy-java",
-  "latest_version": "1.0.14",
+  "latest_version": "1.0.15",
   "description": "Java client library for the Trophy API",
   "id": "pkg:maven/so.trophy/trophy-java",
-  "ts": 1753275716000,
+  "ts": 1753718260000,
   "dependency_count": 0,
   "ref_count": 35,
   "categories": null,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753276618591
+  "last_updated": 1753718820426
 }

@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-process-archive-config-repository",
+  "latest_version": "8.17.0",
+  "description": "JEAP Process Archive Service",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-process-archive-config-repository",
+  "ts": 1753453823000,
+  "dependency_count": 2,
+  "ref_count": 88,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454217344
+}

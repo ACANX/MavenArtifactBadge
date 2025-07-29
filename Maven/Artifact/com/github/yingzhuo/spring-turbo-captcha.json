@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.yingzhuo",
+  "artifact_id": "spring-turbo-captcha",
+  "latest_version": "3.5.4",
+  "description": "Another enhancement library of SpringBoot & SpringFramework",
+  "id": "pkg:maven/com.github.yingzhuo/spring-turbo-captcha",
+  "ts": 1753400974000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753402025127
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "org.mvnpm",
   "artifact_id": "framer-motion",
-  "latest_version": "12.23.7",
+  "latest_version": "12.23.11",
   "description": "A simple and powerful JavaScript animation library",
   "id": "pkg:maven/org.mvnpm/framer-motion",
-  "ts": 1753281724000,
+  "ts": 1753701311000,
   "dependency_count": 0,
   "ref_count": 13,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753282630842
+  "last_updated": 1753702016598
 }

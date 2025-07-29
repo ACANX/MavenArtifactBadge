@@ -1,0 +1,15 @@
+{
+  "group_id": "com.byteplus",
+  "artifact_id": "byteplus-java-sdk-v2-ark-runtime",
+  "latest_version": "0.1.19",
+  "description": "The Java SDK for byteplus ark-runtime",
+  "id": "pkg:maven/com.byteplus/byteplus-java-sdk-v2-ark-runtime",
+  "ts": 1753363374000,
+  "dependency_count": 0,
+  "ref_count": 25,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753364221497
+}

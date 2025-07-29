@@ -1,0 +1,18 @@
+{
+  "group_id": "com.google.api.grpc",
+  "artifact_id": "grpc-google-cloud-storage-control-v2",
+  "latest_version": "2.54.0",
+  "description": "GRPC library for google-cloud-storage",
+  "id": "pkg:maven/com.google.api.grpc/grpc-google-cloud-storage-control-v2",
+  "ts": 1753745643000,
+  "dependency_count": 1,
+  "ref_count": 24,
+  "categories": [
+    "Data Transport",
+    "Remoting"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753746024316
+}

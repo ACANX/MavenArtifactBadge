@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "mediapackagev2",
+  "latest_version": "1.5.5",
+  "description": "The AWS SDK for Kotlin client for MediaPackageV2",
+  "id": "pkg:maven/aws.sdk.kotlin/mediapackagev2",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744630260
+}

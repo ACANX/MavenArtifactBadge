@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.tylertech",
+  "artifact_id": "forge",
+  "latest_version": "3.10.1",
+  "description": "Tyler Forge™ Web Components library",
+  "id": "pkg:maven/org.mvnpm.at.tylertech/forge",
+  "ts": 1753373168000,
+  "dependency_count": 0,
+  "ref_count": 21,
+  "categories": null,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753373548605
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "net.openhft",
+  "artifact_id": "chronicle-queue",
+  "latest_version": "5.27ea7",
+  "description": "Java library for persisted low latency messaging (Java 8+)",
+  "id": "pkg:maven/net.openhft/chronicle-queue",
+  "ts": 1753458472000,
+  "dependency_count": 0,
+  "ref_count": 34,
+  "categories": [
+    "Monitoring and Management"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753459019246
+}

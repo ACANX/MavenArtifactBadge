@@ -1,17 +1,17 @@
 {
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-pythonlib_3",
-  "latest_version": "1.0.1-17-ad8e66",
+  "latest_version": "1.0.1-25-ee7483",
   "description": "mill-libs-pythonlib",
   "id": "pkg:maven/com.lihaoyi/mill-libs-pythonlib_3",
-  "ts": 1753282407000,
+  "ts": 1753700469000,
   "dependency_count": 1,
-  "ref_count": 42,
+  "ref_count": 8,
   "categories": [
     "Other"
   ],
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753283219356
+  "last_updated": 1753701427687
 }

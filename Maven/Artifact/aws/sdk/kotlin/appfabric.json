@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "appfabric",
+  "latest_version": "1.5.5",
+  "description": "The AWS SDK for Kotlin client for AppFabric",
+  "id": "pkg:maven/aws.sdk.kotlin/appfabric",
+  "ts": 1753741683000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744619508
+}

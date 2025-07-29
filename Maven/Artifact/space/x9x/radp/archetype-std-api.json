@@ -1,0 +1,15 @@
+{
+  "group_id": "space.x9x.radp",
+  "artifact_id": "archetype-std-api",
+  "latest_version": "3.23",
+  "description": "开发 API 层",
+  "id": "pkg:maven/space.x9x.radp/archetype-std-api",
+  "ts": 1753728922000,
+  "dependency_count": 0,
+  "ref_count": 54,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License, Version 3"
+  ],
+  "last_updated": 1753730157424
+}

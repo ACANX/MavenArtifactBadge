@@ -1,0 +1,17 @@
+{
+  "group_id": "org.eclipse.edc",
+  "artifact_id": "sql-bootstrapper",
+  "latest_version": "0.13.1",
+  "description": "edc :: sql-bootstrapper",
+  "id": "pkg:maven/org.eclipse.edc/sql-bootstrapper",
+  "ts": 1753436148000,
+  "dependency_count": 2,
+  "ref_count": 15,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753436819414
+}

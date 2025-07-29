@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.yongzhuzl",
+  "artifact_id": "commonutil",
+  "latest_version": "4.7.5",
+  "description": "commonutil是一个功能丰富的Java工具类库，通过封装静态方法，降低学习成本，提升工作效率。",
+  "id": "pkg:maven/io.github.yongzhuzl/commonutil",
+  "ts": 1753703664000,
+  "dependency_count": 0,
+  "ref_count": 120,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753704420357
+}

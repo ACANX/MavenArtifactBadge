@@ -1,10 +1,10 @@
 {
   "group_id": "org.xwiki.commons",
   "artifact_id": "xwiki-commons-environment-standard",
-  "latest_version": "17.6.0-rc-1",
+  "latest_version": "17.6.0",
   "description": "XWiki Commons - Environment - Standard",
   "id": "pkg:maven/org.xwiki.commons/xwiki-commons-environment-standard",
-  "ts": 1753251708000,
+  "ts": 1753693384000,
   "dependency_count": 3,
   "ref_count": 20,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "LGPL 2.1"
   ],
-  "last_updated": 1753252620847
+  "last_updated": 1753694223879
 }

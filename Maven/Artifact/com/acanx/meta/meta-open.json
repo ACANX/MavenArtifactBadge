@@ -1,0 +1,15 @@
+{
+  "group_id": "com.acanx.meta",
+  "artifact_id": "meta-open",
+  "latest_version": "0.3.3",
+  "description": "Meta Open POM",
+  "id": "pkg:maven/com.acanx.meta/meta-open",
+  "ts": 1753681159000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753682216783
+}

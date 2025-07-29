@@ -1,0 +1,15 @@
+{
+  "group_id": "vn.bnnsoft.rs",
+  "artifact_id": "libsignxmlsec",
+  "latest_version": "1.0.2",
+  "description": "A native library wrapper for XML digital signing",
+  "id": "pkg:maven/vn.bnnsoft.rs/libsignxmlsec",
+  "ts": 1753332775000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753333021482
+}

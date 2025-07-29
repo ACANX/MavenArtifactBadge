@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "cdk-region-info",
+  "latest_version": "2.207.0",
+  "description": "AWS region information, such as service principal names",
+  "id": "pkg:maven/software.amazon.awscdk/cdk-region-info",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367218871
+}

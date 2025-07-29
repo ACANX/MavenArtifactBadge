@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "ksn-schema-registry-distribution",
+  "latest_version": "4.0.5.4",
+  "description": "Distribution package for Kafka Compatible Schema Registry",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/ksn-schema-registry-distribution",
+  "ts": 1753464133000,
+  "dependency_count": 0,
+  "ref_count": 352,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419446
+}

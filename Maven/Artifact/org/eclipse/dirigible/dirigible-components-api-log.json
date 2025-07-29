@@ -1,15 +1,15 @@
 {
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-api-log",
-  "latest_version": "12.2.0",
+  "latest_version": "12.2.1",
   "description": null,
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-api-log",
-  "ts": 1753272414000,
-  "dependency_count": 5,
-  "ref_count": 45,
+  "ts": 1753347840000,
+  "dependency_count": 4,
+  "ref_count": 3,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753273624754
+  "last_updated": 1753348630470
 }

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.databricks",
+  "artifact_id": "databricks-sdk-java",
+  "latest_version": "0.56.0",
+  "description": "The Databricks SDK for Java includes functionality to accelerate development with Java for\n    the Databricks Lakehouse. It covers all public Databricks REST API operations. The SDK's internal HTTP client\n    is robust and handles failures on different levels by performing intelligent retries.",
+  "id": "pkg:maven/com.databricks/databricks-sdk-java",
+  "ts": 1753352264000,
+  "dependency_count": 0,
+  "ref_count": 36,
+  "categories": [
+    "Big Data"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753352814997
+}

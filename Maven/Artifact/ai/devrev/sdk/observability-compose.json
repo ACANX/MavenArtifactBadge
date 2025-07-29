@@ -1,0 +1,15 @@
+{
+  "group_id": "ai.devrev.sdk",
+  "artifact_id": "observability-compose",
+  "latest_version": "2.0.4",
+  "description": "DevRev Observability Compose SDK for Android.",
+  "id": "pkg:maven/ai.devrev.sdk/observability-compose",
+  "ts": 1753424698000,
+  "dependency_count": 1,
+  "ref_count": 6,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753425631941
+}

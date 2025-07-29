@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.jchejarla",
+  "artifact_id": "spring-batch-db-cluster-partitioning",
+  "latest_version": "1.0.1",
+  "description": "Spring Batch DB-based cluster partitioning with dynamic node coordination",
+  "id": "pkg:maven/io.github.jchejarla/spring-batch-db-cluster-partitioning",
+  "ts": 1753657704000,
+  "dependency_count": 0,
+  "ref_count": 68,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753658218482
+}

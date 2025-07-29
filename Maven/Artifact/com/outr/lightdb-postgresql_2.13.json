@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-postgresql_2.13",
+  "latest_version": "4.0.5",
+  "description": "lightdb-postgresql",
+  "id": "pkg:maven/com.outr/lightdb-postgresql_2.13",
+  "ts": 1753562786000,
+  "dependency_count": 1,
+  "ref_count": 37,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419080
+}

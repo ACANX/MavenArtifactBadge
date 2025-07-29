@@ -1,15 +1,15 @@
 {
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-functionJar-protocol",
-  "latest_version": "4.91.0",
+  "latest_version": "4.92.0",
   "description": null,
   "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-functionJar-protocol",
-  "ts": 1753280048000,
-  "dependency_count": 1,
+  "ts": 1753345439000,
+  "dependency_count": 5,
   "ref_count": 5,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [],
-  "last_updated": 1753280823079
+  "last_updated": 1753346835829
 }

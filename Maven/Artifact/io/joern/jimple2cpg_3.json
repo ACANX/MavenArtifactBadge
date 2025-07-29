@@ -1,0 +1,17 @@
+{
+  "group_id": "io.joern",
+  "artifact_id": "jimple2cpg_3",
+  "latest_version": "4.0.399",
+  "description": "jimple2cpg",
+  "id": "pkg:maven/io.joern/jimple2cpg_3",
+  "ts": 1753384381000,
+  "dependency_count": 0,
+  "ref_count": 119,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753385217746
+}

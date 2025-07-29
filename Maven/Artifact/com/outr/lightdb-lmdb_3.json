@@ -1,0 +1,17 @@
+{
+  "group_id": "com.outr",
+  "artifact_id": "lightdb-lmdb_3",
+  "latest_version": "4.0.5",
+  "description": "lightdb-lmdb",
+  "id": "pkg:maven/com.outr/lightdb-lmdb_3",
+  "ts": 1753562786000,
+  "dependency_count": 1,
+  "ref_count": 41,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753563419082
+}

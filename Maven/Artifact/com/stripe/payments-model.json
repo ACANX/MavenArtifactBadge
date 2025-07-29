@@ -1,0 +1,17 @@
+{
+  "group_id": "com.stripe",
+  "artifact_id": "payments-model",
+  "latest_version": "21.22.0",
+  "description": "The models module of Stripe Payment Android SDK",
+  "id": "pkg:maven/com.stripe/payments-model",
+  "ts": 1753733603000,
+  "dependency_count": 3,
+  "ref_count": 6,
+  "categories": [
+    "Payment"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753734415633
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-admin-web",
-  "latest_version": "3.2.17",
+  "latest_version": "3.2.38",
   "description": "ZrLog admin web",
   "id": "pkg:maven/com.hibegin/zrlog-admin-web",
-  "ts": 1753281635000,
+  "ts": 1753626525000,
   "dependency_count": 0,
   "ref_count": 16,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753282018261
+  "last_updated": 1753627018272
 }

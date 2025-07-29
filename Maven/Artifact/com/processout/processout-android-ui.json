@@ -1,0 +1,15 @@
+{
+  "group_id": "com.processout",
+  "artifact_id": "processout-android-ui",
+  "latest_version": "4.30.0",
+  "description": "ProcessOut Android SDK - UI",
+  "id": "pkg:maven/com.processout/processout-android-ui",
+  "ts": 1753444667000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753445818398
+}

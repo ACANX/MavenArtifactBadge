@@ -1,0 +1,15 @@
+{
+  "group_id": "com.cloudflare.realtimekit",
+  "artifact_id": "webrtc-kmp-android",
+  "latest_version": "0.125.5",
+  "description": "RealtimeKit's own WebRTC implementation in Kotlin Multiplatform",
+  "id": "pkg:maven/com.cloudflare.realtimekit/webrtc-kmp-android",
+  "ts": 1753353196000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753353826724
+}

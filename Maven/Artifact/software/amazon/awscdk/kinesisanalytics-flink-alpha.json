@@ -1,0 +1,17 @@
+{
+  "group_id": "software.amazon.awscdk",
+  "artifact_id": "kinesisanalytics-flink-alpha",
+  "latest_version": "2.207.0-alpha.0",
+  "description": "A CDK Construct Library for Kinesis Analytics Flink applications",
+  "id": "pkg:maven/software.amazon.awscdk/kinesisanalytics-flink-alpha",
+  "ts": 1753366373000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753367218869
+}

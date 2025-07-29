@@ -1,0 +1,19 @@
+{
+  "group_id": "fr.inria.gforge.spoon",
+  "artifact_id": "spoon-pom",
+  "latest_version": "11.2.2-beta-4",
+  "description": "Common Maven config for Spoon modules",
+  "id": "pkg:maven/fr.inria.gforge.spoon/spoon-pom",
+  "ts": 1753583934000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Build Tools",
+    "Code Analysis"
+  ],
+  "licenses": [
+    "MIT",
+    "CeCILL-C"
+  ],
+  "last_updated": 1753584418633
+}

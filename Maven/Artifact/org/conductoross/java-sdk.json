@@ -1,0 +1,15 @@
+{
+  "group_id": "org.conductoross",
+  "artifact_id": "java-sdk",
+  "latest_version": "4.0.12",
+  "description": "Workflow as Code SDK",
+  "id": "pkg:maven/org.conductoross/java-sdk",
+  "ts": 1753439545000,
+  "dependency_count": 1,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753439818338
+}
