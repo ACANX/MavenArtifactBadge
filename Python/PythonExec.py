@@ -139,7 +139,8 @@ def create_maven_artifact_json_file(data: dict):
         "count_dep": data.get("dep_count", 0),
         "count_ref": data.get("ref_count", 0),
         "licenses": data.get("licenses", []),
-        "categories": data.get("categories", [])
+        "categories": data.get("categories", []),
+        "dsv": 1
     }
     try:
         # 写入JSON文件
