@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.chrimle/class-forge",
+  "description": "Forge Java Classes!",
   "group_id": "io.github.chrimle",
   "artifact_id": "class-forge",
-  "latest_version": "0.10.0",
-  "description": "Forge Java Classes!",
-  "id": "pkg:maven/io.github.chrimle/class-forge",
-  "ts": 1753480241000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "0.10.1",
+  "ts_publish": 1753784613000,
+  "ts_update": 1753785418688,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753480619721
+  "categories": null,
+  "dsv": 1
 }

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.orioneee/axer-no-op",
+  "description": "A no-op implementation of Axer, which do nothing which can be used in production without any changes to the codebase.",
+  "group_id": "io.github.orioneee",
+  "artifact_id": "axer-no-op",
+  "version_latest": "1.1.2",
+  "ts_publish": 1753784286000,
+  "ts_update": 1753785419372,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
