@@ -3,9 +3,9 @@
   "description": "mill-contrib-proguard",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-proguard_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772573000,
-  "ts_update": 1753773420496,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791069000,
+  "ts_update": 1753795628949,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

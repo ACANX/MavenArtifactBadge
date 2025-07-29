@@ -3,9 +3,9 @@
   "description": "mill-contrib-docker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-docker_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772550000,
-  "ts_update": 1753773420999,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791036000,
+  "ts_update": 1753795628952,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

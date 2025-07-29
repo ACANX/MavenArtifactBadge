@@ -3,9 +3,9 @@
   "description": "mill-dist-native-linux-amd64",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-linux-amd64",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772612000,
-  "ts_update": 1753773419994,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791118000,
+  "ts_update": 1753795628251,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/nl.nl-portal/case",
+  "description": "The Case module provides functionality related to a Portal case. This is often a reference to a case in an case management service.",
   "group_id": "nl.nl-portal",
   "artifact_id": "case",
-  "latest_version": "2.0.1",
-  "description": "The Case module provides functionality related to a Portal case. This is often a reference to a case in an case management service.",
-  "id": "pkg:maven/nl.nl-portal/case",
-  "ts": 1753271481000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.0.2",
+  "ts_publish": 1753790772000,
+  "ts_update": 1753795629559,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "Licensed under EUPL, Version 1.2 (the \"License\");"
   ],
-  "last_updated": 1753272416045
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

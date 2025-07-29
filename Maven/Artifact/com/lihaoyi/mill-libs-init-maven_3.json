@@ -3,9 +3,9 @@
   "description": "mill-libs-init-maven",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-maven_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772640000,
-  "ts_update": 1753773419989,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791155000,
+  "ts_update": 1753795627585,
   "count_dep": 57,
   "count_ref": 0,
   "licenses": [

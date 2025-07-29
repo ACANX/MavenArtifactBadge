@@ -3,9 +3,9 @@
   "description": "mill-contrib-twirllib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-twirllib_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772582000,
-  "ts_update": 1753773420492,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791326000,
+  "ts_update": 1753795620329,
   "count_dep": 8,
   "count_ref": 1,
   "licenses": [

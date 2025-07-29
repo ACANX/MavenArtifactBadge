@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-backgroundwrapper",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-backgroundwrapper",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772651000,
-  "ts_update": 1753773419349,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791168000,
+  "ts_update": 1753795627582,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "mill-libs-kotlinlib-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-kotlinlib-worker_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772686000,
-  "ts_update": 1753773418837,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791217000,
+  "ts_update": 1753795626852,
   "count_dep": 22,
   "count_ref": 0,
   "licenses": [

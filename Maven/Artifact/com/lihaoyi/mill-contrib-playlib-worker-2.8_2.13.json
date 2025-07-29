@@ -3,9 +3,9 @@
   "description": "mill-contrib-playlib-worker-2.8",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-playlib-worker-2.8_2.13",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772565000,
-  "ts_update": 1753773420498,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791057000,
+  "ts_update": 1753795628949,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [

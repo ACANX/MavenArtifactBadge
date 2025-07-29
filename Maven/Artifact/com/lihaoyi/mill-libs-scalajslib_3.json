@@ -3,10 +3,10 @@
   "description": "mill-libs-scalajslib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalajslib_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772696000,
-  "ts_update": 1753773418835,
-  "count_dep": 35,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791230000,
+  "ts_update": 1753795626851,
+  "count_dep": 10,
   "count_ref": 2,
   "licenses": [
     "MIT"

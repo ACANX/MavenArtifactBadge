@@ -3,9 +3,9 @@
   "description": "API for libraries supporting Kotlin Jupyter notebooks",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-api",
-  "version_latest": "0.15.0-568-1",
-  "ts_publish": 1753787006000,
-  "ts_update": 1753787822209,
+  "version_latest": "0.15.0-569",
+  "ts_publish": 1753791010000,
+  "ts_update": 1753795628957,
   "count_dep": 6,
   "count_ref": 5,
   "licenses": [

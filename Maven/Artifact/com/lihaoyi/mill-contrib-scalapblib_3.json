@@ -3,9 +3,9 @@
   "description": "mill-contrib-scalapblib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scalapblib_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772575000,
-  "ts_update": 1753773420496,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791072000,
+  "ts_update": 1753795628258,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "mill-contrib-jmh",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-jmh_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772558000,
-  "ts_update": 1753773420499,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791322000,
+  "ts_update": 1753795620331,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

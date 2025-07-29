@@ -3,11 +3,11 @@
   "description": "mill-runner-client",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-client",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772722000,
-  "ts_update": 1753773418832,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791262000,
+  "ts_update": 1753795626847,
   "count_dep": 1,
-  "count_ref": 3,
+  "count_ref": 4,
   "licenses": [
     "MIT"
   ],

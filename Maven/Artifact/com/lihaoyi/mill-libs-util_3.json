@@ -3,11 +3,11 @@
   "description": "mill-libs-util",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-util_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772716000,
-  "ts_update": 1753773418832,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791254000,
+  "ts_update": 1753795626848,
   "count_dep": 74,
-  "count_ref": 20,
+  "count_ref": 17,
   "licenses": [
     "MIT"
   ],

@@ -3,9 +3,9 @@
   "description": "mill-contrib-gitlab",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-gitlab_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772555000,
-  "ts_update": 1753773420500,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791044000,
+  "ts_update": 1753795628951,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

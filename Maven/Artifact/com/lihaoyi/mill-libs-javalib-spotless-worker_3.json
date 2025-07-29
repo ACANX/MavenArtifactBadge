@@ -3,10 +3,10 @@
   "description": "mill-libs-javalib-spotless-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-spotless-worker_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772670000,
-  "ts_update": 1753773419345,
-  "count_dep": 48,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791190000,
+  "ts_update": 1753795627579,
+  "count_dep": 14,
   "count_ref": 0,
   "licenses": [
     "MIT"

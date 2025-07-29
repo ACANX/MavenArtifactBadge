@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/org.alfresco.maven.archetype/archetypes-it",
+  "description": "Archetypes Integration Tests",
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "archetypes-it",
-  "latest_version": "4.12.0",
-  "description": "Archetypes Integration Tests",
-  "id": "pkg:maven/org.alfresco.maven.archetype/archetypes-it",
-  "ts": 1753709247000,
-  "dependency_count": 0,
-  "ref_count": 4,
+  "version_latest": "4.13.0-A1",
+  "ts_publish": 1753793192000,
+  "ts_update": 1753795618383,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
   "categories": [
     "Data Processors",
     "Templating"
   ],
-  "licenses": [
-    "Apache License 2.0"
-  ],
-  "last_updated": 1753710423367
+  "dsv": 1
 }

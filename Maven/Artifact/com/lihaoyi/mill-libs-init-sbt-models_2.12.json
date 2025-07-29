@@ -3,9 +3,9 @@
   "description": "mill-libs-init-sbt-models",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-sbt-models_2.12",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772644000,
-  "ts_update": 1753773419350,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791159000,
+  "ts_update": 1753795627584,
   "count_dep": 90,
   "count_ref": 0,
   "licenses": [

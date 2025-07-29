@@ -3,9 +3,9 @@
   "description": "mill-libs-init-gradle",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-gradle_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772638000,
-  "ts_update": 1753773419990,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791151000,
+  "ts_update": 1753795627586,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

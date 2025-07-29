@@ -3,11 +3,11 @@
   "description": "mill-core-eval",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-eval_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772595000,
-  "ts_update": 1753773419995,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791098000,
+  "ts_update": 1753795628253,
   "count_dep": 28,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],

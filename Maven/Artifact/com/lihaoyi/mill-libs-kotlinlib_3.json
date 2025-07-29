@@ -3,11 +3,11 @@
   "description": "mill-libs-kotlinlib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-kotlinlib_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772685000,
-  "ts_update": 1753773418837,
-  "count_dep": 40,
-  "count_ref": 3,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791215000,
+  "ts_update": 1753795626853,
+  "count_dep": 48,
+  "count_ref": 5,
   "licenses": [
     "MIT"
   ],

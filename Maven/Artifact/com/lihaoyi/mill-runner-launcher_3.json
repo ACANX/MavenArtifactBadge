@@ -3,11 +3,11 @@
   "description": "mill-runner-launcher",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-launcher_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772732000,
-  "ts_update": 1753773418830,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791276000,
+  "ts_update": 1753795620334,
   "count_dep": 60,
-  "count_ref": 1,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],

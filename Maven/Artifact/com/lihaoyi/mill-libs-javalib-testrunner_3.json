@@ -3,11 +3,11 @@
   "description": "mill-libs-javalib-testrunner",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-testrunner_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772676000,
-  "ts_update": 1753773419343,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791198000,
+  "ts_update": 1753795627578,
   "count_dep": 28,
-  "count_ref": 10,
+  "count_ref": 8,
   "licenses": [
     "MIT"
   ],

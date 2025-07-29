@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-jarjarabrams-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-jarjarabrams-worker_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772659000,
-  "ts_update": 1753773419347,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791177000,
+  "ts_update": 1753795627581,
   "count_dep": 36,
   "count_ref": 0,
   "licenses": [

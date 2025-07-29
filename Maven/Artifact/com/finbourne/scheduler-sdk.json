@@ -3,9 +3,9 @@
   "description": "scheduler",
   "group_id": "com.finbourne",
   "artifact_id": "scheduler-sdk",
-  "version_latest": "2.0.153",
-  "ts_publish": 1753780043000,
-  "ts_update": 1753781004573,
+  "version_latest": "2.0.154",
+  "ts_publish": 1753793357000,
+  "ts_update": 1753795618380,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [

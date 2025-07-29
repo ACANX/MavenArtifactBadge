@@ -3,11 +3,11 @@
   "description": "mill-core-exec",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-exec_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772597000,
-  "ts_update": 1753773419995,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791098000,
+  "ts_update": 1753795628252,
   "count_dep": 28,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],

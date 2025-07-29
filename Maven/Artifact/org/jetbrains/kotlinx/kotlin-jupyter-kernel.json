@@ -3,9 +3,9 @@
   "description": "Kotlin Jupyter kernel published as artifact",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-kernel",
-  "version_latest": "0.15.0-568-1",
-  "ts_publish": 1753787006000,
-  "ts_update": 1753787821416,
+  "version_latest": "0.15.0-569",
+  "ts_publish": 1753791010000,
+  "ts_update": 1753795628958,
   "count_dep": 30,
   "count_ref": 1,
   "licenses": [

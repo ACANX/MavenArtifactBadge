@@ -3,9 +3,9 @@
   "description": "mill-contrib-scoverage",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scoverage_3",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753772579000,
-  "ts_update": 1753773420494,
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791325000,
+  "ts_update": 1753795620330,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
