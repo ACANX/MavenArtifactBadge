@@ -3,9 +3,9 @@
   "description": "Please refer to https://github.com/toolisticon/cute",
   "group_id": "io.toolisticon.cute",
   "artifact_id": "extension-modulesupport",
-  "version_latest": "1.8.1",
-  "ts_publish": 1753786738000,
-  "ts_update": 1753787218507,
+  "version_latest": "1.8.2",
+  "ts_publish": 1753796317000,
+  "ts_update": 1753796819432,
   "count_dep": 5,
   "count_ref": 10,
   "licenses": [

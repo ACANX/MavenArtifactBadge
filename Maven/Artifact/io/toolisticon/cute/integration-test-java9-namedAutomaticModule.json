@@ -3,9 +3,9 @@
   "description": "Please refer to https://github.com/toolisticon/cute",
   "group_id": "io.toolisticon.cute",
   "artifact_id": "integration-test-java9-namedAutomaticModule",
-  "version_latest": "1.8.1",
-  "ts_publish": 1753786738000,
-  "ts_update": 1753787219159,
+  "version_latest": "1.8.2",
+  "ts_publish": 1753796317000,
+  "ts_update": 1753796819806,
   "count_dep": 9,
   "count_ref": 1,
   "licenses": [
