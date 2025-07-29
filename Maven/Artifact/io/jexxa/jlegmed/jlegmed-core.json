@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.jexxa.jlegmed/jlegmed-core",
+  "description": "JLegMed - Connect the Past with the Future",
   "group_id": "io.jexxa.jlegmed",
   "artifact_id": "jlegmed-core",
-  "latest_version": "4.1.1",
-  "description": "JLegMed - Connect the Past with the Future",
-  "id": "pkg:maven/io.jexxa.jlegmed/jlegmed-core",
-  "ts": 1753726845000,
-  "dependency_count": 1,
-  "ref_count": 27,
-  "categories": null,
+  "version_latest": "4.1.2",
+  "ts_publish": 1753788111000,
+  "ts_update": 1753789018684,
+  "count_dep": 27,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753727202083
+  "categories": null,
+  "dsv": 1
 }
