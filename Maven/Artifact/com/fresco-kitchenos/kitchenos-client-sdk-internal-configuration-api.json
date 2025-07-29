@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-internal-configuration-api",
+  "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-internal-configuration-api",
-  "latest_version": "1.37.1",
-  "description": "A KMP library to interact with KitchenOS.",
-  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-internal-configuration-api",
-  "ts": 1753283988000,
-  "dependency_count": 9,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.37.2",
+  "ts_publish": 1753804038000,
+  "ts_update": 1753804619178,
+  "count_dep": 1,
+  "count_ref": 9,
   "licenses": [
     "Fresco License"
   ],
-  "last_updated": 1753284594827
+  "categories": null,
+  "dsv": 1
 }

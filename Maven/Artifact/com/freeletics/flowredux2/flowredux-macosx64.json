@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.freeletics.flowredux2/flowredux-macosx64",
+  "description": "FlowRedux",
   "group_id": "com.freeletics.flowredux2",
   "artifact_id": "flowredux-macosx64",
-  "latest_version": "2.0.0-alpha2",
-  "description": "FlowRedux",
-  "id": "pkg:maven/com.freeletics.flowredux2/flowredux-macosx64",
-  "ts": 1753364272000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "2.0.0-alpha3",
+  "ts_publish": 1753803739000,
+  "ts_update": 1753804621147,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364817955
+  "categories": null,
+  "dsv": 1
 }

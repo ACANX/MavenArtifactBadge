@@ -3,9 +3,9 @@
   "description": "Stytch Android SDK",
   "group_id": "com.stytch.sdk",
   "artifact_id": "sdk",
-  "version_latest": "0.56.0",
-  "ts_publish": 1753797447000,
-  "ts_update": 1753798021233,
+  "version_latest": "0.57.0",
+  "ts_publish": 1753803999000,
+  "ts_update": 1753804620474,
   "count_dep": 38,
   "count_ref": 0,
   "licenses": [
