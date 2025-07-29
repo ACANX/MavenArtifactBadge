@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.robch.rules/robs-rules",
+  "description": "Detekt rules for preventing coroutine cancellation bugs",
   "group_id": "dev.robch.rules",
   "artifact_id": "robs-rules",
-  "latest_version": "1.0.1",
-  "description": "Detekt rules for preventing coroutine cancellation bugs",
-  "id": "pkg:maven/dev.robch.rules/robs-rules",
-  "ts": 1753648025000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "1.0.2",
+  "ts_publish": 1753827107000,
+  "ts_update": 1753828021423,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753648618982
+  "categories": null,
+  "dsv": 1
 }
