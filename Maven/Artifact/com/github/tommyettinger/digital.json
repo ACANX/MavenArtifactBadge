@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.tommyettinger/digital",
+  "description": "Utilities for handling math and showing numbers in Java.",
   "group_id": "com.github.tommyettinger",
   "artifact_id": "digital",
-  "latest_version": "0.8.0",
-  "description": "Utilities for handling math and showing numbers in Java.",
-  "id": "pkg:maven/com.github.tommyettinger/digital",
-  "ts": 1753682795000,
-  "dependency_count": 1,
-  "ref_count": 0,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "0.8.1",
+  "ts_publish": 1753764183000,
+  "ts_update": 1753765020881,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753683417253
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }
