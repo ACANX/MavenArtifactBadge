@@ -3,9 +3,9 @@
   "description": "Implementation of REPL compiler and preprocessor for Jupyter dialect of Kotlin (IDE-compatible)",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-shared-compiler",
-  "version_latest": "0.15.0-567",
-  "ts_publish": 1753779638000,
-  "ts_update": 1753780624843,
+  "version_latest": "0.15.0-568-1",
+  "ts_publish": 1753787006000,
+  "ts_update": 1753787821413,
   "count_dep": 9,
   "count_ref": 3,
   "licenses": [

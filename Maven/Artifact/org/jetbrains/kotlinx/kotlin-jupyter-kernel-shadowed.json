@@ -3,9 +3,9 @@
   "description": "Kotlin Jupyter kernel with all dependencies inside one artifact",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-kernel-shadowed",
-  "version_latest": "0.15.0-567",
-  "ts_publish": 1753779638000,
-  "ts_update": 1753780624837,
+  "version_latest": "0.15.0-568-1",
+  "ts_publish": 1753787006000,
+  "ts_update": 1753787821410,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
