@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/fun.hereis.code/all",
+  "group_id": "fun.hereis.code",
+  "artifact_id": "all",
+  "latest_version": "1.12.1.RLS",
+  "ts": 1753758688000,
+  "last_updated": 1753759019370,
+  "description": null,
+  "licenses": [],
+  "dep_count": 2,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ]
+}

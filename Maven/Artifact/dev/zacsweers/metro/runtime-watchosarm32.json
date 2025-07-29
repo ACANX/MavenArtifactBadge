@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/dev.zacsweers.metro/runtime-watchosarm32",
+  "group_id": "dev.zacsweers.metro",
+  "artifact_id": "runtime-watchosarm32",
+  "latest_version": "0.5.3",
+  "ts": 1753758626000,
+  "last_updated": 1753759019842,
+  "description": "A multiplatform, compile-time injection framework for Kotlin.",
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "dep_count": 3,
+  "ref_count": 0,
+  "categories": null
+}
