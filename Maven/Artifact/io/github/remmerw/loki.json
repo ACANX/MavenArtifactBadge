@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.remmerw/loki",
+  "description": "A library for downloading magnet-Uris",
+  "group_id": "io.github.remmerw",
+  "artifact_id": "loki",
+  "version_latest": "0.3.3",
+  "ts_publish": 1753774532000,
+  "ts_update": 1753775220437,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

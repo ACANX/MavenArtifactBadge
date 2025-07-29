@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/pl.iterators/baklava-openapi_2.13",
+  "description": "baklava-openapi",
+  "group_id": "pl.iterators",
+  "artifact_id": "baklava-openapi_2.13",
+  "version_latest": "1.0.3",
+  "ts_publish": 1753774465000,
+  "ts_update": 1753775221208,
+  "count_dep": 80,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
+}

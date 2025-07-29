@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/pl.iterators/baklava-core_3",
+  "description": "baklava-core",
+  "group_id": "pl.iterators",
+  "artifact_id": "baklava-core_3",
+  "version_latest": "1.0.3",
+  "ts_publish": 1753774465000,
+  "ts_update": 1753775220439,
+  "count_dep": 21,
+  "count_ref": 6,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
+}
