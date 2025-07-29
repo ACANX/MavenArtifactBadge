@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.yodo1.suit.pay/core",
+  "description": "this is a library about Yodo1Suit",
   "group_id": "com.yodo1.suit.pay",
   "artifact_id": "core",
-  "latest_version": "6.5.1.2",
-  "description": "this is a library about Yodo1Suit",
-  "id": "pkg:maven/com.yodo1.suit.pay/core",
-  "ts": 1753342669000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "6.5.2.0",
+  "ts_publish": 1753778538000,
+  "ts_update": 1753779337510,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753343140315
+  "categories": null,
+  "dsv": 1
 }
