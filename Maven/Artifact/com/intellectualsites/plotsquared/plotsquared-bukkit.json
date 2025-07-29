@@ -3,9 +3,9 @@
   "description": "PlotSquared, a land and world management plugin for Minecraft.",
   "group_id": "com.intellectualsites.plotsquared",
   "artifact_id": "plotsquared-bukkit",
-  "version_latest": "7.5.5",
-  "ts_publish": 1753806957000,
-  "ts_update": 1753807622694,
+  "version_latest": "7.5.6",
+  "ts_publish": 1753816744000,
+  "ts_update": 1753817220269,
   "count_dep": 30,
   "count_ref": 0,
   "licenses": [
