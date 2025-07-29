@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/co.pango/sdk-core",
+  "description": "Pango Unified Vpn SDK",
   "group_id": "co.pango",
   "artifact_id": "sdk-core",
-  "latest_version": "5.4.0",
-  "description": "Pango Unified Vpn SDK",
-  "id": "pkg:maven/co.pango/sdk-core",
-  "ts": 1753286663000,
-  "dependency_count": 4,
-  "ref_count": 42,
-  "categories": null,
+  "version_latest": "5.4.1-RC1",
+  "ts_publish": 1753797866000,
+  "ts_update": 1753798619809,
+  "count_dep": 42,
+  "count_ref": 4,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753287418087
+  "categories": null,
+  "dsv": 1
 }
