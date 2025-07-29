@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/in.bottomhalf/common-models",
+  "description": "Persistence storage calling helper api",
   "group_id": "in.bottomhalf",
   "artifact_id": "common-models",
-  "latest_version": "1.0-1",
-  "description": "Persistence storage calling helper api",
-  "id": "pkg:maven/in.bottomhalf/common-models",
-  "ts": 1753729088000,
-  "dependency_count": 2,
-  "ref_count": 34,
-  "categories": null,
+  "version_latest": "1.0-2",
+  "ts_publish": 1753770063000,
+  "ts_update": 1753770828216,
+  "count_dep": 34,
+  "count_ref": 2,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753730156425
+  "categories": null,
+  "dsv": 1
 }

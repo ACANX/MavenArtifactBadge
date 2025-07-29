@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-uac-client",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-uac-client",
-  "latest_version": "6.5.234",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-uac-client",
-  "ts": 1753709782000,
-  "dependency_count": 4,
-  "ref_count": 115,
+  "version_latest": "6.5.235",
+  "ts_publish": 1753770473000,
+  "ts_update": 1753770827606,
+  "count_dep": 115,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
   "categories": [
     "Data Management",
     "Database"
   ],
-  "licenses": [
-    "Apache License, Version 2.0"
-  ],
-  "last_updated": 1753711019774
+  "dsv": 1
 }

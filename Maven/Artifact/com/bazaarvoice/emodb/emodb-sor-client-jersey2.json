@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-jersey2",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-sor-client-jersey2",
-  "latest_version": "6.5.233",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-sor-client-jersey2",
-  "ts": 1753471965000,
-  "dependency_count": 0,
-  "ref_count": 66,
+  "version_latest": "6.5.235",
+  "ts_publish": 1753770473000,
+  "ts_update": 1753770826183,
+  "count_dep": 66,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
   "categories": [
     "Data Management",
     "Database"
   ],
-  "licenses": [
-    "Apache License, Version 2.0"
-  ],
-  "last_updated": 1753472542602
+  "dsv": 1
 }

@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-quality-base",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-quality-base",
-  "latest_version": "6.5.234",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-quality-base",
-  "ts": 1753709782000,
-  "dependency_count": 0,
-  "ref_count": 0,
+  "version_latest": "6.5.235",
+  "ts_publish": 1753770473000,
+  "ts_update": 1753770827604,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
   "categories": [
     "Data Management",
     "Database"
   ],
-  "licenses": [
-    "Apache License, Version 2.0"
-  ],
-  "last_updated": 1753711019777
+  "dsv": 1
 }
