@@ -135,7 +135,7 @@ def create_maven_artifact_json_file(data: dict):
         "artifact_id": artifact_id,
         "version_latest": data.get("latest_version", "N/A"),
         "ts_publish": data.get("ts", 0),
-        "ts_updated": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
+        "ts_update": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
         "count_dep": data.get("dep_count", 0),
         "count_ref": data.get("ref_count", 0),
         "licenses": data.get("licenses", []),
