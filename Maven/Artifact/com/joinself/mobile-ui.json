@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.joinself/mobile-ui",
+  "description": "Jetpack UI Components for Self",
+  "group_id": "com.joinself",
+  "artifact_id": "mobile-ui",
+  "version_latest": "1.0.5",
+  "ts_publish": 1753780006000,
+  "ts_update": 1753781004573,
+  "count_dep": 37,
+  "count_ref": 0,
+  "licenses": [
+    "The MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}
