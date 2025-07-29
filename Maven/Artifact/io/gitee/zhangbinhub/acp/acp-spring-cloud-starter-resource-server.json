@@ -1,10 +1,10 @@
 {
   "group_id": "io.gitee.zhangbinhub.acp",
   "artifact_id": "acp-spring-cloud-starter-resource-server",
-  "latest_version": "2025.6.0",
+  "latest_version": "2025.6.1-M1",
   "description": "Application Construction Platform 应用构建平台",
   "id": "pkg:maven/io.gitee.zhangbinhub.acp/acp-spring-cloud-starter-resource-server",
-  "ts": 1753718518000,
+  "ts": 1753749470000,
   "dependency_count": 0,
   "ref_count": 34,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753720020424
+  "last_updated": 1753750022089
 }

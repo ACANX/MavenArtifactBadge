@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.lucasferreiramachado",
+  "artifact_id": "kcoordinator-navigation-compose-jvm",
+  "latest_version": "0.0.1",
+  "description": "A lightweight, cross-platform Coordinator pattern library, designed for Navigation Compose library.",
+  "id": "pkg:maven/io.github.lucasferreiramachado/kcoordinator-navigation-compose-jvm",
+  "ts": 1753749385000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753750022094
+}
