@@ -3,9 +3,9 @@
   "description": "Redis缓存",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-springboot-redis-starter",
-  "version_latest": "1.1.6",
-  "ts_publish": 1753769897000,
-  "ts_update": 1753770421083,
+  "version_latest": "1.1.7",
+  "ts_publish": 1753770877000,
+  "ts_update": 1753771619065,
   "count_dep": 33,
   "count_ref": 0,
   "licenses": [

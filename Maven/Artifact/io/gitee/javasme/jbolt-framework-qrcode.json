@@ -3,9 +3,9 @@
   "description": "QrCode",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-qrcode",
-  "version_latest": "1.1.6",
-  "ts_publish": 1753769897000,
-  "ts_update": 1753770421080,
+  "version_latest": "1.1.7",
+  "ts_publish": 1753770877000,
+  "ts_update": 1753771618538,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
