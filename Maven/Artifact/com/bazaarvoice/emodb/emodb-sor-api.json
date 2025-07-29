@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-sor-api",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-sor-api",
-  "latest_version": "6.5.234",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.bazaarvoice.emodb/emodb-sor-api",
-  "ts": 1753709782000,
-  "dependency_count": 21,
-  "ref_count": 17,
+  "version_latest": "6.5.236",
+  "ts_publish": 1753780668000,
+  "ts_update": 1753781220107,
+  "count_dep": 17,
+  "count_ref": 21,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
   "categories": [
     "Data Management",
     "Database"
   ],
-  "licenses": [
-    "Apache License, Version 2.0"
-  ],
-  "last_updated": 1753711019138
+  "dsv": 1
 }

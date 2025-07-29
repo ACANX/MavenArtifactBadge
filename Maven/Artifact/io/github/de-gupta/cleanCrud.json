@@ -3,9 +3,9 @@
   "description": "A library for implementing clean architecture based crud operations",
   "group_id": "io.github.de-gupta",
   "artifact_id": "cleanCrud",
-  "version_latest": "0.0.6",
-  "ts_publish": 1753778283000,
-  "ts_update": 1753778818841,
+  "version_latest": "0.0.7",
+  "ts_publish": 1753780788000,
+  "ts_update": 1753781219477,
   "count_dep": 57,
   "count_ref": 0,
   "licenses": [

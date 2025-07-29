@@ -3,11 +3,11 @@
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-common-jersey-client",
-  "version_latest": "6.5.235",
-  "ts_publish": 1753770473000,
-  "ts_update": 1753770826178,
+  "version_latest": "6.5.236",
+  "ts_publish": 1753780668000,
+  "ts_update": 1753781219478,
   "count_dep": 15,
-  "count_ref": 6,
+  "count_ref": 9,
   "licenses": [
     "Apache License, Version 2.0"
   ],
