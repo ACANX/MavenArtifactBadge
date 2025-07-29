@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kevinlee/refined4s-core_3",
+  "description": "refined4s-core",
+  "group_id": "io.kevinlee",
+  "artifact_id": "refined4s-core_3",
+  "version_latest": "1.2.0",
+  "ts_publish": 1753798895000,
+  "ts_update": 1753799645259,
+  "count_dep": 8,
+  "count_ref": 9,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
