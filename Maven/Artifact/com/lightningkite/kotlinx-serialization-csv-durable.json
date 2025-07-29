@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.lightningkite/kotlinx-serialization-csv-durable",
+  "description": "A format for KotlinX Serialization that handles CSV files with a header row.",
   "group_id": "com.lightningkite",
   "artifact_id": "kotlinx-serialization-csv-durable",
-  "latest_version": "0.2.11-1-local",
-  "description": "A tool for communication between a server using LightningServer and a client.",
-  "id": "pkg:maven/com.lightningkite/kotlinx-serialization-csv-durable",
-  "ts": 1753739652000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "0.2.18",
+  "ts_publish": 1753820806000,
+  "ts_update": 1753821416294,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753740418239
+  "categories": null,
+  "dsv": 1
 }
