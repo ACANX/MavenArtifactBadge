@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core",
+  "description": "Kotlin wrapper for Tanstack Virtual Core",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-tanstack-virtual-core",
-  "latest_version": "2025.7.13-3.13.12",
-  "description": "Kotlin wrapper for Tanstack Virtual Core",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-virtual-core",
-  "ts": 1753424384906,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-3.13.12",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796224913,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425632635
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

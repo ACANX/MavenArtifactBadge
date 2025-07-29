@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-base-js",
+  "description": "Kotlin wrapper for MUI Base UI",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-mui-base-js",
-  "latest_version": "2025.7.13-5.0.0-beta.40-1",
-  "description": "Kotlin wrapper for MUI Base UI",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-base-js",
-  "ts": 1753424204918,
-  "dependency_count": 1,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-5.0.0-beta.40-1",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796223089,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425416521
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

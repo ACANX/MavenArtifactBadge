@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-artifact",
+  "description": "Kotlin wrapper for GitHub Actions Artifact",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-actions-artifact",
-  "latest_version": "2025.7.13-2.3.2",
-  "description": "Kotlin wrapper for GitHub Actions Artifact",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-actions-artifact",
-  "ts": 1753424063876,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-2.3.2",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796224075,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425417965
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

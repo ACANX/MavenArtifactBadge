@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.exactpro.th2.gradle.grpc/com.exactpro.th2.gradle.grpc.gradle.plugin",
+  "description": "Plugin helps you configure project to generate source code from proto files for using in th2 components",
+  "group_id": "com.exactpro.th2.gradle.grpc",
+  "artifact_id": "com.exactpro.th2.gradle.grpc.gradle.plugin",
+  "version_latest": "0.3.0",
+  "ts_publish": 1753794441000,
+  "ts_update": 1753796225715,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

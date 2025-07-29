@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron-js",
+  "description": "Kotlin wrapper for Electron",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-electron-js",
-  "latest_version": "2025.7.13-33.2.1",
-  "description": "Kotlin wrapper for Electron",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-electron-js",
-  "ts": 1753424144293,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-33.2.1",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796222683,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425417232
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

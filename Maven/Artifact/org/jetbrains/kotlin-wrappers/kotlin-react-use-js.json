@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-use-js",
+  "description": "Kotlin wrapper for React Use",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-react-use-js",
-  "latest_version": "2025.7.13",
-  "description": "Kotlin wrapper for React Use",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-react-use-js",
-  "ts": 1753424346051,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15",
+  "ts_publish": 1753795071000,
+  "ts_update": 1753796221690,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425633937
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

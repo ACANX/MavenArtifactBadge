@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_3",
+  "description": "lucuma-core-testkit",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-core-testkit_sjs1_3",
-  "latest_version": "0.137.4",
-  "description": "lucuma-core-testkit",
-  "id": "pkg:maven/edu.gemini/lucuma-core-testkit_sjs1_3",
-  "ts": 1753458867000,
-  "dependency_count": 1,
-  "ref_count": 97,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.138.0",
+  "ts_publish": 1753795309000,
+  "ts_update": 1753796221687,
+  "count_dep": 97,
+  "count_ref": 1,
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753459618560
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-react",
+  "description": "Kotlin wrapper for Preact Signals React",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-preact-signals-react",
-  "latest_version": "2025.7.13-3.0.1",
-  "description": "Kotlin wrapper for Preact Signals React",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-preact-signals-react",
-  "ts": 1753424332729,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-3.0.1",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796222677,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425633938
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
