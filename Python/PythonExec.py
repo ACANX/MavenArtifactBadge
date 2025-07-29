@@ -39,7 +39,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     group_id = data.get("group_id", "")
     artifact_id = data.get("artifact_id", "")
     latest_version = data.get("latest_version", "N/A")
-    dependency_count = data.get("dependency_count", 0)
+    dep_count = data.get("dep_count", 0)
     ref_count = data.get("ref_count", 0)
     
     # 安全处理分类数据
@@ -83,7 +83,7 @@ def create_maven_artifact_badge_svg_file(data: dict):
     <text x="0" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold">最新版本:</text>
     <text x="110" y="70" font-family="Arial" font-size="18" fill="white" font-weight="bold"><tspan font-weight="bold">{latest_version}</tspan></text>
     <text x="0" y="100" font-family="Arial" font-size="18" fill="white" font-weight="bold">依赖数: </text>
-    <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dependency_count}</tspan></text>
+    <text x="110" y="100" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{dep_count}</tspan></text>
     <text x="0" y="130" font-family="Arial" font-size="18" fill="white" font-weight="bold">引用量: </text>  
     <text x="110" y="130" font-family="Arial" font-size="18" fill="white"><tspan font-weight="bold">{ref_count}</tspan></text>  
     <text x="0" y="160" font-family="Arial" font-size="18" fill="white" font-weight="bold">分类:</text>
