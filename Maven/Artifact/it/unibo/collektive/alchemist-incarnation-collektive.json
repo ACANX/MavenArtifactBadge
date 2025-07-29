@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/it.unibo.collektive/alchemist-incarnation-collektive",
+  "description": "Aggregate Computing in Kotlin",
+  "group_id": "it.unibo.collektive",
+  "artifact_id": "alchemist-incarnation-collektive",
+  "version_latest": "25.0.2-dev0x+acd94bd",
+  "ts_publish": 1753817116000,
+  "ts_update": 1753817821229,
+  "count_dep": 17,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

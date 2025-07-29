@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/it.unibo.collektive/collektive-dsl-js",
+  "description": "Aggregate Computing in Kotlin",
+  "group_id": "it.unibo.collektive",
+  "artifact_id": "collektive-dsl-js",
+  "version_latest": "25.0.2-dev0x+acd94bd",
+  "ts_publish": 1753817289000,
+  "ts_update": 1753817820591,
+  "count_dep": 5,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
