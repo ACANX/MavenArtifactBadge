@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.foldright/cffu-listenable-future",
+  "description": "Guava ListenableFuture Integration with CF",
   "group_id": "io.foldright",
   "artifact_id": "cffu-listenable-future",
-  "latest_version": "1.1.7-Alpha",
-  "description": "Guava ListenableFuture Integration with CF",
-  "id": "pkg:maven/io.foldright/cffu-listenable-future",
-  "ts": 1753700222000,
-  "dependency_count": 0,
-  "ref_count": 23,
-  "categories": null,
+  "version_latest": "1.1.8-Alpha",
+  "ts_publish": 1753809973000,
+  "ts_update": 1753810622680,
+  "count_dep": 23,
+  "count_ref": 0,
   "licenses": [
     "Apache 2"
   ],
-  "last_updated": 1753700819466
+  "categories": null,
+  "dsv": 1
 }
