@@ -3,9 +3,9 @@
   "description": "Official MailSlurp email API - create real inboxes then send and receive emails and attachments from tests and code.",
   "group_id": "com.mailslurp",
   "artifact_id": "mailslurp-client-java",
-  "version_latest": "16.2.3",
-  "ts_publish": 1753824568000,
-  "ts_update": 1753825224644,
+  "version_latest": "16.2.4",
+  "ts_publish": 1753826900000,
+  "ts_update": 1753827420460,
   "count_dep": 22,
   "count_ref": 0,
   "licenses": [
