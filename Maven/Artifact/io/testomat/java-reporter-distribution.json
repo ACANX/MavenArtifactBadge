@@ -1,15 +1,15 @@
 {
   "group_id": "io.testomat",
   "artifact_id": "java-reporter-distribution",
-  "latest_version": "0.6.44",
+  "latest_version": "0.6.46",
   "description": "Distribution module for Testomat.io Java test reporting library\n        with framework-specific classifiers",
   "id": "pkg:maven/io.testomat/java-reporter-distribution",
-  "ts": 1753747594000,
+  "ts": 1753749987000,
   "dependency_count": 0,
   "ref_count": 8,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753748284658
+  "last_updated": 1753750619295
 }
