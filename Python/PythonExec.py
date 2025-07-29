@@ -129,17 +129,17 @@ def create_maven_artifact_json_file(data: dict):
     
     # 准备要保存的数据（排除不需要的字段）
     save_data = {
+        "id": data.get("id", ""),
         "group_id": group_id,
         "artifact_id": artifact_id,
         "latest_version": data.get("latest_version", "N/A"),
-        "description": data.get("description", ""),
-        "id": data.get("id", ""),
         "ts": data.get("ts", 0),
-        "dependency_count": data.get("dependency_count", 0),
-        "ref_count": data.get("ref_count", 0),
-        "categories": data.get("categories", []),
+        "last_updated": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
+        "description": data.get("description", ""),
         "licenses": data.get("licenses", []),
-        "last_updated": int(time.time() * 1000)  # 添加当前时间戳作为最后更新时间
+        "dep_count": data.get("dep_count", 0),
+        "ref_count": data.get("ref_count", 0),
+        "categories": data.get("categories", [])
     }
     try:
         # 写入JSON文件
@@ -186,15 +186,15 @@ def fetch_maven_components_page(page: int) -> List[Dict[str, Any]]:
 def parse_component_data(component: Dict[str, Any]) -> Dict[str, Any]:
     """解析单个构件元数据"""
     return {
+        "id": component.get("id", ""),
         "group_id": component.get("namespace", ""),
         "artifact_id": component.get("name", ""),
         "latest_version": component.get("latestVersionInfo", {}).get("version", "N/A"),
         "ts": component.get("latestVersionInfo", {}).get("timestampUnixWithMS", int(time.time() * 1000-300*1000)),
-        "dependency_count": component.get("dependencyOfCount", 0),
-        "ref_count": component.get("dependentOnCount", 0),
         "description": component.get("description", ""),
-        "id": component.get("id", ""),
         "licenses": component.get("latestVersionInfo", {}).get("licenses", []),
+        "dep_count": component.get("dependencyOfCount", 0),
+        "ref_count": component.get("dependentOnCount", 0),
         "categories": component.get("categories", [])
     }
 
