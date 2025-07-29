@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cloud.mindbox/mindbox-common",
+  "description": "Mindbox Common SDK",
   "group_id": "cloud.mindbox",
   "artifact_id": "mindbox-common",
-  "latest_version": "1.0.1",
-  "description": "Mindbox Common SDK",
-  "id": "pkg:maven/cloud.mindbox/mindbox-common",
-  "ts": 1753723163000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.0.2",
+  "ts_publish": 1753806700000,
+  "ts_update": 1753807622695,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "The Mindbox License"
   ],
-  "last_updated": 1753723542924
+  "categories": null,
+  "dsv": 1
 }

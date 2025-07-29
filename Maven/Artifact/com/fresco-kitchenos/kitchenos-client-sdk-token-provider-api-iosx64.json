@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-token-provider-api-iosx64",
+  "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-token-provider-api-iosx64",
-  "latest_version": "1.37.1",
-  "description": "A KMP library to interact with KitchenOS.",
-  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-token-provider-api-iosx64",
-  "ts": 1753286506000,
-  "dependency_count": 9,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "1.37.2",
+  "ts_publish": 1753806653000,
+  "ts_update": 1753807624831,
+  "count_dep": 4,
+  "count_ref": 9,
   "licenses": [
     "Fresco License"
   ],
-  "last_updated": 1753287419946
+  "categories": null,
+  "dsv": 1
 }
