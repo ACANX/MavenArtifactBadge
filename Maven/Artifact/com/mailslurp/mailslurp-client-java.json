@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.mailslurp/mailslurp-client-java",
+  "description": "Official MailSlurp email API - create real inboxes then send and receive emails and attachments from tests and code.",
+  "group_id": "com.mailslurp",
+  "artifact_id": "mailslurp-client-java",
+  "version_latest": "16.2.3",
+  "ts_publish": 1753824568000,
+  "ts_update": 1753825224644,
+  "count_dep": 22,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
