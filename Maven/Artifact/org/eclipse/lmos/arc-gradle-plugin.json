@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.lmos/arc-gradle-plugin",
+  "description": "ARC is an AI framework.",
   "group_id": "org.eclipse.lmos",
   "artifact_id": "arc-gradle-plugin",
-  "latest_version": "0.143.0",
-  "description": "ARC is an AI framework.",
-  "id": "pkg:maven/org.eclipse.lmos/arc-gradle-plugin",
-  "ts": 1753259165000,
-  "dependency_count": 1,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "0.144.0",
+  "ts_publish": 1753776078000,
+  "ts_update": 1753777020682,
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753259817067
+  "categories": null,
+  "dsv": 1
 }

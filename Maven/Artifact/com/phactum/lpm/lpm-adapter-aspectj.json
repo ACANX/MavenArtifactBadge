@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.phactum.lpm/lpm-adapter-aspectj",
+  "description": "Adapter for generating signals for process monitoring using AspectJ",
+  "group_id": "com.phactum.lpm",
+  "artifact_id": "lpm-adapter-aspectj",
+  "version_latest": "0.9.7",
+  "ts_publish": 1753776167000,
+  "ts_update": 1753777020681,
+  "count_dep": 10,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

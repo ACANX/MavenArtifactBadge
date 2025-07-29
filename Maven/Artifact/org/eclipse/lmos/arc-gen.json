@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.lmos/arc-gen",
+  "description": "ARC is an AI framework.",
   "group_id": "org.eclipse.lmos",
   "artifact_id": "arc-gen",
-  "latest_version": "0.143.0",
-  "description": "ARC is an AI framework.",
-  "id": "pkg:maven/org.eclipse.lmos/arc-gen",
-  "ts": 1753259165000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "0.144.0",
+  "ts_publish": 1753776078000,
+  "ts_update": 1753777020683,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753259817067
+  "categories": null,
+  "dsv": 1
 }
