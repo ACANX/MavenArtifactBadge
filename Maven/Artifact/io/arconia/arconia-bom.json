@@ -3,9 +3,9 @@
   "description": "Arconia Bill of Materials.",
   "group_id": "io.arconia",
   "artifact_id": "arconia-bom",
-  "version_latest": "0.14.0",
-  "ts_publish": 1753811198000,
-  "ts_update": 1753811787743,
+  "version_latest": "0.14.1",
+  "ts_publish": 1753821577000,
+  "ts_update": 1753822620578,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
