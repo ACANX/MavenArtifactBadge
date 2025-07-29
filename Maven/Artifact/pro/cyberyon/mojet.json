@@ -3,10 +3,10 @@
   "description": "An extended spring-batch bean wrapper",
   "group_id": "pro.cyberyon",
   "artifact_id": "mojet",
-  "version_latest": "1.2.3",
-  "ts_publish": 1753778559000,
-  "ts_update": 1753779337016,
-  "count_dep": 18,
+  "version_latest": "1.2.4",
+  "ts_publish": 1753789127000,
+  "ts_update": 1753789622269,
+  "count_dep": 20,
   "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"

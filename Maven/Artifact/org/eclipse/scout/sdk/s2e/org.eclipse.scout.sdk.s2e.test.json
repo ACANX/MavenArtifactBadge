@@ -3,9 +3,9 @@
   "description": "Eclipse Scout SDK",
   "group_id": "org.eclipse.scout.sdk.s2e",
   "artifact_id": "org.eclipse.scout.sdk.s2e.test",
-  "version_latest": "14.0.10",
-  "ts_publish": 1753778617000,
-  "ts_update": 1753779337012,
+  "version_latest": "14.0.11",
+  "ts_publish": 1753789138000,
+  "ts_update": 1753789622265,
   "count_dep": 146,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Eclipse Scout SDK",
   "group_id": "org.eclipse.scout.sdk",
   "artifact_id": "org.eclipse.scout.sdk.core.typescript.test",
-  "version_latest": "14.0.10",
-  "ts_publish": 1753778617000,
-  "ts_update": 1753779337010,
+  "version_latest": "14.0.11",
+  "ts_publish": 1753789138000,
+  "ts_update": 1753789622268,
   "count_dep": 16,
   "count_ref": 3,
   "licenses": [
