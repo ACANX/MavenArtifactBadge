@@ -1,0 +1,17 @@
+{
+  "group_id": "io.github.react-native-tvos",
+  "artifact_id": "react-native-artifacts",
+  "latest_version": "0.81.0-0rc2",
+  "description": "A framework for building native apps with React",
+  "id": "pkg:maven/io.github.react-native-tvos/react-native-artifacts",
+  "ts": 1753752878000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753754222204
+}

@@ -1,10 +1,10 @@
 {
   "group_id": "io.gitee.zhangbinhub.acp",
   "artifact_id": "acp-solon-dependency",
-  "latest_version": "2025.6.0",
+  "latest_version": "2025.6.1-M1",
   "description": "Application Construction Platform 应用构建平台",
   "id": "pkg:maven/io.gitee.zhangbinhub.acp/acp-solon-dependency",
-  "ts": 1753718499000,
+  "ts": 1753753445000,
   "dependency_count": 0,
   "ref_count": 0,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753720020424
+  "last_updated": 1753754221551
 }
