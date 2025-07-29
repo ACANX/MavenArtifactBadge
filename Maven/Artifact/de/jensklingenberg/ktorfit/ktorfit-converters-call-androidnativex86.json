@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/de.jensklingenberg.ktorfit/ktorfit-converters-call-androidnativex86",
+  "description": "Ktorfit",
   "group_id": "de.jensklingenberg.ktorfit",
   "artifact_id": "ktorfit-converters-call-androidnativex86",
-  "latest_version": "2.6.3",
-  "description": "Ktorfit",
-  "id": "pkg:maven/de.jensklingenberg.ktorfit/ktorfit-converters-call-androidnativex86",
-  "ts": 1753647644000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.6.4",
+  "ts_publish": 1753771603000,
+  "ts_update": 1753772336132,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753648621095
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
