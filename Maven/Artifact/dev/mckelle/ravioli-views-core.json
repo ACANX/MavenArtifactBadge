@@ -3,9 +3,9 @@
   "description": "A modern, React-inspired GUI library for Paper/Spigot servers that uses a declarative, component-based architecture with hooks to simplify the creation of complex, reactive inventory UIs.",
   "group_id": "dev.mckelle",
   "artifact_id": "ravioli-views-core",
-  "version_latest": "1.0.12",
-  "ts_publish": 1753790574000,
-  "ts_update": 1753793728055,
+  "version_latest": "1.0.13",
+  "ts_publish": 1753822145000,
+  "ts_update": 1753822686930,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
