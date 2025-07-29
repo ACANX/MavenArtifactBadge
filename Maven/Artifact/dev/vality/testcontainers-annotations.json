@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.vality/testcontainers-annotations",
+  "description": "testcontainers-annotations",
+  "group_id": "dev.vality",
+  "artifact_id": "testcontainers-annotations",
+  "version_latest": "3.2.0001",
+  "ts_publish": 1753773986000,
+  "ts_update": 1753774622090,
+  "count_dep": 160,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

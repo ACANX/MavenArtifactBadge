@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/pl.iterators/kebs-instances_sjs1_3",
+  "description": "Standard type mappings",
+  "group_id": "pl.iterators",
+  "artifact_id": "kebs-instances_sjs1_3",
+  "version_latest": "2.1.3",
+  "ts_publish": 1753774178000,
+  "ts_update": 1753774620784,
+  "count_dep": 20,
+  "count_ref": 4,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
+}
