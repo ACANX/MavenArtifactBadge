@@ -1,0 +1,17 @@
+{
+  "id": "pkg:maven/io.github.devaro95.vro/vro-core-iosx64",
+  "description": "Módulo principal de VRO",
+  "group_id": "io.github.devaro95.vro",
+  "artifact_id": "vro-core-iosx64",
+  "version_latest": "1.0.0",
+  "ts_publish": 1753815976000,
+  "ts_update": 1753816619560,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License",
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
