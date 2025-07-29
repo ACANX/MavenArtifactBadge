@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.ossreviewtoolkit.plugins.advisors/vulnerable-code-advisor",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
+  "group_id": "org.ossreviewtoolkit.plugins.advisors",
+  "artifact_id": "vulnerable-code-advisor",
+  "version_latest": "64.1.0",
+  "ts_publish": 1753777501000,
+  "ts_update": 1753778218897,
+  "count_dep": 8,
+  "count_ref": 2,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

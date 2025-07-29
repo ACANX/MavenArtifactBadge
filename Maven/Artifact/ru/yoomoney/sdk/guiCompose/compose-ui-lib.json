@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib",
+  "description": "Yoomoney compose UI Library",
   "group_id": "ru.yoomoney.sdk.guiCompose",
   "artifact_id": "compose-ui-lib",
-  "latest_version": "3.5.6",
-  "description": "Yoomoney compose UI Library",
-  "id": "pkg:maven/ru.yoomoney.sdk.guiCompose/compose-ui-lib",
-  "ts": 1753341244000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.7",
+  "ts_publish": 1753777506000,
+  "ts_update": 1753778217034,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753342017800
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

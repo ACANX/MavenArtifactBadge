@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.ossreviewtoolkit.clients/foojay",
+  "description": "A client to communicate with Foojay's Disco(very) API for JDKs / JREs.",
   "group_id": "org.ossreviewtoolkit.clients",
   "artifact_id": "foojay",
-  "latest_version": "64.0.0",
-  "description": "A client to communicate with Foojay's Disco(very) API for JDKs / JREs.",
-  "id": "pkg:maven/org.ossreviewtoolkit.clients/foojay",
-  "ts": 1753341712000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": null,
+  "version_latest": "64.1.0",
+  "ts_publish": 1753777501000,
+  "ts_update": 1753778219413,
+  "count_dep": 16,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753342200291
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.ossreviewtoolkit/downloader",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit",
   "artifact_id": "downloader",
-  "latest_version": "64.0.0",
-  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
-  "id": "pkg:maven/org.ossreviewtoolkit/downloader",
-  "ts": 1753341712000,
-  "dependency_count": 5,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "64.1.0",
+  "ts_publish": 1753777501000,
+  "ts_update": 1753778217547,
+  "count_dep": 7,
+  "count_ref": 43,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753342199710
+  "categories": null,
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "ScaleCube is a lightweight decentralized cluster membership, failure detection, messaging and\n    gossip protocol library for the Java VM.",
   "group_id": "io.scalecube",
   "artifact_id": "scalecube-parent",
-  "version_latest": "0.3.12",
-  "ts_publish": 1753777275000,
-  "ts_update": 1753777775651,
+  "version_latest": "0.3.13.test-pre-release.rc1",
+  "ts_publish": 1753777460000,
+  "ts_update": 1753778220479,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
