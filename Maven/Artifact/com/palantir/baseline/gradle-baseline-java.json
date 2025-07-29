@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.palantir.baseline/gradle-baseline-java",
+  "description": "A Gradle plugin for applying Baseline-recommended build and IDE settings",
   "group_id": "com.palantir.baseline",
   "artifact_id": "gradle-baseline-java",
-  "latest_version": "6.48.0",
-  "description": "A Gradle plugin for applying Baseline-recommended build and IDE settings",
-  "id": "pkg:maven/com.palantir.baseline/gradle-baseline-java",
-  "ts": 1753272140000,
-  "dependency_count": 0,
-  "ref_count": 18,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "6.49.0",
+  "ts_publish": 1753779144000,
+  "ts_update": 1753780016668,
+  "count_dep": 18,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753273020446
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
