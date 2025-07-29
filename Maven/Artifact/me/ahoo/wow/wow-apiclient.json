@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/me.ahoo.wow/wow-apiclient",
+  "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
   "group_id": "me.ahoo.wow",
   "artifact_id": "wow-apiclient",
-  "latest_version": "5.26.8",
-  "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
-  "id": "pkg:maven/me.ahoo.wow/wow-apiclient",
-  "ts": 1753753219000,
-  "dependency_count": 1,
-  "ref_count": 43,
-  "categories": null,
+  "version_latest": "5.26.9",
+  "ts_publish": 1753765564000,
+  "ts_update": 1753766218062,
+  "count_dep": 8,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753754222199
+  "categories": null,
+  "dsv": 1
 }
