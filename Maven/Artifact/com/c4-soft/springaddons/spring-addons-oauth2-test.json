@@ -3,9 +3,9 @@
   "description": "Annotations to mock Spring OAuth2 Authentication during tests",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons-oauth2-test",
-  "version_latest": "9.0.1-M1",
-  "ts_publish": 1753773655000,
-  "ts_update": 1753774019036,
+  "version_latest": "9.0.2-M1",
+  "ts_publish": 1753832881000,
+  "ts_update": 1753833422311,
   "count_dep": 49,
   "count_ref": 2,
   "licenses": [
