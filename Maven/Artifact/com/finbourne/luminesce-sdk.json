@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.finbourne/luminesce-sdk",
+  "description": "luminesce",
   "group_id": "com.finbourne",
   "artifact_id": "luminesce-sdk",
-  "latest_version": "2.0.453",
-  "description": "luminesce",
-  "id": "pkg:maven/com.finbourne/luminesce-sdk",
-  "ts": 1753459179000,
-  "dependency_count": 0,
-  "ref_count": 28,
-  "categories": null,
+  "version_latest": "2.0.454",
+  "ts_publish": 1753818943000,
+  "ts_update": 1753819618562,
+  "count_dep": 28,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753459618002
+  "categories": null,
+  "dsv": 1
 }
