@@ -3,9 +3,9 @@
   "description": "Pulsate SDK",
   "group_id": "com.pulsatehq.sdk",
   "artifact_id": "PulsateSdk",
-  "version_latest": "4.7.14",
-  "ts_publish": 1753801618000,
-  "ts_update": 1753802220880,
+  "version_latest": "4.7.15",
+  "ts_publish": 1753824807000,
+  "ts_update": 1753825618687,
   "count_dep": 55,
   "count_ref": 0,
   "licenses": [

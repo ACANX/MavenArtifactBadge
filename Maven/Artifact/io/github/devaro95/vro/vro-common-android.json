@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/io.github.devaro95.vro/vro-core-android",
-  "description": "VRO Core Module",
+  "id": "pkg:maven/io.github.devaro95.vro/vro-common-android",
+  "description": "VRO Common Module",
   "group_id": "io.github.devaro95.vro",
-  "artifact_id": "vro-core-android",
+  "artifact_id": "vro-common-android",
   "version_latest": "1.0.1",
   "ts_publish": 1753824806000,
-  "ts_update": 1753825618691,
-  "count_dep": 10,
-  "count_ref": 0,
+  "ts_update": 1753825618693,
+  "count_dep": 2,
+  "count_ref": 1,
   "licenses": [
     "MIT License",
     "The Apache Software License, Version 2.0"
