@@ -3,9 +3,9 @@
   "description": "baklava-specs2",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-specs2_3",
-  "version_latest": "1.0.4",
-  "ts_publish": 1753782544000,
-  "ts_update": 1753784221507,
+  "version_latest": "1.0.5",
+  "ts_publish": 1753785439000,
+  "ts_update": 1753786022067,
   "count_dep": 25,
   "count_ref": 0,
   "licenses": [

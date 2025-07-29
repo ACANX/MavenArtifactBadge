@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.ralfspoeth/json",
+  "description": "This project implements a JSON parser and serializer\n        which operates around immutable data structures for\n        the JSON elements.",
   "group_id": "io.github.ralfspoeth",
   "artifact_id": "json",
-  "latest_version": "1.2.0.alpha1",
-  "description": "This project implements a JSON parser and serializer\n        which operates around immutable data structures for\n        the JSON elements.",
-  "id": "pkg:maven/io.github.ralfspoeth/json",
-  "ts": 1753253303000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "1.2.0.alpha2",
+  "ts_publish": 1753785308000,
+  "ts_update": 1753786022580,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753253706856
+  "categories": null,
+  "dsv": 1
 }

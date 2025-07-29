@@ -3,9 +3,9 @@
   "description": "baklava-pekko-http",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-pekko-http_3",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753774465000,
-  "ts_update": 1753775220441,
+  "version_latest": "1.0.5",
+  "ts_publish": 1753785439000,
+  "ts_update": 1753786022064,
   "count_dep": 30,
   "count_ref": 1,
   "licenses": [
