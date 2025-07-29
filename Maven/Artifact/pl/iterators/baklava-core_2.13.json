@@ -3,9 +3,9 @@
   "description": "baklava-core",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-core_2.13",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753785439000,
-  "ts_update": 1753786022063,
+  "version_latest": "1.0.6",
+  "ts_publish": 1753799996000,
+  "ts_update": 1753801624221,
   "count_dep": 23,
   "count_ref": 8,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "baklava-openapi",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-openapi_3",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753785439000,
-  "ts_update": 1753786022066,
+  "version_latest": "1.0.6",
+  "ts_publish": 1753799996000,
+  "ts_update": 1753801624726,
   "count_dep": 81,
   "count_ref": 0,
   "licenses": [

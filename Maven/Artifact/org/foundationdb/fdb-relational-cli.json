@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.foundationdb/fdb-relational-cli",
+  "description": "Relational CLI (Connects to FDB Relational Layer via JDBC)",
+  "group_id": "org.foundationdb",
+  "artifact_id": "fdb-relational-cli",
+  "version_latest": "4.5.1.0",
+  "ts_publish": 1753799869000,
+  "ts_update": 1753801625187,
+  "count_dep": 22,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

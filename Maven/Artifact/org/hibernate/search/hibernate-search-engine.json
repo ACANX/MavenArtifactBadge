@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.search/hibernate-search-engine",
+  "description": "Hibernate Search engine, always required",
+  "group_id": "org.hibernate.search",
+  "artifact_id": "hibernate-search-engine",
+  "version_latest": "8.1.0.Alpha1",
+  "ts_publish": 1753800930000,
+  "ts_update": 1753801623610,
+  "count_dep": 4,
+  "count_ref": 13,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

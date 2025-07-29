@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.foundationdb/fdb-extensions",
+  "description": "Extensions to the FoundationDB Java API.",
+  "group_id": "org.foundationdb",
+  "artifact_id": "fdb-extensions",
+  "version_latest": "4.5.1.0",
+  "ts_publish": 1753799869000,
+  "ts_update": 1753801625188,
+  "count_dep": 4,
+  "count_ref": 5,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

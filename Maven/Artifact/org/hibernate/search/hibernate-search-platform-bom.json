@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.search/hibernate-search-platform-bom",
+  "description": "Hibernate Search Root POM",
+  "group_id": "org.hibernate.search",
+  "artifact_id": "hibernate-search-platform-bom",
+  "version_latest": "8.1.0.Alpha1",
+  "ts_publish": 1753800930000,
+  "ts_update": 1753801623609,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

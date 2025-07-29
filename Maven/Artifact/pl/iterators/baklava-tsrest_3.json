@@ -3,9 +3,9 @@
   "description": "baklava-tsrest",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-tsrest_3",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753785439000,
-  "ts_update": 1753786022065,
+  "version_latest": "1.0.6",
+  "ts_publish": 1753799996000,
+  "ts_update": 1753801624724,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [
