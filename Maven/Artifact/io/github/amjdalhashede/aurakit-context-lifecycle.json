@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.amjdalhashede/aurakit-context-lifecycle",
+  "description": "AuraKit aurakit-context-lifecycle module – modular Android framework for multimedia processing.",
+  "group_id": "io.github.amjdalhashede",
+  "artifact_id": "aurakit-context-lifecycle",
+  "version_latest": "0.0.1-alpha",
+  "ts_publish": 1753818484000,
+  "ts_update": 1753819018252,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
