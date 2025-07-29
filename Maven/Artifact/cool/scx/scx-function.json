@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/cool.scx/scx-function",
+  "description": "SCX Function",
+  "group_id": "cool.scx",
+  "artifact_id": "scx-function",
+  "version_latest": "0.0.1",
+  "ts_publish": 1753762082000,
+  "ts_update": 1753762621031,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}
