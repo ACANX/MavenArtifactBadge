@@ -3,9 +3,9 @@
   "description": "Internal part of Kotlin Jupyter API used only inside notebook cells",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-lib",
-  "version_latest": "0.15.0-569",
-  "ts_publish": 1753791010000,
-  "ts_update": 1753795628957,
+  "version_latest": "0.15.0-570",
+  "ts_publish": 1753812512000,
+  "ts_update": 1753813018686,
   "count_dep": 3,
   "count_ref": 4,
   "licenses": [

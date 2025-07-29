@@ -3,9 +3,9 @@
   "description": "Notebook API entities used for building kernel documentation",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-common-dependencies",
-  "version_latest": "0.15.0-569",
-  "ts_publish": 1753791010000,
-  "ts_update": 1753795629554,
+  "version_latest": "0.15.0-570",
+  "ts_publish": 1753812512000,
+  "ts_update": 1753813018688,
   "count_dep": 6,
   "count_ref": 4,
   "licenses": [

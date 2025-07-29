@@ -3,9 +3,9 @@
   "description": "ZeroMQ-specific implementation of Jupyter protocol for kernel communication",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-zmq-protocol",
-  "version_latest": "0.15.0-569",
-  "ts_publish": 1753791010000,
-  "ts_update": 1753795628955,
+  "version_latest": "0.15.0-570",
+  "ts_publish": 1753812512000,
+  "ts_update": 1753813018687,
   "count_dep": 4,
   "count_ref": 2,
   "licenses": [
