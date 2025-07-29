@@ -3,9 +3,9 @@
   "description": "Plugin helps you configure project to generate source code from proto files for using in th2 components",
   "group_id": "com.exactpro.th2.gradle.grpc",
   "artifact_id": "com.exactpro.th2.gradle.grpc.gradle.plugin",
-  "version_latest": "0.3.0",
-  "ts_publish": 1753794441000,
-  "ts_update": 1753796225715,
+  "version_latest": "0.3.1",
+  "ts_publish": 1753797515000,
+  "ts_update": 1753798021231,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
