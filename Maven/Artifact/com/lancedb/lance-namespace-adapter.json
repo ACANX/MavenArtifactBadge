@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.lancedb/lance-namespace-adapter",
+  "description": "Lance Namespace server adapter",
   "group_id": "com.lancedb",
   "artifact_id": "lance-namespace-adapter",
-  "latest_version": "0.0.3",
-  "description": "Lance Namespace server adapter",
-  "id": "pkg:maven/com.lancedb/lance-namespace-adapter",
-  "ts": 1753681928000,
-  "dependency_count": 0,
-  "ref_count": 80,
-  "categories": null,
+  "version_latest": "0.0.4",
+  "ts_publish": 1753761202000,
+  "ts_update": 1753761537278,
+  "count_dep": 80,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753682215312
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cc.meteormc/packetlistener",
+  "description": "A lightweight and easy-to-use packet listener API library.",
   "group_id": "cc.meteormc",
   "artifact_id": "packetlistener",
-  "latest_version": "1.2",
-  "description": "A lightweight and easy-to-use packet listener API library.",
-  "id": "pkg:maven/cc.meteormc/packetlistener",
-  "ts": 1753751159000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "1.2.1",
+  "ts_publish": 1753761168000,
+  "ts_update": 1753761537282,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753751548811
+  "categories": null,
+  "dsv": 1
 }

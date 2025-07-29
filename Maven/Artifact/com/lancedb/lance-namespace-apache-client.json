@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.lancedb/lance-namespace-apache-client",
+  "description": "OpenAPI Java",
   "group_id": "com.lancedb",
   "artifact_id": "lance-namespace-apache-client",
-  "latest_version": "0.0.3",
-  "description": "OpenAPI Java",
-  "id": "pkg:maven/com.lancedb/lance-namespace-apache-client",
-  "ts": 1753681928000,
-  "dependency_count": 5,
-  "ref_count": 20,
-  "categories": null,
+  "version_latest": "0.0.4",
+  "ts_publish": 1753761202000,
+  "ts_update": 1753761537280,
+  "count_dep": 20,
+  "count_ref": 5,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753682215313
+  "categories": null,
+  "dsv": 1
 }

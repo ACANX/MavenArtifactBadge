@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.dua3.license/license",
+  "description": "License management library.",
   "group_id": "com.dua3.license",
   "artifact_id": "license",
-  "latest_version": "0.1.0-beta3.1",
-  "description": "License management library.",
-  "id": "pkg:maven/com.dua3.license/license",
-  "ts": 1753429249000,
-  "dependency_count": 1,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "0.1.0-beta4",
+  "ts_publish": 1753761199000,
+  "ts_update": 1753761537281,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753429514719
+  "categories": null,
+  "dsv": 1
 }
