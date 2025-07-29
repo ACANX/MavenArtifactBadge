@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.ditto/ditto-rql-search-option-parser",
+  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
   "group_id": "org.eclipse.ditto",
   "artifact_id": "ditto-rql-search-option-parser",
-  "latest_version": "3.8.0-M2",
-  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
-  "id": "pkg:maven/org.eclipse.ditto/ditto-rql-search-option-parser",
-  "ts": 1753379172000,
-  "dependency_count": 4,
-  "ref_count": 12,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.8.0-M3",
+  "ts_publish": 1753785999000,
+  "ts_update": 1753786618322,
+  "count_dep": 10,
+  "count_ref": 2,
   "licenses": [
     "Eclipse Public License - Version 2.0"
   ],
-  "last_updated": 1753379816708
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
