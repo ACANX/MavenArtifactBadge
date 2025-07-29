@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-kotlinlib_3",
+  "description": "mill-libs-kotlinlib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-kotlinlib_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-kotlinlib",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-kotlinlib_3",
-  "ts": 1753700464000,
-  "dependency_count": 3,
-  "ref_count": 10,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772685000,
+  "ts_update": 1753773418837,
+  "count_dep": 40,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701427688
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

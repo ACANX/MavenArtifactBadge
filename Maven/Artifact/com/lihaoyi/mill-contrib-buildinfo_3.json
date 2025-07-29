@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-buildinfo_3",
+  "description": "mill-contrib-buildinfo",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-buildinfo_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-contrib-buildinfo",
-  "id": "pkg:maven/com.lihaoyi/mill-contrib-buildinfo_3",
-  "ts": 1753700263000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772546000,
+  "ts_update": 1753773421000,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701429528
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

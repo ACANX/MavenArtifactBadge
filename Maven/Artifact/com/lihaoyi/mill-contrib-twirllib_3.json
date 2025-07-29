@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-twirllib_3",
+  "description": "mill-contrib-twirllib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-twirllib_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-contrib-twirllib",
-  "id": "pkg:maven/com.lihaoyi/mill-contrib-twirllib_3",
-  "ts": 1753700315000,
-  "dependency_count": 1,
-  "ref_count": 8,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772582000,
+  "ts_update": 1753773420492,
+  "count_dep": 8,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428855
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-core-constants",
+  "description": "mill-core-constants",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-constants",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-core-constants",
-  "id": "pkg:maven/com.lihaoyi/mill-core-constants",
-  "ts": 1753700328000,
-  "dependency_count": 27,
-  "ref_count": 0,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772592000,
+  "ts_update": 1753773419996,
+  "count_dep": 0,
+  "count_ref": 29,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428853
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

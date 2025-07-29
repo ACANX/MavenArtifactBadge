@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.vonce/vonce-validator-core",
+  "description": "This is the core project of Validator.",
   "group_id": "cn.vonce",
   "artifact_id": "vonce-validator-core",
-  "latest_version": "1.0.0-beta1",
-  "description": "This is the core project of Validator.",
-  "id": "pkg:maven/cn.vonce/vonce-validator-core",
-  "ts": 1753667410000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.0.0-beta2",
+  "ts_publish": 1753772629000,
+  "ts_update": 1753773419993,
+  "count_dep": 1,
+  "count_ref": 2,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753667820295
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

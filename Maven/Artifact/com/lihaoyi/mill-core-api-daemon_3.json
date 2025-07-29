@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-core-api-daemon_3",
+  "description": "mill-core-api-daemon",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-api-daemon_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-core-api-daemon",
-  "id": "pkg:maven/com.lihaoyi/mill-core-api-daemon_3",
-  "ts": 1753700322000,
-  "dependency_count": 24,
-  "ref_count": 9,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772588000,
+  "ts_update": 1753773419996,
+  "count_dep": 9,
+  "count_ref": 26,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428855
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

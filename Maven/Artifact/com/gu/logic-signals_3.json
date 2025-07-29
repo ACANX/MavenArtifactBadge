@@ -3,10 +3,10 @@
   "description": "logic-signals",
   "group_id": "com.gu",
   "artifact_id": "logic-signals_3",
-  "version_latest": "2.1.0",
-  "ts_publish": 1753765544000,
-  "ts_update": 1753766218793,
-  "count_dep": 35,
+  "version_latest": "2.1.1",
+  "ts_publish": 1753772315000,
+  "ts_update": 1753773421001,
+  "count_dep": 34,
   "count_ref": 0,
   "licenses": [
     "Apache-2.0"

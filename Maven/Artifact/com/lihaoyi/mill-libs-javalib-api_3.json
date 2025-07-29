@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-api_3",
+  "description": "mill-libs-javalib-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-api_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-javalib-api",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-api_3",
-  "ts": 1753700413000,
-  "dependency_count": 12,
-  "ref_count": 26,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772651000,
+  "ts_update": 1753773419349,
+  "count_dep": 26,
+  "count_ref": 15,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428310
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

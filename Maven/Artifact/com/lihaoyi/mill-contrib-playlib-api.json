@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-playlib-api",
+  "description": "mill-contrib-playlib-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-playlib-api",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-contrib-playlib-api",
-  "id": "pkg:maven/com.lihaoyi/mill-contrib-playlib-api",
-  "ts": 1753700280000,
-  "dependency_count": 6,
-  "ref_count": 0,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1753772558000,
+  "ts_update": 1753773420500,
+  "count_dep": 0,
+  "count_ref": 6,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701429524
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }
