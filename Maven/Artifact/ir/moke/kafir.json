@@ -3,9 +3,9 @@
   "description": "Java http rest client",
   "group_id": "ir.moke",
   "artifact_id": "kafir",
-  "version_latest": "1.4.8",
-  "ts_publish": 1753805009000,
-  "ts_update": 1753805818089,
+  "version_latest": "1.4.9",
+  "ts_publish": 1753806133000,
+  "ts_update": 1753806656022,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
