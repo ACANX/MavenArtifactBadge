@@ -193,8 +193,8 @@ def parse_component_data(component: Dict[str, Any]) -> Dict[str, Any]:
         "ts": component.get("latestVersionInfo", {}).get("timestampUnixWithMS", int(time.time() * 1000-300*1000)),
         "description": component.get("description", ""),
         "licenses": component.get("latestVersionInfo", {}).get("licenses", []),
-        "dep_count": component.get("dependencyOfCount", 0),
-        "ref_count": component.get("dependentOnCount", 0),
+        "dep_count": component.get("dependentOnCount", 0),
+        "ref_count": component.get("dependencyOfCount", 0),
         "categories": component.get("categories", [])
     }
 
