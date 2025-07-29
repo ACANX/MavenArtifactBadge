@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.regnosys/ingest-test-framework",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "group_id": "com.regnosys",
+  "artifact_id": "ingest-test-framework",
+  "version_latest": "11.75.0",
+  "ts_publish": 1753786520000,
+  "ts_update": 1753787219159,
+  "count_dep": 164,
+  "count_ref": 0,
+  "licenses": [
+    "Rosetta Licence"
+  ],
+  "categories": null,
+  "dsv": 1
+}

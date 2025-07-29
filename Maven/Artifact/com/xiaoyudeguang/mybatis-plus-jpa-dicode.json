@@ -3,9 +3,9 @@
   "description": "低码脚手架",
   "group_id": "com.xiaoyudeguang",
   "artifact_id": "mybatis-plus-jpa-dicode",
-  "version_latest": "1.0.10",
-  "ts_publish": 1753782785000,
-  "ts_update": 1753784220972,
+  "version_latest": "1.0.10.1",
+  "ts_publish": 1753786464000,
+  "ts_update": 1753787219160,
   "count_dep": 175,
   "count_ref": 0,
   "licenses": [
