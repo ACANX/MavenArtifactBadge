@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/configserver",
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "configserver",
-  "latest_version": "8.554.5",
-  "description": "Parent artifact for all Vespa maven projects.",
-  "id": "pkg:maven/com.yahoo.vespa/configserver",
-  "ts": 1753270680000,
-  "dependency_count": 0,
-  "ref_count": 141,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786140072,
+  "count_dep": 141,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753271201708
+  "dsv": 1
 }

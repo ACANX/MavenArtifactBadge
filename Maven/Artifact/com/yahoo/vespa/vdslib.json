@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/vdslib",
+  "description": "Development libraries related to VDS",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "vdslib",
-  "latest_version": "8.555.25",
-  "description": "Development libraries related to VDS",
-  "id": "pkg:maven/com.yahoo.vespa/vdslib",
-  "ts": 1753716543000,
-  "dependency_count": 46,
-  "ref_count": 24,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786142147,
+  "count_dep": 24,
+  "count_ref": 46,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717019186
+  "dsv": 1
 }

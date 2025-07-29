@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/abi-check-plugin",
+  "description": "Maven Plugin for ensuring ABI stability.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "abi-check-plugin",
-  "latest_version": "8.555.25",
-  "description": "Maven Plugin for ensuring ABI stability.",
-  "id": "pkg:maven/com.yahoo.vespa/abi-check-plugin",
-  "ts": 1753716542000,
-  "dependency_count": 0,
-  "ref_count": 40,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786142153,
+  "count_dep": 40,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717020527
+  "dsv": 1
 }

@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/defaults",
+  "description": "Library with the defaults for Vespa.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "defaults",
-  "latest_version": "8.555.25",
-  "description": "Library with the defaults for Vespa.",
-  "id": "pkg:maven/com.yahoo.vespa/defaults",
-  "ts": 1753716542000,
-  "dependency_count": 79,
-  "ref_count": 2,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786141497,
+  "count_dep": 2,
+  "count_ref": 79,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717022593
+  "dsv": 1
 }

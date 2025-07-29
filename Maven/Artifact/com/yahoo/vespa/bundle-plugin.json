@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/bundle-plugin",
+  "description": "Maven Plugin for creating OSGi bundles for the JDisc Container.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "bundle-plugin",
-  "latest_version": "8.555.25",
-  "description": "Maven Plugin for creating OSGi bundles for the JDisc Container.",
-  "id": "pkg:maven/com.yahoo.vespa/bundle-plugin",
-  "ts": 1753716542000,
-  "dependency_count": 0,
-  "ref_count": 73,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786140782,
+  "count_dep": 73,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717019842
+  "dsv": 1
 }

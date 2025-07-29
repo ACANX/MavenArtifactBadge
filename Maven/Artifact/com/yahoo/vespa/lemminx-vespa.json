@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/lemminx-vespa",
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "lemminx-vespa",
-  "latest_version": "8.555.25",
-  "description": "Parent artifact for all Vespa maven projects.",
-  "id": "pkg:maven/com.yahoo.vespa/lemminx-vespa",
-  "ts": 1753716542000,
-  "dependency_count": 0,
-  "ref_count": 48,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786141493,
+  "count_dep": 48,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717019190
+  "dsv": 1
 }

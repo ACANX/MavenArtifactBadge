@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/filedistribution",
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "filedistribution",
-  "latest_version": "8.555.25",
-  "description": "Parent artifact for all Vespa maven projects.",
-  "id": "pkg:maven/com.yahoo.vespa/filedistribution",
-  "ts": 1753716543000,
-  "dependency_count": 2,
-  "ref_count": 23,
+  "version_latest": "8.556.6",
+  "ts_publish": 1753785692000,
+  "ts_update": 1753786140074,
+  "count_dep": 23,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717019184
+  "dsv": 1
 }
