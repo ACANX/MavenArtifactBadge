@@ -1,15 +1,15 @@
 {
+  "id": "pkg:maven/com.github.xpenatan.jParser/jParser-idl",
   "group_id": "com.github.xpenatan.jParser",
   "artifact_id": "jParser-idl",
-  "latest_version": "1.0.0-b11",
+  "latest_version": "1.0.0-b12",
+  "ts": 1753759348000,
+  "last_updated": 1753760221187,
   "description": "Java JNI code parser",
-  "id": "pkg:maven/com.github.xpenatan.jParser/jParser-idl",
-  "ts": 1753550483000,
-  "dependency_count": 4,
-  "ref_count": 2,
-  "categories": null,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753551417508
+  "dep_count": 2,
+  "ref_count": 4,
+  "categories": null
 }
