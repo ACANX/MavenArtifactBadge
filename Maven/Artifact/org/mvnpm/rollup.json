@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.mvnpm/rollup",
+  "description": "Next-generation ES module bundler",
   "group_id": "org.mvnpm",
   "artifact_id": "rollup",
-  "latest_version": "4.46.1",
-  "description": "Next-generation ES module bundler",
-  "id": "pkg:maven/org.mvnpm/rollup",
-  "ts": 1753689609000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.46.2",
+  "ts_publish": 1753819210000,
+  "ts_update": 1753820220170,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753691223160
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
