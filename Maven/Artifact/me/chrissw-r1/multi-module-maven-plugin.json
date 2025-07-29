@@ -1,0 +1,15 @@
+{
+  "group_id": "me.chrissw-r1",
+  "artifact_id": "multi-module-maven-plugin",
+  "latest_version": "1.0.3",
+  "description": "Maven Plugin to calculate properties to use in the build",
+  "id": "pkg:maven/me.chrissw-r1/multi-module-maven-plugin",
+  "ts": 1753747424000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "${license.signature}"
+  ],
+  "last_updated": 1753748284662
+}

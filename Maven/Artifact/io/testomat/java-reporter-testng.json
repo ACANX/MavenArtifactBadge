@@ -1,15 +1,15 @@
 {
   "group_id": "io.testomat",
   "artifact_id": "java-reporter-testng",
-  "latest_version": "0.6.43",
+  "latest_version": "0.6.44",
   "description": "Java reporter library for Testomat.io integration with TestNG",
   "id": "pkg:maven/io.testomat/java-reporter-testng",
-  "ts": 1753746434000,
-  "dependency_count": 0,
+  "ts": 1753747573000,
+  "dependency_count": 1,
   "ref_count": 10,
   "categories": null,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753746854450
+  "last_updated": 1753748284659
 }
