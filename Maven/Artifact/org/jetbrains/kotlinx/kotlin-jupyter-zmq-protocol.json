@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol",
+  "description": "ZeroMQ-specific implementation of Jupyter protocol for kernel communication",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-zmq-protocol",
-  "latest_version": "0.15.0-560",
-  "description": "ZeroMQ-specific implementation of Jupyter protocol for kernel communication",
-  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-zmq-protocol",
-  "ts": 1753364057000,
-  "dependency_count": 2,
-  "ref_count": 4,
-  "categories": [
-    "Programming Language Utilities"
-  ],
+  "version_latest": "0.15.0-567",
+  "ts_publish": 1753779638000,
+  "ts_update": 1753780624845,
+  "count_dep": 4,
+  "count_ref": 2,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364819971
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
 }

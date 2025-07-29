@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-test-kit",
+  "description": "Test suite for testing Kotlin kernel library integration",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-test-kit",
-  "latest_version": "0.15.0-560",
-  "description": "Test suite for testing Kotlin kernel library integration",
-  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-test-kit",
-  "ts": 1753364057000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": [
-    "Programming Language Utilities"
-  ],
+  "version_latest": "0.15.0-567",
+  "ts_publish": 1753779638000,
+  "ts_update": 1753780624842,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364819970
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
 }
