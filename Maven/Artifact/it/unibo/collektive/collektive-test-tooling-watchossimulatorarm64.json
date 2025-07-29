@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/it.unibo.collektive/collektive-test-tooling-watchossimulatorarm64",
+  "description": "Aggregate Computing in Kotlin",
+  "group_id": "it.unibo.collektive",
+  "artifact_id": "collektive-test-tooling-watchossimulatorarm64",
+  "version_latest": "25.0.2-dev0x+acd94bd",
+  "ts_publish": 1753817329000,
+  "ts_update": 1753818420481,
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
