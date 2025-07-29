@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.kestra/ui",
-  "description": "io.kestra:ui:0.23.8",
+  "description": "io.kestra:ui:0.23.9",
   "group_id": "io.kestra",
   "artifact_id": "ui",
-  "version_latest": "0.23.8",
-  "ts_publish": 1753778134000,
-  "ts_update": 1753778819223,
+  "version_latest": "0.23.9",
+  "ts_publish": 1753798508000,
+  "ts_update": 1753799216693,
   "count_dep": 26,
   "count_ref": 0,
   "licenses": [

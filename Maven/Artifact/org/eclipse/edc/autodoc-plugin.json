@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/autodoc-plugin",
+  "description": "edc :: autodoc-plugin",
   "group_id": "org.eclipse.edc",
   "artifact_id": "autodoc-plugin",
-  "latest_version": "0.13.1",
-  "description": "edc :: autodoc-plugin",
-  "id": "pkg:maven/org.eclipse.edc/autodoc-plugin",
-  "ts": 1753363119000,
-  "dependency_count": 2,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753798238000,
+  "ts_update": 1753799218002,
+  "count_dep": 4,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753363624367
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

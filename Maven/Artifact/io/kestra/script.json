@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.kestra/script",
-  "description": "io.kestra:script:0.23.8",
+  "description": "io.kestra:script:0.23.9",
   "group_id": "io.kestra",
   "artifact_id": "script",
-  "version_latest": "0.23.8",
-  "ts_publish": 1753778134000,
-  "ts_update": 1753778818846,
+  "version_latest": "0.23.9",
+  "ts_publish": 1753798508000,
+  "ts_update": 1753799216692,
   "count_dep": 30,
   "count_ref": 1,
   "licenses": [

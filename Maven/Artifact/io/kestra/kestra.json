@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.kestra/kestra",
-  "description": "io.kestra:cli:0.23.8",
+  "description": "io.kestra:cli:0.23.9",
   "group_id": "io.kestra",
   "artifact_id": "kestra",
-  "version_latest": "0.23.8",
-  "ts_publish": 1753778134000,
-  "ts_update": 1753778818847,
+  "version_latest": "0.23.9",
+  "ts_publish": 1753798508000,
+  "ts_update": 1753799216693,
   "count_dep": 55,
   "count_ref": 0,
   "licenses": [

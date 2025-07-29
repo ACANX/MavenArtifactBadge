@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.kestra/processor",
-  "description": "io.kestra:processor:0.23.8",
+  "description": "io.kestra:processor:0.23.9",
   "group_id": "io.kestra",
   "artifact_id": "processor",
-  "version_latest": "0.23.8",
-  "ts_publish": 1753778134000,
-  "ts_update": 1753778818848,
+  "version_latest": "0.23.9",
+  "ts_publish": 1753798508000,
+  "ts_update": 1753799216693,
   "count_dep": 33,
   "count_ref": 0,
   "licenses": [

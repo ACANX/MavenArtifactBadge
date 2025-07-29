@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/app.cash.backfila.client.sqldelight/app.cash.backfila.client.sqldelight.gradle.plugin",
+  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "group_id": "app.cash.backfila.client.sqldelight",
   "artifact_id": "app.cash.backfila.client.sqldelight.gradle.plugin",
-  "latest_version": "2025.07.28.193750-99c8949",
-  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
-  "id": "pkg:maven/app.cash.backfila.client.sqldelight/app.cash.backfila.client.sqldelight.gradle.plugin",
-  "ts": 1753732179000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "2025.07.29.140022-aff1b8a",
+  "ts_publish": 1753798326000,
+  "ts_update": 1753799217357,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753733220490
+  "categories": null,
+  "dsv": 1
 }

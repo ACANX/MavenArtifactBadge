@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.tryingtorun/kmpcharts-android",
+  "description": "A cross platform library for charts",
   "group_id": "com.tryingtorun",
   "artifact_id": "kmpcharts-android",
-  "latest_version": "0.1.2-alpha",
-  "description": "A cross platform library for charts",
-  "id": "pkg:maven/com.tryingtorun/kmpcharts-android",
-  "ts": 1753428752000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "0.3.0-alpha",
+  "ts_publish": 1753798739000,
+  "ts_update": 1753799216690,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753429514723
+  "categories": null,
+  "dsv": 1
 }

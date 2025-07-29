@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/app.cash.backfila/client-static",
+  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "group_id": "app.cash.backfila",
   "artifact_id": "client-static",
-  "latest_version": "2025.07.28.193750-99c8949",
-  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
-  "id": "pkg:maven/app.cash.backfila/client-static",
-  "ts": 1753732179000,
-  "dependency_count": 1,
-  "ref_count": 16,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.07.29.140022-aff1b8a",
+  "ts_publish": 1753798326000,
+  "ts_update": 1753799217363,
+  "count_dep": 16,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753733220960
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
