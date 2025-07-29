@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.remmerw/idun",
+  "description": "A client-server implementation which supports pns URIs",
   "group_id": "io.github.remmerw",
   "artifact_id": "idun",
-  "latest_version": "0.4.6",
-  "description": "A client-server implementation which supports pns URIs",
-  "id": "pkg:maven/io.github.remmerw/idun",
-  "ts": 1753687500000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "0.4.7",
+  "ts_publish": 1753768220000,
+  "ts_update": 1753768619323,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753688820354
+  "categories": null,
+  "dsv": 1
 }

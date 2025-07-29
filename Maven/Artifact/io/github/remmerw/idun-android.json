@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.remmerw/idun-android",
+  "description": "A client-server implementation which supports pns URIs",
   "group_id": "io.github.remmerw",
   "artifact_id": "idun-android",
-  "latest_version": "0.4.6",
-  "description": "A client-server implementation which supports pns URIs",
-  "id": "pkg:maven/io.github.remmerw/idun-android",
-  "ts": 1753687500000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "0.4.7",
+  "ts_publish": 1753768220000,
+  "ts_update": 1753768619324,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753688820355
+  "categories": null,
+  "dsv": 1
 }
