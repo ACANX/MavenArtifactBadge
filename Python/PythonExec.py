@@ -236,7 +236,7 @@ def generate_badges_for_components():
                 print(f"   Group ID: {data['group_id']}")
                 print(f"   Artifact ID: {data['artifact_id']}")
                 print(f"   最新版本: {data['latest_version']}")
-                print(f"   依赖数量: {data['dependency_count']}")
+                print(f"   依赖数量: {data['dep_count']}")
                 print(f"   被引用量: {data['ref_count']}")
                 if data['categories']:
                     categories_str = ", ".join(data['categories'])
