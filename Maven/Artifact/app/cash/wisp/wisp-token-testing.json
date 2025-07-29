@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/app.cash.wisp/wisp-token-testing",
+  "description": "Token generation Fake for universally unique ID",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-token-testing",
-  "latest_version": "2025.07.28.173311-f514123",
-  "description": "Token generation Fake for universally unique ID",
-  "id": "pkg:maven/app.cash.wisp/wisp-token-testing",
-  "ts": 1753725384000,
-  "dependency_count": 1,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.07.29.141027-915a5ed",
+  "ts_publish": 1753799604000,
+  "ts_update": 1753800421754,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753726621876
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

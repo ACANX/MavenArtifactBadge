@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.squareup.misk/misk-grpc-tests",
+  "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-grpc-tests",
-  "latest_version": "2025.07.28.173311-f514123",
-  "description": "Open source application container in Kotlin",
-  "id": "pkg:maven/com.squareup.misk/misk-grpc-tests",
-  "ts": 1753725394000,
-  "dependency_count": 0,
-  "ref_count": 60,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.07.29.141027-915a5ed",
+  "ts_publish": 1753799622000,
+  "ts_update": 1753800421753,
+  "count_dep": 60,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753726621321
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

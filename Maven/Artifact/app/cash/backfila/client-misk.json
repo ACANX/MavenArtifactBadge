@@ -3,9 +3,9 @@
   "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "group_id": "app.cash.backfila",
   "artifact_id": "client-misk",
-  "version_latest": "2025.07.29.140022-aff1b8a",
-  "ts_publish": 1753798326000,
-  "ts_update": 1753799217356,
+  "version_latest": "2025.07.29.142305-3186c23",
+  "ts_publish": 1753799691000,
+  "ts_update": 1753800420338,
   "count_dep": 25,
   "count_ref": 1,
   "licenses": [
