@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.adevinta.spark/spark",
+  "description": "Spark Design System",
   "group_id": "com.adevinta.spark",
   "artifact_id": "spark",
-  "latest_version": "1.4.0-alpha01",
-  "description": "Spark Design System",
-  "id": "pkg:maven/com.adevinta.spark/spark",
-  "ts": 1753717807000,
-  "dependency_count": 0,
-  "ref_count": 23,
-  "categories": null,
+  "version_latest": "1.4.0-alpha02",
+  "ts_publish": 1753802822000,
+  "ts_update": 1753803424688,
+  "count_dep": 23,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753718378484
+  "categories": null,
+  "dsv": 1
 }
