@@ -1,11 +1,11 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-schema_3",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Transcoding Schema",
   "id": "pkg:maven/com.daml/transcode-schema_3",
-  "ts": 1753331343000,
-  "dependency_count": 22,
+  "ts": 1753757144000,
+  "dependency_count": 21,
   "ref_count": 8,
   "categories": [
     "Uncategorized"
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331816355
+  "last_updated": 1753757818338
 }

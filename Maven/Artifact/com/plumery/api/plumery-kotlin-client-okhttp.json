@@ -1,15 +1,15 @@
 {
   "group_id": "com.plumery.api",
   "artifact_id": "plumery-kotlin-client-okhttp",
-  "latest_version": "0.8.0",
+  "latest_version": "0.9.0",
   "description": "Accounts object represents the accounts of a customer. It allows retrieval of\naccounts information.",
   "id": "pkg:maven/com.plumery.api/plumery-kotlin-client-okhttp",
-  "ts": 1753752295000,
+  "ts": 1753757320000,
   "dependency_count": 1,
   "ref_count": 13,
   "categories": null,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753753021314
+  "last_updated": 1753757818333
 }

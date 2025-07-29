@@ -1,10 +1,10 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-java-sbt-daml2_2.12",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Gradle Plugin for Java Code Generation",
   "id": "pkg:maven/com.daml/transcode-codegen-java-sbt-daml2_2.12",
-  "ts": 1753331153000,
+  "ts": 1753756986000,
   "dependency_count": 0,
   "ref_count": 83,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331817655
+  "last_updated": 1753757819066
 }

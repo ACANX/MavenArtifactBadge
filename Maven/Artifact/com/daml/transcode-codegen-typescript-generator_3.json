@@ -1,17 +1,17 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-typescript-generator_3",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Code generation for Typescript",
   "id": "pkg:maven/com.daml/transcode-codegen-typescript-generator_3",
-  "ts": 1753331283000,
+  "ts": 1753757091000,
   "dependency_count": 3,
-  "ref_count": 12,
+  "ref_count": 4,
   "categories": [
     "Uncategorized"
   ],
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331816358
+  "last_updated": 1753757819063
 }

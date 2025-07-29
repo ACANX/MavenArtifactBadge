@@ -1,15 +1,15 @@
 {
   "group_id": "com.daml.codegen-java-daml2",
   "artifact_id": "com.daml.codegen-java-daml2.gradle.plugin",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Gradle Plugin for Java Code Generation",
   "id": "pkg:maven/com.daml.codegen-java-daml2/com.daml.codegen-java-daml2.gradle.plugin",
-  "ts": 1753331349000,
+  "ts": 1753757150000,
   "dependency_count": 0,
   "ref_count": 54,
   "categories": null,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331816353
+  "last_updated": 1753757818337
 }

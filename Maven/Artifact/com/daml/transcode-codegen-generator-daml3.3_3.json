@@ -1,10 +1,10 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-generator-daml3.3_3",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Transform daml LF and DAR into generated code",
   "id": "pkg:maven/com.daml/transcode-codegen-generator-daml3.3_3",
-  "ts": 1753331128000,
+  "ts": 1753756970000,
   "dependency_count": 3,
   "ref_count": 34,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331817656
+  "last_updated": 1753757819068
 }

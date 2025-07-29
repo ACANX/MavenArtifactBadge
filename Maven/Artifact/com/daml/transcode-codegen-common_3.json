@@ -1,10 +1,10 @@
 {
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-common_3",
-  "latest_version": "0.0.1-main.20250724.105.652.v9a16b4d",
+  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
   "description": "Common Utilities reused by codegen implementations",
   "id": "pkg:maven/com.daml/transcode-codegen-common_3",
-  "ts": 1753331123000,
+  "ts": 1753756965000,
   "dependency_count": 14,
   "ref_count": 12,
   "categories": [
@@ -13,5 +13,5 @@
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753331817657
+  "last_updated": 1753757819069
 }
