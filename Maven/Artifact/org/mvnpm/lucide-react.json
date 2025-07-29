@@ -3,9 +3,9 @@
   "description": "A Lucide icon library package for React applications.",
   "group_id": "org.mvnpm",
   "artifact_id": "lucide-react",
-  "version_latest": "0.533.0",
-  "ts_publish": 1753777270000,
-  "ts_update": 1753777775651,
+  "version_latest": "0.534.0",
+  "ts_publish": 1753821012000,
+  "ts_update": 1753822009664,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
