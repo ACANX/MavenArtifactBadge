@@ -1,17 +1,17 @@
 {
+  "id": "pkg:maven/com.daml/transcode-codegen-java-generator_3",
+  "description": "Code generation for Java",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-java-generator_3",
-  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
-  "description": "Code generation for Java",
-  "id": "pkg:maven/com.daml/transcode-codegen-java-generator_3",
-  "ts": 1753756983000,
-  "dependency_count": 3,
-  "ref_count": 19,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.0.1-main.20250729.107.658.v05eb452",
+  "ts_publish": 1753760354000,
+  "ts_updated": 1753760641340,
+  "count_dep": 19,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753757819066
+  "categories": [
+    "Uncategorized"
+  ]
 }

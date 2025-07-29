@@ -1,17 +1,17 @@
 {
+  "id": "pkg:maven/com.daml/transcode-codegen-java-runtime",
+  "description": "Runtime classes used by generated java code",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-java-runtime",
-  "latest_version": "0.0.1-main.20250729.106.654.v5519eeb",
-  "description": "Runtime classes used by generated java code",
-  "id": "pkg:maven/com.daml/transcode-codegen-java-runtime",
-  "ts": 1753756983000,
-  "dependency_count": 4,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.0.1-main.20250729.107.658.v05eb452",
+  "ts_publish": 1753760353000,
+  "ts_updated": 1753760641341,
+  "count_dep": 1,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753757819067
+  "categories": [
+    "Uncategorized"
+  ]
 }

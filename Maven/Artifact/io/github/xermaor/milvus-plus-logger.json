@@ -1,15 +1,15 @@
 {
+  "id": "pkg:maven/io.github.xermaor/milvus-plus-logger",
+  "description": "a tool about milvus",
   "group_id": "io.github.xermaor",
   "artifact_id": "milvus-plus-logger",
-  "latest_version": "1.1.1",
-  "description": "a tool about milvus",
-  "id": "pkg:maven/io.github.xermaor/milvus-plus-logger",
-  "ts": 1753683776000,
-  "dependency_count": 3,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.1.2",
+  "ts_publish": 1753760258000,
+  "ts_updated": 1753760641347,
+  "count_dep": 1,
+  "count_ref": 3,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753684456733
+  "categories": null
 }
