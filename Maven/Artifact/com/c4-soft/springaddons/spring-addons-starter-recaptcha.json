@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-recaptcha",
+  "description": "Auto-configure a ReCaptcha service",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons-starter-recaptcha",
-  "latest_version": "9.0.0-M1",
-  "description": "Auto-configure a ReCaptcha service",
-  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-recaptcha",
-  "ts": 1753448392000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "9.0.1-M1",
+  "ts_publish": 1753773655000,
+  "ts_update": 1753774019036,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753448817034
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

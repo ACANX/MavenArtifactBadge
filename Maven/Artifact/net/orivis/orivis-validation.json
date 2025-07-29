@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/net.orivis/orivis-core",
+  "id": "pkg:maven/net.orivis/orivis-validation",
   "description": "Parent pom providing dependency and plugin management for applications built with Maven",
   "group_id": "net.orivis",
-  "artifact_id": "orivis-core",
-  "version_latest": "0.5.5",
-  "ts_publish": 1753773222000,
-  "ts_update": 1753774019039,
-  "count_dep": 91,
-  "count_ref": 1,
+  "artifact_id": "orivis-validation",
+  "version_latest": "0.0.1",
+  "ts_publish": 1753773442000,
+  "ts_update": 1753774019037,
+  "count_dep": 64,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

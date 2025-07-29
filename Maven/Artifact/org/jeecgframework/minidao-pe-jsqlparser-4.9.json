@@ -3,9 +3,9 @@
   "description": "An powerful enhanced toolkit of SpringJdbc for simplify development",
   "group_id": "org.jeecgframework",
   "artifact_id": "minidao-pe-jsqlparser-4.9",
-  "version_latest": "1.10.10",
-  "ts_publish": 1753769010000,
-  "ts_update": 1753769820646,
+  "version_latest": "1.10.11",
+  "ts_publish": 1753772970000,
+  "ts_update": 1753774019624,
   "count_dep": 19,
   "count_ref": 1,
   "licenses": [

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons",
+  "description": "Make Spring developpers' life easier when OAuth2 / OpenID is involved",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons",
-  "latest_version": "9.0.0-M1",
-  "description": "Make Spring developpers' life easier when OAuth2 / OpenID is involved",
-  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons",
-  "ts": 1753448392000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "9.0.1-M1",
+  "ts_publish": 1753773655000,
+  "ts_update": 1753774019033,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753448817032
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
