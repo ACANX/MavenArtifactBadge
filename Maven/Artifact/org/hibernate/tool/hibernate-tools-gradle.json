@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.tool/hibernate-tools-gradle",
+  "description": "Gradle plugin to provide hibernate-tools reverse engineering and code/schema generation abilities.",
+  "group_id": "org.hibernate.tool",
+  "artifact_id": "hibernate-tools-gradle",
+  "version_latest": "7.0.8.Final",
+  "ts_publish": 1753768441000,
+  "ts_update": 1753769219849,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

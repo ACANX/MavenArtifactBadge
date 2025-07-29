@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.sobot.chat/sobotsdk_x",
+  "description": "sobot sdk x",
   "group_id": "com.sobot.chat",
   "artifact_id": "sobotsdk_x",
-  "latest_version": "4.2.7",
-  "description": "sobot sdk x",
-  "id": "pkg:maven/com.sobot.chat/sobotsdk_x",
-  "ts": 1753685188000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "4.2.7.1",
+  "ts_publish": 1753768430000,
+  "ts_update": 1753769219849,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753687021374
+  "categories": null,
+  "dsv": 1
 }
