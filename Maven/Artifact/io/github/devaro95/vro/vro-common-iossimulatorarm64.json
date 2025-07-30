@@ -3,9 +3,9 @@
   "description": "VRO Common Module",
   "group_id": "io.github.devaro95.vro",
   "artifact_id": "vro-common-iossimulatorarm64",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753826738000,
-  "ts_update": 1753827420462,
+  "version_latest": "1.1.0",
+  "ts_publish": 1753882982000,
+  "ts_update": 1753883935091,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
