@@ -3,9 +3,9 @@
   "description": "null",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-adoptabot",
-  "version_latest": "0.5.19",
-  "ts_publish": 1753883613000,
-  "ts_update": 1753884436332,
+  "version_latest": "0.5.20",
+  "ts_publish": 1753913285000,
+  "ts_update": 1753915022241,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

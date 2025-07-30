@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.trykintsugi/kintsugi-tax-java-sdk",
+  "description": "SDK enabling Java developers to easily integrate with the Kintsugi API.",
   "group_id": "com.trykintsugi",
   "artifact_id": "kintsugi-tax-java-sdk",
-  "latest_version": "0.6.2",
-  "description": "SDK enabling Java developers to easily integrate with the Kintsugi API.",
-  "id": "pkg:maven/com.trykintsugi/kintsugi-tax-java-sdk",
-  "ts": 1753718443000,
-  "dependency_count": 0,
-  "ref_count": 9,
-  "categories": null,
+  "version_latest": "0.6.3",
+  "ts_publish": 1753912862000,
+  "ts_update": 1753915022244,
+  "count_dep": 9,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753720020428
+  "categories": null,
+  "dsv": 1
 }
