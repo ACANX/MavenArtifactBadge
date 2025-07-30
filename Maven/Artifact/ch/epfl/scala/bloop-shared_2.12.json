@@ -3,9 +3,9 @@
   "description": "bloop-shared",
   "group_id": "ch.epfl.scala",
   "artifact_id": "bloop-shared_2.12",
-  "version_latest": "2.0.11",
-  "ts_publish": 1753877319000,
-  "ts_update": 1753877866447,
+  "version_latest": "2.0.12",
+  "ts_publish": 1753892988000,
+  "ts_update": 1753893421340,
   "count_dep": 82,
   "count_ref": 6,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Spark DataSource v2 for accessing Geodesic spatial data with Apache Sedona integration",
   "group_id": "ai.seer",
   "artifact_id": "geodesic-spark-datasource-sedona_2.12",
-  "version_latest": "0.0.1",
-  "ts_publish": 1753814153000,
-  "ts_update": 1753814820222,
+  "version_latest": "0.0.2",
+  "ts_publish": 1753892923000,
+  "ts_update": 1753893421344,
   "count_dep": 161,
   "count_ref": 0,
   "licenses": [
