@@ -3,9 +3,9 @@
   "description": "Joiner parent module",
   "group_id": "cz.encircled",
   "artifact_id": "joiner-reactive",
-  "version_latest": "2.0.10",
-  "ts_publish": 1753879116000,
-  "ts_update": 1753879626637,
+  "version_latest": "2.0.11",
+  "ts_publish": 1753897558000,
+  "ts_update": 1753898219309,
   "count_dep": 32,
   "count_ref": 1,
   "licenses": [
