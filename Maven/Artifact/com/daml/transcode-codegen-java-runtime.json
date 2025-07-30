@@ -3,9 +3,9 @@
   "description": "Runtime classes used by generated java code",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-java-runtime",
-  "version_latest": "0.0.1-main.20250729.107.658.v05eb452",
-  "ts_publish": 1753760353000,
-  "ts_updated": 1753760641341,
+  "version_latest": "0.0.1-main.20250730.108.663.v27e81e9",
+  "ts_publish": 1753833548000,
+  "ts_update": 1753834018180,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [
@@ -13,5 +13,6 @@
   ],
   "categories": [
     "Uncategorized"
-  ]
+  ],
+  "dsv": 1
 }
