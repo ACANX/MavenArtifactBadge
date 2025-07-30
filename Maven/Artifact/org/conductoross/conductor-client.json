@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.conductoross/conductor-client",
+  "description": "Conductor OSS client (http)",
   "group_id": "org.conductoross",
   "artifact_id": "conductor-client",
-  "latest_version": "4.0.12",
-  "description": "Conductor OSS client (http)",
-  "id": "pkg:maven/org.conductoross/conductor-client",
-  "ts": 1753439490000,
-  "dependency_count": 3,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "4.0.13",
+  "ts_publish": 1753855541000,
+  "ts_update": 1753856219634,
+  "count_dep": 11,
+  "count_ref": 4,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753439818338
+  "categories": null,
+  "dsv": 1
 }

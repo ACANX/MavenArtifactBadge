@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.conductoross/conductor-client-spring",
+  "description": "Spring autoconfig for Conductor Client and SDK",
   "group_id": "org.conductoross",
   "artifact_id": "conductor-client-spring",
-  "latest_version": "4.0.12",
-  "description": "Spring autoconfig for Conductor Client and SDK",
-  "id": "pkg:maven/org.conductoross/conductor-client-spring",
-  "ts": 1753439520000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": null,
+  "version_latest": "4.0.13",
+  "ts_publish": 1753855571000,
+  "ts_update": 1753856219634,
+  "count_dep": 13,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753439818338
+  "categories": null,
+  "dsv": 1
 }
