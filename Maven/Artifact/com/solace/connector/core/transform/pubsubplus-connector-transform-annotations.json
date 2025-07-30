@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations",
+  "description": "Annotations for transformation modules",
   "group_id": "com.solace.connector.core.transform",
   "artifact_id": "pubsubplus-connector-transform-annotations",
-  "latest_version": "2.16.3",
-  "description": "Annotations for transformation modules",
-  "id": "pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-annotations",
-  "ts": 1753717272000,
-  "dependency_count": 5,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889823633,
+  "count_dep": 0,
+  "count_ref": 5,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753718220887
+  "categories": null,
+  "dsv": 1
 }

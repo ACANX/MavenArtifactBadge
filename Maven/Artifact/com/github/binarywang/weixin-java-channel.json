@@ -3,9 +3,9 @@
   "description": "微信视频号/微信小店 Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-channel",
-  "version_latest": "4.7.7-20250730.231045",
-  "ts_publish": 1753888440000,
-  "ts_update": 1753889220760,
+  "version_latest": "4.7.7-20250730.231512",
+  "ts_publish": 1753888742000,
+  "ts_update": 1753889824039,
   "count_dep": 85,
   "count_ref": 4,
   "licenses": [

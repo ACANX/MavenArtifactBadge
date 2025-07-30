@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models-core",
+  "description": "Core module for JSON Schema Models",
   "group_id": "com.solace.connector.core.jsonschema",
   "artifact_id": "pubsubplus-connector-jsonschema-models-core",
-  "latest_version": "2.16.3",
-  "description": "Core module for JSON Schema Models",
-  "id": "pkg:maven/com.solace.connector.core.jsonschema/pubsubplus-connector-jsonschema-models-core",
-  "ts": 1753717272000,
-  "dependency_count": 1,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889822843,
+  "count_dep": 2,
+  "count_ref": 1,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753718220891
+  "categories": null,
+  "dsv": 1
 }

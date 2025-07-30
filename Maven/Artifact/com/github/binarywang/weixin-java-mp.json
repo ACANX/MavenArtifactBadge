@@ -3,9 +3,9 @@
   "description": "微信公众号Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-mp",
-  "version_latest": "4.7.7-20250730.231045",
-  "ts_publish": 1753888440000,
-  "ts_update": 1753889220759,
+  "version_latest": "4.7.7-20250730.231512",
+  "ts_publish": 1753888742000,
+  "ts_update": 1753889824407,
   "count_dep": 80,
   "count_ref": 7,
   "licenses": [

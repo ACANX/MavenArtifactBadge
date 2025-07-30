@@ -3,9 +3,9 @@
   "description": "微信小程序 Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-miniapp",
-  "version_latest": "4.7.7-20250730.231045",
-  "ts_publish": 1753888440000,
-  "ts_update": 1753889220203,
+  "version_latest": "4.7.7-20250730.231512",
+  "ts_publish": 1753888742000,
+  "ts_update": 1753889823640,
   "count_dep": 80,
   "count_ref": 7,
   "licenses": [

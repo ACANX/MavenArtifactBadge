@@ -3,9 +3,9 @@
   "description": "WxJava 各个模块的 Spring Boot Starter",
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-spring-boot-starters",
-  "version_latest": "4.7.7-20250730.231045",
-  "ts_publish": 1753888440000,
-  "ts_update": 1753889220757,
+  "version_latest": "4.7.7-20250730.231512",
+  "ts_publish": 1753888742000,
+  "ts_update": 1753889824036,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "微信开发Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java",
-  "version_latest": "4.7.7-20250730.231045",
-  "ts_publish": 1753888440000,
-  "ts_update": 1753889220207,
+  "version_latest": "4.7.7-20250730.231512",
+  "ts_publish": 1753888742000,
+  "ts_update": 1753889824035,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
