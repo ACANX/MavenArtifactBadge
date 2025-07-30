@@ -3,9 +3,9 @@
   "description": "YIM for android",
   "group_id": "site.lingyang",
   "artifact_id": "YIM",
-  "version_latest": "5.0.5",
-  "ts_publish": 1753879075000,
-  "ts_update": 1753879627283,
+  "version_latest": "5.0.6",
+  "ts_publish": 1753892648000,
+  "ts_update": 1753893233682,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
