@@ -3,9 +3,9 @@
   "description": "The industry-leading open-source header bidding solution",
   "group_id": "ai.themsp",
   "artifact_id": "msp-core",
-  "version_latest": "2.3.1",
-  "ts_publish": 1753832721000,
-  "ts_update": 1753833422312,
+  "version_latest": "2.3.2",
+  "ts_publish": 1753902033000,
+  "ts_update": 1753902417274,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [
