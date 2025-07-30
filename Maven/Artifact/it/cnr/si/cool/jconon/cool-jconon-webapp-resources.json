@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources",
+  "description": "Archetype for push artifact to Maven repository",
   "group_id": "it.cnr.si.cool.jconon",
   "artifact_id": "cool-jconon-webapp-resources",
-  "latest_version": "5.9.5",
-  "description": "Archetype for push artifact to Maven repository",
-  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-webapp-resources",
-  "ts": 1753293313000,
-  "dependency_count": 1,
-  "ref_count": 281,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.9.6",
+  "ts_publish": 1753869367000,
+  "ts_update": 1753870021725,
+  "count_dep": 281,
+  "count_ref": 1,
   "licenses": [
     "GNU AFFERO GENERAL PUBLIC LICENSE"
   ],
-  "last_updated": 1753294018670
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "Lightweight Java framework",
   "group_id": "site.itprohub",
   "artifact_id": "javelin-web",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753838296000,
-  "ts_update": 1753838818190,
+  "version_latest": "1.0.6",
+  "ts_publish": 1753868998000,
+  "ts_update": 1753870022244,
   "count_dep": 26,
   "count_ref": 0,
   "licenses": [
