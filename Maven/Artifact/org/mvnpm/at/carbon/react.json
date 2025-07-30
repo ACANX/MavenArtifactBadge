@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.carbon/react",
+  "description": "React components for the Carbon Design System",
   "group_id": "org.mvnpm.at.carbon",
   "artifact_id": "react",
-  "latest_version": "1.87.1",
-  "description": "React components for the Carbon Design System",
-  "id": "pkg:maven/org.mvnpm.at.carbon/react",
-  "ts": 1753387752000,
-  "dependency_count": 0,
-  "ref_count": 55,
-  "categories": null,
+  "version_latest": "1.88.0",
+  "ts_publish": 1753891759000,
+  "ts_update": 1753892220251,
+  "count_dep": 55,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753388217473
+  "categories": null,
+  "dsv": 1
 }
