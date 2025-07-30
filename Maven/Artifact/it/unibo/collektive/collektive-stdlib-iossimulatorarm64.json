@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-stdlib-iossimulatorarm64",
-  "version_latest": "25.0.2-dev17+9d04c8b",
-  "ts_publish": 1753870432000,
-  "ts_update": 1753871220960,
+  "version_latest": "25.0.2-dev18+22d0d0b",
+  "ts_publish": 1753875722000,
+  "ts_update": 1753876619535,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
