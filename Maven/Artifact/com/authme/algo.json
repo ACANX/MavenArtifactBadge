@@ -3,9 +3,9 @@
   "description": "authme sdk Algo",
   "group_id": "com.authme",
   "artifact_id": "algo",
-  "version_latest": "9.0.8-rc.16",
-  "ts_publish": 1753859501000,
-  "ts_update": 1753860416749,
+  "version_latest": "9.0.8-rc.17",
+  "ts_publish": 1753862104000,
+  "ts_update": 1753862823283,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
