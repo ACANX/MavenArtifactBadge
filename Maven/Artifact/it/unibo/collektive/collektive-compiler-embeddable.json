@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-compiler-embeddable",
-  "version_latest": "25.0.2-dev0x+acd94bd",
-  "ts_publish": 1753817114000,
-  "ts_update": 1753817821229,
+  "version_latest": "25.0.2-dev13+7135b6c",
+  "ts_publish": 1753848599000,
+  "ts_update": 1753849016784,
   "count_dep": 10,
   "count_ref": 1,
   "licenses": [

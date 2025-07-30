@@ -3,9 +3,9 @@
   "description": "Java library for FSRS Spaced Repetition",
   "group_id": "io.github.open-spaced-repetition",
   "artifact_id": "fsrs",
-  "version_latest": "1.0.0-rc1",
-  "ts_publish": 1753847309000,
-  "ts_update": 1753847819173,
+  "version_latest": "1.0.0",
+  "ts_publish": 1753848216000,
+  "ts_update": 1753849016790,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
