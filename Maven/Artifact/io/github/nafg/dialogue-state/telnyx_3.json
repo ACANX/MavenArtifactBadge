@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.nafg.dialogue-state/telnyx_3",
+  "description": "Define a Twilio app in terms of a sane call tree",
   "group_id": "io.github.nafg.dialogue-state",
   "artifact_id": "telnyx_3",
-  "latest_version": "0.16.0",
-  "description": "Define a Twilio app in terms of a sane call tree",
-  "id": "pkg:maven/io.github.nafg.dialogue-state/telnyx_3",
-  "ts": 1753347881000,
-  "dependency_count": 0,
-  "ref_count": 46,
-  "categories": null,
+  "version_latest": "0.17.0",
+  "ts_publish": 1753861432000,
+  "ts_update": 1753862220677,
+  "count_dep": 46,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753349223796
+  "categories": null,
+  "dsv": 1
 }
