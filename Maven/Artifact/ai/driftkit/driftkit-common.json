@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-common",
+  "description": "Common utilities and shared domain objects for DriftKit",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-common",
-  "latest_version": "0.5.3",
-  "description": "Common utilities and shared domain objects for DriftKit",
-  "id": "pkg:maven/ai.driftkit/driftkit-common",
-  "ts": 1753734146000,
-  "dependency_count": 16,
-  "ref_count": 25,
-  "categories": null,
+  "version_latest": "0.5.6",
+  "ts_publish": 1753903939000,
+  "ts_update": 1753904550672,
+  "count_dep": 25,
+  "count_ref": 16,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735020589
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-audio-spring-boot-starter",
+  "description": "Spring Boot auto-configuration for DriftKit Audio Processing",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-audio-spring-boot-starter",
-  "latest_version": "0.5.3",
-  "description": "Spring Boot auto-configuration for DriftKit Audio Processing",
-  "id": "pkg:maven/ai.driftkit/driftkit-audio-spring-boot-starter",
-  "ts": 1753734146000,
-  "dependency_count": 0,
-  "ref_count": 45,
-  "categories": null,
+  "version_latest": "0.5.6",
+  "ts_publish": 1753903939000,
+  "ts_update": 1753904550674,
+  "count_dep": 45,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735019948
+  "categories": null,
+  "dsv": 1
 }

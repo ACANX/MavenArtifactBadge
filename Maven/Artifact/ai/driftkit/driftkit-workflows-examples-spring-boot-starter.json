@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-workflows-examples-spring-boot-starter",
+  "description": "Spring Boot auto-configuration for DriftKit Workflow Examples",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-workflows-examples-spring-boot-starter",
-  "latest_version": "0.5.3",
-  "description": "Spring Boot auto-configuration for DriftKit Workflow Examples",
-  "id": "pkg:maven/ai.driftkit/driftkit-workflows-examples-spring-boot-starter",
-  "ts": 1753734146000,
-  "dependency_count": 0,
-  "ref_count": 182,
-  "categories": null,
+  "version_latest": "0.5.6",
+  "ts_publish": 1753903939000,
+  "ts_update": 1753904551334,
+  "count_dep": 182,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735019945
+  "categories": null,
+  "dsv": 1
 }

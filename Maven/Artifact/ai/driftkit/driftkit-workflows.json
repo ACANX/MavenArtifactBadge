@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-workflows",
+  "description": "Workflow engine and graph processing for DriftKit",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-workflows",
-  "latest_version": "0.5.3",
-  "description": "Workflow engine and graph processing for DriftKit",
-  "id": "pkg:maven/ai.driftkit/driftkit-workflows",
-  "ts": 1753734146000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "0.5.6",
+  "ts_publish": 1753903939000,
+  "ts_update": 1753904551336,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735019945
+  "categories": null,
+  "dsv": 1
 }
