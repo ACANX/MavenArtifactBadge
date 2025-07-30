@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.takahirom.codepathtracer/code-path-tracer",
+  "description": "Simple, powerful method tracing for JVM and Android",
   "group_id": "io.github.takahirom.codepathtracer",
   "artifact_id": "code-path-tracer",
-  "latest_version": "0.1.1",
-  "description": "Simple, powerful method tracing for JVM and Android",
-  "id": "pkg:maven/io.github.takahirom.codepathtracer/code-path-tracer",
-  "ts": 1753754779000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "0.1.2",
+  "ts_publish": 1753918558000,
+  "ts_update": 1753919221468,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753755417056
+  "categories": null,
+  "dsv": 1
 }
