@@ -3,9 +3,9 @@
   "description": "The Gravitee.IO Parent POM provides common settings for all Gravitee components.",
   "group_id": "io.gravitee.reporter",
   "artifact_id": "gravitee-reporter-common",
-  "version_latest": "1.7.0-alpha.6",
-  "ts_publish": 1753777863000,
-  "ts_update": 1753778819224,
+  "version_latest": "1.7.0-alpha.7",
+  "ts_publish": 1753881735000,
+  "ts_update": 1753882293863,
   "count_dep": 111,
   "count_ref": 0,
   "licenses": [
