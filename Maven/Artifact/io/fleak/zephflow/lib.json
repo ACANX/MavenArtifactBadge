@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.fleak.zephflow/lib",
+  "description": "Zephflow Core - Lib Module",
   "group_id": "io.fleak.zephflow",
   "artifact_id": "lib",
-  "latest_version": "0.2.4-rc.6",
-  "description": "Zephflow Core - Lib Module",
-  "id": "pkg:maven/io.fleak.zephflow/lib",
-  "ts": 1753714555000,
-  "dependency_count": 2,
-  "ref_count": 42,
-  "categories": null,
+  "version_latest": "0.2.4-rc.7",
+  "ts_publish": 1753919364000,
+  "ts_update": 1753919818766,
+  "count_dep": 42,
+  "count_ref": 2,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753715823930
+  "categories": null,
+  "dsv": 1
 }
