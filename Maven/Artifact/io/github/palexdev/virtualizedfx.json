@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.github.palexdev/virtualizedfx",
+  "description": "Alternative VirtualFlows for JavaFX",
   "group_id": "io.github.palexdev",
   "artifact_id": "virtualizedfx",
-  "latest_version": "24.2.2",
-  "description": "Alternative VirtualFlows for JavaFX",
-  "id": "pkg:maven/io.github.palexdev/virtualizedfx",
-  "ts": 1753547174000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "24.2.3",
+  "ts_publish": 1753871616000,
+  "ts_update": 1753872287375,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "GNU LGPLv3"
   ],
-  "last_updated": 1753547817784
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
