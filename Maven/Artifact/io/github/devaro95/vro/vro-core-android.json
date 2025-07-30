@@ -3,9 +3,9 @@
   "description": "VRO Core Module",
   "group_id": "io.github.devaro95.vro",
   "artifact_id": "vro-core-android",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753827658000,
-  "ts_update": 1753828622689,
+  "version_latest": "1.0.3",
+  "ts_publish": 1753838157000,
+  "ts_update": 1753838818192,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
