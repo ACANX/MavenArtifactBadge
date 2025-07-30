@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.tommyettinger/tantrum-digital",
+  "description": "Tantrum serializers for digital types",
   "group_id": "com.github.tommyettinger",
   "artifact_id": "tantrum-digital",
-  "latest_version": "0.8.0.12",
-  "description": "Tantrum serializers for digital types",
-  "id": "pkg:maven/com.github.tommyettinger/tantrum-digital",
-  "ts": 1753683109000,
-  "dependency_count": 0,
-  "ref_count": 9,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "0.8.1.12",
+  "ts_publish": 1753868855000,
+  "ts_update": 1753869252990,
+  "count_dep": 9,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753683417249
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }
