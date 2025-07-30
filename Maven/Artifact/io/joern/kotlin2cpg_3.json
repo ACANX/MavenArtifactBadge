@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.joern/kotlin2cpg_3",
+  "description": "kotlin2cpg",
   "group_id": "io.joern",
   "artifact_id": "kotlin2cpg_3",
-  "latest_version": "4.0.399",
-  "description": "kotlin2cpg",
-  "id": "pkg:maven/io.joern/kotlin2cpg_3",
-  "ts": 1753384381000,
-  "dependency_count": 1,
-  "ref_count": 112,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.400",
+  "ts_publish": 1753861238000,
+  "ts_update": 1753861837725,
+  "count_dep": 112,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753385217748
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

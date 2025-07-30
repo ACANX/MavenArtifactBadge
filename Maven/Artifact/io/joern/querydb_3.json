@@ -1,12 +1,12 @@
 {
-  "id": "pkg:maven/io.joern/jssrc2cpg_3",
-  "description": "jssrc2cpg",
+  "id": "pkg:maven/io.joern/querydb_3",
+  "description": "querydb",
   "group_id": "io.joern",
-  "artifact_id": "jssrc2cpg_3",
+  "artifact_id": "querydb_3",
   "version_latest": "4.0.400",
   "ts_publish": 1753861238000,
-  "ts_update": 1753861837725,
-  "count_dep": 80,
+  "ts_update": 1753861837731,
+  "count_dep": 115,
   "count_ref": 0,
   "licenses": [
     "Apache-2.0"

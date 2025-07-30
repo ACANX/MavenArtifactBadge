@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.joern/joern-cli_3",
+  "description": "joern-cli",
   "group_id": "io.joern",
   "artifact_id": "joern-cli_3",
-  "latest_version": "4.0.399",
-  "description": "joern-cli",
-  "id": "pkg:maven/io.joern/joern-cli_3",
-  "ts": 1753384381000,
-  "dependency_count": 0,
-  "ref_count": 122,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.400",
+  "ts_publish": 1753861238000,
+  "ts_update": 1753861837727,
+  "count_dep": 122,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753385217747
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

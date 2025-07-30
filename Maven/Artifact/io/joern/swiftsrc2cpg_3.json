@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.joern/swiftsrc2cpg_3",
+  "description": "swiftsrc2cpg",
   "group_id": "io.joern",
   "artifact_id": "swiftsrc2cpg_3",
-  "latest_version": "4.0.399",
-  "description": "swiftsrc2cpg",
-  "id": "pkg:maven/io.joern/swiftsrc2cpg_3",
-  "ts": 1753384381000,
-  "dependency_count": 0,
-  "ref_count": 82,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.400",
+  "ts_publish": 1753861238000,
+  "ts_update": 1753861837726,
+  "count_dep": 82,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753385217747
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
