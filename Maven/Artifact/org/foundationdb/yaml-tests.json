@@ -3,9 +3,9 @@
   "description": "Tests of the Relational project driven off of YAML specifications.",
   "group_id": "org.foundationdb",
   "artifact_id": "yaml-tests",
-  "version_latest": "4.5.1.0",
-  "ts_publish": 1753799869000,
-  "ts_update": 1753801625187,
+  "version_latest": "4.5.3.0",
+  "ts_publish": 1753902647000,
+  "ts_update": 1753903019603,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "JDBC Driver for FDB Relational.",
   "group_id": "org.foundationdb",
   "artifact_id": "fdb-relational-jdbc",
-  "version_latest": "4.5.1.0",
-  "ts_publish": 1753799869000,
-  "ts_update": 1753801625189,
+  "version_latest": "4.5.3.0",
+  "ts_publish": 1753902647000,
+  "ts_update": 1753903019600,
   "count_dep": 8,
   "count_ref": 2,
   "licenses": [

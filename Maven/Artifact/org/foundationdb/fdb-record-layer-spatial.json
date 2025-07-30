@@ -3,9 +3,9 @@
   "description": "Spatial index support for fdb-record-layer",
   "group_id": "org.foundationdb",
   "artifact_id": "fdb-record-layer-spatial",
-  "version_latest": "4.5.1.0",
-  "ts_publish": 1753799869000,
-  "ts_update": 1753801625193,
+  "version_latest": "4.5.3.0",
+  "ts_publish": 1753902647000,
+  "ts_update": 1753903019598,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
