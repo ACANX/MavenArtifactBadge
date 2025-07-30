@@ -3,9 +3,9 @@
   "description": "a module containing feature flag testing helpers",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-feature-testing",
-  "version_latest": "2025.07.30.133600-ca34edd",
-  "ts_publish": 1753883927000,
-  "ts_update": 1753885026867,
+  "version_latest": "2025.07.30.135203-22aeb8a",
+  "ts_publish": 1753884853000,
+  "ts_update": 1753886224755,
   "count_dep": 5,
   "count_ref": 1,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-datadog",
-  "version_latest": "2025.07.30.023708-fb5215b",
-  "ts_publish": 1753844402000,
-  "ts_update": 1753844821977,
+  "version_latest": "2025.07.30.135203-22aeb8a",
+  "ts_publish": 1753884869000,
+  "ts_update": 1753886223753,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

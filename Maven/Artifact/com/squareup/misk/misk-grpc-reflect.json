@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-grpc-reflect",
-  "version_latest": "2025.07.30.023708-fb5215b",
-  "ts_publish": 1753844402000,
-  "ts_update": 1753844822467,
+  "version_latest": "2025.07.30.135203-22aeb8a",
+  "ts_publish": 1753884869000,
+  "ts_update": 1753886223170,
   "count_dep": 38,
   "count_ref": 1,
   "licenses": [
