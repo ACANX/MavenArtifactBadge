@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awsconstructs/wafwebaclappsync",
+  "description": "CDK constructs for defining an AWS web WAF connected to an AWS AppSync API.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "wafwebaclappsync",
-  "latest_version": "2.89.0",
-  "description": "CDK constructs for defining an AWS web WAF connected to an AWS AppSync API.",
-  "id": "pkg:maven/software.amazon.awsconstructs/wafwebaclappsync",
-  "ts": 1753738428000,
-  "dependency_count": 0,
-  "ref_count": 15,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.90.0",
+  "ts_publish": 1753905746000,
+  "ts_update": 1753906623321,
+  "count_dep": 15,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753739196810
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

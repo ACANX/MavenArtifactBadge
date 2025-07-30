@@ -3,9 +3,9 @@
   "description": "FFmpeg v7.1.1 Min",
   "group_id": "com.antonkarpenko",
   "artifact_id": "ffmpeg-kit-min",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753889590000,
-  "ts_update": 1753891021555,
+  "version_latest": "1.0.3",
+  "ts_publish": 1753906116000,
+  "ts_update": 1753906621373,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

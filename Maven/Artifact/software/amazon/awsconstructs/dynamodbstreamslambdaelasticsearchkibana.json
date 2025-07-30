@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awsconstructs/dynamodbstreamslambdaelasticsearchkibana",
+  "description": "CDK Constructs for Amazon Dynamodb streams to AWS Lambda to AWS Elasticsearch with Kibana integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "dynamodbstreamslambdaelasticsearchkibana",
-  "latest_version": "2.89.0",
-  "description": "CDK Constructs for Amazon Dynamodb streams to AWS Lambda to AWS Elasticsearch with Kibana integration",
-  "id": "pkg:maven/software.amazon.awsconstructs/dynamodbstreamslambdaelasticsearchkibana",
-  "ts": 1753738428000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.90.0",
+  "ts_publish": 1753905746000,
+  "ts_update": 1753906622465,
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753739195840
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awsconstructs/s3sns",
+  "description": "CDK constructs for defining an interaction between an Amazon S3 bucket and an Amazon SNS Topic.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "s3sns",
-  "latest_version": "2.89.0",
-  "description": "CDK constructs for defining an interaction between an Amazon S3 bucket and an Amazon SNS Topic.",
-  "id": "pkg:maven/software.amazon.awsconstructs/s3sns",
-  "ts": 1753738428000,
-  "dependency_count": 0,
-  "ref_count": 15,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.90.0",
+  "ts_publish": 1753905746000,
+  "ts_update": 1753906622899,
+  "count_dep": 15,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753739195843
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

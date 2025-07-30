@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awsconstructs/lambdasns",
+  "description": "CDK constructs for defining an interaction between an AWS Lambda function and an Amazon SNS topic.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "lambdasns",
-  "latest_version": "2.89.0",
-  "description": "CDK constructs for defining an interaction between an AWS Lambda function and an Amazon SNS topic.",
-  "id": "pkg:maven/software.amazon.awsconstructs/lambdasns",
-  "ts": 1753738428000,
-  "dependency_count": 0,
-  "ref_count": 15,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.90.0",
+  "ts_publish": 1753905746000,
+  "ts_update": 1753906621376,
+  "count_dep": 15,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753739195446
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
