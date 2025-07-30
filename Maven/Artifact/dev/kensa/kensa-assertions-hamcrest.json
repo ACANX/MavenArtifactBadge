@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/dev.kensa/kensa-assertions-hamcrest",
+  "description": "Hamcrest assertion helpers for Kensa",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-assertions-hamcrest",
-  "latest_version": "0.5.18",
-  "description": "Hamcrest assertion helpers for Kensa",
-  "id": "pkg:maven/dev.kensa/kensa-assertions-hamcrest",
-  "ts": 1753719289000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.5.19",
+  "ts_publish": 1753883613000,
+  "ts_update": 1753884436332,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753720018641
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

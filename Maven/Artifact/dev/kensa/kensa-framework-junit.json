@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/dev.kensa/kensa-framework-junit",
+  "description": "Kensa for JUnit5",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-framework-junit",
-  "latest_version": "0.5.18",
-  "description": "Kensa for JUnit5",
-  "id": "pkg:maven/dev.kensa/kensa-framework-junit",
-  "ts": 1753719289000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.5.19",
+  "ts_publish": 1753883613000,
+  "ts_update": 1753884436333,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753720018642
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

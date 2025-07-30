@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/dev.kensa/kensa-adoptabot",
+  "description": "null",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-adoptabot",
-  "latest_version": "0.5.18",
-  "description": "null",
-  "id": "pkg:maven/dev.kensa/kensa-adoptabot",
-  "ts": 1753719289000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.5.19",
+  "ts_publish": 1753883613000,
+  "ts_update": 1753884436332,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753720018640
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
