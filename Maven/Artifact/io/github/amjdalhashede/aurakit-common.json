@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.github.amjdalhashede/aurakit-common",
-  "description": "AuraKit aurakit-common module – modular Android framework for multimedia processing.",
+  "description": "Core module of AuraKit providing shared media utilities,\nconstants, type definitions, and reusable components for internal integration.\nDesigned to support modular features without enforcing dependencies or assumptions.",
   "group_id": "io.github.amjdalhashede",
   "artifact_id": "aurakit-common",
-  "version_latest": "0.0.1-alpha",
-  "ts_publish": 1753818484000,
-  "ts_update": 1753819018253,
+  "version_latest": "0.0.1-alpha1",
+  "ts_publish": 1753840796000,
+  "ts_update": 1753841821753,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

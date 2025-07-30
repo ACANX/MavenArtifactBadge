@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.github.amjdalhashede/aurakit-codec-core",
-  "description": "AuraKit aurakit-codec-core module – modular Android framework for multimedia processing.",
+  "description": "Defines the foundational structure and interfaces for supported codecs in AuraKit.\nEstablishes standard contracts for implementing encoding and decoding logic, enabling consistent integration across codec modules.",
   "group_id": "io.github.amjdalhashede",
   "artifact_id": "aurakit-codec-core",
-  "version_latest": "0.0.1-alpha",
-  "ts_publish": 1753818484000,
-  "ts_update": 1753819018253,
+  "version_latest": "0.0.1-alpha1",
+  "ts_publish": 1753840796000,
+  "ts_update": 1753841821756,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

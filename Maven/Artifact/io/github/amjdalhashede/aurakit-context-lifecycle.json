@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.github.amjdalhashede/aurakit-context-lifecycle",
-  "description": "AuraKit aurakit-context-lifecycle module – modular Android framework for multimedia processing.",
+  "description": "Automatically provides AuraContext across all components in AuraKit without requiring manual initialization or propagation.\nHandles lifecycle binding and context availability transparently, ensuring consistent access throughout the framework.",
   "group_id": "io.github.amjdalhashede",
   "artifact_id": "aurakit-context-lifecycle",
-  "version_latest": "0.0.1-alpha",
-  "ts_publish": 1753818484000,
-  "ts_update": 1753819018252,
+  "version_latest": "0.0.1-alpha1",
+  "ts_publish": 1753840796000,
+  "ts_update": 1753841821753,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

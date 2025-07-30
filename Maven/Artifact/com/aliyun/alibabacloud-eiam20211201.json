@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.aliyun/alibabacloud-eiam20211201",
+  "description": "Alibaba Cloud Eiam (20211201) Async SDK for Java",
+  "group_id": "com.aliyun",
+  "artifact_id": "alibabacloud-eiam20211201",
+  "version_latest": "2.0.0",
+  "ts_publish": 1753841445000,
+  "ts_update": 1753841821751,
+  "count_dep": 13,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Software Development Kit"
+  ],
+  "dsv": 1
+}
