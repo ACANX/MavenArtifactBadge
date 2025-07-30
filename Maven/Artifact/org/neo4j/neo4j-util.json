@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-util",
+  "description": "Cypher utilities",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-util",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885024288,
+  "count_dep": 24,
+  "count_ref": 18,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

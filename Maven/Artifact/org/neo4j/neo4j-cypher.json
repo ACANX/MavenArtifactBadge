@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-cypher",
+  "description": "Neo4j query language",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-cypher",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885022041,
+  "count_dep": 43,
+  "count_ref": 13,
+  "licenses": [],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

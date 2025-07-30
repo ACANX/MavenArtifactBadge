@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-rewriting",
+  "description": "Tree rewriting support, and AST rewriters for the Cypher query language",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-rewriting",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023862,
+  "count_dep": 11,
+  "count_ref": 7,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

@@ -3,9 +3,9 @@
   "description": "The Beangle Simple Application Server (SAS)",
   "group_id": "org.beangle.sas",
   "artifact_id": "beangle-sas-juli",
-  "version_latest": "0.13.0",
-  "ts_publish": 1753807325000,
-  "ts_update": 1753808164046,
+  "version_latest": "0.13.1",
+  "ts_publish": 1753883862000,
+  "ts_update": 1753885026869,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

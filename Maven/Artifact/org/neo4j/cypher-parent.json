@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.neo4j/cypher-parent",
+  "description": "Project that builds the Neo4j Cypher modules as part of the Community distribution.",
+  "group_id": "org.neo4j",
+  "artifact_id": "cypher-parent",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885022989,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j",
+  "description": "Neo4j Community Edition",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023861,
+  "count_dep": 30,
+  "count_ref": 17,
+  "licenses": [],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

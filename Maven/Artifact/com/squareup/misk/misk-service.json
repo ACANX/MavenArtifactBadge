@@ -3,11 +3,11 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-service",
-  "version_latest": "2025.07.30.023708-fb5215b",
-  "ts_publish": 1753844402000,
-  "ts_update": 1753844822468,
-  "count_dep": 24,
-  "count_ref": 22,
+  "version_latest": "2025.07.30.133600-ca34edd",
+  "ts_publish": 1753883944000,
+  "ts_update": 1753885026440,
+  "count_dep": 34,
+  "count_ref": 23,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
