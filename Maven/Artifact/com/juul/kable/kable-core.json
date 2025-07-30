@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.juul.kable/kable-core",
+  "description": "Kotlin Asynchronous Bluetooth Low Energy",
+  "group_id": "com.juul.kable",
+  "artifact_id": "kable-core",
+  "version_latest": "0.39.1",
+  "ts_publish": 1753863012000,
+  "ts_update": 1753864020643,
+  "count_dep": 4,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
