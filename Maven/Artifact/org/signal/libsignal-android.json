@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.signal/libsignal-android",
+  "description": "Signal Protocol cryptography library for Android",
   "group_id": "org.signal",
   "artifact_id": "libsignal-android",
-  "latest_version": "0.77.0",
-  "description": "Signal Protocol cryptography library for Android",
-  "id": "pkg:maven/org.signal/libsignal-android",
-  "ts": 1753746922000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.77.1",
+  "ts_publish": 1753838389000,
+  "ts_update": 1753839419956,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "AGPLv3"
   ],
-  "last_updated": 1753747620804
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
