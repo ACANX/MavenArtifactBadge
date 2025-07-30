@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.mflisar.kotpreferences/extension-compose-android",
+  "description": "KotPreferences - extension-compose module - provides composable extensions",
+  "group_id": "io.github.mflisar.kotpreferences",
+  "artifact_id": "extension-compose-android",
+  "version_latest": "1.0.3",
+  "ts_publish": 1753885697000,
+  "ts_update": 1753886819724,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

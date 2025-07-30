@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/facility-tencent-spring-boot-starter",
+  "description": "Dante Engine",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "facility-tencent-spring-boot-starter",
-  "latest_version": "3.5.4.0",
-  "description": "Dante Engine",
-  "id": "pkg:maven/cn.herodotus.engine/facility-tencent-spring-boot-starter",
-  "ts": 1753367015000,
-  "dependency_count": 0,
-  "ref_count": 150,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886817668,
+  "count_dep": 150,
+  "count_ref": 0,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821536
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

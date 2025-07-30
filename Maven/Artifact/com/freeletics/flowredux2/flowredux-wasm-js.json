@@ -3,9 +3,9 @@
   "description": "FlowRedux",
   "group_id": "com.freeletics.flowredux2",
   "artifact_id": "flowredux-wasm-js",
-  "version_latest": "2.0.0-alpha3",
-  "ts_publish": 1753803739000,
-  "ts_update": 1753804621147,
+  "version_latest": "2.0.0-alpha4",
+  "ts_publish": 1753885673000,
+  "ts_update": 1753886821044,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

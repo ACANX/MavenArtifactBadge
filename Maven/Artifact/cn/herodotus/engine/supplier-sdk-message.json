@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/supplier-sdk-message",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud 消息应用支持模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "supplier-sdk-message",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的 Dante Cloud 消息应用支持模块",
-  "id": "pkg:maven/cn.herodotus.engine/supplier-sdk-message",
-  "ts": 1753367015000,
-  "dependency_count": 0,
-  "ref_count": 134,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886818338,
+  "count_dep": 131,
+  "count_ref": 0,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821542
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

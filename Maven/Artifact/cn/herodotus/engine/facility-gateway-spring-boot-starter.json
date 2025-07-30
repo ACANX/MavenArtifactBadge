@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter",
+  "description": "Dante Cloud 在 Alibaba 环境下 Sentinel Gateway 配置模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "facility-gateway-spring-boot-starter",
-  "latest_version": "3.5.4.0",
-  "description": "Dante Cloud 在 Alibaba 环境下 Sentinel Gateway 配置模块",
-  "id": "pkg:maven/cn.herodotus.engine/facility-gateway-spring-boot-starter",
-  "ts": 1753367015000,
-  "dependency_count": 0,
-  "ref_count": 148,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886817667,
+  "count_dep": 148,
+  "count_ref": 0,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821089
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

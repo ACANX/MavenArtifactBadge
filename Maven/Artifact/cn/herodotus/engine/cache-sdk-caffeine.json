@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/cache-sdk-caffeine",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud Caffeine 组件相关代码模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "cache-sdk-caffeine",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的 Dante Cloud Caffeine 组件相关代码模块",
-  "id": "pkg:maven/cn.herodotus.engine/cache-sdk-caffeine",
-  "ts": 1753367015000,
-  "dependency_count": 22,
-  "ref_count": 87,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886818335,
+  "count_dep": 88,
+  "count_ref": 22,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367820608
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

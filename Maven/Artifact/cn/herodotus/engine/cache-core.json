@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/cache-core",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud 缓存通用代码组件",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "cache-core",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的 Dante Cloud 缓存通用代码组件",
-  "id": "pkg:maven/cn.herodotus.engine/cache-core",
-  "ts": 1753367015000,
-  "dependency_count": 28,
-  "ref_count": 82,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886818332,
+  "count_dep": 82,
+  "count_ref": 28,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821089
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
