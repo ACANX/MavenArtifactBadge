@@ -3,9 +3,9 @@
   "description": "server-common-webflux",
   "group_id": "io.github.karboom",
   "artifact_id": "server-common-webflux",
-  "version_latest": "1.0.2",
-  "ts_publish": 1753790631000,
-  "ts_update": 1753793726328,
+  "version_latest": "1.0.3",
+  "ts_publish": 1753863689000,
+  "ts_update": 1753864625757,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
