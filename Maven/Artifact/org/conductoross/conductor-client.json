@@ -3,11 +3,11 @@
   "description": "Conductor OSS client (http)",
   "group_id": "org.conductoross",
   "artifact_id": "conductor-client",
-  "version_latest": "4.0.13",
-  "ts_publish": 1753855541000,
-  "ts_update": 1753856219634,
+  "version_latest": "4.0.14",
+  "ts_publish": 1753872444000,
+  "ts_update": 1753873026063,
   "count_dep": 11,
-  "count_ref": 4,
+  "count_ref": 3,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
