@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.remmerw/asen-jvm",
+  "description": "Basic library for connecting to the libp2p network",
   "group_id": "io.github.remmerw",
   "artifact_id": "asen-jvm",
-  "latest_version": "0.4.4",
-  "description": "Basic library for connecting to the libp2p network",
-  "id": "pkg:maven/io.github.remmerw/asen-jvm",
-  "ts": 1753711499000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "0.4.5",
+  "ts_publish": 1753857253000,
+  "ts_update": 1753858022169,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753712219284
+  "categories": null,
+  "dsv": 1
 }
