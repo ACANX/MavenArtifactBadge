@@ -3,9 +3,9 @@
   "description": "The original organizations implementation for single-realm, multi-tenancy in Keycloak.",
   "group_id": "io.phasetwo.keycloak",
   "artifact_id": "keycloak-orgs",
-  "version_latest": "0.109",
-  "ts_publish": 1753893878000,
-  "ts_update": 1753894551953,
+  "version_latest": "0.110",
+  "ts_publish": 1753894223000,
+  "ts_update": 1753895220933,
   "count_dep": 217,
   "count_ref": 0,
   "licenses": [

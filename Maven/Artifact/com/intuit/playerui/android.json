@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.intuit.playerui/android",
+  "description": "A cross-platform semantic rendering engine",
   "group_id": "com.intuit.playerui",
   "artifact_id": "android",
-  "latest_version": "0.13.0-next.2",
-  "description": "A cross-platform semantic rendering engine",
-  "id": "pkg:maven/com.intuit.playerui/android",
-  "ts": 1753392842000,
-  "dependency_count": 0,
-  "ref_count": 51,
-  "categories": null,
+  "version_latest": "0.13.0-next.4",
+  "ts_publish": 1753894461000,
+  "ts_update": 1753895220928,
+  "count_dep": 51,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753393558781
+  "categories": null,
+  "dsv": 1
 }

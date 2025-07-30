@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/com.intuit.playerui.plugins/beacon",
+  "id": "pkg:maven/com.intuit.playerui/core",
   "description": "A cross-platform semantic rendering engine",
-  "group_id": "com.intuit.playerui.plugins",
-  "artifact_id": "beacon",
+  "group_id": "com.intuit.playerui",
+  "artifact_id": "core",
   "version_latest": "0.13.0-next.4",
   "ts_publish": 1753894461000,
-  "ts_update": 1753895220439,
+  "ts_update": 1753895220442,
   "count_dep": 16,
-  "count_ref": 2,
+  "count_ref": 29,
   "licenses": [
     "Apache License, Version 2.0"
   ],
