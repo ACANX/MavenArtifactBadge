@@ -3,9 +3,9 @@
   "description": "Library to test MavenCentral upload",
   "group_id": "io.github.brfkar",
   "artifact_id": "framework",
-  "version_latest": "0.0.5",
-  "ts_publish": 1753869312000,
-  "ts_update": 1753870021727,
+  "version_latest": "0.0.6",
+  "ts_publish": 1753870922000,
+  "ts_update": 1753871825050,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

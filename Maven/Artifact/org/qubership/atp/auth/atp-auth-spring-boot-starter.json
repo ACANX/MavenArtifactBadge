@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.qubership.atp.auth/atp-auth-spring-boot-starter",
+  "description": "Qubership Testing Platform Auth Library",
   "group_id": "org.qubership.atp.auth",
   "artifact_id": "atp-auth-spring-boot-starter",
-  "latest_version": "1.2.66",
-  "description": "Qubership Testing Platform Auth Library",
-  "id": "pkg:maven/org.qubership.atp.auth/atp-auth-spring-boot-starter",
-  "ts": 1753382371000,
-  "dependency_count": 0,
-  "ref_count": 293,
-  "categories": null,
+  "version_latest": "1.2.67",
+  "ts_publish": 1753871041000,
+  "ts_update": 1753871825049,
+  "count_dep": 293,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382816301
+  "categories": null,
+  "dsv": 1
 }
