@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-testing",
-  "version_latest": "2025.07.30.152053-d079641",
-  "ts_publish": 1753890238000,
-  "ts_update": 1753891017703,
+  "version_latest": "2025.07.30.211227-cdff65e",
+  "ts_publish": 1753911354000,
+  "ts_update": 1753914423443,
   "count_dep": 106,
   "count_ref": 9,
   "licenses": [

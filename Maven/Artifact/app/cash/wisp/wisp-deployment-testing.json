@@ -3,9 +3,9 @@
   "description": "a module containing deployment testing helpers, e.g. fakes",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-deployment-testing",
-  "version_latest": "2025.07.30.152053-d079641",
-  "ts_publish": 1753890230000,
-  "ts_update": 1753891019539,
+  "version_latest": "2025.07.30.211227-cdff65e",
+  "ts_publish": 1753911345000,
+  "ts_update": 1753914424733,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [

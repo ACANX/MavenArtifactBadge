@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.hibernate.orm/hibernate-ant",
+  "description": "Annotation Processor to generate JPA 2 static metamodel classes",
   "group_id": "org.hibernate.orm",
   "artifact_id": "hibernate-ant",
-  "latest_version": "7.0.8.Final",
-  "description": "Annotation Processor to generate JPA 2 static metamodel classes",
-  "id": "pkg:maven/org.hibernate.orm/hibernate-ant",
-  "ts": 1753575585000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "7.1.0.CR1",
+  "ts_publish": 1753912122000,
+  "ts_update": 1753914420940,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753576020377
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
