@@ -3,9 +3,9 @@
   "description": "refined4s-core",
   "group_id": "io.kevinlee",
   "artifact_id": "refined4s-core_3",
-  "version_latest": "1.3.0",
-  "ts_publish": 1753801351000,
-  "ts_update": 1753802220881,
+  "version_latest": "1.4.0",
+  "ts_publish": 1753887387000,
+  "ts_update": 1753888020900,
   "count_dep": 8,
   "count_ref": 9,
   "licenses": [

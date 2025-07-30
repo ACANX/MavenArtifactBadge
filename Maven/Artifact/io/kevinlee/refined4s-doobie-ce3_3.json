@@ -3,9 +3,9 @@
   "description": "refined4s-doobie-ce3",
   "group_id": "io.kevinlee",
   "artifact_id": "refined4s-doobie-ce3_3",
-  "version_latest": "1.2.0",
-  "ts_publish": 1753798895000,
-  "ts_update": 1753799645259,
+  "version_latest": "1.4.0",
+  "ts_publish": 1753887387000,
+  "ts_update": 1753888020906,
   "count_dep": 29,
   "count_ref": 0,
   "licenses": [
