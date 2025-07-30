@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/policy-monitor-store-sql",
+  "description": "edc :: policy-monitor-store-sql",
   "group_id": "org.eclipse.edc",
   "artifact_id": "policy-monitor-store-sql",
-  "latest_version": "0.13.1",
-  "description": "edc :: policy-monitor-store-sql",
-  "id": "pkg:maven/org.eclipse.edc/policy-monitor-store-sql",
-  "ts": 1753436148000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753882395000,
+  "ts_update": 1753883828995,
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753436818275
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

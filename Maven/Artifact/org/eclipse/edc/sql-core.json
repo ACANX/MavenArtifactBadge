@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/sql-core",
+  "description": "edc :: sql-core",
   "group_id": "org.eclipse.edc",
   "artifact_id": "sql-core",
-  "latest_version": "0.13.1",
-  "description": "edc :: sql-core",
-  "id": "pkg:maven/org.eclipse.edc/sql-core",
-  "ts": 1753436148000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753882396000,
+  "ts_update": 1753883825824,
+  "count_dep": 19,
+  "count_ref": 3,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753436818279
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
