@@ -3,9 +3,9 @@
   "description": "Core utilities and foundations for Sushi Design System",
   "group_id": "com.eternal.kits",
   "artifact_id": "sushi-core-android",
-  "version_latest": "0.0.8",
-  "ts_publish": 1753851224000,
-  "ts_update": 1753851876404,
+  "version_latest": "0.0.9",
+  "ts_publish": 1753853004000,
+  "ts_update": 1753853821938,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [

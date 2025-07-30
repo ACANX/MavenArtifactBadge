@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/com.eternal.kits/sushi-compose-iosx64",
-  "description": "Sushi Design System for Compose Multiplatform",
+  "id": "pkg:maven/com.eternal.kits/sushi-core-wasm-js",
+  "description": "Core utilities and foundations for Sushi Design System",
   "group_id": "com.eternal.kits",
-  "artifact_id": "sushi-compose-iosx64",
+  "artifact_id": "sushi-core-wasm-js",
   "version_latest": "0.0.9",
   "ts_publish": 1753853004000,
   "ts_update": 1753853821934,
-  "count_dep": 13,
-  "count_ref": 0,
+  "count_dep": 1,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

@@ -3,9 +3,9 @@
   "description": "Sushi Design System for Compose Multiplatform",
   "group_id": "com.eternal.kits",
   "artifact_id": "sushi-compose-iossimulatorarm64",
-  "version_latest": "0.0.8",
-  "ts_publish": 1753851224000,
-  "ts_update": 1753851876404,
+  "version_latest": "0.0.9",
+  "ts_publish": 1753853004000,
+  "ts_update": 1753853821937,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [
