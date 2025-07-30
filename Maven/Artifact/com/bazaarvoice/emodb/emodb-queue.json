@@ -3,9 +3,9 @@
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb-queue",
-  "version_latest": "6.5.239",
-  "ts_publish": 1753809397000,
-  "ts_update": 1753810021997,
+  "version_latest": "6.5.240",
+  "ts_publish": 1753873510000,
+  "ts_update": 1753874219374,
   "count_dep": 151,
   "count_ref": 3,
   "licenses": [

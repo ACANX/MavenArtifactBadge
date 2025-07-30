@@ -3,9 +3,9 @@
   "description": "luminesce",
   "group_id": "com.finbourne",
   "artifact_id": "luminesce-sdk",
-  "version_latest": "2.0.454",
-  "ts_publish": 1753818943000,
-  "ts_update": 1753819618562,
+  "version_latest": "2.0.455",
+  "ts_publish": 1753873372000,
+  "ts_update": 1753874219966,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [

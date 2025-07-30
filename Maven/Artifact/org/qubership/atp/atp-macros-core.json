@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.qubership.atp/atp-macros-core",
+  "description": "Macros Core library",
   "group_id": "org.qubership.atp",
   "artifact_id": "atp-macros-core",
-  "latest_version": "1.0.29",
-  "description": "Macros Core library",
-  "id": "pkg:maven/org.qubership.atp/atp-macros-core",
-  "ts": 1753359495000,
-  "dependency_count": 0,
-  "ref_count": 240,
-  "categories": null,
+  "version_latest": "1.0.30",
+  "ts_publish": 1753873767000,
+  "ts_update": 1753874218103,
+  "count_dep": 240,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753360019330
+  "categories": null,
+  "dsv": 1
 }
