@@ -3,10 +3,10 @@
   "description": "简单项目脚手架啊",
   "group_id": "io.github.codert96",
   "artifact_id": "project-starter-parent",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753839500000,
-  "ts_update": 1753840019277,
-  "count_dep": 0,
+  "version_latest": "1.0.1",
+  "ts_publish": 1753842101000,
+  "ts_update": 1753842489004,
+  "count_dep": 58,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
