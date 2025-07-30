@@ -1,15 +1,16 @@
 {
   "id": "pkg:maven/io.github.robert-hanuschke/cdk-utils",
+  "description": "@robhan-cdk-lib/utils",
   "group_id": "io.github.robert-hanuschke",
   "artifact_id": "cdk-utils",
-  "latest_version": "0.0.7",
-  "ts": 1753759530000,
-  "last_updated": 1753760221184,
-  "description": "@robhan-cdk-lib/utils",
+  "version_latest": "0.0.8",
+  "ts_publish": 1753845044000,
+  "ts_update": 1753845420130,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "dep_count": 11,
-  "ref_count": 0,
-  "categories": null
+  "categories": null,
+  "dsv": 1
 }
