@@ -3,9 +3,9 @@
   "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-user-appliances-api",
-  "version_latest": "1.37.2",
-  "ts_publish": 1753804038000,
-  "ts_update": 1753804620470,
+  "version_latest": "1.37.3",
+  "ts_publish": 1753894982000,
+  "ts_update": 1753895820423,
   "count_dep": 4,
   "count_ref": 3,
   "licenses": [
