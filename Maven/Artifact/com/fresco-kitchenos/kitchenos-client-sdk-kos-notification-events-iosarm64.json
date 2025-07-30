@@ -3,9 +3,9 @@
   "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-kos-notification-events-iosarm64",
-  "version_latest": "1.37.2",
-  "ts_publish": 1753805472000,
-  "ts_update": 1753806437475,
+  "version_latest": "1.37.3",
+  "ts_publish": 1753896348000,
+  "ts_update": 1753897064421,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [
