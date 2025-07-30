@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.gitee.rengy/support-servlet",
+  "description": "servlet工具包",
+  "group_id": "io.gitee.rengy",
+  "artifact_id": "support-servlet",
+  "version_latest": "1.0.0",
+  "ts_publish": 1753866502000,
+  "ts_update": 1753867020164,
+  "count_dep": 40,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
