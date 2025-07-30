@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/net.kyori/adventure-platform-fabric",
+  "description": "Integration between the adventure library and Minecraft: Java Edition, using the Fabric and NeoForge modding systems",
   "group_id": "net.kyori",
   "artifact_id": "adventure-platform-fabric",
-  "latest_version": "6.5.1",
-  "description": "Integration between the adventure library and Minecraft: Java Edition, using the Fabric and NeoForge modding systems",
-  "id": "pkg:maven/net.kyori/adventure-platform-fabric",
-  "ts": 1753306538000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": [
-    "Programming Language Utilities"
-  ],
+  "version_latest": "6.6.0",
+  "ts_publish": 1753899615000,
+  "ts_update": 1753900022400,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753306822969
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
 }
