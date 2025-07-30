@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/bedrockdataautomation",
+  "description": "The AWS Java SDK for Bedrock Data Automation module holds the client classes that are used for\n        communicating with Bedrock Data Automation.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "bedrockdataautomation",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for Bedrock Data Automation module holds the client classes that are used for\n        communicating with Bedrock Data Automation.",
-  "id": "pkg:maven/software.amazon.awssdk/bedrockdataautomation",
-  "ts": 1753478248000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842190000,
+  "ts_update": 1753843020400,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478821449
+  "dsv": 1
 }

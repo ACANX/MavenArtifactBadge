@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/chimesdkvoice",
+  "description": "The AWS Java SDK for Chime SDK Voice module holds the client classes that are used for\n        communicating with Chime SDK Voice.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "chimesdkvoice",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for Chime SDK Voice module holds the client classes that are used for\n        communicating with Chime SDK Voice.",
-  "id": "pkg:maven/software.amazon.awssdk/chimesdkvoice",
-  "ts": 1753478135000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842200000,
+  "ts_update": 1753843019782,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478823381
+  "dsv": 1
 }

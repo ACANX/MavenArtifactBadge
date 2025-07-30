@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/accessanalyzer",
+  "description": "The AWS Java SDK for AccessAnalyzer module holds the client classes that are used for\n        communicating with AccessAnalyzer.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "accessanalyzer",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for AccessAnalyzer module holds the client classes that are used for\n        communicating with AccessAnalyzer.",
-  "id": "pkg:maven/software.amazon.awssdk/accessanalyzer",
-  "ts": 1753739245000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842210000,
+  "ts_update": 1753843019320,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739726346
+  "dsv": 1
 }
