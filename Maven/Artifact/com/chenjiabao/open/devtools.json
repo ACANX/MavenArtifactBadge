@@ -3,9 +3,9 @@
   "description": "开放工具集",
   "group_id": "com.chenjiabao.open",
   "artifact_id": "devtools",
-  "version_latest": "0.5.1",
-  "ts_publish": 1753863792000,
-  "ts_update": 1753864625757,
+  "version_latest": "0.5.2",
+  "ts_publish": 1753865601000,
+  "ts_update": 1753866424501,
   "count_dep": 52,
   "count_ref": 0,
   "licenses": [
