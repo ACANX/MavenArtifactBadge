@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.phasetwo.keycloak/keycloak-orgs",
+  "description": "The original organizations implementation for single-realm, multi-tenancy in Keycloak.",
   "group_id": "io.phasetwo.keycloak",
   "artifact_id": "keycloak-orgs",
-  "latest_version": "0.108",
-  "description": "The original organizations implementation for single-realm, multi-tenancy in Keycloak.",
-  "id": "pkg:maven/io.phasetwo.keycloak/keycloak-orgs",
-  "ts": 1753724428000,
-  "dependency_count": 0,
-  "ref_count": 217,
-  "categories": null,
+  "version_latest": "0.109",
+  "ts_publish": 1753893878000,
+  "ts_update": 1753894551953,
+  "count_dep": 217,
+  "count_ref": 0,
   "licenses": [
     "Elastic License v2"
   ],
-  "last_updated": 1753725325988
+  "categories": null,
+  "dsv": 1
 }
