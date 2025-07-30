@@ -3,11 +3,11 @@
   "description": "Common Utilities reused by codegen implementations",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-common_3",
-  "version_latest": "0.0.1-main.20250730.108.663.v27e81e9",
-  "ts_publish": 1753833520000,
-  "ts_update": 1753834018182,
-  "count_dep": 12,
-  "count_ref": 6,
+  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
+  "ts_publish": 1753856026000,
+  "ts_update": 1753856821822,
+  "count_dep": 16,
+  "count_ref": 15,
   "licenses": [
     "Apache License, Version 2.0"
   ],

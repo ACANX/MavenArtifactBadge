@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/com.daml/transcode-codegen-java-sbt-daml3.3_2.12",
-  "description": "Gradle Plugin for Java Code Generation",
+  "description": "SBT plugin for Java Code Generation",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-java-sbt-daml3.3_2.12",
-  "version_latest": "0.0.1-main.20250730.108.663.v27e81e9",
-  "ts_publish": 1753833566000,
-  "ts_update": 1753834018180,
+  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
+  "ts_publish": 1753856054000,
+  "ts_update": 1753856821820,
   "count_dep": 83,
   "count_ref": 0,
   "licenses": [
