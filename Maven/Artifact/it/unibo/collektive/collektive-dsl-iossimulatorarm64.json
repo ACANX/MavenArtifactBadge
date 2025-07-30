@@ -3,11 +3,11 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-dsl-iossimulatorarm64",
-  "version_latest": "25.0.2-dev0x+acd94bd",
-  "ts_publish": 1753817289000,
-  "ts_update": 1753817820042,
+  "version_latest": "25.0.2-dev13+7135b6c",
+  "ts_publish": 1753848706000,
+  "ts_update": 1753849623019,
   "count_dep": 5,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "Apache License 2.0"
   ],
