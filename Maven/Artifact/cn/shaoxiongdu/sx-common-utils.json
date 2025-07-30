@@ -3,10 +3,10 @@
   "description": "工具包",
   "group_id": "cn.shaoxiongdu",
   "artifact_id": "sx-common-utils",
-  "version_latest": "1.0.1",
-  "ts_publish": 1753856404000,
-  "ts_update": 1753857420799,
-  "count_dep": 32,
+  "version_latest": "1.0.3",
+  "ts_publish": 1753866930000,
+  "ts_update": 1753867625717,
+  "count_dep": 5,
   "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
