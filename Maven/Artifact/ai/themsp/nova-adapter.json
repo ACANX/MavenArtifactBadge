@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.themsp/nova-adapter",
+  "description": "Adapt Nova SDK to MSP Android SDK to support Nova Ads",
   "group_id": "ai.themsp",
   "artifact_id": "nova-adapter",
-  "latest_version": "2.3.0",
-  "description": "Adapt Nova SDK to MSP Android SDK to support Nova Ads",
-  "id": "pkg:maven/ai.themsp/nova-adapter",
-  "ts": 1753485266000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "2.3.1",
+  "ts_publish": 1753834497000,
+  "ts_update": 1753835220184,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753486017237
+  "categories": null,
+  "dsv": 1
 }

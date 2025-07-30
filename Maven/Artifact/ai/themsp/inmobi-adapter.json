@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.themsp/inmobi-adapter",
+  "description": "Adapt InMobi SDK to MSP Android SDK to support InMobi Ads",
   "group_id": "ai.themsp",
   "artifact_id": "inmobi-adapter",
-  "latest_version": "2.3.0",
-  "description": "Adapt InMobi SDK to MSP Android SDK to support InMobi Ads",
-  "id": "pkg:maven/ai.themsp/inmobi-adapter",
-  "ts": 1753485395000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": null,
+  "version_latest": "2.3.1",
+  "ts_publish": 1753834372000,
+  "ts_update": 1753835220186,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753486017235
+  "categories": null,
+  "dsv": 1
 }

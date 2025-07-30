@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin",
+  "description": "Event Store Adapter for Java",
   "group_id": "io.github.j5ik2o",
   "artifact_id": "event-store-adapter-kotlin",
-  "latest_version": "1.0.483",
-  "description": "Event Store Adapter for Java",
-  "id": "pkg:maven/io.github.j5ik2o/event-store-adapter-kotlin",
-  "ts": 1753488661000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "1.0.484",
+  "ts_publish": 1753834301000,
+  "ts_update": 1753835220188,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753489618860
+  "categories": null,
+  "dsv": 1
 }
