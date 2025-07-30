@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.netease.cloudmusic.iotsdk/nb_logger",
+  "description": "CMIotSdk多终端SDK",
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "nb_logger",
-  "latest_version": "0.4.5.20250729105222",
-  "description": "CMIotSdk多终端SDK",
-  "id": "pkg:maven/com.netease.cloudmusic.iotsdk/nb_logger",
-  "ts": 1753757629000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "0.4.5.20250730094559",
+  "ts_publish": 1753840046000,
+  "ts_update": 1753840619125,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753758417582
+  "categories": null,
+  "dsv": 1
 }
