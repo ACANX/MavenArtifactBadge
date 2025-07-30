@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-api-redis",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-api-redis",
-  "latest_version": "12.2.1",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-api-redis",
-  "ts": 1753347841000,
-  "dependency_count": 2,
-  "ref_count": 3,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879631878,
+  "count_dep": 45,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753348626629
+  "dsv": 1
 }

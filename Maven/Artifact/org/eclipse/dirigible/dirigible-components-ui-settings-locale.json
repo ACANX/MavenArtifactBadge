@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-ui-settings-locale",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-ui-settings-locale",
-  "latest_version": "12.2.1",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-ui-settings-locale",
-  "ts": 1753347841000,
-  "dependency_count": 2,
-  "ref_count": 0,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879630524,
+  "count_dep": 0,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753348626065
+  "dsv": 1
 }

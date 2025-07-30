@@ -1,17 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-tests-framework",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-tests-framework",
-  "latest_version": "12.2.1",
-  "description": "Test packages",
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-tests-framework",
-  "ts": 1753347841000,
-  "dependency_count": 1,
-  "ref_count": 286,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879635494,
+  "count_dep": 41,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [
-    "Eclipse Public License - v 2.0"
-  ],
-  "last_updated": 1753348627749
+  "dsv": 1
 }

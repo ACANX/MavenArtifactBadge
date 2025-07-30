@@ -3,9 +3,9 @@
   "description": "Joiner parent module",
   "group_id": "cz.encircled",
   "artifact_id": "joiner-kotlin-reactive",
-  "version_latest": "2.0.9",
-  "ts_publish": 1753872985000,
-  "ts_update": 1753873627910,
+  "version_latest": "2.0.10",
+  "ts_publish": 1753879116000,
+  "ts_update": 1753879627282,
   "count_dep": 34,
   "count_ref": 0,
   "licenses": [

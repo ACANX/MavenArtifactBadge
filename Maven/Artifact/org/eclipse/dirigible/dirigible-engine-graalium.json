@@ -1,17 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-engine-graalium",
-  "latest_version": "12.2.1",
-  "description": "Core modules packaged with Dirigible",
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-engine-graalium",
-  "ts": 1753347841000,
-  "dependency_count": 0,
-  "ref_count": 29,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879631218,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [
-    "Eclipse Public License - v 2.0"
-  ],
-  "last_updated": 1753348626071
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "Integration of HugeRTE for Vaadin Flow",
   "group_id": "org.parttio",
   "artifact_id": "hugerte-for-flow",
-  "version_latest": "1.0.4",
-  "ts_publish": 1753869867000,
-  "ts_update": 1753870595878,
+  "version_latest": "1.0.5",
+  "ts_publish": 1753879189000,
+  "ts_update": 1753879625950,
   "count_dep": 136,
   "count_ref": 0,
   "licenses": [

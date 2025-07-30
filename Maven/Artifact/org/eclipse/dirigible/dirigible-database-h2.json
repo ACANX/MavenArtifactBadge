@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-h2",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-h2",
-  "latest_version": "12.2.0",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-h2",
-  "ts": 1753272414000,
-  "dependency_count": 1,
-  "ref_count": 33,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879630524,
+  "count_dep": 33,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753273623694
+  "dsv": 1
 }

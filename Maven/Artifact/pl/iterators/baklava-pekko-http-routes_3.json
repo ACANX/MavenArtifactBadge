@@ -3,9 +3,9 @@
   "description": "baklava-pekko-http-routes",
   "group_id": "pl.iterators",
   "artifact_id": "baklava-pekko-http-routes_3",
-  "version_latest": "1.0.7",
-  "ts_publish": 1753864418000,
-  "ts_update": 1753865225003,
+  "version_latest": "1.0.8",
+  "ts_publish": 1753878482000,
+  "ts_update": 1753879627947,
   "count_dep": 79,
   "count_ref": 0,
   "licenses": [

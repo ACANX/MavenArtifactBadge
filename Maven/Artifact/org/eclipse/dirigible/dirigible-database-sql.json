@@ -1,17 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-sql",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-sql",
-  "latest_version": "12.2.1",
-  "description": "Core modules packaged with Dirigible",
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-sql",
-  "ts": 1753347841000,
-  "dependency_count": 14,
-  "ref_count": 110,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879629910,
+  "count_dep": 32,
+  "count_ref": 9,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [
-    "Eclipse Public License - v 2.0"
-  ],
-  "last_updated": 1753348625514
+  "dsv": 1
 }
