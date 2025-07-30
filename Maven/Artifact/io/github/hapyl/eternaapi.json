@@ -3,9 +3,9 @@
   "description": "An API for Paper development.",
   "group_id": "io.github.hapyl",
   "artifact_id": "eternaapi",
-  "version_latest": "4.13.4",
-  "ts_publish": 1753836779000,
-  "ts_update": 1753837621003,
+  "version_latest": "4.13.5",
+  "ts_publish": 1753903128000,
+  "ts_update": 1753903617213,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
