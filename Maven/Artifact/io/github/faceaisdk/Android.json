@@ -3,9 +3,9 @@
   "description": "On_device Offline Android Face Detection ,Recognition ,Liveness Detection Anti Spoofing and 1:N/M:N Face Search SDK",
   "group_id": "io.github.faceaisdk",
   "artifact_id": "Android",
-  "version_latest": "2025.07.30.camera4",
-  "ts_publish": 1753855306000,
-  "ts_update": 1753855616708,
+  "version_latest": "2025.07.30.camera5",
+  "ts_publish": 1753880150000,
+  "ts_update": 1753880820607,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [
