@@ -3,9 +3,9 @@
   "description": "API library for Thor application",
   "group_id": "io.github.remmerw",
   "artifact_id": "thor-jvm",
-  "version_latest": "0.1.5",
-  "ts_publish": 1753771715000,
-  "ts_update": 1753772825290,
+  "version_latest": "0.1.6",
+  "ts_publish": 1753859035000,
+  "ts_update": 1753859821038,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
