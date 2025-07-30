@@ -3,9 +3,9 @@
   "description": "腾讯企点Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-qidian",
-  "version_latest": "4.7.7-20250730.231512",
-  "ts_publish": 1753888742000,
-  "ts_update": 1753889824041,
+  "version_latest": "4.7.7-20250730.233020",
+  "ts_publish": 1753889620000,
+  "ts_update": 1753891020268,
   "count_dep": 74,
   "count_ref": 2,
   "licenses": [

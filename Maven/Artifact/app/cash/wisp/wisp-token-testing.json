@@ -3,9 +3,9 @@
   "description": "Token generation Fake for universally unique ID",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-token-testing",
-  "version_latest": "2025.07.30.145520-ed3cdfa",
-  "ts_publish": 1753888700000,
-  "ts_update": 1753889825613,
+  "version_latest": "2025.07.30.152053-d079641",
+  "ts_publish": 1753890230000,
+  "ts_update": 1753891018986,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.appmattus.certificatetransparency/certificatetransparency",
+  "description": "Certificate transparency for Android and Java",
   "group_id": "com.appmattus.certificatetransparency",
   "artifact_id": "certificatetransparency",
-  "latest_version": "2.7.6",
-  "description": "Certificate transparency for Android and Java",
-  "id": "pkg:maven/com.appmattus.certificatetransparency/certificatetransparency",
-  "ts": 1753285824000,
-  "dependency_count": 1,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "2.7.7",
+  "ts_publish": 1753890601000,
+  "ts_update": 1753891017043,
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753286218872
+  "categories": null,
+  "dsv": 1
 }

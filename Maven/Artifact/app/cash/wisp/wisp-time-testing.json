@@ -3,9 +3,9 @@
   "description": "a module containing time related code for testing",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-time-testing",
-  "version_latest": "2025.07.30.145520-ed3cdfa",
-  "ts_publish": 1753888700000,
-  "ts_update": 1753889826004,
+  "version_latest": "2025.07.30.152053-d079641",
+  "ts_publish": 1753890230000,
+  "ts_update": 1753891019542,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [
