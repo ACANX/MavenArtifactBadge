@@ -1,15 +1,16 @@
 {
   "id": "pkg:maven/dev.zacsweers.metro/gradle-plugin",
+  "description": "A multiplatform, compile-time injection framework for Kotlin.",
   "group_id": "dev.zacsweers.metro",
   "artifact_id": "gradle-plugin",
-  "latest_version": "0.6.0-2.2.20-Beta1-alpha01",
-  "ts": 1753759737000,
-  "last_updated": 1753760220500,
-  "description": "A multiplatform, compile-time injection framework for Kotlin.",
+  "version_latest": "0.6.0-2.2.20-Beta2-alpha02",
+  "ts_publish": 1753851855000,
+  "ts_update": 1753852625724,
+  "count_dep": 0,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "dep_count": 0,
-  "ref_count": 1,
-  "categories": null
+  "categories": null,
+  "dsv": 1
 }
