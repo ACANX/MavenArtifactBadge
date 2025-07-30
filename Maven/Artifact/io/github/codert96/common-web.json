@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.codert96/common-web",
+  "description": "简单项目脚手架啊",
+  "group_id": "io.github.codert96",
+  "artifact_id": "common-web",
+  "version_latest": "1.0.0",
+  "ts_publish": 1753841620000,
+  "ts_update": 1753842420649,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

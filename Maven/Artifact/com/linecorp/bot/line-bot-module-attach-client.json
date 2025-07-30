@@ -3,9 +3,9 @@
   "description": "LINE Bot SDK Java - line-bot-module-attach-client",
   "group_id": "com.linecorp.bot",
   "artifact_id": "line-bot-module-attach-client",
-  "version_latest": "9.9.0",
-  "ts_publish": 1753783074000,
-  "ts_update": 1753784220529,
+  "version_latest": "9.9.1",
+  "ts_publish": 1753842065000,
+  "ts_update": 1753842420213,
   "count_dep": 12,
   "count_ref": 4,
   "licenses": [
