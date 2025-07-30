@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.inap",
   "artifact_id": "inap-api",
-  "version_latest": "10.0.51",
-  "ts_publish": 1753876335000,
-  "ts_update": 1753877225695,
+  "version_latest": "10.0.51-java11",
+  "ts_publish": 1753877861000,
+  "ts_update": 1753879019063,
   "count_dep": 14,
   "count_ref": 1,
   "licenses": [

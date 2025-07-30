@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.mtp",
   "artifact_id": "mtp-api",
-  "version_latest": "10.0.51",
-  "ts_publish": 1753876335000,
-  "ts_update": 1753877225150,
+  "version_latest": "10.0.51-java11",
+  "ts_publish": 1753877861000,
+  "ts_update": 1753879019062,
   "count_dep": 6,
   "count_ref": 20,
   "licenses": [
