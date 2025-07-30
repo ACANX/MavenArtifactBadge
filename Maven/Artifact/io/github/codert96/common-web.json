@@ -3,9 +3,9 @@
   "description": "简单项目脚手架啊",
   "group_id": "io.github.codert96",
   "artifact_id": "common-web",
-  "version_latest": "1.0.1",
-  "ts_publish": 1753842101000,
-  "ts_update": 1753842489003,
+  "version_latest": "1.0.3",
+  "ts_publish": 1753843188000,
+  "ts_update": 1753843619219,
   "count_dep": 99,
   "count_ref": 0,
   "licenses": [

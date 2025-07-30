@@ -3,10 +3,10 @@
   "description": "Prime entrypoint to AuraKit's Android ecosystem.\nOffers a unified interface for media handling, asset workflows, and core system access.\nTailored for direct app integration with emphasis on clarity, modularity, and performance.",
   "group_id": "io.github.amjdalhashede",
   "artifact_id": "aurakit-android-prime",
-  "version_latest": "0.0.1-alpha1",
-  "ts_publish": 1753840796000,
-  "ts_update": 1753841821754,
-  "count_dep": 5,
+  "version_latest": "0.0.1-alpha2",
+  "ts_publish": 1753842929000,
+  "ts_update": 1753843619219,
+  "count_dep": 9,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
