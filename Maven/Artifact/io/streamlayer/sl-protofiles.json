@@ -3,9 +3,9 @@
   "description": "StreamLayer Java Protofiles",
   "group_id": "io.streamlayer",
   "artifact_id": "sl-protofiles",
-  "version_latest": "5.171.0",
-  "ts_publish": 1753860830000,
-  "ts_update": 1753861619557,
+  "version_latest": "5.172.0",
+  "ts_publish": 1753876679000,
+  "ts_update": 1753877224458,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-ntt-converter",
+  "description": "Qubership Testing Platform Export Import Library",
   "group_id": "org.qubership.atp.ei",
   "artifact_id": "qubership-atp-export-import-lib-ntt-converter",
-  "latest_version": "0.2.41",
-  "description": "Qubership Testing Platform Export Import Library",
-  "id": "pkg:maven/org.qubership.atp.ei/qubership-atp-export-import-lib-ntt-converter",
-  "ts": 1753361018000,
-  "dependency_count": 1,
-  "ref_count": 118,
-  "categories": null,
+  "version_latest": "0.2.42",
+  "ts_publish": 1753876040000,
+  "ts_update": 1753877225701,
+  "count_dep": 118,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753361815239
+  "categories": null,
+  "dsv": 1
 }
