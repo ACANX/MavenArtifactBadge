@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-stdlib-watchossimulatorarm64",
-  "version_latest": "25.0.2-dev15+e2b9001",
-  "ts_publish": 1753858758000,
-  "ts_update": 1753859821985,
+  "version_latest": "25.0.2-dev16+fc1fced",
+  "ts_publish": 1753865005000,
+  "ts_update": 1753865826687,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

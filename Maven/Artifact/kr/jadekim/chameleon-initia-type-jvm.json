@@ -3,11 +3,11 @@
   "description": "Crypto Wallet SDK for multiple blockchains",
   "group_id": "kr.jadekim",
   "artifact_id": "chameleon-initia-type-jvm",
-  "version_latest": "0.4.8",
-  "ts_publish": 1753857962000,
-  "ts_update": 1753858617956,
+  "version_latest": "0.4.9",
+  "ts_publish": 1753864648000,
+  "ts_update": 1753865828897,
   "count_dep": 32,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
