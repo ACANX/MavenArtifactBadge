@@ -3,9 +3,9 @@
   "description": "A java runtime animation library",
   "group_id": "com.maydaymemory",
   "artifact_id": "mae",
-  "version_latest": "1.0.1",
-  "ts_publish": 1753897445000,
-  "ts_update": 1753898219995,
+  "version_latest": "1.0.2",
+  "ts_publish": 1753906311000,
+  "ts_update": 1753907218109,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
