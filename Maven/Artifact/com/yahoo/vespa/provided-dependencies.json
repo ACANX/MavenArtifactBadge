@@ -3,11 +3,11 @@
   "description": "Dependencies that are installed and should not be included in artifacts with dependencies.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "provided-dependencies",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786139390,
-  "count_dep": 42,
-  "count_ref": 35,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873078598,
+  "count_dep": 23,
+  "count_ref": 6,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

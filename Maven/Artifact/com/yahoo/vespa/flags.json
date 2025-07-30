@@ -3,11 +3,11 @@
   "description": "Feature flags",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "flags",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786139386,
-  "count_dep": 25,
-  "count_ref": 5,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873078599,
+  "count_dep": 21,
+  "count_ref": 4,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

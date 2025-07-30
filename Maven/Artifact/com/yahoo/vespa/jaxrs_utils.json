@@ -3,9 +3,9 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "jaxrs_utils",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786141494,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079523,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

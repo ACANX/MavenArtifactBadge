@@ -3,11 +3,11 @@
   "description": "Search library functions.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "searchlib",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786141493,
-  "count_dep": 32,
-  "count_ref": 37,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079522,
+  "count_dep": 17,
+  "count_ref": 8,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

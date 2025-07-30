@@ -3,9 +3,9 @@
   "description": "Spring autoconfig for Orkes Conductor Client and SDK",
   "group_id": "io.orkes.conductor",
   "artifact_id": "orkes-conductor-client-spring",
-  "version_latest": "4.0.13",
-  "ts_publish": 1753855662000,
-  "ts_update": 1753856219632,
+  "version_latest": "4.0.14",
+  "ts_publish": 1753872565000,
+  "ts_update": 1753873080820,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

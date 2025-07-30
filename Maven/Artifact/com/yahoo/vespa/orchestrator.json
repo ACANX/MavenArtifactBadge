@@ -3,10 +3,10 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "orchestrator",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786142847,
-  "count_dep": 117,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873080817,
+  "count_dep": 56,
   "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"

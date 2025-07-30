@@ -3,9 +3,9 @@
   "description": "Maven Plugin for creating OSGi bundles for the JDisc Container.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "bundle-plugin",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140782,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079520,
   "count_dep": 73,
   "count_ref": 0,
   "licenses": [

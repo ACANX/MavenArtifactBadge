@@ -3,10 +3,10 @@
   "description": "Parent POM for all Vespa base poms.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "hosted-tenant-base",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140073,
-  "count_dep": 65,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079117,
+  "count_dep": 5,
   "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"

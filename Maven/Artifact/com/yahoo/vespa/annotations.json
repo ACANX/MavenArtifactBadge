@@ -3,11 +3,11 @@
   "description": "Public API annotations",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "annotations",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786139385,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873078592,
   "count_dep": 1,
-  "count_ref": 92,
+  "count_ref": 52,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

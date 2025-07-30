@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "config-model",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140071,
-  "count_dep": 150,
-  "count_ref": 10,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079519,
+  "count_dep": 96,
+  "count_ref": 8,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

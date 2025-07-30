@@ -3,10 +3,10 @@
   "description": "Runs an application directly from services.xml",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "application",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786139387,
-  "count_dep": 160,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873078593,
+  "count_dep": 96,
   "count_ref": 4,
   "licenses": [
     "The Apache License, Version 2.0"

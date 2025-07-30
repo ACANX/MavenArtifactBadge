@@ -3,11 +3,11 @@
   "description": "This is the FSA library and tools, an implementation of finite state\n    automata (FSA) and related algorithms.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "fsa",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786141490,
-  "count_dep": 7,
-  "count_ref": 35,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079522,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

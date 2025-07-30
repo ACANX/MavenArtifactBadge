@@ -3,11 +3,11 @@
   "description": "Config java code generation from config definition files for Java Vespa components.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "configgen",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786141496,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079965,
   "count_dep": 2,
-  "count_ref": 68,
+  "count_ref": 8,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

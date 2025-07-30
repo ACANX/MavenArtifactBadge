@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "container-search-and-docproc",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140070,
-  "count_dep": 127,
-  "count_ref": 32,
+  "version_latest": "8.557.7",
+  "ts_publish": 1753872616000,
+  "ts_update": 1753873079117,
+  "count_dep": 76,
+  "count_ref": 3,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
