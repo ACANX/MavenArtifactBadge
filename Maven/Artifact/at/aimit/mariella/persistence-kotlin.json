@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/at.aimit.mariella/persistence-kotlin",
+  "description": "JPA compliant ORM for Java and data class mapper for Kotlin",
   "group_id": "at.aimit.mariella",
   "artifact_id": "persistence-kotlin",
-  "latest_version": "1.0.11",
-  "description": "JPA compliant ORM for Java and data class mapper for Kotlin",
-  "id": "pkg:maven/at.aimit.mariella/persistence-kotlin",
-  "ts": 1753366378000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "1.0.12",
+  "ts_publish": 1753884628000,
+  "ts_update": 1753885597369,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "MIT license"
   ],
-  "last_updated": 1753367218408
+  "categories": null,
+  "dsv": 1
 }
