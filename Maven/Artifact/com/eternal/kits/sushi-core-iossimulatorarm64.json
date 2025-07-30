@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.eternal.kits/sushi-core-iossimulatorarm64",
+  "description": "Core utilities and foundations for Sushi Design System",
+  "group_id": "com.eternal.kits",
+  "artifact_id": "sushi-core-iossimulatorarm64",
+  "version_latest": "0.0.8",
+  "ts_publish": 1753851224000,
+  "ts_update": 1753851876403,
+  "count_dep": 2,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
