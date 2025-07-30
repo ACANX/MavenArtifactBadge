@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.openai/openai-java-client-okhttp",
+  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
   "group_id": "com.openai",
   "artifact_id": "openai-java-client-okhttp",
-  "latest_version": "2.19.2",
-  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
-  "id": "pkg:maven/com.openai/openai-java-client-okhttp",
-  "ts": 1753738024000,
-  "dependency_count": 2,
-  "ref_count": 12,
-  "categories": null,
+  "version_latest": "2.20.0",
+  "ts_publish": 1753880989000,
+  "ts_update": 1753881429815,
+  "count_dep": 12,
+  "count_ref": 2,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753738367430
+  "categories": null,
+  "dsv": 1
 }

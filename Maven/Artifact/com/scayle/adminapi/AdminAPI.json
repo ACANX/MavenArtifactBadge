@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.scayle.adminapi/AdminAPI",
+  "description": "SCAYLE AdminAPI SDK",
   "group_id": "com.scayle.adminapi",
   "artifact_id": "AdminAPI",
-  "latest_version": "3.3.0",
-  "description": "SCAYLE AdminAPI SDK",
-  "id": "pkg:maven/com.scayle.adminapi/AdminAPI",
-  "ts": 1753267971000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "3.4.0",
+  "ts_publish": 1753880488000,
+  "ts_update": 1753881429817,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753268818620
+  "categories": null,
+  "dsv": 1
 }

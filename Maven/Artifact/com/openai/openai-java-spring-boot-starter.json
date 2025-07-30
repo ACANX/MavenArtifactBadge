@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.openai/openai-java-spring-boot-starter",
+  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
   "group_id": "com.openai",
   "artifact_id": "openai-java-spring-boot-starter",
-  "latest_version": "2.19.2",
-  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
-  "id": "pkg:maven/com.openai/openai-java-spring-boot-starter",
-  "ts": 1753738024000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "2.20.0",
+  "ts_publish": 1753880989000,
+  "ts_update": 1753881429815,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753738367430
+  "categories": null,
+  "dsv": 1
 }
