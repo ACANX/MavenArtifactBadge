@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/cn.ykccchen/business-util",
+  "description": "A collection of utilities for business applications",
+  "group_id": "cn.ykccchen",
+  "artifact_id": "business-util",
+  "version_latest": "1.0.0",
+  "ts_publish": 1753874815000,
+  "ts_update": 1753875420073,
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
