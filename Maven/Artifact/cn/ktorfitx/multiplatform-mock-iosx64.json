@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/cn.ktorfitx/multiplatform-annotation-wasm-js",
+  "id": "pkg:maven/cn.ktorfitx/multiplatform-mock-iosx64",
   "description": "Ktorfitx 基于 KSP2 的代码生成框架，在 Kotlin Multiplatform 中是 RESTful API 框架，在 Ktor Server 中是 路由以及参数解析框架",
   "group_id": "cn.ktorfitx",
-  "artifact_id": "multiplatform-annotation-wasm-js",
+  "artifact_id": "multiplatform-mock-iosx64",
   "version_latest": "3.2.3-3.0.3",
   "ts_publish": 1753867601000,
-  "ts_update": 1753868223214,
-  "count_dep": 1,
-  "count_ref": 2,
+  "ts_update": 1753868224414,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cn.ktorfitx/multiplatform-annotation-iosx64",
+  "description": "Ktorfitx 基于 KSP2 的代码生成框架，在 Kotlin Multiplatform 中是 RESTful API 框架，在 Ktor Server 中是 路由以及参数解析框架",
   "group_id": "cn.ktorfitx",
   "artifact_id": "multiplatform-annotation-iosx64",
-  "latest_version": "3.2.2-3.0.2",
-  "description": "Ktorfitx 基于 KSP2 的代码生成框架，在 Kotlin Multiplatform 中是 RESTful API 框架，在 Ktor Server 中是 路由以及参数解析框架",
-  "id": "pkg:maven/cn.ktorfitx/multiplatform-annotation-iosx64",
-  "ts": 1753427623000,
-  "dependency_count": 2,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "3.2.3-3.0.3",
+  "ts_publish": 1753867601000,
+  "ts_update": 1753868224412,
+  "count_dep": 2,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753428422150
+  "categories": null,
+  "dsv": 1
 }
