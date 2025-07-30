@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.binarywang/weixin-java-open",
+  "description": "微信开放平台 Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-open",
-  "latest_version": "4.7.7-20250725.114118",
-  "description": "微信开放平台 Java SDK",
-  "id": "pkg:maven/com.github.binarywang/weixin-java-open",
-  "ts": 1753415063000,
-  "dependency_count": 2,
-  "ref_count": 90,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.7.7-20250730.231045",
+  "ts_publish": 1753888440000,
+  "ts_update": 1753889220203,
+  "count_dep": 90,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415817244
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.binarywang/wx-java-channel-solon-plugin",
+  "description": "微信视频号开发的 Solon Plugin",
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-channel-solon-plugin",
-  "latest_version": "4.7.7-20250725.114118",
-  "description": "微信视频号开发的 Solon Plugin",
-  "id": "pkg:maven/com.github.binarywang/wx-java-channel-solon-plugin",
-  "ts": 1753415063000,
-  "dependency_count": 0,
-  "ref_count": 61,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.7.7-20250730.231045",
+  "ts_publish": 1753888440000,
+  "ts_update": 1753889220205,
+  "count_dep": 61,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415817244
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }
