@@ -3,9 +3,9 @@
   "description": "tessellation-sdk",
   "group_id": "io.constellationnetwork",
   "artifact_id": "tessellation-sdk_2.13",
-  "version_latest": "3.4.0-rc.2",
-  "ts_publish": 1753792849000,
-  "ts_update": 1753795618974,
+  "version_latest": "3.4.0-rc.3",
+  "ts_publish": 1753877010000,
+  "ts_update": 1753877867652,
   "count_dep": 287,
   "count_ref": 0,
   "licenses": [

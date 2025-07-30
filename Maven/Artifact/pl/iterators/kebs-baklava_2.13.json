@@ -3,9 +3,9 @@
   "description": "Library to eliminate the boilerplate code that comes with the use of baklava",
   "group_id": "pl.iterators",
   "artifact_id": "kebs-baklava_2.13",
-  "version_latest": "2.1.3",
-  "ts_publish": 1753774178000,
-  "ts_update": 1753774620300,
+  "version_latest": "2.1.4",
+  "ts_publish": 1753877323000,
+  "ts_update": 1753877865030,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [

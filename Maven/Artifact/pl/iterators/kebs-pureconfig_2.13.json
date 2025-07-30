@@ -3,9 +3,9 @@
   "description": "pureconfig",
   "group_id": "pl.iterators",
   "artifact_id": "kebs-pureconfig_2.13",
-  "version_latest": "2.1.3",
-  "ts_publish": 1753774178000,
-  "ts_update": 1753774620788,
+  "version_latest": "2.1.4",
+  "ts_publish": 1753877323000,
+  "ts_update": 1753877863847,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [
