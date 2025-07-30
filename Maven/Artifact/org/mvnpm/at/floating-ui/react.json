@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.floating-ui/react",
+  "description": "Floating UI for React",
   "group_id": "org.mvnpm.at.floating-ui",
   "artifact_id": "react",
-  "latest_version": "0.27.14",
-  "description": "Floating UI for React",
-  "id": "pkg:maven/org.mvnpm.at.floating-ui/react",
-  "ts": 1753603566000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": null,
+  "version_latest": "0.27.15",
+  "ts_publish": 1753877533000,
+  "ts_update": 1753878417909,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753604219249
+  "categories": null,
+  "dsv": 1
 }
