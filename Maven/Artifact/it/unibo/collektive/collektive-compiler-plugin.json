@@ -3,9 +3,9 @@
   "description": "A Kotlin compiler plugin performing transparent aggregate alignment",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-compiler-plugin",
-  "version_latest": "25.0.2-dev17+b27589d",
-  "ts_publish": 1753853993000,
-  "ts_update": 1753854422755,
+  "version_latest": "25.0.2-dev18+477cd97",
+  "ts_publish": 1753857956000,
+  "ts_update": 1753858619264,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

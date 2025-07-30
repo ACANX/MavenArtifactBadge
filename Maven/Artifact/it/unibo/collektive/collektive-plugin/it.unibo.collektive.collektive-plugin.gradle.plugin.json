@@ -3,9 +3,9 @@
   "description": "Gradle support for the Collektive Kotlin compiler plugin performing automatic aggregate alignment of Kotlin sources",
   "group_id": "it.unibo.collektive.collektive-plugin",
   "artifact_id": "it.unibo.collektive.collektive-plugin.gradle.plugin",
-  "version_latest": "25.0.2-dev17+b27589d",
-  "ts_publish": 1753853993000,
-  "ts_update": 1753854422755,
+  "version_latest": "25.0.2-dev18+477cd97",
+  "ts_publish": 1753857955000,
+  "ts_update": 1753858619806,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
