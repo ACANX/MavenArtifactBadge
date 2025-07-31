@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.jboss.elemento/elemento-parent",
+  "description": "Elemental builder API and other goodies for GWT and J2CL",
+  "group_id": "org.jboss.elemento",
+  "artifact_id": "elemento-parent",
+  "version_latest": "2.0.3",
+  "ts_publish": 1753958999000,
+  "ts_update": 1753960625575,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
