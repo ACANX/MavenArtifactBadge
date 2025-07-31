@@ -3,9 +3,9 @@
   "description": "Spinnaker Kork",
   "group_id": "io.spinnaker.kork",
   "artifact_id": "kork-docker",
-  "version_latest": "main-45",
-  "ts_publish": 1753969905000,
-  "ts_update": 1753970820453,
+  "version_latest": "main-46",
+  "ts_publish": 1753975724000,
+  "ts_update": 1753976801767,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
