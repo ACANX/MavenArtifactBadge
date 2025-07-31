@@ -3,9 +3,9 @@
   "description": "Bigtable CQL Client for Java library",
   "group_id": "com.google.cloud",
   "artifact_id": "cassandra-bigtable-java-client-lib",
-  "version_latest": "0.1.2",
-  "ts_publish": 1753973242000,
-  "ts_update": 1753973820255,
+  "version_latest": "0.1.3",
+  "ts_publish": 1753981934000,
+  "ts_update": 1753982821508,
   "count_dep": 52,
   "count_ref": 0,
   "licenses": [
