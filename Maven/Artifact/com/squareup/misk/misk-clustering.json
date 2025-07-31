@@ -3,11 +3,11 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-clustering",
-  "version_latest": "2025.07.31.145542-11cfcd2",
-  "ts_publish": 1753975121000,
-  "ts_update": 1753976222020,
-  "count_dep": 16,
-  "count_ref": 2,
+  "version_latest": "2025.07.31.213947-514912f",
+  "ts_publish": 1753999387000,
+  "ts_update": 1754000222735,
+  "count_dep": 36,
+  "count_ref": 5,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],

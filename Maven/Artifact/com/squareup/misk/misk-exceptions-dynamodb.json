@@ -3,11 +3,11 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-exceptions-dynamodb",
-  "version_latest": "2025.07.31.154204-77a2264",
-  "ts_publish": 1753977969000,
-  "ts_update": 1753978630990,
+  "version_latest": "2025.07.31.213947-514912f",
+  "ts_publish": 1753999387000,
+  "ts_update": 1754000224040,
   "count_dep": 36,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
