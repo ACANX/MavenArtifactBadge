@@ -3,9 +3,9 @@
   "description": "A Gradle plugin that configures protobuf generation with grpc-kt, grpc-java, validation, and documentation",
   "group_id": "io.github.imonja.grpc-kt-gradle-plugin",
   "artifact_id": "io.github.imonja.grpc-kt-gradle-plugin.gradle.plugin",
-  "version_latest": "1.1.7",
-  "ts_publish": 1753802914000,
-  "ts_update": 1753803833604,
+  "version_latest": "1.1.8",
+  "ts_publish": 1753975295000,
+  "ts_update": 1753976222019,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

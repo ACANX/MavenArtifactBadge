@@ -3,9 +3,9 @@
   "description": "a module containing logging helpers for testing",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-logging-testing",
-  "version_latest": "2025.07.31.121904-05006c8",
-  "ts_publish": 1753965733000,
-  "ts_update": 1753966622173,
+  "version_latest": "2025.07.31.145542-11cfcd2",
+  "ts_publish": 1753975110000,
+  "ts_update": 1753976223363,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
