@@ -3,9 +3,9 @@
   "description": "Mobius Cluster Framework SPI",
   "group_id": "com.mobius-software.cluster",
   "artifact_id": "cache-spi",
-  "version_latest": "8.0.0-50",
-  "ts_publish": 1753953256000,
-  "ts_update": 1753954021594,
+  "version_latest": "8.0.0-50-java11",
+  "ts_publish": 1753953627000,
+  "ts_update": 1753954572018,
   "count_dep": 16,
   "count_ref": 3,
   "licenses": [

@@ -3,11 +3,11 @@
   "description": "A plugin that simplifies Android string management.",
   "group_id": "io.github.waxw",
   "artifact_id": "strings-plugin",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753870932000,
-  "ts_update": 1753871825049,
+  "version_latest": "1.0.1",
+  "ts_publish": 1753953775000,
+  "ts_update": 1753954572017,
   "count_dep": 3,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],

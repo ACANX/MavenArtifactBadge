@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.decathlon.tzatziki/tzatziki-common",
+  "description": "cucumber library",
+  "group_id": "com.decathlon.tzatziki",
+  "artifact_id": "tzatziki-common",
+  "version_latest": "2.0.0",
+  "ts_publish": 1753953537000,
+  "ts_update": 1753954572024,
+  "count_dep": 44,
+  "count_ref": 11,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

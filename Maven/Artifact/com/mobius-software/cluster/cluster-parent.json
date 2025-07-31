@@ -3,9 +3,9 @@
   "description": "Mobius Cluster Framework Parent",
   "group_id": "com.mobius-software.cluster",
   "artifact_id": "cluster-parent",
-  "version_latest": "8.0.0-50",
-  "ts_publish": 1753953256000,
-  "ts_update": 1753954021594,
+  "version_latest": "8.0.0-50-java11",
+  "ts_publish": 1753953627000,
+  "ts_update": 1753954572017,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
