@@ -3,9 +3,9 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "vespa-enforcer-extensions",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786142844,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961231435,
   "count_dep": 43,
   "count_ref": 0,
   "licenses": [

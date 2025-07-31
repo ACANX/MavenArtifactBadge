@@ -1,16 +1,14 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/clustercontroller-core",
-  "description": "Parent artifact for all Vespa maven projects.",
+  "description": null,
   "group_id": "com.yahoo.vespa",
   "artifact_id": "clustercontroller-core",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873080429,
-  "count_dep": 46,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961231439,
+  "count_dep": 18,
   "count_ref": 1,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

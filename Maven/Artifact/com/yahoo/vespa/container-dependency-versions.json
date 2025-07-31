@@ -3,9 +3,9 @@
   "description": "Versions for all 3rd party dependencies provided from the Vespa container.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "container-dependency-versions",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873078594,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228786,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,10 +3,10 @@
   "description": "Hosted Vespa tenant CD API, test API library for hosted Vespa applications.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "tenant-cd-api",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873079962,
-  "count_dep": 17,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961229881,
+  "count_dep": 44,
   "count_ref": 7,
   "licenses": [
     "The Apache License, Version 2.0"

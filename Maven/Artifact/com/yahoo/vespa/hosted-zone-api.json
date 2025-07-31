@@ -1,16 +1,14 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/hosted-zone-api",
-  "description": "Parent artifact for all Vespa maven projects.",
+  "description": null,
   "group_id": "com.yahoo.vespa",
   "artifact_id": "hosted-zone-api",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873079969,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961230854,
   "count_dep": 4,
-  "count_ref": 8,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "count_ref": 23,
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

@@ -3,9 +3,9 @@
   "description": "Ktlint plugin to format room SQL queries in annotations.",
   "group_id": "com.faendir.ktlint",
   "artifact_id": "room-ktlint-plugin",
-  "version_latest": "1.0.1",
-  "ts_publish": 1753909728000,
-  "ts_update": 1753914449191,
+  "version_latest": "1.1.0",
+  "ts_publish": 1753959964000,
+  "ts_update": 1753961224346,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

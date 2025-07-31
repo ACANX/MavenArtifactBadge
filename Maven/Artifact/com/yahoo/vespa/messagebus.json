@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "messagebus",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786139390,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228791,
   "count_dep": 23,
-  "count_ref": 46,
+  "count_ref": 28,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

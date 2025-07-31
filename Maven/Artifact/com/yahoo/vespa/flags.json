@@ -3,14 +3,12 @@
   "description": "Feature flags",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "flags",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873078599,
-  "count_dep": 21,
-  "count_ref": 4,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228794,
+  "count_dep": 11,
+  "count_ref": 5,
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

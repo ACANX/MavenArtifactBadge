@@ -3,9 +3,9 @@
   "description": "Service monitor component for hosted vespa.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "service-monitor",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140067,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228788,
   "count_dep": 70,
   "count_ref": 2,
   "licenses": [

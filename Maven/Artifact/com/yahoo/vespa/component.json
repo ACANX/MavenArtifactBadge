@@ -1,16 +1,14 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/component",
-  "description": "Parent artifact for all Vespa maven projects.",
+  "description": null,
   "group_id": "com.yahoo.vespa",
   "artifact_id": "component",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873079122,
-  "count_dep": 14,
-  "count_ref": 24,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961229877,
+  "count_dep": 8,
+  "count_ref": 41,
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

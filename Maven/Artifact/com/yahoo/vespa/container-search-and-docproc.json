@@ -1,16 +1,14 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/container-search-and-docproc",
-  "description": "Parent artifact for all Vespa maven projects.",
+  "description": null,
   "group_id": "com.yahoo.vespa",
   "artifact_id": "container-search-and-docproc",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873079117,
-  "count_dep": 76,
-  "count_ref": 3,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961229399,
+  "count_dep": 26,
+  "count_ref": 19,
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

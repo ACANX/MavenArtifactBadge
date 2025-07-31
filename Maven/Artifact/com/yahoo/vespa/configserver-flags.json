@@ -3,14 +3,12 @@
   "description": "Config Server Flags.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "configserver-flags",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873079122,
-  "count_dep": 49,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961229877,
+  "count_dep": 14,
   "count_ref": 1,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
