@@ -3,9 +3,9 @@
   "description": "This project serves as a parent POM for other demis spring boot based projects. It provides common dependency management and build plugin configurations for child projects.",
   "group_id": "de.gematik.demis",
   "artifact_id": "spring-parent",
-  "version_latest": "2.12.10",
-  "ts_publish": 1753967504000,
-  "ts_update": 1753968319370,
+  "version_latest": "2.12.11",
+  "ts_publish": 1753973116000,
+  "ts_update": 1753973820256,
   "count_dep": 32,
   "count_ref": 0,
   "licenses": [

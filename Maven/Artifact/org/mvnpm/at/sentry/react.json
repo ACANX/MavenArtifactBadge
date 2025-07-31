@@ -3,9 +3,9 @@
   "description": "Official Sentry SDK for React.js",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "react",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753805353000,
-  "ts_update": 1753805818087,
+  "version_latest": "9.44.0",
+  "ts_publish": 1753972935000,
+  "ts_update": 1753973820865,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
