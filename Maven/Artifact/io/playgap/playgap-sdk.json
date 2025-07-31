@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.playgap/playgap-sdk",
+  "description": "The Playgap SDK enables mobile app developers to monetize offline and online gameplay via advertisements.",
   "group_id": "io.playgap",
   "artifact_id": "playgap-sdk",
-  "latest_version": "4.0.7",
-  "description": "The Playgap SDK enables mobile app developers to monetize offline and online gameplay via advertisements.",
-  "id": "pkg:maven/io.playgap/playgap-sdk",
-  "ts": 1753635565000,
-  "dependency_count": 0,
-  "ref_count": 27,
-  "categories": null,
+  "version_latest": "4.0.8",
+  "ts_publish": 1754001538000,
+  "ts_update": 1754002020293,
+  "count_dep": 27,
+  "count_ref": 0,
   "licenses": [
     "Copyright 2024 Playgap Ltd. All rights reserved."
   ],
-  "last_updated": 1753636019414
+  "categories": null,
+  "dsv": 1
 }
