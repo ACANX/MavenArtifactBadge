@@ -3,9 +3,9 @@
   "description": "Debugging tool for Kotlin Multiplatform applications",
   "group_id": "io.github.orioneee",
   "artifact_id": "axer",
-  "version_latest": "1.1.6",
-  "ts_publish": 1753996897000,
-  "ts_update": 1753997820713,
+  "version_latest": "1.1.7",
+  "ts_publish": 1754000116000,
+  "ts_update": 1754000822363,
   "count_dep": 29,
   "count_ref": 0,
   "licenses": [
