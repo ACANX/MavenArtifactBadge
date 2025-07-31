@@ -3,10 +3,10 @@
   "description": "Sentry Node SDK using OpenTelemetry for performance instrumentation",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "node",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753806805000,
-  "ts_update": 1753807622694,
-  "count_dep": 79,
+  "version_latest": "10.0.0",
+  "ts_publish": 1753980686000,
+  "ts_update": 1753981626070,
+  "count_dep": 83,
   "count_ref": 0,
   "licenses": [
     "MIT"
