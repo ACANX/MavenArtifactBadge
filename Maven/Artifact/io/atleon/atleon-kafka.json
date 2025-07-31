@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.atleon/atleon-kafka",
+  "description": "Reactive streaming library targeting continuous pipelines with at-least-once processing guarantees. Backed by Project Reactor.",
+  "group_id": "io.atleon",
+  "artifact_id": "atleon-kafka",
+  "version_latest": "0.32.0",
+  "ts_publish": 1753982508000,
+  "ts_update": 1753983422594,
+  "count_dep": 24,
+  "count_ref": 6,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

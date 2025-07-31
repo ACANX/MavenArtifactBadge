@@ -3,9 +3,9 @@
   "description": "Harmonic Client Side Ad Tracking for Android",
   "group_id": "io.github.harmonicinc-com",
   "artifact_id": "client-side-ad-tracking-android",
-  "version_latest": "0.1.1",
-  "ts_publish": 1753869747000,
-  "ts_update": 1753870021720,
+  "version_latest": "0.1.14",
+  "ts_publish": 1753982822000,
+  "ts_update": 1753983421909,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [
