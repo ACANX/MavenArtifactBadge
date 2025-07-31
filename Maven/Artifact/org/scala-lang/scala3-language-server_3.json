@@ -3,9 +3,9 @@
   "description": "scala3-language-server",
   "group_id": "org.scala-lang",
   "artifact_id": "scala3-language-server_3",
-  "version_latest": "3.8.0-RC1-bin-20250729-a834dff-NIGHTLY",
-  "ts_publish": 1753852695000,
-  "ts_update": 1753853220494,
+  "version_latest": "3.8.0-RC1-bin-20250731-1f148a1-NIGHTLY",
+  "ts_publish": 1753950631000,
+  "ts_update": 1753951600313,
   "count_dep": 29,
   "count_ref": 0,
   "licenses": [

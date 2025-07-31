@@ -3,9 +3,9 @@
   "description": "Share project with full support for lifecycle and rapid development of JARs and AMPs (Alfresco Module\n        Packages)",
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "alfresco-share-jar-archetype",
-  "version_latest": "4.13.0-A1",
-  "ts_publish": 1753793192000,
-  "ts_update": 1753795618381,
+  "version_latest": "4.13.0-A2",
+  "ts_publish": 1753951202000,
+  "ts_update": 1753951599618,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
