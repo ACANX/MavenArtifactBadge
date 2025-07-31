@@ -3,9 +3,9 @@
   "description": "ZrLog blog web",
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-blog-web",
-  "version_latest": "3.2.56",
-  "ts_publish": 1753862864000,
-  "ts_update": 1753864025696,
+  "version_latest": "3.2.65",
+  "ts_publish": 1753976408000,
+  "ts_update": 1753977536468,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

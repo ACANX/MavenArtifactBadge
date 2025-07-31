@@ -3,11 +3,11 @@
   "description": "User replays for Sentry",
   "group_id": "org.mvnpm.at.sentry-internal",
   "artifact_id": "replay",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753804993000,
-  "ts_update": 1753805818090,
+  "version_latest": "9.44.0",
+  "ts_publish": 1753976714000,
+  "ts_update": 1753977536466,
   "count_dep": 2,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],
