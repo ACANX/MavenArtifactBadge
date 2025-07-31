@@ -3,9 +3,9 @@
   "description": "Spinnaker Gate",
   "group_id": "io.spinnaker.gate",
   "artifact_id": "gate-header",
-  "version_latest": "main-47",
-  "ts_publish": 1753981493000,
-  "ts_update": 1753982219427,
+  "version_latest": "main-49",
+  "ts_publish": 1753989568000,
+  "ts_update": 1753990621899,
   "count_dep": 6,
   "count_ref": 1,
   "licenses": [
