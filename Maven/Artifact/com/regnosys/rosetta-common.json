@@ -3,9 +3,9 @@
   "description": "Rune Common is a java library that is utilised by Rune Code Generators and models expressed in the Rune DSL.",
   "group_id": "com.regnosys",
   "artifact_id": "rosetta-common",
-  "version_latest": "11.76.0",
-  "ts_publish": 1753957643000,
-  "ts_update": 1753958223420,
+  "version_latest": "11.76.1",
+  "ts_publish": 1753974424000,
+  "ts_update": 1753975027600,
   "count_dep": 51,
   "count_ref": 0,
   "licenses": [

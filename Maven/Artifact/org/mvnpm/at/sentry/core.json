@@ -3,11 +3,11 @@
   "description": "Base implementation for all Sentry JavaScript SDKs",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "core",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753806251000,
-  "ts_update": 1753807019675,
+  "version_latest": "9.44.0",
+  "ts_publish": 1753974193000,
+  "ts_update": 1753975027603,
   "count_dep": 0,
-  "count_ref": 6,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
