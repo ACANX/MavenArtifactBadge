@@ -3,9 +3,9 @@
   "description": "A library to help with editing joyfill documents",
   "group_id": "io.joyfill",
   "artifact_id": "wisdom-wasm-wasi",
-  "version_latest": "2.0.0-Beta16",
-  "ts_publish": 1753923880000,
-  "ts_update": 1753924622162,
+  "version_latest": "2.0.0-Beta17",
+  "ts_publish": 1753969125000,
+  "ts_update": 1753969624707,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

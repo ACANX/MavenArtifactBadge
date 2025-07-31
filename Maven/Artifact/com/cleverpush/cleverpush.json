@@ -3,9 +3,9 @@
   "description": "Includes CleverPush notifications for Android.",
   "group_id": "com.cleverpush",
   "artifact_id": "cleverpush",
-  "version_latest": "1.35.4",
-  "ts_publish": 1753788744000,
-  "ts_update": 1753789145837,
+  "version_latest": "1.35.5",
+  "ts_publish": 1753969153000,
+  "ts_update": 1753969622965,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [
