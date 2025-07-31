@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.pig-mesh/goview-spring-boot3-starter",
+  "description": "数据可视化解决方案",
+  "group_id": "io.github.pig-mesh",
+  "artifact_id": "goview-spring-boot3-starter",
+  "version_latest": "1.0.2",
+  "ts_publish": 1753951284000,
+  "ts_update": 1753952219834,
+  "count_dep": 103,
+  "count_ref": 0,
+  "licenses": [
+    "非开源"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -3,9 +3,9 @@
   "description": "Zephflow Core - Lib Module",
   "group_id": "io.fleak.zephflow",
   "artifact_id": "lib",
-  "version_latest": "0.2.4-rc.7",
-  "ts_publish": 1753919364000,
-  "ts_update": 1753919818766,
+  "version_latest": "0.2.4-rc.8",
+  "ts_publish": 1753951378000,
+  "ts_update": 1753952219833,
   "count_dep": 42,
   "count_ref": 2,
   "licenses": [
