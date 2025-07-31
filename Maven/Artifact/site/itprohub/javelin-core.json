@@ -3,9 +3,9 @@
   "description": "Lightweight Java framework",
   "group_id": "site.itprohub",
   "artifact_id": "javelin-core",
-  "version_latest": "1.0.6",
-  "ts_publish": 1753868905000,
-  "ts_update": 1753870022669,
+  "version_latest": "1.0.7",
+  "ts_publish": 1753926292000,
+  "ts_update": 1753927018805,
   "count_dep": 28,
   "count_ref": 1,
   "licenses": [
