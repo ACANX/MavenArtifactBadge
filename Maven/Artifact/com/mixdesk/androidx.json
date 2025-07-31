@@ -3,10 +3,10 @@
   "description": "Mixdesk SDK Library",
   "group_id": "com.mixdesk",
   "artifact_id": "androidx",
-  "version_latest": "1.0.7",
-  "ts_publish": 1753782537000,
-  "ts_update": 1753783617767,
-  "count_dep": 7,
+  "version_latest": "1.0.8",
+  "ts_publish": 1753940623000,
+  "ts_update": 1753941292284,
+  "count_dep": 0,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
