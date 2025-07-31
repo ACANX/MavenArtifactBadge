@@ -3,9 +3,9 @@
   "description": "Plugin helps you configure jar manifest and check dependencies for vulnerabilities",
   "group_id": "com.exactpro.th2.gradle.base",
   "artifact_id": "com.exactpro.th2.gradle.base.gradle.plugin",
-  "version_latest": "0.3.1",
-  "ts_publish": 1753797515000,
-  "ts_update": 1753798021232,
+  "version_latest": "0.3.2",
+  "ts_publish": 1753941726000,
+  "ts_update": 1753942621564,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

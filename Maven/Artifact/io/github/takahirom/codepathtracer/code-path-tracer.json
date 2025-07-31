@@ -3,9 +3,9 @@
   "description": "Simple, powerful method tracing for JVM and Android",
   "group_id": "io.github.takahirom.codepathtracer",
   "artifact_id": "code-path-tracer",
-  "version_latest": "0.2.0",
-  "ts_publish": 1753926814000,
-  "ts_update": 1753927618204,
+  "version_latest": "0.3.0",
+  "ts_publish": 1753942207000,
+  "ts_update": 1753942620935,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

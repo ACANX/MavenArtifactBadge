@@ -3,9 +3,9 @@
   "description": "Parent pom providing dependency and plugin management for applications built with Maven",
   "group_id": "io.gitee.javakiller",
   "artifact_id": "wxz-common-web-landlord-server-demo",
-  "version_latest": "2025.7.1-jdk8",
-  "ts_publish": 1753932727000,
-  "ts_update": 1753933624299,
+  "version_latest": "2025.7.2-jdk8",
+  "ts_publish": 1753942191000,
+  "ts_update": 1753942620939,
   "count_dep": 195,
   "count_ref": 0,
   "licenses": [
