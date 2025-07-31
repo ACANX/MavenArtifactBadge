@@ -3,9 +3,9 @@
   "description": "Java SDK for Browserstack Selenium Tests",
   "group_id": "com.browserstack",
   "artifact_id": "browserstack-java-sdk",
-  "version_latest": "1.38.3",
-  "ts_publish": 1753882955000,
-  "ts_update": 1753883935493,
+  "version_latest": "1.38.4",
+  "ts_publish": 1753966884000,
+  "ts_update": 1753967820521,
   "count_dep": 42,
   "count_ref": 0,
   "licenses": [

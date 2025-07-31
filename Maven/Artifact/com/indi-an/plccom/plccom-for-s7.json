@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.indi-an.plccom/plccom-for-s7",
+  "description": "High-performance Java library for classic or symbolic communication with\n\t\tSiemens S7 200/300/400/1200/1500, ET200SP and LOGO! PLCs. Provides\n\t\tsymbolic or absolute read/write over Profinet, MPI/PPI, includes\n\t\tmulti area optimisation, TLS secured channels and ready to use sample\n\t\tcode for rapid integration.",
+  "group_id": "com.indi-an.plccom",
+  "artifact_id": "plccom-for-s7",
+  "version_latest": "15.3.1",
+  "ts_publish": 1753967022000,
+  "ts_update": 1753967820518,
+  "count_dep": 5,
+  "count_ref": 0,
+  "licenses": [
+    "Indi.An GmbH Proprietary License"
+  ],
+  "categories": null,
+  "dsv": 1
+}
