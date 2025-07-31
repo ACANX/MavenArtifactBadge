@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.dbtools/dbtools-room-linuxx64",
+  "description": "DBTools Room",
+  "group_id": "org.dbtools",
+  "artifact_id": "dbtools-room-linuxx64",
+  "version_latest": "9.2.0",
+  "ts_publish": 1753993178000,
+  "ts_update": 1753993620686,
+  "count_dep": 9,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Data Management"
+  ],
+  "dsv": 1
+}

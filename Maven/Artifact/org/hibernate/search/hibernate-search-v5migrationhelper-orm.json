@@ -3,9 +3,9 @@
   "description": "Helper to migrate from Hibernate Search 5 to 6, providing partial support for Hibernate Search 5 ORM APIs on top of Hibernate Search 6",
   "group_id": "org.hibernate.search",
   "artifact_id": "hibernate-search-v5migrationhelper-orm",
-  "version_latest": "8.1.0.Alpha1",
-  "ts_publish": 1753800930000,
-  "ts_update": 1753801623611,
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993621219,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

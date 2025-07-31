@@ -3,9 +3,9 @@
   "description": "Hibernate Search Backend relying on embedded instances of Lucene (v10)",
   "group_id": "org.hibernate.search",
   "artifact_id": "hibernate-search-backend-lucene-next",
-  "version_latest": "8.1.0.Alpha1",
-  "ts_publish": 1753800930000,
-  "ts_update": 1753801623052,
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993620689,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [

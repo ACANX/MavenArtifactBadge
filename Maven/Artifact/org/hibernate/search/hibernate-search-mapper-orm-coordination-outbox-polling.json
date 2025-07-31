@@ -3,9 +3,9 @@
   "description": "Hibernate ORM integration using outbox polling as coordination strategy",
   "group_id": "org.hibernate.search",
   "artifact_id": "hibernate-search-mapper-orm-coordination-outbox-polling",
-  "version_latest": "8.1.0.Alpha1",
-  "ts_publish": 1753800930000,
-  "ts_update": 1753801623050,
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993621216,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Configurer for the Hibernate Search Elasticsearch backend enabling connection to an AWS-hosted Elasticsearch/OpenSearch cluster",
   "group_id": "org.hibernate.search",
   "artifact_id": "hibernate-search-backend-elasticsearch-aws",
-  "version_latest": "8.1.0.Alpha1",
-  "ts_publish": 1753800930000,
-  "ts_update": 1753801623609,
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993620690,
   "count_dep": 40,
   "count_ref": 0,
   "licenses": [
