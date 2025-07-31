@@ -3,11 +3,11 @@
   "description": "Browser Utilities for all Sentry JavaScript SDKs",
   "group_id": "org.mvnpm.at.sentry-internal",
   "artifact_id": "browser-utils",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753805532000,
-  "ts_update": 1753806434889,
+  "version_latest": "9.44.0",
+  "ts_publish": 1753977073000,
+  "ts_update": 1753978024460,
   "count_dep": 1,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],

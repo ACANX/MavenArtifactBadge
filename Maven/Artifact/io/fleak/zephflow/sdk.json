@@ -3,9 +3,9 @@
   "description": "Zephflow Core - Sdk Module",
   "group_id": "io.fleak.zephflow",
   "artifact_id": "sdk",
-  "version_latest": "0.2.4-rc.8",
-  "ts_publish": 1753951378000,
-  "ts_update": 1753952219832,
+  "version_latest": "0.2.4-rc.9",
+  "ts_publish": 1753977573000,
+  "ts_update": 1753978024459,
   "count_dep": 27,
   "count_ref": 0,
   "licenses": [
