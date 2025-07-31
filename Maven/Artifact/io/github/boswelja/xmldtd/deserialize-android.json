@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.boswelja.xmldtd/deserialize-android",
+  "description": "Deserialize XML DTD into type-safe Kotlin objects.",
   "group_id": "io.github.boswelja.xmldtd",
   "artifact_id": "deserialize-android",
-  "latest_version": "1.0.0-alpha01",
-  "description": "Deserialize XML DTD into type-safe Kotlin objects.",
-  "id": "pkg:maven/io.github.boswelja.xmldtd/deserialize-android",
-  "ts": 1753589283000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "1.0.0-alpha02",
+  "ts_publish": 1753937416000,
+  "ts_update": 1753937821204,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "CC-BY-SA-4.0"
   ],
-  "last_updated": 1753589729817
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.boswelja.xmldtd/codegen",
+  "description": "Generate Kotlin code from XML DTD.",
   "group_id": "io.github.boswelja.xmldtd",
   "artifact_id": "codegen",
-  "latest_version": "1.0.0-alpha01",
-  "description": "Generate Kotlin code from XML DTD.",
-  "id": "pkg:maven/io.github.boswelja.xmldtd/codegen",
-  "ts": 1753589283000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "1.0.0-alpha02",
+  "ts_publish": 1753937416000,
+  "ts_update": 1753937821203,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "CC-BY-SA-4.0"
   ],
-  "last_updated": 1753589729817
+  "categories": null,
+  "dsv": 1
 }

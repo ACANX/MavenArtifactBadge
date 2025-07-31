@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/me.yleoft/zHomes",
+  "description": "Your new favorite homes plugin",
   "group_id": "me.yleoft",
   "artifact_id": "zHomes",
-  "latest_version": "2.1.0",
-  "description": "Your new favorite homes plugin",
-  "id": "pkg:maven/me.yleoft/zHomes",
-  "ts": 1753720737000,
-  "dependency_count": 0,
-  "ref_count": 12,
-  "categories": null,
+  "version_latest": "2.1.1",
+  "ts_publish": 1753937102000,
+  "ts_update": 1753937821205,
+  "count_dep": 13,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753721819051
+  "categories": null,
+  "dsv": 1
 }
