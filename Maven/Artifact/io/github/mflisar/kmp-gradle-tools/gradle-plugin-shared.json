@@ -3,9 +3,9 @@
   "description": "kmp-gradle-tools - gradle-plugin-shared module - a gradle plugin that provides build functions for kmp libraries",
   "group_id": "io.github.mflisar.kmp-gradle-tools",
   "artifact_id": "gradle-plugin-shared",
-  "version_latest": "1.4.6",
-  "ts_publish": 1753905033000,
-  "ts_update": 1753905417589,
+  "version_latest": "1.4.7",
+  "ts_publish": 1753939501000,
+  "ts_update": 1753940222220,
   "count_dep": 3,
   "count_ref": 4,
   "licenses": [
