@@ -3,9 +3,9 @@
   "description": "Lance Namespace",
   "group_id": "com.lancedb",
   "artifact_id": "lance-namespace-root",
-  "version_latest": "0.0.4",
-  "ts_publish": 1753761202000,
-  "ts_update": 1753761537279,
+  "version_latest": "0.0.5",
+  "ts_publish": 1754003490000,
+  "ts_update": 1754004421848,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
