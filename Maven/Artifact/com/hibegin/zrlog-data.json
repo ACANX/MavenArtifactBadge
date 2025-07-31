@@ -3,11 +3,11 @@
   "description": "ZrLog base logic code repo",
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-data",
-  "version_latest": "3.2.61",
-  "ts_publish": 1753972778000,
-  "ts_update": 1753973821469,
+  "version_latest": "3.2.63",
+  "ts_publish": 1753973552000,
+  "ts_update": 1753974420447,
   "count_dep": 14,
-  "count_ref": 2,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],

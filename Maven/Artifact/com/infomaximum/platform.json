@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.infomaximum/platform",
+  "description": "Library for creating a light platform",
   "group_id": "com.infomaximum",
   "artifact_id": "platform",
-  "latest_version": "0.2.2p1",
-  "description": "Library for creating a light platform",
-  "id": "pkg:maven/com.infomaximum/platform",
-  "ts": 1753271120000,
-  "dependency_count": 0,
-  "ref_count": 33,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.2.2p2",
+  "ts_publish": 1753973847000,
+  "ts_update": 1753974419995,
+  "count_dep": 33,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, version 2.0"
   ],
-  "last_updated": 1753271780331
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
