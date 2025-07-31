@@ -3,9 +3,9 @@
   "description": "java object query distributed connector",
   "group_id": "com.easy-query",
   "artifact_id": "sql-springboot-starter",
-  "version_latest": "3.0.61",
-  "ts_publish": 1753764007000,
-  "ts_update": 1753765021628,
+  "version_latest": "3.0.62",
+  "ts_publish": 1753950463000,
+  "ts_update": 1753951022198,
   "count_dep": 68,
   "count_ref": 0,
   "licenses": [
