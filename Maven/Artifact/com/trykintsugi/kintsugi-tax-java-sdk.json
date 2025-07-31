@@ -3,9 +3,9 @@
   "description": "SDK enabling Java developers to easily integrate with the Kintsugi API.",
   "group_id": "com.trykintsugi",
   "artifact_id": "kintsugi-tax-java-sdk",
-  "version_latest": "0.7.0",
-  "ts_publish": 1753992616000,
-  "ts_update": 1753993021337,
+  "version_latest": "0.8.0",
+  "ts_publish": 1753995859000,
+  "ts_update": 1753996621141,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

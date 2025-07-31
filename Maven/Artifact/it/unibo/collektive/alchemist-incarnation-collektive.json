@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "alchemist-incarnation-collektive",
-  "version_latest": "26.0.0",
-  "ts_publish": 1753988200000,
-  "ts_update": 1753988822344,
+  "version_latest": "26.0.1-dev01+6ecf12e",
+  "ts_publish": 1753996139000,
+  "ts_update": 1753996621139,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [
