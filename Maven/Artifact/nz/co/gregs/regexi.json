@@ -3,9 +3,9 @@
   "description": "A fluent API to generate and use regular expressions",
   "group_id": "nz.co.gregs",
   "artifact_id": "regexi",
-  "version_latest": "5.0",
-  "ts_publish": 1753933498000,
-  "ts_update": 1753933854622,
+  "version_latest": "5.1",
+  "ts_publish": 1753934633000,
+  "ts_update": 1753935422086,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
