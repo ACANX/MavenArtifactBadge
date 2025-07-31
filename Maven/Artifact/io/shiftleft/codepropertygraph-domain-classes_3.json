@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3",
+  "description": "codepropertygraph-domain-classes",
   "group_id": "io.shiftleft",
   "artifact_id": "codepropertygraph-domain-classes_3",
-  "latest_version": "1.7.45",
-  "description": "codepropertygraph-domain-classes",
-  "id": "pkg:maven/io.shiftleft/codepropertygraph-domain-classes_3",
-  "ts": 1753267839000,
-  "dependency_count": 1,
-  "ref_count": 25,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.46",
+  "ts_publish": 1753964573000,
+  "ts_update": 1753965421814,
+  "count_dep": 25,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753268199913
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

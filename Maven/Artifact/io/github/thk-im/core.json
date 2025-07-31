@@ -3,9 +3,9 @@
   "description": "A Android Plugin Framework",
   "group_id": "io.github.thk-im",
   "artifact_id": "core",
-  "version_latest": "0.5.0",
-  "ts_publish": 1753843355000,
-  "ts_update": 1753844220407,
+  "version_latest": "0.5.1",
+  "ts_publish": 1753964448000,
+  "ts_update": 1753965421816,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [
