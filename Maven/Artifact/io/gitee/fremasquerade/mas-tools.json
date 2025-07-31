@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.gitee.fremasquerade/mas-tools",
+  "description": "masquerade's common tools package",
+  "group_id": "io.gitee.fremasquerade",
+  "artifact_id": "mas-tools",
+  "version_latest": "1.0.8",
+  "ts_publish": 1753948833000,
+  "ts_update": 1753949221640,
+  "count_dep": 92,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
