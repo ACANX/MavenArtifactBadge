@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/net.orivis/orivis-auth-service",
+  "description": "Parent pom providing dependency and plugin management for applications built with Maven",
+  "group_id": "net.orivis",
+  "artifact_id": "orivis-auth-service",
+  "version_latest": "0.1.6-fix-5",
+  "ts_publish": 1753961744000,
+  "ts_update": 1753962420504,
+  "count_dep": 196,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
