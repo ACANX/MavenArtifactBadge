@@ -3,9 +3,9 @@
   "description": "Sample multi-module project for All-in-One development on the Alfresco platform. Includes modules for Platform/Repository JAR and Share JAR",
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "alfresco-allinone-archetype",
-  "version_latest": "4.13.0-A3",
-  "ts_publish": 1753963793000,
-  "ts_update": 1753964832234,
+  "version_latest": "4.13.0-A4",
+  "ts_publish": 1753965453000,
+  "ts_update": 1753966018775,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
