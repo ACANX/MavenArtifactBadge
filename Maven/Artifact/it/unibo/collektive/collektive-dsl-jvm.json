@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-dsl-jvm",
-  "version_latest": "26.0.0",
-  "ts_publish": 1753988190000,
-  "ts_update": 1753988822849,
+  "version_latest": "26.0.1-dev01+6ecf12e",
+  "ts_publish": 1753996279000,
+  "ts_update": 1753997057022,
   "count_dep": 5,
   "count_ref": 4,
   "licenses": [
