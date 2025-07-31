@@ -3,9 +3,9 @@
   "description": "Extensions for Hoplite config library",
   "group_id": "com.turbomates",
   "artifact_id": "ktor-audit",
-  "version_latest": "0.1.9",
-  "ts_publish": 1753986404000,
-  "ts_update": 1753987623580,
+  "version_latest": "0.1.10",
+  "ts_publish": 1753996656000,
+  "ts_update": 1753997216701,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
