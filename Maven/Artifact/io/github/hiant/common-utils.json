@@ -3,9 +3,9 @@
   "description": "Offers a library of java utilities",
   "group_id": "io.github.hiant",
   "artifact_id": "common-utils",
-  "version_latest": "1.0.21",
-  "ts_publish": 1753946774000,
-  "ts_update": 1753947420340,
+  "version_latest": "1.0.22",
+  "ts_publish": 1753949064000,
+  "ts_update": 1753949709805,
   "count_dep": 49,
   "count_ref": 0,
   "licenses": [
