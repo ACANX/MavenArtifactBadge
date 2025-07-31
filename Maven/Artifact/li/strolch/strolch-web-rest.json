@@ -3,9 +3,9 @@
   "description": "Restful Web Service API for Strolch",
   "group_id": "li.strolch",
   "artifact_id": "strolch-web-rest",
-  "version_latest": "2.5.5",
-  "ts_publish": 1753962813000,
-  "ts_update": 1753963623794,
+  "version_latest": "2.5.6",
+  "ts_publish": 1753965808000,
+  "ts_update": 1753967222524,
   "count_dep": 96,
   "count_ref": 1,
   "licenses": [

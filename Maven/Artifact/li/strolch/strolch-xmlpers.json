@@ -3,9 +3,9 @@
   "description": "Module build for strolch",
   "group_id": "li.strolch",
   "artifact_id": "strolch-xmlpers",
-  "version_latest": "2.5.5",
-  "ts_publish": 1753962813000,
-  "ts_update": 1753963623795,
+  "version_latest": "2.5.6",
+  "ts_publish": 1753965808000,
+  "ts_update": 1753967222525,
   "count_dep": 26,
   "count_ref": 2,
   "licenses": [

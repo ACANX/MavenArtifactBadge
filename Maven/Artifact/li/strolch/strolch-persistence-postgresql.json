@@ -3,9 +3,9 @@
   "description": "PostgreSQL Persistence Implementation for Strolch",
   "group_id": "li.strolch",
   "artifact_id": "strolch-persistence-postgresql",
-  "version_latest": "2.5.5",
-  "ts_publish": 1753962813000,
-  "ts_update": 1753963623796,
+  "version_latest": "2.5.6",
+  "ts_publish": 1753965808000,
+  "ts_update": 1753967222530,
   "count_dep": 40,
   "count_ref": 2,
   "licenses": [

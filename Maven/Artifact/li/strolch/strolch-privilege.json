@@ -3,9 +3,9 @@
   "description": "Module build for strolch",
   "group_id": "li.strolch",
   "artifact_id": "strolch-privilege",
-  "version_latest": "2.5.5",
-  "ts_publish": 1753962813000,
-  "ts_update": 1753963623793,
+  "version_latest": "2.5.6",
+  "ts_publish": 1753965808000,
+  "ts_update": 1753967222527,
   "count_dep": 25,
   "count_ref": 10,
   "licenses": [
