@@ -3,9 +3,9 @@
   "description": "Core workflow example implementations",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-workflows-examples-core",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904550671,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993021341,
   "count_dep": 181,
   "count_ref": 1,
   "licenses": [

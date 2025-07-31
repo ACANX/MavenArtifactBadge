@@ -3,9 +3,9 @@
   "description": "In-memory file-system with Node's fs API.",
   "group_id": "org.mvnpm",
   "artifact_id": "memfs",
-  "version_latest": "4.25.0",
-  "ts_publish": 1753978154000,
-  "ts_update": 1753979222578,
+  "version_latest": "4.25.1",
+  "ts_publish": 1753992374000,
+  "ts_update": 1753993021338,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [

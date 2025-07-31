@@ -3,11 +3,11 @@
   "description": "Core client abstractions and implementations for language models",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-clients-core",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904551335,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993022013,
   "count_dep": 45,
-  "count_ref": 12,
+  "count_ref": 14,
   "licenses": [
     "MIT License"
   ],

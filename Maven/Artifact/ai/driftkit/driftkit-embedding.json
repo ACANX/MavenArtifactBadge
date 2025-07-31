@@ -3,9 +3,9 @@
   "description": "Embedding models and services for DriftKit",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-embedding",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904550670,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993022013,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

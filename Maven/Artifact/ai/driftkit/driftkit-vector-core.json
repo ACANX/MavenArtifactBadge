@@ -3,9 +3,9 @@
   "description": "Core vector store functionality for DriftKit",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-vector-core",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904551337,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993022017,
   "count_dep": 62,
   "count_ref": 4,
   "licenses": [

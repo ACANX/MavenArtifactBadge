@@ -3,9 +3,9 @@
   "description": "Class library for sql connections and integration of database management capabilities. Following database systems are supported by forestJ: MariaDB/MySQL, SQLite3, MSSQL, OracleDB, PostgreSQL, MongoDB",
   "group_id": "net.forestany.forestj.sql",
   "artifact_id": "fJ-sql-lib",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753978211000,
-  "ts_update": 1753979222577,
+  "version_latest": "1.0.7",
+  "ts_publish": 1753991538000,
+  "ts_update": 1753993022716,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

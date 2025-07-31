@@ -3,9 +3,9 @@
   "description": "Spring Boot auto-configuration for DriftKit Audio Processing",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-audio-spring-boot-starter",
-  "version_latest": "0.5.7",
-  "ts_publish": 1753986352000,
-  "ts_update": 1753987019858,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993021339,
   "count_dep": 45,
   "count_ref": 0,
   "licenses": [
