@@ -3,9 +3,9 @@
   "description": "IT Content package for the Dictionary Translator",
   "group_id": "be.orbinson.aem",
   "artifact_id": "aem-dictionary-translator.it.content",
-  "version_latest": "1.6.1",
-  "ts_publish": 1753955893000,
-  "ts_update": 1753956422289,
+  "version_latest": "1.6.2",
+  "ts_publish": 1753969915000,
+  "ts_update": 1753970820452,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
