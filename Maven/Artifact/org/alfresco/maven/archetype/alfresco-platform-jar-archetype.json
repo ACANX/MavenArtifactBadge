@@ -3,9 +3,9 @@
   "description": "Sample project with full support for lifecycle and rapid development of Platform/Repository JARs and AMPs (Alfresco Module Packages)",
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "alfresco-platform-jar-archetype",
-  "version_latest": "4.13.0-A2",
-  "ts_publish": 1753951202000,
-  "ts_update": 1753951599616,
+  "version_latest": "4.13.0-A3",
+  "ts_publish": 1753963793000,
+  "ts_update": 1753964832233,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

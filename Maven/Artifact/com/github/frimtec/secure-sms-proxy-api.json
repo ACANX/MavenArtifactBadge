@@ -3,9 +3,9 @@
   "description": "API to integrate S2MSP (Secure SMS Proxy) into an android application.",
   "group_id": "com.github.frimtec",
   "artifact_id": "secure-sms-proxy-api",
-  "version_latest": "3.5.1",
-  "ts_publish": 1753791689000,
-  "ts_update": 1753795619685,
+  "version_latest": "3.5.2",
+  "ts_publish": 1753963605000,
+  "ts_update": 1753964832759,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
