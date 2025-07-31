@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.byteplus/byteplus-java-sdk-v2-vpc",
+  "description": "The Java SDK for byteplus vpc",
   "group_id": "com.byteplus",
   "artifact_id": "byteplus-java-sdk-v2-vpc",
-  "latest_version": "0.1.19",
-  "description": "The Java SDK for byteplus vpc",
-  "id": "pkg:maven/com.byteplus/byteplus-java-sdk-v2-vpc",
-  "ts": 1753363374000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "0.1.20",
+  "ts_publish": 1753967638000,
+  "ts_update": 1753968318899,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364221498
+  "categories": null,
+  "dsv": 1
 }
