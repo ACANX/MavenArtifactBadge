@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk",
+  "description": "Huawei Cloud SDK for Java",
   "group_id": "com.huaweicloud.sdk",
   "artifact_id": "huaweicloud-sdk",
-  "latest_version": "3.1.158",
-  "description": "Huawei Cloud SDK for Java",
-  "id": "pkg:maven/com.huaweicloud.sdk/huaweicloud-sdk",
-  "ts": 1753349342000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.1.159",
+  "ts_publish": 1753956453000,
+  "ts_update": 1753957621499,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753349820356
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
