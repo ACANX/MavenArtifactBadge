@@ -3,9 +3,9 @@
   "description": "Elemento SVG API",
   "group_id": "org.jboss.elemento",
   "artifact_id": "elemento-svg",
-  "version_latest": "2.0.3",
-  "ts_publish": 1753958999000,
-  "ts_update": 1753960625571,
+  "version_latest": "2.0.5",
+  "ts_publish": 1753978938000,
+  "ts_update": 1753979660437,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

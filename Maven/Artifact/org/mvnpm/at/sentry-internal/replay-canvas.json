@@ -3,11 +3,11 @@
   "description": "Replay canvas integration",
   "group_id": "org.mvnpm.at.sentry-internal",
   "artifact_id": "replay-canvas",
-  "version_latest": "9.44.0",
-  "ts_publish": 1753976354000,
-  "ts_update": 1753977536470,
+  "version_latest": "10.0.0",
+  "ts_publish": 1753978875000,
+  "ts_update": 1753979660439,
   "count_dep": 2,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],

@@ -3,9 +3,9 @@
   "description": "Elemental builder API and other goodies for GWT and J2CL",
   "group_id": "org.jboss.elemento",
   "artifact_id": "elemento-parent",
-  "version_latest": "2.0.3",
-  "ts_publish": 1753958999000,
-  "ts_update": 1753960625575,
+  "version_latest": "2.0.5",
+  "ts_publish": 1753978938000,
+  "ts_update": 1753979660438,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
