@@ -3,9 +3,9 @@
   "description": "forestJ library Parent POM",
   "group_id": "net.forestany.forestj",
   "artifact_id": "Parent",
-  "version_latest": "1.13",
-  "ts_publish": 1753977702000,
-  "ts_update": 1753978632111,
+  "version_latest": "1.14",
+  "ts_publish": 1753985934000,
+  "ts_update": 1753986419876,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

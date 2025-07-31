@@ -1,9 +1,9 @@
 {
-  "id": "pkg:maven/software.amazon.api.models/ec2",
-  "description": "This module contains the Smithy model (JSON AST) for Ec2.",
+  "id": "pkg:maven/software.amazon.api.models/iot",
+  "description": "This module contains the Smithy model (JSON AST) for Iot.",
   "group_id": "software.amazon.api.models",
-  "artifact_id": "ec2",
-  "version_latest": "1.0.14",
+  "artifact_id": "iot",
+  "version_latest": "1.0.1",
   "ts_publish": 1753985532000,
   "ts_update": 1753986419878,
   "count_dep": 10,
