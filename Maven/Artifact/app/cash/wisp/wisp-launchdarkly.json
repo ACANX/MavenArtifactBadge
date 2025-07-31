@@ -3,9 +3,9 @@
   "description": "A Wisp module for adapting LaunchDarkly SDK to wisp-feature",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-launchdarkly",
-  "version_latest": "2025.07.31.141422-e5ed830",
-  "ts_publish": 1753972613000,
-  "ts_update": 1753973224163,
+  "version_latest": "2025.07.31.154204-77a2264",
+  "ts_publish": 1753977992000,
+  "ts_update": 1753978629799,
   "count_dep": 10,
   "count_ref": 1,
   "licenses": [

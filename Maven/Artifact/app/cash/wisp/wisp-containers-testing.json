@@ -3,9 +3,9 @@
   "description": "a module containing containers management for testing",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-containers-testing",
-  "version_latest": "2025.07.31.121904-05006c8",
-  "ts_publish": 1753965733000,
-  "ts_update": 1753966622173,
+  "version_latest": "2025.07.31.154204-77a2264",
+  "ts_publish": 1753977992000,
+  "ts_update": 1753978629798,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [
