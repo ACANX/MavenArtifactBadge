@@ -3,9 +3,9 @@
   "description": "A no-op implementation of Axer, which do nothing which can be used in production without any changes to the codebase.",
   "group_id": "io.github.orioneee",
   "artifact_id": "axer-no-op-jvm",
-  "version_latest": "1.1.5",
-  "ts_publish": 1753904297000,
-  "ts_update": 1753904819801,
+  "version_latest": "1.1.6",
+  "ts_publish": 1753996897000,
+  "ts_update": 1753997820717,
   "count_dep": 26,
   "count_ref": 0,
   "licenses": [

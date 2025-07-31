@@ -3,9 +3,9 @@
   "description": "Azure Rundeck Plugin unspecified",
   "group_id": "org.rundeck.plugins",
   "artifact_id": "azure-plugin",
-  "version_latest": "1.0.24",
-  "ts_publish": 1753992130000,
-  "ts_update": 1753993022714,
+  "version_latest": "1.0.25",
+  "ts_publish": 1753997195000,
+  "ts_update": 1753997820712,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [
