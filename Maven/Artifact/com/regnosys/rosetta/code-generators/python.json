@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.regnosys.rosetta.code-generators/python",
+  "description": "Generators to create python for rosetta",
   "group_id": "com.regnosys.rosetta.code-generators",
   "artifact_id": "python",
-  "latest_version": "11.75.0",
-  "description": "Generators to create python for rosetta",
-  "id": "pkg:maven/com.regnosys.rosetta.code-generators/python",
-  "ts": 1753726922000,
-  "dependency_count": 1,
-  "ref_count": 133,
-  "categories": null,
+  "version_latest": "11.76.0",
+  "ts_publish": 1753963197000,
+  "ts_update": 1753963622639,
+  "count_dep": 133,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753727819994
+  "categories": null,
+  "dsv": 1
 }
