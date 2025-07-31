@@ -3,11 +3,11 @@
   "description": "Official Sentry SDK for browsers",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "browser",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753806434000,
-  "ts_update": 1753807019674,
+  "version_latest": "10.0.0",
+  "ts_publish": 1753979958000,
+  "ts_update": 1753981016079,
   "count_dep": 5,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],

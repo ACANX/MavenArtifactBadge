@@ -3,11 +3,11 @@
   "description": "a module containing AWS environment helpers",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-aws-environment",
-  "version_latest": "2025.07.31.154204-77a2264",
-  "ts_publish": 1753977992000,
-  "ts_update": 1753978629800,
+  "version_latest": "2025.07.31.162102-68eb8ff",
+  "ts_publish": 1753980194000,
+  "ts_update": 1753981016075,
   "count_dep": 2,
-  "count_ref": 0,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],

@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-bom",
-  "version_latest": "2025.07.31.154204-77a2264",
-  "ts_publish": 1753977969000,
-  "ts_update": 1753978631618,
+  "version_latest": "2025.07.31.162102-68eb8ff",
+  "ts_publish": 1753980206000,
+  "ts_update": 1753981015385,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests_native0.4_3",
+  "description": "compliance-tests",
   "group_id": "com.disneystreaming.smithy4s",
   "artifact_id": "smithy4s-compliance-tests_native0.4_3",
-  "latest_version": "0.18.40",
-  "description": "compliance-tests",
-  "id": "pkg:maven/com.disneystreaming.smithy4s/smithy4s-compliance-tests_native0.4_3",
-  "ts": 1753393260000,
-  "dependency_count": 2,
-  "ref_count": 75,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.18.41",
+  "ts_publish": 1753980281000,
+  "ts_update": 1753981012210,
+  "count_dep": 75,
+  "count_ref": 2,
   "licenses": [
     "TOST-1.0"
   ],
-  "last_updated": 1753393556344
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

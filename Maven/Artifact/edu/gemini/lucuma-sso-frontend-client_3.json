@@ -3,9 +3,9 @@
   "description": "lucuma-sso-frontend-client",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-sso-frontend-client_3",
-  "version_latest": "0.9.2",
-  "ts_publish": 1753798761000,
-  "ts_update": 1753799645775,
+  "version_latest": "0.9.3",
+  "ts_publish": 1753980230000,
+  "ts_update": 1753981013505,
   "count_dep": 47,
   "count_ref": 1,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Test resource loading helpers",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-resource-loader-testing",
-  "version_latest": "2025.07.31.154204-77a2264",
-  "ts_publish": 1753977992000,
-  "ts_update": 1753978629799,
+  "version_latest": "2025.07.31.162102-68eb8ff",
+  "ts_publish": 1753980194000,
+  "ts_update": 1753981015389,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
