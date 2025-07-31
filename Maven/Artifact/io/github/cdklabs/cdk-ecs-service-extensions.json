@@ -3,9 +3,9 @@
   "description": "The CDK Construct Library that helps you build ECS services using simple extensions",
   "group_id": "io.github.cdklabs",
   "artifact_id": "cdk-ecs-service-extensions",
-  "version_latest": "2.0.1-alpha.717",
-  "ts_publish": 1753835840000,
-  "ts_update": 1753836422487,
+  "version_latest": "2.0.1-alpha.718",
+  "ts_publish": 1753922132000,
+  "ts_update": 1753922820340,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [

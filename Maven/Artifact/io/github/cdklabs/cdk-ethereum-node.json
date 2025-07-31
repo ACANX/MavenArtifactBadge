@@ -3,9 +3,9 @@
   "description": "CDK construct to deploy an Ethereum node running on Amazon Managed Blockchain",
   "group_id": "io.github.cdklabs",
   "artifact_id": "cdk-ethereum-node",
-  "version_latest": "0.0.670",
-  "ts_publish": 1753835517000,
-  "ts_update": 1753836422490,
+  "version_latest": "0.0.671",
+  "ts_publish": 1753921883000,
+  "ts_update": 1753922820342,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [

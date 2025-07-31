@@ -3,9 +3,9 @@
   "description": "Defines an SQS queue with tweet stream from a search",
   "group_id": "io.github.cdklabs",
   "artifact_id": "cdk-tweet-queue",
-  "version_latest": "2.0.872",
-  "ts_publish": 1753835498000,
-  "ts_update": 1753836422490,
+  "version_latest": "2.0.873",
+  "ts_publish": 1753921831000,
+  "ts_update": 1753922820342,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
