@@ -3,9 +3,9 @@
   "description": "Audio processing and transcription capabilities for DriftKit Framework",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-audio",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904550672,
+  "version_latest": "0.5.7",
+  "ts_publish": 1753986352000,
+  "ts_update": 1753987019860,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

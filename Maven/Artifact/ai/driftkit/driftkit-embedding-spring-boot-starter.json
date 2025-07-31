@@ -3,9 +3,9 @@
   "description": "Spring Boot auto-configuration for DriftKit Embedding",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-embedding-spring-boot-starter",
-  "version_latest": "0.5.6",
-  "ts_publish": 1753903939000,
-  "ts_update": 1753904550671,
+  "version_latest": "0.5.7",
+  "ts_publish": 1753986352000,
+  "ts_update": 1753987019862,
   "count_dep": 62,
   "count_ref": 0,
   "licenses": [
