@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/wisdom",
+  "description": "A library to help with editing joyfill documents",
   "group_id": "io.joyfill",
   "artifact_id": "wisdom",
-  "latest_version": "2.0.0-Beta15",
-  "description": "A library to help with editing joyfill documents",
-  "id": "pkg:maven/io.joyfill/wisdom",
-  "ts": 1753378415000,
-  "dependency_count": 2,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "2.0.0-Beta16",
+  "ts_publish": 1753923881000,
+  "ts_update": 1753924619932,
+  "count_dep": 2,
+  "count_ref": 2,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379138515
+  "categories": null,
+  "dsv": 1
 }

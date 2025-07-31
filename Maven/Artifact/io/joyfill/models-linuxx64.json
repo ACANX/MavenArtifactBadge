@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/models-linuxx64",
+  "description": "Models for joyfill artifacts",
   "group_id": "io.joyfill",
   "artifact_id": "models-linuxx64",
-  "latest_version": "2.0.0-Beta15",
-  "description": "Models for joyfill artifacts",
-  "id": "pkg:maven/io.joyfill/models-linuxx64",
-  "ts": 1753378415000,
-  "dependency_count": 5,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "2.0.0-Beta16",
+  "ts_publish": 1753923880000,
+  "ts_update": 1753924622157,
+  "count_dep": 5,
+  "count_ref": 5,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379137984
+  "categories": null,
+  "dsv": 1
 }

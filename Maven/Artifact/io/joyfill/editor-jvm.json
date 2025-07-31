@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/editor-jvm",
+  "description": "A library to help with editing joyfill documents",
   "group_id": "io.joyfill",
   "artifact_id": "editor-jvm",
-  "latest_version": "2.0.0-Beta15",
-  "description": "A library to help with editing joyfill documents",
-  "id": "pkg:maven/io.joyfill/editor-jvm",
-  "ts": 1753378415000,
-  "dependency_count": 2,
-  "ref_count": 13,
-  "categories": null,
+  "version_latest": "2.0.0-Beta16",
+  "ts_publish": 1753923880000,
+  "ts_update": 1753924622158,
+  "count_dep": 13,
+  "count_ref": 2,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379137985
+  "categories": null,
+  "dsv": 1
 }

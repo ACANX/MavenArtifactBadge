@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/manager-js",
+  "description": "Some types that are helpful in managing the sdk but are platform and framework independent",
   "group_id": "io.joyfill",
   "artifact_id": "manager-js",
-  "latest_version": "2.0.0-Beta15",
-  "description": "Some types that are helpful in managing the sdk but are platform and framework independent",
-  "id": "pkg:maven/io.joyfill/manager-js",
-  "ts": 1753378415000,
-  "dependency_count": 1,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "2.0.0-Beta16",
+  "ts_publish": 1753923881000,
+  "ts_update": 1753924621396,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379139618
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/api",
+  "description": "The kotlin api to help communicate with the joyfill api",
   "group_id": "io.joyfill",
   "artifact_id": "api",
-  "latest_version": "2.0.0-Beta15",
-  "description": "The kotlin api to help communicate with the joyfill api",
-  "id": "pkg:maven/io.joyfill/api",
-  "ts": 1753378415000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "2.0.0-Beta16",
+  "ts_publish": 1753923881000,
+  "ts_update": 1753924621398,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379139621
+  "categories": null,
+  "dsv": 1
 }
