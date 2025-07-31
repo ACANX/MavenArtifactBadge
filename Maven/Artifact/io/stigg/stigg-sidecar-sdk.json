@@ -3,9 +3,9 @@
   "description": "Sidecar SDK for Stigg",
   "group_id": "io.stigg",
   "artifact_id": "stigg-sidecar-sdk",
-  "version_latest": "2.485.0",
-  "ts_publish": 1753791106000,
-  "ts_update": 1753795628251,
+  "version_latest": "2.494.0",
+  "ts_publish": 1753991102000,
+  "ts_update": 1753991821304,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
