@@ -3,9 +3,9 @@
   "description": "a module containing lease related code for testing",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-lease-testing",
-  "version_latest": "2025.07.31.121904-05006c8",
-  "ts_publish": 1753965733000,
-  "ts_update": 1753966622171,
+  "version_latest": "2025.07.31.141422-e5ed830",
+  "ts_publish": 1753972613000,
+  "ts_update": 1753973223452,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
