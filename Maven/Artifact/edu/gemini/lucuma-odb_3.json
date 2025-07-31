@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/edu.gemini/lucuma-odb_3",
+  "description": "lucuma-odb",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-odb_3",
-  "latest_version": "0.26.0",
-  "description": "lucuma-odb",
-  "id": "pkg:maven/edu.gemini/lucuma-odb_3",
-  "ts": 1753721873000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.26.1",
+  "ts_publish": 1753985209000,
+  "ts_update": 1753985821761,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753722424310
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

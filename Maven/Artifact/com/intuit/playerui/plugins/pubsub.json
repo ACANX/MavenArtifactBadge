@@ -3,9 +3,9 @@
   "description": "A cross-platform semantic rendering engine",
   "group_id": "com.intuit.playerui.plugins",
   "artifact_id": "pubsub",
-  "version_latest": "0.13.0-next.4",
-  "ts_publish": 1753894461000,
-  "ts_update": 1753895220441,
+  "version_latest": "0.13.0-next.5",
+  "ts_publish": 1753984454000,
+  "ts_update": 1753985822519,
   "count_dep": 14,
   "count_ref": 2,
   "licenses": [
