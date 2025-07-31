@@ -3,9 +3,9 @@
   "description": "Utilities for creating appsync apis using aws-cdk",
   "group_id": "io.github.cdklabs",
   "artifact_id": "awscdk-appsync-utils",
-  "version_latest": "0.0.792",
-  "ts_publish": 1753835083000,
-  "ts_update": 1753835816220,
+  "version_latest": "0.0.793",
+  "ts_publish": 1753921399000,
+  "ts_update": 1753922221765,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [
