@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.mayzs/adapter",
+  "description": "adapter 封装",
+  "group_id": "io.github.mayzs",
+  "artifact_id": "adapter",
+  "version_latest": "1.0.2",
+  "ts_publish": 1753939202000,
+  "ts_update": 1753939620766,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

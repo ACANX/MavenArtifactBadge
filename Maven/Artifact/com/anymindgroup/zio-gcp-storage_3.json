@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.anymindgroup/zio-gcp-storage_3",
+  "description": "zioGcpStorage",
+  "group_id": "com.anymindgroup",
+  "artifact_id": "zio-gcp-storage_3",
+  "version_latest": "0.2.1",
+  "ts_publish": 1753939002000,
+  "ts_update": 1753939620769,
+  "count_dep": 23,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
