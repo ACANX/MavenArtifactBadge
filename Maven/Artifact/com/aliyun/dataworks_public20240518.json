@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud dataworks-public (20240518) SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "dataworks_public20240518",
-  "version_latest": "7.2.7",
-  "ts_publish": 1753897217000,
-  "ts_update": 1753898055344,
+  "version_latest": "7.3.0",
+  "ts_publish": 1753952045000,
+  "ts_update": 1753952590371,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

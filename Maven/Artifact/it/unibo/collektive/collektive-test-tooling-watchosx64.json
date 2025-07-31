@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-test-tooling-watchosx64",
-  "version_latest": "25.0.2-dev18+22d0d0b",
-  "ts_publish": 1753875725000,
-  "ts_update": 1753876618905,
+  "version_latest": "25.0.3-dev02+cdfbcc9",
+  "ts_publish": 1753951652000,
+  "ts_update": 1753952590997,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

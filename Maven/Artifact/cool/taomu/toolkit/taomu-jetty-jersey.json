@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-jetty-jersey",
+  "description": "This is a toolkit",
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-jetty-jersey",
-  "latest_version": "0.0.25",
-  "description": "This is a toolkit",
-  "id": "pkg:maven/cool.taomu.toolkit/taomu-jetty-jersey",
-  "ts": 1753267688000,
-  "dependency_count": 0,
-  "ref_count": 38,
-  "categories": null,
+  "version_latest": "0.0.26",
+  "ts_publish": 1753951818000,
+  "ts_update": 1753952590376,
+  "count_dep": 38,
+  "count_ref": 0,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753268200323
+  "categories": null,
+  "dsv": 1
 }

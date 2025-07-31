@@ -3,9 +3,9 @@
   "description": "sbt-molecule",
   "group_id": "org.scalamolecule",
   "artifact_id": "sbt-molecule_2.12_1.0",
-  "version_latest": "1.19.5",
-  "ts_publish": 1753873613000,
-  "ts_update": 1753874218103,
+  "version_latest": "1.19.6",
+  "ts_publish": 1753951873000,
+  "ts_update": 1753952590375,
   "count_dep": 139,
   "count_ref": 0,
   "licenses": [
