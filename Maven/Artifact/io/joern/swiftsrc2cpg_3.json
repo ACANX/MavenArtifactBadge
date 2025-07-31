@@ -3,9 +3,9 @@
   "description": "swiftsrc2cpg",
   "group_id": "io.joern",
   "artifact_id": "swiftsrc2cpg_3",
-  "version_latest": "4.0.400",
-  "ts_publish": 1753861238000,
-  "ts_update": 1753861837726,
+  "version_latest": "4.0.401",
+  "ts_publish": 1753947520000,
+  "ts_update": 1753948021731,
   "count_dep": 82,
   "count_ref": 0,
   "licenses": [

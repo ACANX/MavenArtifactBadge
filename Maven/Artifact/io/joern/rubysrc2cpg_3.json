@@ -3,9 +3,9 @@
   "description": "rubysrc2cpg",
   "group_id": "io.joern",
   "artifact_id": "rubysrc2cpg_3",
-  "version_latest": "4.0.400",
-  "ts_publish": 1753861238000,
-  "ts_update": 1753861837728,
+  "version_latest": "4.0.401",
+  "ts_publish": 1753947520000,
+  "ts_update": 1753948021730,
   "count_dep": 84,
   "count_ref": 3,
   "licenses": [
