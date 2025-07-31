@@ -3,9 +3,9 @@
   "description": "AssertJ assertion helpers for Kensa",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-assertions-assertj",
-  "version_latest": "0.5.20",
-  "ts_publish": 1753913285000,
-  "ts_update": 1753915022241,
+  "version_latest": "0.5.21",
+  "ts_publish": 1754002714000,
+  "ts_update": 1754003221310,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

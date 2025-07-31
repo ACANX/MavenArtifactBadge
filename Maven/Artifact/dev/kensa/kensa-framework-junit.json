@@ -3,9 +3,9 @@
   "description": "Kensa for JUnit5",
   "group_id": "dev.kensa",
   "artifact_id": "kensa-framework-junit",
-  "version_latest": "0.5.20",
-  "ts_publish": 1753913285000,
-  "ts_update": 1753915022242,
+  "version_latest": "0.5.21",
+  "ts_publish": 1754002714000,
+  "ts_update": 1754003221310,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
