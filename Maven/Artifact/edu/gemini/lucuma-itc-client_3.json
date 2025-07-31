@@ -3,11 +3,11 @@
   "description": "lucuma-itc-client",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-itc-client_3",
-  "version_latest": "0.42.1",
-  "ts_publish": 1753801633000,
-  "ts_update": 1753802220877,
+  "version_latest": "0.42.2",
+  "ts_publish": 1753981392000,
+  "ts_update": 1753982219428,
   "count_dep": 112,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [
     "BSD-3-Clause"
   ],
