@@ -3,9 +3,9 @@
   "description": "A Android Plugin Framework",
   "group_id": "io.github.thk-im",
   "artifact_id": "rtc",
-  "version_latest": "0.5.0",
-  "ts_publish": 1753846013000,
-  "ts_update": 1753846616746,
+  "version_latest": "0.5.1",
+  "ts_publish": 1753965674000,
+  "ts_update": 1753966625047,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

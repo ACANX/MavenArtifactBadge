@@ -3,9 +3,9 @@
   "description": "Token generation for universally unique ID",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-token",
-  "version_latest": "2025.07.30.211227-cdff65e",
-  "ts_publish": 1753911345000,
-  "ts_update": 1753914424728,
+  "version_latest": "2025.07.31.121904-05006c8",
+  "ts_publish": 1753965733000,
+  "ts_update": 1753966622171,
   "count_dep": 1,
   "count_ref": 8,
   "licenses": [

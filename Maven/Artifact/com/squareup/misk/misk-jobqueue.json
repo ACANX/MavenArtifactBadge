@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-jobqueue",
-  "version_latest": "2025.07.30.211227-cdff65e",
-  "ts_publish": 1753911354000,
-  "ts_update": 1753914423444,
+  "version_latest": "2025.07.31.121904-05006c8",
+  "ts_publish": 1753965710000,
+  "ts_update": 1753966623677,
   "count_dep": 27,
   "count_ref": 3,
   "licenses": [

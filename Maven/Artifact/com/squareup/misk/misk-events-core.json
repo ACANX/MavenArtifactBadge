@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-events-core",
-  "version_latest": "2025.07.30.211227-cdff65e",
-  "ts_publish": 1753911354000,
-  "ts_update": 1753914423447,
+  "version_latest": "2025.07.31.121904-05006c8",
+  "ts_publish": 1753965710000,
+  "ts_update": 1753966624364,
   "count_dep": 5,
   "count_ref": 1,
   "licenses": [

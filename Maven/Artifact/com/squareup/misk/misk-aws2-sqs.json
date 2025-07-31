@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-aws2-sqs",
-  "version_latest": "2025.07.30.152053-d079641",
-  "ts_publish": 1753890238000,
-  "ts_update": 1753891018335,
+  "version_latest": "2025.07.31.121904-05006c8",
+  "ts_publish": 1753965710000,
+  "ts_update": 1753966625043,
   "count_dep": 76,
   "count_ref": 0,
   "licenses": [
