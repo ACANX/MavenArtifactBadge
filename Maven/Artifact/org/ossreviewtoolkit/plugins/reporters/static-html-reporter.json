@@ -3,9 +3,9 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit.plugins.reporters",
   "artifact_id": "static-html-reporter",
-  "version_latest": "64.1.0",
-  "ts_publish": 1753777501000,
-  "ts_update": 1753778218898,
+  "version_latest": "65.0.0",
+  "ts_publish": 1753946889000,
+  "ts_update": 1753947693418,
   "count_dep": 12,
   "count_ref": 2,
   "licenses": [

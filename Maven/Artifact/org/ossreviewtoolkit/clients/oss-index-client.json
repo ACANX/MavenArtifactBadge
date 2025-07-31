@@ -3,9 +3,9 @@
   "description": "A client to communicate with the Sonatype OSS Index API.",
   "group_id": "org.ossreviewtoolkit.clients",
   "artifact_id": "oss-index-client",
-  "version_latest": "64.1.0",
-  "ts_publish": 1753777501000,
-  "ts_update": 1753778219413,
+  "version_latest": "65.0.0",
+  "ts_publish": 1753946889000,
+  "ts_update": 1753947693812,
   "count_dep": 16,
   "count_ref": 1,
   "licenses": [
