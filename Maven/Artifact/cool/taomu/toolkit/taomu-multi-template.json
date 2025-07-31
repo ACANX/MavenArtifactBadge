@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-multi-template",
+  "description": "This is a toolkit",
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-multi-template",
-  "latest_version": "0.0.25",
-  "description": "This is a toolkit",
-  "id": "pkg:maven/cool.taomu.toolkit/taomu-multi-template",
-  "ts": 1753268750000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": null,
+  "version_latest": "0.0.26",
+  "ts_publish": 1753954376000,
+  "ts_update": 1753955218286,
+  "count_dep": 31,
+  "count_ref": 0,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753269418635
+  "categories": null,
+  "dsv": 1
 }
