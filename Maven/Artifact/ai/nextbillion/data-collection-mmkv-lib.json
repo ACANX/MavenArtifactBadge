@@ -3,9 +3,9 @@
   "description": "Data collection MMKV library for NextBillion Asset Tracking SDK",
   "group_id": "ai.nextbillion",
   "artifact_id": "data-collection-mmkv-lib",
-  "version_latest": "2.2.0-beta.3",
-  "ts_publish": 1754021699000,
-  "ts_update": 1754022422238,
+  "version_latest": "2.2.0-beta.4",
+  "ts_publish": 1754028360000,
+  "ts_update": 1754029022821,
   "count_dep": 7,
   "count_ref": 1,
   "licenses": [
