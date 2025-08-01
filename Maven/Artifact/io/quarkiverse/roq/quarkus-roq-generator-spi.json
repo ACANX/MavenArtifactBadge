@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-generator-spi",
+  "description": "Generate static websites out of your Quarkus web application.",
   "group_id": "io.quarkiverse.roq",
   "artifact_id": "quarkus-roq-generator-spi",
-  "latest_version": "1.7.0.CR3",
-  "description": "Generate static websites out of your Quarkus web application.",
-  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-generator-spi",
-  "ts": 1753713476000,
-  "dependency_count": 14,
-  "ref_count": 63,
-  "categories": null,
+  "version_latest": "1.7.0.CR4",
+  "ts_publish": 1754076122000,
+  "ts_update": 1754076963403,
+  "count_dep": 63,
+  "count_ref": 14,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753714019317
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-data-parent",
+  "description": "Generate static websites out of your Quarkus web application.",
   "group_id": "io.quarkiverse.roq",
   "artifact_id": "quarkus-roq-data-parent",
-  "latest_version": "1.7.0.CR3",
-  "description": "Generate static websites out of your Quarkus web application.",
-  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-data-parent",
-  "ts": 1753713476000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.7.0.CR4",
+  "ts_publish": 1754076122000,
+  "ts_update": 1754076963404,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753714019966
+  "categories": null,
+  "dsv": 1
 }
