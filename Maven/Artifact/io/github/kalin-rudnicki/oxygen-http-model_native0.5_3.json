@@ -3,9 +3,9 @@
   "description": "Adds standard models for HTTP.",
   "group_id": "io.github.kalin-rudnicki",
   "artifact_id": "oxygen-http-model_native0.5_3",
-  "version_latest": "0.0.21",
-  "ts_publish": 1754074392000,
-  "ts_update": 1754074624163,
+  "version_latest": "0.0.22",
+  "ts_publish": 1754075708000,
+  "ts_update": 1754076282587,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [
