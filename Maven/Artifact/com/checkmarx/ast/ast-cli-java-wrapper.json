@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper",
+  "description": "Checkmarx AST CLI SDK",
   "group_id": "com.checkmarx.ast",
   "artifact_id": "ast-cli-java-wrapper",
-  "latest_version": "2.4.6",
-  "description": "Checkmarx AST CLI SDK",
-  "id": "pkg:maven/com.checkmarx.ast/ast-cli-java-wrapper",
-  "ts": 1753711241000,
-  "dependency_count": 0,
-  "ref_count": 12,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.4.6-test-release",
+  "ts_publish": 1754044800000,
+  "ts_update": 1754045820902,
+  "count_dep": 13,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753711618817
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

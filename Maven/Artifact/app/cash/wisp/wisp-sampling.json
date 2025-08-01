@@ -3,9 +3,9 @@
   "description": "Utilities for sampling and rate limiting actions",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-sampling",
-  "version_latest": "2025.07.31.213947-514912f",
-  "ts_publish": 1753999370000,
-  "ts_update": 1754000225426,
+  "version_latest": "2025.08.01.102836-90afb48",
+  "ts_publish": 1754045455000,
+  "ts_update": 1754045820899,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [

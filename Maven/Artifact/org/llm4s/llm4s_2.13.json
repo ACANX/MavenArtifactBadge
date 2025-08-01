@@ -3,9 +3,9 @@
   "description": "llm4s",
   "group_id": "org.llm4s",
   "artifact_id": "llm4s_2.13",
-  "version_latest": "0.1.8",
-  "ts_publish": 1754037107000,
-  "ts_update": 1754038016228,
+  "version_latest": "0.1.9",
+  "ts_publish": 1754044751000,
+  "ts_update": 1754045820905,
   "count_dep": 93,
   "count_ref": 0,
   "licenses": [

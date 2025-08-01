@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.lynxsdk.lynx/lynx-service-http",
+  "description": "Lynx Service Http",
   "group_id": "org.lynxsdk.lynx",
   "artifact_id": "lynx-service-http",
-  "latest_version": "3.3.1",
-  "description": "Lynx Service Http",
-  "id": "pkg:maven/org.lynxsdk.lynx/lynx-service-http",
-  "ts": 1753417015000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "3.4.0-rc.0",
+  "ts_publish": 1754044715000,
+  "ts_update": 1754045821437,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
-    "The Apache License, Version 2.0"
+    "The Apache License, version 2.0"
   ],
-  "last_updated": 1753417619911
+  "categories": null,
+  "dsv": 1
 }
