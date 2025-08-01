@@ -3,9 +3,9 @@
   "description": "MAVSDK server for Android.",
   "group_id": "io.mavsdk",
   "artifact_id": "mavsdk-server",
-  "version_latest": "3.8.1-1",
-  "ts_publish": 1753937691000,
-  "ts_update": 1753938130552,
+  "version_latest": "3.9.0",
+  "ts_publish": 1754046636000,
+  "ts_update": 1754047231041,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
