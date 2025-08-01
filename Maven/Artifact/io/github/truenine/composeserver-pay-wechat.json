@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.truenine/composeserver-pay-wechat",
+  "description": "WeChat Pay integration implementation.\nProvides WeChat Pay V3 API integration, payment processing, and automated configuration for WeChat payment services.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-pay-wechat",
-  "latest_version": "0.0.13",
-  "description": "WeChat Pay integration implementation.\nProvides WeChat Pay V3 API integration, payment processing, and automated configuration for WeChat payment services.",
-  "id": "pkg:maven/io.github.truenine/composeserver-pay-wechat",
-  "ts": 1753721304000,
-  "dependency_count": 0,
-  "ref_count": 18,
-  "categories": null,
+  "version_latest": "0.0.14",
+  "ts_publish": 1754046236000,
+  "ts_update": 1754047020512,
+  "count_dep": 18,
+  "count_ref": 0,
   "licenses": [
     "GNU Lesser General Public License v2.1"
   ],
-  "last_updated": 1753721818501
+  "categories": null,
+  "dsv": 1
 }
