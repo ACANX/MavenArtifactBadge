@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.outr/lightdb-h2_2.13",
+  "description": "lightdb-h2",
   "group_id": "com.outr",
   "artifact_id": "lightdb-h2_2.13",
-  "latest_version": "4.0.5",
-  "description": "lightdb-h2",
-  "id": "pkg:maven/com.outr/lightdb-h2_2.13",
-  "ts": 1753562786000,
-  "dependency_count": 1,
-  "ref_count": 37,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.1.0",
+  "ts_publish": 1754070682000,
+  "ts_update": 1754071620263,
+  "count_dep": 37,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753563419078
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

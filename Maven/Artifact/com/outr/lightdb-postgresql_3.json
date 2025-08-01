@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.outr/lightdb-postgresql_3",
+  "description": "lightdb-postgresql",
   "group_id": "com.outr",
   "artifact_id": "lightdb-postgresql_3",
-  "latest_version": "4.0.5",
-  "description": "lightdb-postgresql",
-  "id": "pkg:maven/com.outr/lightdb-postgresql_3",
-  "ts": 1753562786000,
-  "dependency_count": 1,
-  "ref_count": 37,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.1.0",
+  "ts_publish": 1754070682000,
+  "ts_update": 1754071619612,
+  "count_dep": 37,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753563419081
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }
