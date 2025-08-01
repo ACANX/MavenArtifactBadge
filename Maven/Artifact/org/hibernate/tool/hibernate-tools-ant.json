@@ -3,9 +3,9 @@
   "description": "Hibernate Tools Ant Tasks",
   "group_id": "org.hibernate.tool",
   "artifact_id": "hibernate-tools-ant",
-  "version_latest": "7.0.8.Final",
-  "ts_publish": 1753768441000,
-  "ts_update": 1753769219848,
+  "version_latest": "7.1.0.CR1",
+  "ts_publish": 1754066713000,
+  "ts_update": 1754067423411,
   "count_dep": 21,
   "count_ref": 0,
   "licenses": [

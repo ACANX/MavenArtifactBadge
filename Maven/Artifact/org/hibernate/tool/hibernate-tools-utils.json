@@ -3,9 +3,9 @@
   "description": "Hibernate Tools Common Utilities",
   "group_id": "org.hibernate.tool",
   "artifact_id": "hibernate-tools-utils",
-  "version_latest": "7.0.8.Final",
-  "ts_publish": 1753768441000,
-  "ts_update": 1753769219847,
+  "version_latest": "7.1.0.CR1",
+  "ts_publish": 1754066713000,
+  "ts_update": 1754067423410,
   "count_dep": 0,
   "count_ref": 4,
   "licenses": [
