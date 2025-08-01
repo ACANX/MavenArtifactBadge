@@ -3,9 +3,9 @@
   "description": "Macros Core library",
   "group_id": "org.qubership.atp",
   "artifact_id": "atp-macros-core",
-  "version_latest": "1.0.30",
-  "ts_publish": 1753873767000,
-  "ts_update": 1753874218103,
+  "version_latest": "1.0.31",
+  "ts_publish": 1754041679000,
+  "ts_update": 1754042221511,
   "count_dep": 240,
   "count_ref": 0,
   "licenses": [
