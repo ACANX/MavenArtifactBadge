@@ -3,9 +3,9 @@
   "description": "JPA compliant ORM for Java and data class mapper for Kotlin",
   "group_id": "at.aimit.mariella",
   "artifact_id": "persistence-jdbc",
-  "version_latest": "1.0.12",
-  "ts_publish": 1753884627000,
-  "ts_update": 1753885597369,
+  "version_latest": "1.0.13",
+  "ts_publish": 1754055145000,
+  "ts_update": 1754056019246,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
