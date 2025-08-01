@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.scx/scx-jdbc",
+  "description": "SCX JDBC",
   "group_id": "cool.scx",
   "artifact_id": "scx-jdbc",
-  "latest_version": "3.8.8",
-  "description": "SCX JDBC",
-  "id": "pkg:maven/cool.scx/scx-jdbc",
-  "ts": 1753440559000,
-  "dependency_count": 4,
-  "ref_count": 12,
-  "categories": null,
+  "version_latest": "3.8.9",
+  "ts_publish": 1754029461000,
+  "ts_update": 1754030222401,
+  "count_dep": 8,
+  "count_ref": 4,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753441019841
+  "categories": null,
+  "dsv": 1
 }

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.puzzleshq/puzzle-loader-core",
+  "description": "An improvement over the original version of https://github.com/PuzzlesHQ/PuzzleLoader",
+  "group_id": "dev.puzzleshq",
+  "artifact_id": "puzzle-loader-core",
+  "version_latest": "1.0.4-alpha",
+  "ts_publish": 1754029748000,
+  "ts_update": 1754030222396,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "GNU Lesser General Public License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -3,9 +3,9 @@
   "description": "Server library that forwards web requests to Flux Capacitor.",
   "group_id": "io.flux-capacitor",
   "artifact_id": "proxy",
-  "version_latest": "0.1222.0",
-  "ts_publish": 1754024176000,
-  "ts_update": 1754024821139,
+  "version_latest": "0.1224.0",
+  "ts_publish": 1754029863000,
+  "ts_update": 1754030222394,
   "count_dep": 59,
   "count_ref": 0,
   "licenses": [

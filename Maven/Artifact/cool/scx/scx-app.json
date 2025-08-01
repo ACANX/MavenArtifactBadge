@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.scx/scx-app",
+  "description": "SCX App",
   "group_id": "cool.scx",
   "artifact_id": "scx-app",
-  "latest_version": "3.8.8",
-  "description": "SCX App",
-  "id": "pkg:maven/cool.scx/scx-app",
-  "ts": 1753440559000,
-  "dependency_count": 0,
-  "ref_count": 39,
-  "categories": null,
+  "version_latest": "3.8.9",
+  "ts_publish": 1754029461000,
+  "ts_update": 1754030222959,
+  "count_dep": 40,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753441020467
+  "categories": null,
+  "dsv": 1
 }

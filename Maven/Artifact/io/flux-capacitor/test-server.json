@@ -3,9 +3,9 @@
   "description": "In memory server that can be used for testing applications in your local environment.",
   "group_id": "io.flux-capacitor",
   "artifact_id": "test-server",
-  "version_latest": "0.1222.0",
-  "ts_publish": 1754024176000,
-  "ts_update": 1754024821140,
+  "version_latest": "0.1224.0",
+  "ts_publish": 1754029863000,
+  "ts_update": 1754030222394,
   "count_dep": 60,
   "count_ref": 1,
   "licenses": [
