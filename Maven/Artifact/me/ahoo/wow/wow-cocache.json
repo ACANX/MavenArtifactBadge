@@ -3,10 +3,10 @@
   "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
   "group_id": "me.ahoo.wow",
   "artifact_id": "wow-cocache",
-  "version_latest": "6.0.0",
-  "ts_publish": 1753970872000,
-  "ts_update": 1753972032588,
-  "count_dep": 44,
+  "version_latest": "6.0.1",
+  "ts_publish": 1754019999000,
+  "ts_update": 1754020620947,
+  "count_dep": 29,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"

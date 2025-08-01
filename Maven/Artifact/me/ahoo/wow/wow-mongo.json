@@ -3,9 +3,9 @@
   "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
   "group_id": "me.ahoo.wow",
   "artifact_id": "wow-mongo",
-  "version_latest": "5.28.0",
-  "ts_publish": 1753920535000,
-  "ts_update": 1753921023028,
+  "version_latest": "6.0.1",
+  "ts_publish": 1754019999000,
+  "ts_update": 1754020621622,
   "count_dep": 28,
   "count_ref": 1,
   "licenses": [
