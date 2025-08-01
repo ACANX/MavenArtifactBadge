@@ -3,9 +3,9 @@
   "description": "CMIotSdk多终端SDK",
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot-ui-base",
-  "version_latest": "0.4.5.20250801152338",
-  "ts_publish": 1754033148000,
-  "ts_update": 1754033819241,
+  "version_latest": "0.4.5.20250801153819",
+  "ts_publish": 1754034028000,
+  "ts_update": 1754034798066,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
