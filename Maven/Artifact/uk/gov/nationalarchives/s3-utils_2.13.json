@@ -3,9 +3,9 @@
   "description": "A project containing useful methods for interacting with S3",
   "group_id": "uk.gov.nationalarchives",
   "artifact_id": "s3-utils_2.13",
-  "version_latest": "0.1.287",
-  "ts_publish": 1753963808000,
-  "ts_update": 1753964832230,
+  "version_latest": "0.1.288",
+  "ts_publish": 1754055856000,
+  "ts_update": 1754056510507,
   "count_dep": 40,
   "count_ref": 0,
   "licenses": [
