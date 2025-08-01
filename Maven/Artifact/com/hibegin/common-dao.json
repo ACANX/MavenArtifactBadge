@@ -3,9 +3,9 @@
   "description": "Common Data access object (wrapper for support webapi database access)",
   "group_id": "com.hibegin",
   "artifact_id": "common-dao",
-  "version_latest": "1.1.2",
-  "ts_publish": 1754038193000,
-  "ts_update": 1754038972699,
+  "version_latest": "1.1.3",
+  "ts_publish": 1754051821000,
+  "ts_update": 1754052420037,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
