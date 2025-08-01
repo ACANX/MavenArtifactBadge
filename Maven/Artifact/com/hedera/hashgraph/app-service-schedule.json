@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-schedule",
+  "description": "Hedera Schedule Service API",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-service-schedule",
-  "latest_version": "0.64.1",
-  "description": "Hedera Schedule Service API",
-  "id": "pkg:maven/com.hedera.hashgraph/app-service-schedule",
-  "ts": 1753382112000,
-  "dependency_count": 3,
-  "ref_count": 17,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070422229,
+  "count_dep": 17,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382816862
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway",
+  "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-spring-cloud-starter-gateway",
-  "latest_version": "1.1.65",
-  "description": "Convention For Java",
-  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-spring-cloud-starter-gateway",
-  "ts": 1753635624000,
-  "dependency_count": 0,
-  "ref_count": 233,
-  "categories": null,
+  "version_latest": "1.1.67",
+  "ts_publish": 1754069996000,
+  "ts_update": 1754070421621,
+  "count_dep": 230,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753636619816
+  "categories": null,
+  "dsv": 1
 }

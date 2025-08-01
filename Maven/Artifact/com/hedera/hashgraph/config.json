@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/config",
+  "description": "Hedera Configuration",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "config",
-  "latest_version": "0.64.1",
-  "description": "Hedera Configuration",
-  "id": "pkg:maven/com.hedera.hashgraph/config",
-  "ts": 1753382112000,
-  "dependency_count": 10,
-  "ref_count": 21,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070422755,
+  "count_dep": 21,
+  "count_ref": 10,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382817278
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

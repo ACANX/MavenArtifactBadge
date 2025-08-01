@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-hapi-utils",
+  "description": "Hedera Services API Utilities",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-hapi-utils",
-  "latest_version": "0.64.1",
-  "description": "Hedera Services API Utilities",
-  "id": "pkg:maven/com.hedera.hashgraph/app-hapi-utils",
-  "ts": 1753382112000,
-  "dependency_count": 16,
-  "ref_count": 42,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070423261,
+  "count_dep": 42,
+  "count_ref": 16,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382817280
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

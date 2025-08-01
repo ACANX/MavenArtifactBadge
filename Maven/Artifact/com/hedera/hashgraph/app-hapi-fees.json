@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-hapi-fees",
+  "description": "Hedera Services API Fees",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-hapi-fees",
-  "latest_version": "0.64.1",
-  "description": "Hedera Services API Fees",
-  "id": "pkg:maven/com.hedera.hashgraph/app-hapi-fees",
-  "ts": 1753382112000,
-  "dependency_count": 6,
-  "ref_count": 21,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070423266,
+  "count_dep": 21,
+  "count_ref": 6,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382816859
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

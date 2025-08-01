@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-file",
+  "description": "Hedera File Service API",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-service-file",
-  "latest_version": "0.64.1",
-  "description": "Hedera File Service API",
-  "id": "pkg:maven/com.hedera.hashgraph/app-service-file",
-  "ts": 1753382112000,
-  "dependency_count": 4,
-  "ref_count": 18,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070422229,
+  "count_dep": 18,
+  "count_ref": 4,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382817279
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
