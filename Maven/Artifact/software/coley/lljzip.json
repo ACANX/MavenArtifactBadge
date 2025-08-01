@@ -3,9 +3,9 @@
   "description": "Lower level ZIP support for Java",
   "group_id": "software.coley",
   "artifact_id": "lljzip",
-  "version_latest": "2.8.0",
-  "ts_publish": 1754064368000,
-  "ts_update": 1754065314776,
+  "version_latest": "2.8.1",
+  "ts_publish": 1754068194000,
+  "ts_update": 1754068620271,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [
