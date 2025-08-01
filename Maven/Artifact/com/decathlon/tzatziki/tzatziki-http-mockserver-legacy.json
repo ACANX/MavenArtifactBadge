@@ -3,9 +3,9 @@
   "description": "cucumber library",
   "group_id": "com.decathlon.tzatziki",
   "artifact_id": "tzatziki-http-mockserver-legacy",
-  "version_latest": "2.0.0",
-  "ts_publish": 1753953537000,
-  "ts_update": 1753954572022,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754038805000,
+  "ts_update": 1754039821410,
   "count_dep": 174,
   "count_ref": 3,
   "licenses": [

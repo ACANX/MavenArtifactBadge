@@ -3,9 +3,9 @@
   "description": "cucumber library",
   "group_id": "com.decathlon.tzatziki",
   "artifact_id": "tzatziki-common",
-  "version_latest": "2.0.0",
-  "ts_publish": 1753953537000,
-  "ts_update": 1753954572024,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754038805000,
+  "ts_update": 1754039821407,
   "count_dep": 44,
   "count_ref": 11,
   "licenses": [

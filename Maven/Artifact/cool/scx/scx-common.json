@@ -3,9 +3,9 @@
   "description": "SCX Common",
   "group_id": "cool.scx",
   "artifact_id": "scx-common",
-  "version_latest": "4.0.2",
-  "ts_publish": 1753769961000,
-  "ts_update": 1753770828218,
+  "version_latest": "4.0.3",
+  "ts_publish": 1754039277000,
+  "ts_update": 1754039821403,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

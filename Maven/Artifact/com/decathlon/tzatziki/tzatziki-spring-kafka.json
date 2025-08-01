@@ -3,9 +3,9 @@
   "description": "cucumber library",
   "group_id": "com.decathlon.tzatziki",
   "artifact_id": "tzatziki-spring-kafka",
-  "version_latest": "2.0.0",
-  "ts_publish": 1753953537000,
-  "ts_update": 1753954572402,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754038805000,
+  "ts_update": 1754039821408,
   "count_dep": 277,
   "count_ref": 1,
   "licenses": [
