@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.cdk8s/cdk8s-cdktf-resolver",
+  "description": "@cdk8s/cdktf-resolver",
   "group_id": "org.cdk8s",
   "artifact_id": "cdk8s-cdktf-resolver",
-  "latest_version": "0.0.181",
-  "description": "@cdk8s/cdktf-resolver",
-  "id": "pkg:maven/org.cdk8s/cdk8s-cdktf-resolver",
-  "ts": 1753705385000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.0.182",
+  "ts_publish": 1754050873000,
+  "ts_update": 1754051818946,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753706217527
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
