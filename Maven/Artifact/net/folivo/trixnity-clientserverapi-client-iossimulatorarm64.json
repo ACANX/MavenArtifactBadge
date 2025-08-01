@@ -3,9 +3,9 @@
   "description": "Multiplatform Kotlin SDK for matrix-protocol",
   "group_id": "net.folivo",
   "artifact_id": "trixnity-clientserverapi-client-iossimulatorarm64",
-  "version_latest": "4.19.0",
-  "ts_publish": 1753791274000,
-  "ts_update": 1753795625044,
+  "version_latest": "4.20.0",
+  "ts_publish": 1754064055000,
+  "ts_update": 1754065022117,
   "count_dep": 9,
   "count_ref": 1,
   "licenses": [

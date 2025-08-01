@@ -3,9 +3,9 @@
   "description": "bundle of kafka connect connectors.",
   "group_id": "io.github.clescot",
   "artifact_id": "kafka-connect-http-connectors",
-  "version_latest": "0.8.60",
-  "ts_publish": 1754061574000,
-  "ts_update": 1754062018526,
+  "version_latest": "0.8.61",
+  "ts_publish": 1754064139000,
+  "ts_update": 1754065018120,
   "count_dep": 136,
   "count_ref": 1,
   "licenses": [
