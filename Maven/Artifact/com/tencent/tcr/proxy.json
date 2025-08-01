@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.tencent.tcr/proxy",
+  "description": "TcrSdk Proxy",
   "group_id": "com.tencent.tcr",
   "artifact_id": "proxy",
-  "latest_version": "1.1.5",
-  "description": "TcrSdk Proxy",
-  "id": "pkg:maven/com.tencent.tcr/proxy",
-  "ts": 1753434627000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "1.1.6",
+  "ts_publish": 1754022201000,
+  "ts_update": 1754022873146,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "Tencent Binary License"
   ],
-  "last_updated": 1753435018634
+  "categories": null,
+  "dsv": 1
 }

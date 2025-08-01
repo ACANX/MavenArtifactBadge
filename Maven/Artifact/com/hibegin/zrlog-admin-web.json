@@ -3,9 +3,9 @@
   "description": "ZrLog admin web",
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-admin-web",
-  "version_latest": "3.2.64",
-  "ts_publish": 1754015802000,
-  "ts_update": 1754016420854,
+  "version_latest": "3.2.65",
+  "ts_publish": 1754022420000,
+  "ts_update": 1754022873145,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [
