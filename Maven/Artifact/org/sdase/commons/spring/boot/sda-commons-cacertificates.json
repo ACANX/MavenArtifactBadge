@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.sdase.commons.spring.boot/sda-commons-cacertificates",
+  "description": "A library to bootstrap services easily that follow the patterns and specifications promoted by the SDA SE",
   "group_id": "org.sdase.commons.spring.boot",
   "artifact_id": "sda-commons-cacertificates",
-  "latest_version": "5.0.15",
-  "description": "A library to bootstrap services easily that follow the patterns and specifications promoted by the SDA SE",
-  "id": "pkg:maven/org.sdase.commons.spring.boot/sda-commons-cacertificates",
-  "ts": 1753691100000,
-  "dependency_count": 1,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.0.16",
+  "ts_publish": 1754041004000,
+  "ts_update": 1754041621389,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753691644523
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
