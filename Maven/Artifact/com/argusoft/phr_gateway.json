@@ -3,9 +3,9 @@
   "description": "PHR Gateway Library",
   "group_id": "com.argusoft",
   "artifact_id": "phr_gateway",
-  "version_latest": "1.0.1",
-  "ts_publish": 1753960142000,
-  "ts_update": 1753961223760,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754030549000,
+  "ts_update": 1754031418216,
   "count_dep": 60,
   "count_ref": 0,
   "licenses": [
