@@ -3,11 +3,11 @@
   "description": "登录相关公用类包",
   "group_id": "io.gitee.rengy",
   "artifact_id": "config-login",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753926958000,
-  "ts_update": 1753927618203,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013423797,
   "count_dep": 14,
-  "count_ref": 1,
+  "count_ref": 6,
   "licenses": [
     "Apache License, Version 2.0"
   ],

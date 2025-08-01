@@ -3,11 +3,11 @@
   "description": "微服务内部认证",
   "group_id": "io.gitee.rengy",
   "artifact_id": "auth-inner",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753867761000,
-  "ts_update": 1753868826106,
-  "count_dep": 82,
-  "count_ref": 0,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013423796,
+  "count_dep": 93,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],

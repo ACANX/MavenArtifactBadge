@@ -3,11 +3,11 @@
   "description": "jwt工具类包",
   "group_id": "io.gitee.rengy",
   "artifact_id": "auth-jwt",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753867761000,
-  "ts_update": 1753868826106,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013423803,
   "count_dep": 45,
-  "count_ref": 1,
+  "count_ref": 7,
   "licenses": [
     "Apache License, Version 2.0"
   ],

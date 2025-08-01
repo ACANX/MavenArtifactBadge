@@ -3,9 +3,9 @@
   "description": "支撑工具包",
   "group_id": "io.gitee.rengy",
   "artifact_id": "support-all",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753866502000,
-  "ts_update": 1753867020163,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013424371,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

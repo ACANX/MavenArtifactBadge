@@ -3,9 +3,9 @@
   "description": "base包父pom",
   "group_id": "io.gitee.rengy",
   "artifact_id": "base-all",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753930816000,
-  "ts_update": 1753931224228,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013424372,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

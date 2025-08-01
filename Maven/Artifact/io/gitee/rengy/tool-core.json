@@ -3,11 +3,11 @@
   "description": "tool-core",
   "group_id": "io.gitee.rengy",
   "artifact_id": "tool-core",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753846097000,
-  "ts_update": 1753846616744,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013424372,
   "count_dep": 13,
-  "count_ref": 5,
+  "count_ref": 15,
   "licenses": [
     "Apache License, Version 2.0"
   ],

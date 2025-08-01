@@ -3,11 +3,11 @@
   "description": "二维码工具包",
   "group_id": "io.gitee.rengy",
   "artifact_id": "tool-qrcode",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753846097000,
-  "ts_update": 1753846616744,
-  "count_dep": 25,
-  "count_ref": 1,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754013081000,
+  "ts_update": 1754013424370,
+  "count_dep": 34,
+  "count_ref": 4,
   "licenses": [
     "Apache License, Version 2.0"
   ],
