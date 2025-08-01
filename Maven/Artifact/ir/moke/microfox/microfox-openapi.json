@@ -3,9 +3,9 @@
   "description": "MicroFox Framework",
   "group_id": "ir.moke.microfox",
   "artifact_id": "microfox-openapi",
-  "version_latest": "0.6.2",
-  "ts_publish": 1753875731000,
-  "ts_update": 1753877226309,
+  "version_latest": "0.6.3",
+  "ts_publish": 1754064661000,
+  "ts_update": 1754065314388,
   "count_dep": 42,
   "count_ref": 0,
   "licenses": [
