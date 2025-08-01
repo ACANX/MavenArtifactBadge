@@ -3,9 +3,9 @@
   "description": "UDP Client Server",
   "group_id": "io.github.remmerw",
   "artifact_id": "dagr-android",
-  "version_latest": "0.2.4",
-  "ts_publish": 1754054048000,
-  "ts_update": 1754054787585,
+  "version_latest": "0.2.5",
+  "ts_publish": 1754057548000,
+  "ts_update": 1754058422940,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

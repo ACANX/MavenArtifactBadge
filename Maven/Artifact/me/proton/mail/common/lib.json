@@ -3,9 +3,9 @@
   "description": "A shared library for Proton Mail clients that implements common operations.",
   "group_id": "me.proton.mail.common",
   "artifact_id": "lib",
-  "version_latest": "0.114.0",
-  "ts_publish": 1753967710000,
-  "ts_update": 1753968318898,
+  "version_latest": "0.115.1",
+  "ts_publish": 1754057844000,
+  "ts_update": 1754058422313,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
