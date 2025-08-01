@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-bloop_2.13",
+  "description": "mill-contrib-bloop",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-bloop_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037070000,
+  "ts_update": 1754037423578,
+  "count_dep": 14,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

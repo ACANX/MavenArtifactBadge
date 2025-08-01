@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-bsp_2.13",
+  "description": "mill-bsp",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-bsp_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037060000,
+  "ts_update": 1754037423580,
+  "count_dep": 9,
+  "count_ref": 1,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}
