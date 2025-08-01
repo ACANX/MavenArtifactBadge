@@ -3,9 +3,9 @@
   "description": "Messente API - Connecting Services to People",
   "group_id": "com.messente.api",
   "artifact_id": "messente-api",
-  "version_latest": "4.5.1",
-  "ts_publish": 1753991896000,
-  "ts_update": 1753993022715,
+  "version_latest": "4.5.2",
+  "ts_publish": 1754049030000,
+  "ts_update": 1754049400838,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [

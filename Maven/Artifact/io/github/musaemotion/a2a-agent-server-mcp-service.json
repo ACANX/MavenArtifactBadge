@@ -3,9 +3,9 @@
   "description": "musaemotion for mcp-agent-server",
   "group_id": "io.github.musaemotion",
   "artifact_id": "a2a-agent-server-mcp-service",
-  "version_latest": "0.5.0",
-  "ts_publish": 1753842688000,
-  "ts_update": 1753843620508,
+  "version_latest": "0.5.1",
+  "ts_publish": 1754048727000,
+  "ts_update": 1754049400846,
   "count_dep": 117,
   "count_ref": 0,
   "licenses": [
