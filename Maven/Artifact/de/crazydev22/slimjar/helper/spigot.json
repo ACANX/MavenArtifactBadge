@@ -1,11 +1,11 @@
 {
-  "id": "pkg:maven/de.crazydev22.slimjar/de.crazydev22.slimjar.gradle.plugin",
+  "id": "pkg:maven/de.crazydev22.slimjar.helper/spigot",
   "description": "A simple and robust runtime dependency manager for JVM languages.",
-  "group_id": "de.crazydev22.slimjar",
-  "artifact_id": "de.crazydev22.slimjar.gradle.plugin",
+  "group_id": "de.crazydev22.slimjar.helper",
+  "artifact_id": "spigot",
   "version_latest": "2.1.5",
   "ts_publish": 1754089321000,
-  "ts_update": 1754089621616,
+  "ts_update": 1754089621615,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
