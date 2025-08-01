@@ -3,9 +3,9 @@
   "description": "A Gradle settings plugin",
   "group_id": "com.freeletics.gradle.settings",
   "artifact_id": "com.freeletics.gradle.settings.gradle.plugin",
-  "version_latest": "0.30.0",
-  "ts_publish": 1754066959000,
-  "ts_update": 1754067422870,
+  "version_latest": "0.30.1",
+  "ts_publish": 1754073311000,
+  "ts_update": 1754074023079,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

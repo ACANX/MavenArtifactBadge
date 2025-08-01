@@ -3,9 +3,9 @@
   "description": "A set of reusable Gradle plugins",
   "group_id": "com.freeletics.gradle.app.desktop",
   "artifact_id": "com.freeletics.gradle.app.desktop.gradle.plugin",
-  "version_latest": "0.30.0",
-  "ts_publish": 1754066959000,
-  "ts_update": 1754067423405,
+  "version_latest": "0.30.1",
+  "ts_publish": 1754073311000,
+  "ts_update": 1754074023080,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

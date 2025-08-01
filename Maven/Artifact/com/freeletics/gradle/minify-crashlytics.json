@@ -3,9 +3,9 @@
   "description": "Crashlytics minify rules for R8",
   "group_id": "com.freeletics.gradle",
   "artifact_id": "minify-crashlytics",
-  "version_latest": "0.30.0",
-  "ts_publish": 1754066959000,
-  "ts_update": 1754067422337,
+  "version_latest": "0.30.1",
+  "ts_publish": 1754073311000,
+  "ts_update": 1754074022552,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

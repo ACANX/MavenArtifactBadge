@@ -3,11 +3,11 @@
   "description": "A set of reusable Gradle plugins",
   "group_id": "com.freeletics.gradle",
   "artifact_id": "plugins",
-  "version_latest": "0.30.0",
-  "ts_publish": 1754066959000,
-  "ts_update": 1754067422870,
+  "version_latest": "0.30.1",
+  "ts_publish": 1754073311000,
+  "ts_update": 1754074023079,
   "count_dep": 31,
-  "count_ref": 21,
+  "count_ref": 23,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
