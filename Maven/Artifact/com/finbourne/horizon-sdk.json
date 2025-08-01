@@ -3,9 +3,9 @@
   "description": "horizon",
   "group_id": "com.finbourne",
   "artifact_id": "horizon-sdk",
-  "version_latest": "2.0.1155",
-  "ts_publish": 1753973308000,
-  "ts_update": 1753973820254,
+  "version_latest": "2.0.1156",
+  "ts_publish": 1754041841000,
+  "ts_update": 1754042818673,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [
