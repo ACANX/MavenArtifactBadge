@@ -3,9 +3,9 @@
   "description": "Basic utilities beneficial for any scala user.",
   "group_id": "io.github.kalin-rudnicki",
   "artifact_id": "oxygen-core_3",
-  "version_latest": "0.0.22",
-  "ts_publish": 1754075708000,
-  "ts_update": 1754076282586,
+  "version_latest": "0.0.23",
+  "ts_publish": 1754079079000,
+  "ts_update": 1754080019111,
   "count_dep": 2,
   "count_ref": 11,
   "licenses": [
