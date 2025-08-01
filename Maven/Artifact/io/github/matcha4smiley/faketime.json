@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.matcha4smiley/faketime",
+  "description": "A Kotlin library to fake time during testing",
+  "group_id": "io.github.matcha4smiley",
+  "artifact_id": "faketime",
+  "version_latest": "0.1.0",
+  "ts_publish": 1754071476000,
+  "ts_update": 1754072017885,
+  "count_dep": 5,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
