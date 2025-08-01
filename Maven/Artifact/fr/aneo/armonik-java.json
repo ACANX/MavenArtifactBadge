@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/fr.aneo/armonik-java",
+  "description": "GRPC java binding for the Armonik orchestrator API",
   "group_id": "fr.aneo",
   "artifact_id": "armonik-java",
-  "latest_version": "3.27.0-jfextractenvars.60.9ef1fd3",
-  "description": "GRPC java binding for the Armonik orchestrator API",
-  "id": "pkg:maven/fr.aneo/armonik-java",
-  "ts": 1753349165000,
-  "dependency_count": 0,
-  "ref_count": 50,
-  "categories": null,
+  "version_latest": "3.27.1-flupdateapiversion3261.1.e094193",
+  "ts_publish": 1753977506000,
+  "ts_update": 1753978024460,
+  "count_dep": 50,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753349821743
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.babyfish.jimmer/jimmer-sql",
+  "description": "The most advanced ORM of JVM, for both java & kotlin",
   "group_id": "org.babyfish.jimmer",
   "artifact_id": "jimmer-sql",
-  "latest_version": "0.9.101",
-  "description": "The most advanced ORM of JVM, for both java & kotlin",
-  "id": "pkg:maven/org.babyfish.jimmer/jimmer-sql",
-  "ts": 1753631077000,
-  "dependency_count": 3,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "0.9.102",
+  "ts_publish": 1753988654000,
+  "ts_update": 1753989028015,
+  "count_dep": 10,
+  "count_ref": 3,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753631452312
+  "categories": null,
+  "dsv": 1
 }

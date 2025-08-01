@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-testDataGeneration-http-api",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-relationalStore-testDataGeneration-http-api",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-testDataGeneration-http-api",
-  "ts": 1753345439000,
-  "dependency_count": 1,
-  "ref_count": 20,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036827758,
+  "count_dep": 20,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346835223
+  "dsv": 1
 }

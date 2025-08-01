@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.vml.es/acm.ui.content.example",
+  "description": "UI Example Content Package for AEM Content Manager",
   "group_id": "dev.vml.es",
   "artifact_id": "acm.ui.content.example",
-  "latest_version": "0.9.27",
-  "description": "UI Example Content Package for AEM Content Manager",
-  "id": "pkg:maven/dev.vml.es/acm.ui.content.example",
-  "ts": 1753697108000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "0.9.29",
+  "ts_publish": 1753826648000,
+  "ts_update": 1753827420466,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753697820527
+  "categories": null,
+  "dsv": 1
 }

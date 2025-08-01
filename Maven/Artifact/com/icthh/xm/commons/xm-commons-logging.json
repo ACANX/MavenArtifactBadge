@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.icthh.xm.commons/xm-commons-logging",
+  "description": "xm-commons-logging",
+  "group_id": "com.icthh.xm.commons",
+  "artifact_id": "xm-commons-logging",
+  "version_latest": "4.0.46",
+  "ts_publish": 1753943168000,
+  "ts_update": 1753943822131,
+  "count_dep": 21,
+  "count_ref": 25,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

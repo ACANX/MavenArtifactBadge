@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.octopusden.octopus.release-management-service/legacy-releng-client",
+  "description": "Octopus module: legacy-releng-client",
+  "group_id": "org.octopusden.octopus.release-management-service",
+  "artifact_id": "legacy-releng-client",
+  "version_latest": "2.0.26",
+  "ts_publish": 1753885302000,
+  "ts_update": 1753886823039,
+  "count_dep": 19,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

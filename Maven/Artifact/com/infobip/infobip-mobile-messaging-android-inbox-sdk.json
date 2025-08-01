@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk",
+  "description": "Mobile Messaging SDK for Android",
   "group_id": "com.infobip",
   "artifact_id": "infobip-mobile-messaging-android-inbox-sdk",
-  "latest_version": "14.1.0",
-  "description": "Mobile Messaging SDK for Android",
-  "id": "pkg:maven/com.infobip/infobip-mobile-messaging-android-inbox-sdk",
-  "ts": 1753284881000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": [
-    "Data Transport"
-  ],
+  "version_latest": "14.1.2",
+  "ts_publish": 1753949049000,
+  "ts_update": 1753949709806,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753285618306
+  "categories": [
+    "Data Transport"
+  ],
+  "dsv": 1
 }

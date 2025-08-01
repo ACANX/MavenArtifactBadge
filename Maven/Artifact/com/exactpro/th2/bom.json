@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.exactpro.th2/bom",
+  "description": "'TH2 \"Bill of Materials\" (BOM) project'",
   "group_id": "com.exactpro.th2",
   "artifact_id": "bom",
-  "latest_version": "4.12.2",
-  "description": "'TH2 \"Bill of Materials\" (BOM) project'",
-  "id": "pkg:maven/com.exactpro.th2/bom",
-  "ts": 1753714239000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.13.1",
+  "ts_publish": 1753869306000,
+  "ts_update": 1753870021727,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753715823933
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

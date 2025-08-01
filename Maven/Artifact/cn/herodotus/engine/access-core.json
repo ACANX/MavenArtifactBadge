@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/access-core",
+  "description": "基于 Spring Authorization Server 的外部访问接入通用组件模块模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "access-core",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的外部访问接入通用组件模块模块",
-  "id": "pkg:maven/cn.herodotus.engine/access-core",
-  "ts": 1753367015000,
-  "dependency_count": 14,
-  "ref_count": 104,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886817664,
+  "count_dep": 104,
+  "count_ref": 14,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821538
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

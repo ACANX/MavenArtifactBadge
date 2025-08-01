@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.lakefs/sdk",
+  "description": "lakeFS OpenAPI Java client",
   "group_id": "io.lakefs",
   "artifact_id": "sdk",
-  "latest_version": "1.64.0",
-  "description": "lakeFS OpenAPI Java client",
-  "id": "pkg:maven/io.lakefs/sdk",
-  "ts": 1753700824000,
-  "dependency_count": 0,
-  "ref_count": 25,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.64.1",
+  "ts_publish": 1753807500000,
+  "ts_update": 1753808164045,
+  "count_dep": 25,
+  "count_ref": 0,
   "licenses": [
     "apache2"
   ],
-  "last_updated": 1753701426993
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

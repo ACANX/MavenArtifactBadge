@@ -1,0 +1,19 @@
+{
+  "id": "pkg:maven/org.sonarsource.sonarlint.core/sonarlint-plugin-api",
+  "description": "API used between SonarLint and analyzers",
+  "group_id": "org.sonarsource.sonarlint.core",
+  "artifact_id": "sonarlint-plugin-api",
+  "version_latest": "10.27.0.81966",
+  "ts_publish": 1753977741000,
+  "ts_update": 1753978631624,
+  "count_dep": 3,
+  "count_ref": 5,
+  "licenses": [
+    "GNU LGPL 3"
+  ],
+  "categories": [
+    "Build Tools",
+    "Code Analysis"
+  ],
+  "dsv": 1
+}

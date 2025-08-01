@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect-spring",
+  "description": "RSocket Micro Connect Spring",
   "group_id": "pro.chenggang",
   "artifact_id": "rsocket-micro-connect-spring",
-  "latest_version": "0.2.4.RELEASE",
-  "description": "RSocket Micro Connect Spring",
-  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect-spring",
-  "ts": 1753450194000,
-  "dependency_count": 2,
-  "ref_count": 76,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.2.5.RELEASE",
+  "ts_publish": 1753763375000,
+  "ts_update": 1753763818453,
+  "count_dep": 76,
+  "count_ref": 2,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753450616394
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

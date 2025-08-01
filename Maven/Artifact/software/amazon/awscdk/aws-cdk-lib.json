@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awscdk/aws-cdk-lib",
+  "description": "Version 2 of the AWS Cloud Development Kit library",
   "group_id": "software.amazon.awscdk",
   "artifact_id": "aws-cdk-lib",
-  "latest_version": "2.207.0",
-  "description": "Version 2 of the AWS Cloud Development Kit library",
-  "id": "pkg:maven/software.amazon.awscdk/aws-cdk-lib",
-  "ts": 1753366373000,
-  "dependency_count": 0,
-  "ref_count": 19,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.208.0",
+  "ts_publish": 1753822025000,
+  "ts_update": 1753822687409,
+  "count_dep": 19,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753367219413
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

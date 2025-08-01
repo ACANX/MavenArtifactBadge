@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.ossreviewtoolkit.clients/osv-client",
+  "description": "A client to communicate with the Google OSV API.",
   "group_id": "org.ossreviewtoolkit.clients",
   "artifact_id": "osv-client",
-  "latest_version": "64.0.0",
-  "description": "A client to communicate with the Google OSV API.",
-  "id": "pkg:maven/org.ossreviewtoolkit.clients/osv-client",
-  "ts": 1753341711000,
-  "dependency_count": 2,
-  "ref_count": 19,
-  "categories": null,
+  "version_latest": "65.0.0",
+  "ts_publish": 1753946889000,
+  "ts_update": 1753947691896,
+  "count_dep": 19,
+  "count_ref": 2,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753342200294
+  "categories": null,
+  "dsv": 1
 }

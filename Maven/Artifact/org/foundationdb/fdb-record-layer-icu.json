@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.foundationdb/fdb-record-layer-icu",
+  "description": "Collation support for fdb-record-layer using ICU",
+  "group_id": "org.foundationdb",
+  "artifact_id": "fdb-record-layer-icu",
+  "version_latest": "4.5.3.0",
+  "ts_publish": 1753902647000,
+  "ts_update": 1753903019600,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

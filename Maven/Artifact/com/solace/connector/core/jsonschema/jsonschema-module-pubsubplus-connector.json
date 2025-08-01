@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector",
+  "description": "Modules for the JSON Schema Generator to support custom functionality and keywords for Solace PubSub+ connectors",
   "group_id": "com.solace.connector.core.jsonschema",
   "artifact_id": "jsonschema-module-pubsubplus-connector",
-  "latest_version": "2.16.3",
-  "description": "Modules for the JSON Schema Generator to support custom functionality and keywords for Solace PubSub+ connectors",
-  "id": "pkg:maven/com.solace.connector.core.jsonschema/jsonschema-module-pubsubplus-connector",
-  "ts": 1753717272000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889823259,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753718220457
+  "categories": null,
+  "dsv": 1
 }

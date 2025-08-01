@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.foldright/cffu-ttl-executor-wrapper",
+  "description": "cffu executor wrapper provider for TTL",
   "group_id": "io.foldright",
   "artifact_id": "cffu-ttl-executor-wrapper",
-  "latest_version": "1.1.7",
-  "description": "cffu executor wrapper provider for TTL",
-  "id": "pkg:maven/io.foldright/cffu-ttl-executor-wrapper",
-  "ts": 1753700222000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": null,
+  "version_latest": "1.1.8",
+  "ts_publish": 1753809973000,
+  "ts_update": 1753810623185,
+  "count_dep": 13,
+  "count_ref": 0,
   "licenses": [
     "Apache 2"
   ],
-  "last_updated": 1753700819467
+  "categories": null,
+  "dsv": 1
 }

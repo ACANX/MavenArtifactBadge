@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js",
+  "description": "Kotlin wrapper for Tanstack React Table",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-tanstack-react-table-js",
-  "latest_version": "2025.7.13-8.21.3",
-  "description": "Kotlin wrapper for Tanstack React Table",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-tanstack-react-table-js",
-  "ts": 1753424372125,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-8.21.3",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796222678,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425633284
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/net.taler/qtart",
+  "description": "QuickJS runtime for Taler",
+  "group_id": "net.taler",
+  "artifact_id": "qtart",
+  "version_latest": "1.0.26",
+  "ts_publish": 1753910559000,
+  "ts_update": 1753914425380,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

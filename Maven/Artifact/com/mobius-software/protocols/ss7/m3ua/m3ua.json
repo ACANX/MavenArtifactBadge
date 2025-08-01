@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.mobius-software.protocols.ss7.m3ua/m3ua",
+  "description": "Mobius public Parent",
+  "group_id": "com.mobius-software.protocols.ss7.m3ua",
+  "artifact_id": "m3ua",
+  "version_latest": "10.0.51-java11",
+  "ts_publish": 1753877861000,
+  "ts_update": 1753879019063,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "GNU Affero General Public License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

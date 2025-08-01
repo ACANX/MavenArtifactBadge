@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.mflisar.kmp-gradle-tools/docs",
+  "description": "kmp-gradle-tools - docs module - functions to build mkdocs documentation for kmp projects",
   "group_id": "io.github.mflisar.kmp-gradle-tools",
   "artifact_id": "docs",
-  "latest_version": "1.3.8",
-  "description": "kmp-gradle-tools - docs module - functions to build mkdocs documentation for kmp projects",
-  "id": "pkg:maven/io.github.mflisar.kmp-gradle-tools/docs",
-  "ts": 1753707830000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "1.5.0-t07",
+  "ts_publish": 1754047178000,
+  "ts_update": 1754047621378,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753708623334
+  "categories": null,
+  "dsv": 1
 }

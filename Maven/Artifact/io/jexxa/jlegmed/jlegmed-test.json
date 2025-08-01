@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.jexxa.jlegmed/jlegmed-test",
+  "description": "JLegMed - Connect the Past with the Future",
   "group_id": "io.jexxa.jlegmed",
   "artifact_id": "jlegmed-test",
-  "latest_version": "4.1.1",
-  "description": "JLegMed - Connect the Past with the Future",
-  "id": "pkg:maven/io.jexxa.jlegmed/jlegmed-test",
-  "ts": 1753726845000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": null,
+  "version_latest": "4.1.2",
+  "ts_publish": 1753788111000,
+  "ts_update": 1753789019089,
+  "count_dep": 31,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753727202083
+  "categories": null,
+  "dsv": 1
 }

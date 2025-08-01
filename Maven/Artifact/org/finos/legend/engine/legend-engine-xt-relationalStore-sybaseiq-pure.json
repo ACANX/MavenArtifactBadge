@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sybaseiq-pure",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-relationalStore-sybaseiq-pure",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-sybaseiq-pure",
-  "ts": 1753345440000,
-  "dependency_count": 2,
-  "ref_count": 24,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036830659,
+  "count_dep": 24,
+  "count_ref": 2,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346824156
+  "dsv": 1
 }

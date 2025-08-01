@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.pulumi/kafka",
+  "description": "A Pulumi package for creating and managing Kafka.",
   "group_id": "com.pulumi",
   "artifact_id": "kafka",
-  "latest_version": "3.11.0",
-  "description": "A Pulumi package for creating and managing Kafka.",
-  "id": "pkg:maven/com.pulumi/kafka",
-  "ts": 1753502276000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.11.1",
+  "ts_publish": 1753761825000,
+  "ts_update": 1753762621032,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753502822262
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

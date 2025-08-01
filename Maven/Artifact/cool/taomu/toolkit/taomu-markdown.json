@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-markdown",
+  "description": "This is a toolkit",
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-markdown",
-  "latest_version": "0.0.25",
-  "description": "This is a toolkit",
-  "id": "pkg:maven/cool.taomu.toolkit/taomu-markdown",
-  "ts": 1753265774000,
-  "dependency_count": 0,
-  "ref_count": 27,
-  "categories": null,
+  "version_latest": "0.0.26",
+  "ts_publish": 1753949153000,
+  "ts_update": 1753949709805,
+  "count_dep": 27,
+  "count_ref": 0,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753266417568
+  "categories": null,
+  "dsv": 1
 }

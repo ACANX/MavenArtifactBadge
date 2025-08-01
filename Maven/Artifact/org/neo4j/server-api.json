@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/server-api",
+  "description": "Interfaces and baseclasses needed to create your own extensions.",
+  "group_id": "org.neo4j",
+  "artifact_id": "server-api",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885022043,
+  "count_dep": 66,
+  "count_ref": 6,
+  "licenses": [
+    "GPL-3.0-or-later"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-jooq",
+  "description": "This is a toolkit",
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-jooq",
-  "latest_version": "0.0.25",
-  "description": "This is a toolkit",
-  "id": "pkg:maven/cool.taomu.toolkit/taomu-jooq",
-  "ts": 1753277336000,
-  "dependency_count": 0,
-  "ref_count": 27,
-  "categories": null,
+  "version_latest": "0.0.26",
+  "ts_publish": 1753964669000,
+  "ts_update": 1753965420556,
+  "count_dep": 27,
+  "count_ref": 0,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753277821512
+  "categories": null,
+  "dsv": 1
 }

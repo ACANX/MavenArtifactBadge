@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-graphQL-generation-http-api",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-graphQL-generation-http-api",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-graphQL-generation-http-api",
-  "ts": 1753345440000,
-  "dependency_count": 1,
-  "ref_count": 18,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036828159,
+  "count_dep": 18,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346827475
+  "dsv": 1
 }

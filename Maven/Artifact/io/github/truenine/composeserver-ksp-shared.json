@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.truenine/composeserver-ksp-shared",
+  "description": "Shared utilities and base classes for Kotlin Symbol Processing (KSP) development.\nProvides common KSP APIs, KotlinPoet utilities, and shared metadata for code generation tasks.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-ksp-shared",
-  "latest_version": "0.0.13",
-  "description": "Shared utilities and base classes for Kotlin Symbol Processing (KSP) development.\nProvides common KSP APIs, KotlinPoet utilities, and shared metadata for code generation tasks.",
-  "id": "pkg:maven/io.github.truenine/composeserver-ksp-shared",
-  "ts": 1753721304000,
-  "dependency_count": 1,
-  "ref_count": 9,
-  "categories": null,
+  "version_latest": "0.0.14",
+  "ts_publish": 1754046236000,
+  "ts_update": 1754047021087,
+  "count_dep": 9,
+  "count_ref": 1,
   "licenses": [
     "GNU Lesser General Public License v2.1"
   ],
-  "last_updated": 1753721819049
+  "categories": null,
+  "dsv": 1
 }

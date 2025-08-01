@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-audio",
+  "description": "Audio processing and transcription capabilities for DriftKit Framework",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-audio",
-  "latest_version": "0.5.3",
-  "description": "Audio processing and transcription capabilities for DriftKit Framework",
-  "id": "pkg:maven/ai.driftkit/driftkit-audio",
-  "ts": 1753734146000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993021343,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735020589
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.twinnettechnologies/analytics-debug",
+  "description": "Debug version of the library.",
   "group_id": "io.github.twinnettechnologies",
   "artifact_id": "analytics-debug",
-  "latest_version": "1.1.4",
-  "description": "Debug version of the library.",
-  "id": "pkg:maven/io.github.twinnettechnologies/analytics-debug",
-  "ts": 1753332950000,
-  "dependency_count": 0,
-  "ref_count": 22,
-  "categories": null,
+  "version_latest": "1.1.7",
+  "ts_publish": 1753856378000,
+  "ts_update": 1753857420799,
+  "count_dep": 28,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753333617204
+  "categories": null,
+  "dsv": 1
 }

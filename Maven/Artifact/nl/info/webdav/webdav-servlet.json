@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/nl.info.webdav/webdav-servlet",
+  "description": "A simple WebDAV servlet",
   "group_id": "nl.info.webdav",
   "artifact_id": "webdav-servlet",
-  "latest_version": "1.2.182",
-  "description": "A simple WebDAV servlet",
-  "id": "pkg:maven/nl.info.webdav/webdav-servlet",
-  "ts": 1753355227000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.2.183",
+  "ts_publish": 1753859051000,
+  "ts_update": 1753859821037,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753355820472
+  "categories": null,
+  "dsv": 1
 }

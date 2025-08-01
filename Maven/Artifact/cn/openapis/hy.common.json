@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.openapis/hy.common",
+  "description": "cn.openapis.hy.common",
   "group_id": "cn.openapis",
   "artifact_id": "hy.common",
-  "latest_version": "3.7.3",
-  "description": "cn.openapis.hy.common",
-  "id": "pkg:maven/cn.openapis/hy.common",
-  "ts": 1753255891000,
-  "dependency_count": 0,
-  "ref_count": 197,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.7.4",
+  "ts_publish": 1753953067000,
+  "ts_update": 1753954022374,
+  "count_dep": 197,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753256466084
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

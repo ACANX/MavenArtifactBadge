@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.openai/openai-java",
+  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
   "group_id": "com.openai",
   "artifact_id": "openai-java",
-  "latest_version": "2.19.2",
-  "description": "The OpenAI REST API. Please see https://platform.openai.com/docs/api-reference\nfor more details.",
-  "id": "pkg:maven/com.openai/openai-java",
-  "ts": 1753738024000,
-  "dependency_count": 1,
-  "ref_count": 12,
-  "categories": null,
+  "version_latest": "2.20.1",
+  "ts_publish": 1754006818000,
+  "ts_update": 1754007419960,
+  "count_dep": 12,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753738367431
+  "categories": null,
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3",
+  "description": "lucuma-sso-frontend-client",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-sso-frontend-client_sjs1_3",
-  "latest_version": "0.9.1",
-  "description": "lucuma-sso-frontend-client",
-  "id": "pkg:maven/edu.gemini/lucuma-sso-frontend-client_sjs1_3",
-  "ts": 1753467866000,
-  "dependency_count": 0,
-  "ref_count": 56,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.9.2",
+  "ts_publish": 1753798761000,
+  "ts_update": 1753799645775,
+  "count_dep": 56,
+  "count_ref": 0,
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753468119870
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

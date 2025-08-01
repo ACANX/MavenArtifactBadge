@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.mvnpm/cssstyle",
+  "description": "CSSStyleDeclaration Object Model implementation",
   "group_id": "org.mvnpm",
   "artifact_id": "cssstyle",
-  "latest_version": "5.2.0",
-  "description": "CSSStyleDeclaration Object Model implementation",
-  "id": "pkg:maven/org.mvnpm/cssstyle",
-  "ts": 1753675391000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.2.1",
+  "ts_publish": 1753776732000,
+  "ts_update": 1753777020677,
+  "count_dep": 15,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753676216985
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

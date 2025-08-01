@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.atlaskit/atlassian-context",
+  "description": "Provides perimeter-specific URL resolution and helps identify which environment a product is running in.",
   "group_id": "org.mvnpm.at.atlaskit",
   "artifact_id": "atlassian-context",
-  "latest_version": "0.3.2",
-  "description": "Provides perimeter-specific URL resolution and helps identify which environment a product is running in.",
-  "id": "pkg:maven/org.mvnpm.at.atlaskit/atlassian-context",
-  "ts": 1753488725000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "0.4.0",
+  "ts_publish": 1753848372000,
+  "ts_update": 1753849016788,
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753489618859
+  "categories": null,
+  "dsv": 1
 }

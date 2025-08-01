@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.neo4j.community/no-opens-it",
+  "description": "Neo4j community edition integration tests for fallback options when deep reflection isn't enabled.",
+  "group_id": "org.neo4j.community",
+  "artifact_id": "no-opens-it",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885022990,
+  "count_dep": 9,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

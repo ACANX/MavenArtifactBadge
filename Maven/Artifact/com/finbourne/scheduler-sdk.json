@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.finbourne/scheduler-sdk",
+  "description": "scheduler",
   "group_id": "com.finbourne",
   "artifact_id": "scheduler-sdk",
-  "latest_version": "2.0.152",
-  "description": "scheduler",
-  "id": "pkg:maven/com.finbourne/scheduler-sdk",
-  "ts": 1753716901000,
-  "dependency_count": 0,
-  "ref_count": 28,
-  "categories": null,
+  "version_latest": "2.0.154",
+  "ts_publish": 1753793357000,
+  "ts_update": 1753795618380,
+  "count_dep": 28,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753717622894
+  "categories": null,
+  "dsv": 1
 }

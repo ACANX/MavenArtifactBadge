@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.moderne/moderne-dx",
+  "description": "Moderne DX is an on-premise Moderne product.",
   "group_id": "io.moderne",
   "artifact_id": "moderne-dx",
-  "latest_version": "3.44.3",
-  "description": "Moderne DX is an on-premise Moderne product.",
-  "id": "pkg:maven/io.moderne/moderne-dx",
-  "ts": 1753315579000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "3.44.4",
+  "ts_publish": 1753823488000,
+  "ts_update": 1753824230037,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Moderne, Inc. Commercial License"
   ],
-  "last_updated": 1753316214513
+  "categories": null,
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-runner-daemon_3",
+  "description": "mill-runner-daemon",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-daemon_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-runner-daemon",
-  "id": "pkg:maven/com.lihaoyi/mill-runner-daemon_3",
-  "ts": 1753700523000,
-  "dependency_count": 0,
-  "ref_count": 127,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791272000,
+  "ts_update": 1753795626239,
+  "count_dep": 130,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701426996
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

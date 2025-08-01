@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.jooby/jooby-reactor",
+  "description": "The modular web framework for Java and Kotlin",
   "group_id": "io.jooby",
   "artifact_id": "jooby-reactor",
-  "latest_version": "4.0.2",
-  "description": "The modular web framework for Java and Kotlin",
-  "id": "pkg:maven/io.jooby/jooby-reactor",
-  "ts": 1753653381000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.3",
+  "ts_publish": 1753816413000,
+  "ts_update": 1753816999352,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753654020739
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

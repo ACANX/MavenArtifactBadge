@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.apoapsis.ortserver.api.v1/api-v1-mapping-jvm",
+  "description": "Part of the ORT Server, the reference implementation of Eclipse Apoapsis.",
+  "group_id": "org.eclipse.apoapsis.ortserver.api.v1",
+  "artifact_id": "api-v1-mapping-jvm",
+  "version_latest": "0.21.0",
+  "ts_publish": 1753784172000,
+  "ts_update": 1753784782096,
+  "count_dep": 4,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-runner-client",
+  "description": "mill-runner-client",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-client",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-runner-client",
-  "id": "pkg:maven/com.lihaoyi/mill-runner-client",
-  "ts": 1753700510000,
-  "dependency_count": 4,
-  "ref_count": 1,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791262000,
+  "ts_update": 1753795626847,
+  "count_dep": 1,
+  "count_ref": 4,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701426997
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

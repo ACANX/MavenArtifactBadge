@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.api.models/ec2",
+  "description": "This module contains the Smithy model (JSON AST) for Ec2.",
   "group_id": "software.amazon.api.models",
   "artifact_id": "ec2",
-  "latest_version": "1.0.12",
-  "description": "This module contains the Smithy model (JSON AST) for Ec2.",
-  "id": "pkg:maven/software.amazon.api.models/ec2",
-  "ts": 1753467307000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "1.0.14",
+  "ts_publish": 1753985532000,
+  "ts_update": 1753986419878,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753468017581
+  "categories": null,
+  "dsv": 1
 }

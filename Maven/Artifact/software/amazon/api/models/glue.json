@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.api.models/glue",
+  "description": "This module contains the Smithy model (JSON AST) for Glue.",
   "group_id": "software.amazon.api.models",
   "artifact_id": "glue",
-  "latest_version": "1.0.6",
-  "description": "This module contains the Smithy model (JSON AST) for Glue.",
-  "id": "pkg:maven/software.amazon.api.models/glue",
-  "ts": 1753294321000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "1.0.7",
+  "ts_publish": 1753985532000,
+  "ts_update": 1753986419880,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753294617846
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/editor-wasm-js",
+  "description": "A library to help with editing joyfill documents",
   "group_id": "io.joyfill",
   "artifact_id": "editor-wasm-js",
-  "latest_version": "2.0.0-Beta15",
-  "description": "A library to help with editing joyfill documents",
-  "id": "pkg:maven/io.joyfill/editor-wasm-js",
-  "ts": 1753378415000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "2.0.0-Beta17",
+  "ts_publish": 1753969125000,
+  "ts_update": 1753969623436,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379138519
+  "categories": null,
+  "dsv": 1
 }

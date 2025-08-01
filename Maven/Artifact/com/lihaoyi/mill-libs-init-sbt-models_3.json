@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-init-sbt-models_3",
+  "description": "mill-libs-init-sbt-models",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-sbt-models_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-init-sbt-models",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-init-sbt-models_3",
-  "ts": 1753700406000,
-  "dependency_count": 1,
-  "ref_count": 93,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791160000,
+  "ts_update": 1753795627583,
+  "count_dep": 93,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428311
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

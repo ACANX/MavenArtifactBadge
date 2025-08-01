@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-runtime-java-extension-compiled-functions-relationalStore-PCT",
-  "ts": 1753389040000,
-  "dependency_count": 0,
-  "ref_count": 31,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036826507,
+  "count_dep": 31,
+  "count_ref": 10,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390022841
+  "dsv": 1
 }

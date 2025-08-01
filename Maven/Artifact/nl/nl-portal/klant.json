@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/nl.nl-portal/klant",
+  "description": "The Klant module provides functionality to connect with Open Klant.",
   "group_id": "nl.nl-portal",
   "artifact_id": "klant",
-  "latest_version": "2.0.1",
-  "description": "The Klant module provides functionality to connect with Open Klant.",
-  "id": "pkg:maven/nl.nl-portal/klant",
-  "ts": 1753271481000,
-  "dependency_count": 1,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.0.2",
+  "ts_publish": 1753790772000,
+  "ts_update": 1753795630162,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "Licensed under EUPL, Version 1.2 (the \"License\");"
   ],
-  "last_updated": 1753272416715
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.getelements.elements/rt-common",
+  "description": "Elements is an Open Source Backend for Games",
+  "group_id": "dev.getelements.elements",
+  "artifact_id": "rt-common",
+  "version_latest": "3.3.4",
+  "ts_publish": 1754007513000,
+  "ts_update": 1754008022754,
+  "count_dep": 23,
+  "count_ref": 54,
+  "licenses": [
+    "Modified GNU AGPL v3.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

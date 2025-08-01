@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.google.apis/google-api-services-aiplatform",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.google.apis",
   "artifact_id": "google-api-services-aiplatform",
-  "latest_version": "v1-rev20250715-2.0.0",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.google.apis/google-api-services-aiplatform",
-  "ts": 1753257572000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Data Protocols"
-  ],
+  "version_latest": "v1-rev20250728-2.0.0",
+  "ts_publish": 1753948816000,
+  "ts_update": 1753949221641,
+  "count_dep": 22,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753258026519
+  "categories": [
+    "Data Protocols"
+  ],
+  "dsv": 1
 }

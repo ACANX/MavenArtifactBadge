@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/be.orbinson.aem/aem-dictionary-translator.ui.apps",
+  "description": "UI Apps package for the Dictionary Translator",
   "group_id": "be.orbinson.aem",
   "artifact_id": "aem-dictionary-translator.ui.apps",
-  "latest_version": "1.6.0",
-  "description": "UI Apps package for the Dictionary Translator",
-  "id": "pkg:maven/be.orbinson.aem/aem-dictionary-translator.ui.apps",
-  "ts": 1753532016000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": null,
+  "version_latest": "1.6.1",
+  "ts_publish": 1753955893000,
+  "ts_update": 1753956422289,
+  "count_dep": 13,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753532821478
+  "categories": null,
+  "dsv": 1
 }

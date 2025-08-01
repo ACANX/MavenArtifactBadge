@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/service-monitor",
+  "description": "Service monitor component for hosted vespa.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "service-monitor",
-  "latest_version": "8.555.25",
-  "description": "Service monitor component for hosted vespa.",
-  "id": "pkg:maven/com.yahoo.vespa/service-monitor",
-  "ts": 1753716542000,
-  "dependency_count": 2,
-  "ref_count": 70,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228788,
+  "count_dep": 70,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717020529
+  "dsv": 1
 }

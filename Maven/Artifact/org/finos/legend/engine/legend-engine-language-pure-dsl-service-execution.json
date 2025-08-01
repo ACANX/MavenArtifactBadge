@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-language-pure-dsl-service-execution",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-language-pure-dsl-service-execution",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-language-pure-dsl-service-execution",
-  "ts": 1753389040000,
-  "dependency_count": 1,
-  "ref_count": 25,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036830232,
+  "count_dep": 25,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390021931
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.binarywang/wx-java-mp-spring-boot-starter",
+  "description": "微信公众号开发的 Spring Boot Starter",
   "group_id": "com.github.binarywang",
   "artifact_id": "wx-java-mp-spring-boot-starter",
-  "latest_version": "4.7.7-20250725.114118",
-  "description": "微信公众号开发的 Spring Boot Starter",
-  "id": "pkg:maven/com.github.binarywang/wx-java-mp-spring-boot-starter",
-  "ts": 1753415063000,
-  "dependency_count": 0,
-  "ref_count": 57,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.7.7-20250730.233020",
+  "ts_publish": 1753889620000,
+  "ts_update": 1753891020855,
+  "count_dep": 57,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415817248
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

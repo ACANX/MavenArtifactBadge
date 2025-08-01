@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.devicenative.dna/moto",
+  "description": "Privacy-first, native advertising SDK for OEMs",
   "group_id": "com.devicenative.dna",
   "artifact_id": "moto",
-  "latest_version": "1.4.9",
-  "description": "Privacy-first, native advertising SDK for OEMs",
-  "id": "pkg:maven/com.devicenative.dna/moto",
-  "ts": 1753248818000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.4.10",
+  "ts_publish": 1753936296000,
+  "ts_update": 1753937222253,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753249106325
+  "categories": null,
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn",
+  "description": "Tencent Cloud Open API SDK for Java",
   "group_id": "com.tencentcloudapi",
   "artifact_id": "tencentcloud-sdk-java-cdn",
-  "latest_version": "3.1.1309",
-  "description": "Tencent Cloud Open API SDK for Java",
-  "id": "pkg:maven/com.tencentcloudapi/tencentcloud-sdk-java-cdn",
-  "ts": 1753648512000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.1.1315",
+  "ts_publish": 1754034949000,
+  "ts_update": 1754035624940,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753649217735
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-bigqueryFunction-protocol",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-bigqueryFunction-protocol",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-bigqueryFunction-protocol",
-  "ts": 1753389040000,
-  "dependency_count": 1,
-  "ref_count": 5,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036834028,
+  "count_dep": 5,
+  "count_ref": 5,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390024056
+  "dsv": 1
 }

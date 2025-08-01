@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-tabcomplete_3",
+  "description": "mill-libs-tabcomplete",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-tabcomplete_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-tabcomplete",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-tabcomplete_3",
-  "ts": 1753700497000,
-  "dependency_count": 1,
-  "ref_count": 37,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791249000,
+  "ts_update": 1753795626848,
+  "count_dep": 27,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701427683
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.mvnpm/next",
+  "description": "The React Framework",
   "group_id": "org.mvnpm",
   "artifact_id": "next",
-  "latest_version": "15.4.4",
-  "description": "The React Framework",
-  "id": "pkg:maven/org.mvnpm/next",
-  "ts": 1753401978000,
-  "dependency_count": 0,
-  "ref_count": 28,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "15.4.5",
+  "ts_publish": 1753833982000,
+  "ts_update": 1753834617937,
+  "count_dep": 28,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753402617786
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

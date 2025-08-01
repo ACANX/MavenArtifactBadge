@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/sql-lib",
+  "description": "edc :: sql-lib",
   "group_id": "org.eclipse.edc",
   "artifact_id": "sql-lib",
-  "latest_version": "0.13.1",
-  "description": "edc :: sql-lib",
-  "id": "pkg:maven/org.eclipse.edc/sql-lib",
-  "ts": 1753436148000,
-  "dependency_count": 7,
-  "ref_count": 9,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753882396000,
+  "ts_update": 1753883823901,
+  "count_dep": 12,
+  "count_ref": 16,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753436818277
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

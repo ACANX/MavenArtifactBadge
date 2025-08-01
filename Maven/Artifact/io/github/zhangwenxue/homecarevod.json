@@ -1,12 +1,16 @@
 {
+  "id": "pkg:maven/io.github.zhangwenxue/homecarevod",
+  "description": "HomeCareVod module",
   "group_id": "io.github.zhangwenxue",
   "artifact_id": "homecarevod",
-  "latest_version": "0.0.2",
-  "description": "HomeCareVod module",
-  "id": "pkg:maven/io.github.zhangwenxue/homecarevod",
-  "ts": 1753242770000,
-  "dependency_count": 0,
-  "ref_count": 12,
+  "version_latest": "0.0.3",
+  "ts_publish": 1753955588000,
+  "ts_update": 1753956422293,
+  "count_dep": 12,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": null,
-  "last_updated": 1753243319415
+  "dsv": 1
 }

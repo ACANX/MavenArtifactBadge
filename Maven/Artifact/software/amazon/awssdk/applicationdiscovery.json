@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/applicationdiscovery",
+  "description": "The AWS Java SDK for AWS Application Discovery Service module holds the client classes that are used\n        for communicating with AWS Application Discovery Service.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "applicationdiscovery",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for AWS Application Discovery Service module holds the client classes that are used\n        for communicating with AWS Application Discovery Service.",
-  "id": "pkg:maven/software.amazon.awssdk/applicationdiscovery",
-  "ts": 1753739206000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842215000,
+  "ts_update": 1753843019317,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739726348
+  "dsv": 1
 }

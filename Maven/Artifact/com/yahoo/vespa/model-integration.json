@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/model-integration",
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "model-integration",
-  "latest_version": "8.555.25",
-  "description": "Parent artifact for all Vespa maven projects.",
-  "id": "pkg:maven/com.yahoo.vespa/model-integration",
-  "ts": 1753716542000,
-  "dependency_count": 9,
-  "ref_count": 129,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961230852,
+  "count_dep": 129,
+  "count_ref": 7,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717021796
+  "dsv": 1
 }

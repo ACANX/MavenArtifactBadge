@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.danilopianini.publish-on-central/org.danilopianini.publish-on-central.gradle.plugin",
+  "description": "A Plugin for easily publishing artifacts on Maven Central",
+  "group_id": "org.danilopianini.publish-on-central",
+  "artifact_id": "org.danilopianini.publish-on-central.gradle.plugin",
+  "version_latest": "9.1.1-dev01-5722c6c",
+  "ts_publish": 1753828642000,
+  "ts_update": 1753829224756,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

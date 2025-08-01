@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/logserver",
+  "description": "Log server.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "logserver",
-  "latest_version": "8.555.25",
-  "description": "Log server.",
-  "id": "pkg:maven/com.yahoo.vespa/logserver",
-  "ts": 1753716542000,
-  "dependency_count": 0,
-  "ref_count": 18,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961231432,
+  "count_dep": 18,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717019845
+  "dsv": 1
 }

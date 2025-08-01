@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.dug22/carpentry",
+  "description": "A Java-based DataFrame library",
+  "group_id": "io.github.dug22",
+  "artifact_id": "carpentry",
+  "version_latest": "1.0.6",
+  "ts_publish": 1753832295000,
+  "ts_update": 1753832821003,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

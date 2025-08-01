@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/net.xdob.ratly/ratly-jdbc",
+  "description": "Distributed Database with Strong Consistency Based on Raft Protocol",
   "group_id": "net.xdob.ratly",
   "artifact_id": "ratly-jdbc",
-  "latest_version": "2.10.0",
-  "description": "Distributed Database with Strong Consistency Based on Raft Protocol",
-  "id": "pkg:maven/net.xdob.ratly/ratly-jdbc",
-  "ts": 1753427752000,
-  "dependency_count": 0,
-  "ref_count": 53,
-  "categories": null,
+  "version_latest": "2.12.0",
+  "ts_publish": 1754043705000,
+  "ts_update": 1754044624401,
+  "count_dep": 53,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753428419826
+  "categories": null,
+  "dsv": 1
 }

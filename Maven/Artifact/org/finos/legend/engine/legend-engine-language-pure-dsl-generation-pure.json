@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-language-pure-dsl-generation-pure",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-language-pure-dsl-generation-pure",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-language-pure-dsl-generation-pure",
-  "ts": 1753389040000,
-  "dependency_count": 2,
-  "ref_count": 10,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036834034,
+  "count_dep": 10,
+  "count_ref": 34,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390023270
+  "dsv": 1
 }

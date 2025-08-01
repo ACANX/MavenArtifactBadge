@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-api-platform",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-api-platform",
-  "latest_version": "12.2.1",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-api-platform",
-  "ts": 1753347841000,
-  "dependency_count": 3,
-  "ref_count": 7,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879636851,
+  "count_dep": 49,
+  "count_ref": 4,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753348627199
+  "dsv": 1
 }

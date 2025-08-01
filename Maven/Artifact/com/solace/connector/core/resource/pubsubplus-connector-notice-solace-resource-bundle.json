@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-resource-bundle",
+  "description": "Closed Source Solace Notice for PubSub+ Connectors",
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-notice-solace-resource-bundle",
-  "latest_version": "2.16.3",
-  "description": "Closed Source Solace Notice for PubSub+ Connectors",
-  "id": "pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-notice-solace-resource-bundle",
-  "ts": 1753717272000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889823263,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753718220888
+  "categories": null,
+  "dsv": 1
 }

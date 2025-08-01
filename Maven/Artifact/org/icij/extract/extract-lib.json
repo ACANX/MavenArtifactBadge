@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.icij.extract/extract-lib",
+  "description": "A cross-platform command line tool for parallelised content extraction and analysis.",
   "group_id": "org.icij.extract",
   "artifact_id": "extract-lib",
-  "latest_version": "9.4.8",
-  "description": "A cross-platform command line tool for parallelised content extraction and analysis.",
-  "id": "pkg:maven/org.icij.extract/extract-lib",
-  "ts": 1753364209000,
-  "dependency_count": 0,
-  "ref_count": 143,
-  "categories": null,
+  "version_latest": "9.4.9",
+  "ts_publish": 1753787456000,
+  "ts_update": 1753788293722,
+  "count_dep": 143,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753364819267
+  "categories": null,
+  "dsv": 1
 }

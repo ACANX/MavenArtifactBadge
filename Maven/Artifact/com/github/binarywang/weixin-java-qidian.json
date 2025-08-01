@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.binarywang/weixin-java-qidian",
+  "description": "腾讯企点Java SDK",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-qidian",
-  "latest_version": "4.7.7-20250725.114118",
-  "description": "腾讯企点Java SDK",
-  "id": "pkg:maven/com.github.binarywang/weixin-java-qidian",
-  "ts": 1753415063000,
-  "dependency_count": 2,
-  "ref_count": 74,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.7.7-20250730.233020",
+  "ts_publish": 1753889620000,
+  "ts_update": 1753891020268,
+  "count_dep": 74,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415817248
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

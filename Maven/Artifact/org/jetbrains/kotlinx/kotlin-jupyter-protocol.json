@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-protocol",
+  "description": "Protocol implementations and message handling utilities for Jupyter communication",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-protocol",
-  "latest_version": "0.15.0-560",
-  "description": "Protocol implementations and message handling utilities for Jupyter communication",
-  "id": "pkg:maven/org.jetbrains.kotlinx/kotlin-jupyter-protocol",
-  "ts": 1753364057000,
-  "dependency_count": 5,
-  "ref_count": 1,
-  "categories": [
-    "Programming Language Utilities"
-  ],
+  "version_latest": "0.15.0-572",
+  "ts_publish": 1753869109000,
+  "ts_update": 1753870021729,
+  "count_dep": 1,
+  "count_ref": 5,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753364819966
+  "categories": [
+    "Programming Language Utilities"
+  ],
+  "dsv": 1
 }

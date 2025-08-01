@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.anymindgroup/zio-gcp-auth_3",
+  "description": "zioGcpAuth",
+  "group_id": "com.anymindgroup",
+  "artifact_id": "zio-gcp-auth_3",
+  "version_latest": "0.2.1",
+  "ts_publish": 1753939002000,
+  "ts_update": 1753939620768,
+  "count_dep": 27,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

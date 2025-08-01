@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-kos-recipe-adaptation",
+  "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-kos-recipe-adaptation",
-  "latest_version": "1.37.1",
-  "description": "A KMP library to interact with KitchenOS.",
-  "id": "pkg:maven/com.fresco-kitchenos/kitchenos-client-sdk-kos-recipe-adaptation",
-  "ts": 1753283988000,
-  "dependency_count": 1,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "1.37.3",
+  "ts_publish": 1753894982000,
+  "ts_update": 1753895821074,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "Fresco License"
   ],
-  "last_updated": 1753284593742
+  "categories": null,
+  "dsv": 1
 }

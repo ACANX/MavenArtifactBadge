@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc-test",
+  "description": "Testing Spring applications auto-configured with spring-addons-starter-oidc",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons-starter-oidc-test",
-  "latest_version": "9.0.0-M1",
-  "description": "Testing Spring applications auto-configured with spring-addons-starter-oidc",
-  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc-test",
-  "ts": 1753448392000,
-  "dependency_count": 0,
-  "ref_count": 67,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "9.0.2-M1",
+  "ts_publish": 1753832881000,
+  "ts_update": 1753833422310,
+  "count_dep": 67,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753448817032
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

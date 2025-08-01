@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.nasmedia-tech/nstationsdk",
+  "description": "NStation Android Library",
   "group_id": "io.github.nasmedia-tech",
   "artifact_id": "nstationsdk",
-  "latest_version": "1.7.12_alpha",
-  "description": "NStation Android Library",
-  "id": "pkg:maven/io.github.nasmedia-tech/nstationsdk",
-  "ts": 1753343423000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "1.8.0",
+  "ts_publish": 1753853511000,
+  "ts_update": 1753854127914,
+  "count_dep": 10,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753343817584
+  "categories": null,
+  "dsv": 1
 }

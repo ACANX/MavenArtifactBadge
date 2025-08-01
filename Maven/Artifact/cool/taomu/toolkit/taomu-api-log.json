@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cool.taomu.toolkit/taomu-api-log",
+  "description": "This is a toolkit",
   "group_id": "cool.taomu.toolkit",
   "artifact_id": "taomu-api-log",
-  "latest_version": "0.0.25",
-  "description": "This is a toolkit",
-  "id": "pkg:maven/cool.taomu.toolkit/taomu-api-log",
-  "ts": 1753271239000,
-  "dependency_count": 0,
-  "ref_count": 26,
-  "categories": null,
+  "version_latest": "0.0.26",
+  "ts_publish": 1753957817000,
+  "ts_update": 1753958582665,
+  "count_dep": 26,
+  "count_ref": 0,
   "licenses": [
     "The Mulan Public License，Version 2"
   ],
-  "last_updated": 1753271779666
+  "categories": null,
+  "dsv": 1
 }

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.github.thundzeng/mini-email",
+  "description": "Mini mail sending dependency Library.",
+  "group_id": "io.github.thundzeng",
+  "artifact_id": "mini-email",
+  "version_latest": "2.2.2",
+  "ts_publish": 1753807126000,
+  "ts_update": 1753808164048,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

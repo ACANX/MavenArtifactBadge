@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.tanx/TanxCoreSDK",
+  "description": "TanxCoreSDK lib.",
   "group_id": "com.tanx",
   "artifact_id": "TanxCoreSDK",
-  "latest_version": "3.7.23.1",
-  "description": "TanxCoreSDK lib.",
-  "id": "pkg:maven/com.tanx/TanxCoreSDK",
-  "ts": 1753685046000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "3.7.24",
+  "ts_publish": 1753855800000,
+  "ts_update": 1753856219632,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753687022393
+  "categories": null,
+  "dsv": 1
 }

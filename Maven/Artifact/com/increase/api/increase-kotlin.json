@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.increase.api/increase-kotlin",
+  "description": "Anything that you can achieve with PDFs, presence, and persistence in a bank\nbranch you can do with our API. We've always wanted a fully programmatic bank so\nwe built one. Our API faithfully exposes the data and capabilities of the\nFederal Reserve, Visa, The Clearing House, depository networks, and accounting\ntools. It's lovingly boring and exceptionally powerful. If you have any\nquestions or want to get started, don't hesitate to ping us at\nsales@increase.com. We can't wait to see what you build!",
   "group_id": "com.increase.api",
   "artifact_id": "increase-kotlin",
-  "latest_version": "0.258.1",
-  "description": "Anything that you can achieve with PDFs, presence, and persistence in a bank\nbranch you can do with our API. We've always wanted a fully programmatic bank so\nwe built one. Our API faithfully exposes the data and capabilities of the\nFederal Reserve, Visa, The Clearing House, depository networks, and accounting\ntools. It's lovingly boring and exceptionally powerful. If you have any\nquestions or want to get started, don't hesitate to ping us at\nsales@increase.com. We can't wait to see what you build!",
-  "id": "pkg:maven/com.increase.api/increase-kotlin",
-  "ts": 1753737288000,
-  "dependency_count": 0,
-  "ref_count": 12,
-  "categories": null,
+  "version_latest": "0.262.0",
+  "ts_publish": 1754021010000,
+  "ts_update": 1754021818565,
+  "count_dep": 12,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753738019972
+  "categories": null,
+  "dsv": 1
 }

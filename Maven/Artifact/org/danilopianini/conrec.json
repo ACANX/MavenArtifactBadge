@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.danilopianini/conrec",
+  "description": "An algorithm for contouring surfaces",
   "group_id": "org.danilopianini",
   "artifact_id": "conrec",
-  "latest_version": "0.1.2-dev07+1a6050f",
-  "description": "An algorithm for contouring surfaces",
-  "id": "pkg:maven/org.danilopianini/conrec",
-  "ts": 1753451878000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "0.1.2-dev08+8f4ed3d",
+  "ts_publish": 1753794584000,
+  "ts_update": 1753796224915,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753452418480
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.joyfill/wisdom-iosx64",
+  "description": "A library to help with editing joyfill documents",
   "group_id": "io.joyfill",
   "artifact_id": "wisdom-iosx64",
-  "latest_version": "2.0.0-Beta15",
-  "description": "A library to help with editing joyfill documents",
-  "id": "pkg:maven/io.joyfill/wisdom-iosx64",
-  "ts": 1753378415000,
-  "dependency_count": 2,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "2.0.0-Beta17",
+  "ts_publish": 1753969125000,
+  "ts_update": 1753969624706,
+  "count_dep": 3,
+  "count_ref": 1,
   "licenses": [
     "Joyfill License"
   ],
-  "last_updated": 1753379139619
+  "categories": null,
+  "dsv": 1
 }

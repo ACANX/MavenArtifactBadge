@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-clients-spring-boot-starter",
+  "description": "Spring Boot auto-configuration for DriftKit Clients",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-clients-spring-boot-starter",
-  "latest_version": "0.5.3",
-  "description": "Spring Boot auto-configuration for DriftKit Clients",
-  "id": "pkg:maven/ai.driftkit/driftkit-clients-spring-boot-starter",
-  "ts": 1753734146000,
-  "dependency_count": 0,
-  "ref_count": 71,
-  "categories": null,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993022015,
+  "count_dep": 71,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735020588
+  "categories": null,
+  "dsv": 1
 }

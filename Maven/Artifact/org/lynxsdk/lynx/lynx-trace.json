@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.lynxsdk.lynx/lynx-trace",
+  "description": "Lynx Trace",
   "group_id": "org.lynxsdk.lynx",
   "artifact_id": "lynx-trace",
-  "latest_version": "3.3.1",
-  "description": "Lynx Trace",
-  "id": "pkg:maven/org.lynxsdk.lynx/lynx-trace",
-  "ts": 1753417028000,
-  "dependency_count": 2,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "3.4.0-rc.0-dev",
+  "ts_publish": 1754044775000,
+  "ts_update": 1754045820902,
+  "count_dep": 0,
+  "count_ref": 1,
   "licenses": [
-    "The Apache License, Version 2.0"
+    "The Apache License, version 2.0"
   ],
-  "last_updated": 1753417619909
+  "categories": null,
+  "dsv": 1
 }

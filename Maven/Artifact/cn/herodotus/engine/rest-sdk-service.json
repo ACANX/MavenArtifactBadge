@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/rest-sdk-service",
+  "description": "Dante Cloud 基于 REST 的服务基础内容配置代码模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "rest-sdk-service",
-  "latest_version": "3.5.4.0",
-  "description": "Dante Cloud 基于 REST 的服务基础内容配置代码模块",
-  "id": "pkg:maven/cn.herodotus.engine/rest-sdk-service",
-  "ts": 1753367015000,
-  "dependency_count": 3,
-  "ref_count": 189,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886818333,
+  "count_dep": 186,
+  "count_ref": 3,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367820609
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

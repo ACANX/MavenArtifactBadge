@@ -3,9 +3,9 @@
   "description": "Lance Namespace",
   "group_id": "com.lancedb",
   "artifact_id": "lance-namespace-springboot-server",
-  "version_latest": "0.0.4",
-  "ts_publish": 1753761202000,
-  "ts_update": 1753761537281,
+  "version_latest": "0.0.5",
+  "ts_publish": 1754003490000,
+  "ts_update": 1754004421849,
   "count_dep": 70,
   "count_ref": 1,
   "licenses": [

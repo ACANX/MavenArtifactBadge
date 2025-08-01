@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.joern/php2cpg_3",
+  "description": "php2cpg",
   "group_id": "io.joern",
   "artifact_id": "php2cpg_3",
-  "latest_version": "4.0.399",
-  "description": "php2cpg",
-  "id": "pkg:maven/io.joern/php2cpg_3",
-  "ts": 1753384381000,
-  "dependency_count": 1,
-  "ref_count": 86,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.401",
+  "ts_publish": 1753947520000,
+  "ts_update": 1753948021731,
+  "count_dep": 86,
+  "count_ref": 1,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753385217746
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

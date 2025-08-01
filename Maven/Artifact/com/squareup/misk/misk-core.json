@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.squareup.misk/misk-core",
+  "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-core",
-  "latest_version": "2025.07.28.173311-f514123",
-  "description": "Open source application container in Kotlin",
-  "id": "pkg:maven/com.squareup.misk/misk-core",
-  "ts": 1753725394000,
-  "dependency_count": 18,
-  "ref_count": 24,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.08.01.102836-90afb48",
+  "ts_publish": 1754045474000,
+  "ts_update": 1754046424434,
+  "count_dep": 30,
+  "count_ref": 17,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753726621324
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

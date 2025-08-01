@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-print",
+  "description": "Archetype for push artifact to Maven repository",
   "group_id": "it.cnr.si.cool.jconon",
   "artifact_id": "cool-jconon-print",
-  "latest_version": "5.9.5",
-  "description": "Archetype for push artifact to Maven repository",
-  "id": "pkg:maven/it.cnr.si.cool.jconon/cool-jconon-print",
-  "ts": 1753293313000,
-  "dependency_count": 2,
-  "ref_count": 7,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.9.6",
+  "ts_publish": 1753869367000,
+  "ts_update": 1753870021726,
+  "count_dep": 7,
+  "count_ref": 2,
   "licenses": [
     "GNU AFFERO GENERAL PUBLIC LICENSE"
   ],
-  "last_updated": 1753294018671
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hpccsystems/commons-hpcc",
+  "description": "Common library for HPCC functionality",
+  "group_id": "org.hpccsystems",
+  "artifact_id": "commons-hpcc",
+  "version_latest": "9.14.6-1",
+  "ts_publish": 1753804019000,
+  "ts_update": 1753804620472,
+  "count_dep": 98,
+  "count_ref": 3,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

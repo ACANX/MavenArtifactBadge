@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/dependencies",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud Dependencies",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "dependencies",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的 Dante Cloud Dependencies",
-  "id": "pkg:maven/cn.herodotus.engine/dependencies",
-  "ts": 1753367015000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886817663,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821091
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/fun.fengwk.upms/upms-share",
+  "description": "UPMS Share",
   "group_id": "fun.fengwk.upms",
   "artifact_id": "upms-share",
-  "latest_version": "1.0.19",
-  "description": "UPMS Share",
-  "id": "pkg:maven/fun.fengwk.upms/upms-share",
-  "ts": 1753629582000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": null,
+  "version_latest": "1.0.20",
+  "ts_publish": 1753987022000,
+  "ts_update": 1753987623577,
+  "count_dep": 90,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753630617036
+  "categories": null,
+  "dsv": 1
 }

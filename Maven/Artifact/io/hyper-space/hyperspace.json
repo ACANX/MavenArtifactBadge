@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.hyper-space/hyperspace",
+  "description": "Hyperspace Search Java Client",
   "group_id": "io.hyper-space",
   "artifact_id": "hyperspace",
-  "latest_version": "2.0.232",
-  "description": "Hyperspace Search Java Client",
-  "id": "pkg:maven/io.hyper-space/hyperspace",
-  "ts": 1753694072000,
-  "dependency_count": 0,
-  "ref_count": 32,
-  "categories": null,
+  "version_latest": "2.0.235",
+  "ts_publish": 1753791199000,
+  "ts_update": 1753795626856,
+  "count_dep": 32,
+  "count_ref": 0,
   "licenses": [
     "Hyperspace Terms and Conditions"
   ],
-  "last_updated": 1753694822399
+  "categories": null,
+  "dsv": 1
 }

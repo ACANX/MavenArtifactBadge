@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.apoapsis.ortserver.transport/azure-servicebus",
+  "description": "Part of the ORT Server, the reference implementation of Eclipse Apoapsis.",
+  "group_id": "org.eclipse.apoapsis.ortserver.transport",
+  "artifact_id": "azure-servicebus",
+  "version_latest": "0.21.0",
+  "ts_publish": 1753784172000,
+  "ts_update": 1753784782536,
+  "count_dep": 8,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

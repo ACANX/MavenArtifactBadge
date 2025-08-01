@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core",
+  "description": "Helper for `kotlin-js`",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-js-core",
-  "latest_version": "2025.7.13",
-  "description": "Helper for `kotlin-js`",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-js-core",
-  "ts": 1753424181531,
-  "dependency_count": 1,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796224516,
+  "count_dep": 1,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425416524
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

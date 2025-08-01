@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awscdk/pipes-enrichments-alpha",
+  "description": "The CDK Construct Library for Amazon EventBridge Pipes Enrichments",
   "group_id": "software.amazon.awscdk",
   "artifact_id": "pipes-enrichments-alpha",
-  "latest_version": "2.207.0-alpha.0",
-  "description": "The CDK Construct Library for Amazon EventBridge Pipes Enrichments",
-  "id": "pkg:maven/software.amazon.awscdk/pipes-enrichments-alpha",
-  "ts": 1753366373000,
-  "dependency_count": 0,
-  "ref_count": 15,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.208.0-alpha.0",
+  "ts_publish": 1753822025000,
+  "ts_update": 1753822686932,
+  "count_dep": 15,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753367218868
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc",
+  "description": "Spring Security auto-configuration for OAuth2 clients and resource servers",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons-starter-oidc",
-  "latest_version": "9.0.0-M1",
-  "description": "Spring Security auto-configuration for OAuth2 clients and resource servers",
-  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-oidc",
-  "ts": 1753448392000,
-  "dependency_count": 1,
-  "ref_count": 56,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "9.0.2-M1",
+  "ts_publish": 1753832881000,
+  "ts_update": 1753833422310,
+  "count_dep": 56,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753448817032
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

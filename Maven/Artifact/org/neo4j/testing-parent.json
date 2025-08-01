@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/testing-parent",
+  "description": "Neo4j Graph Database",
+  "group_id": "org.neo4j",
+  "artifact_id": "testing-parent",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023387,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "GPL-3.0-or-later"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

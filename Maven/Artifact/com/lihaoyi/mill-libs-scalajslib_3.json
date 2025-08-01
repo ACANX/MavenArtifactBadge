@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-scalajslib_3",
+  "description": "mill-libs-scalajslib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalajslib_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-scalajslib",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-scalajslib_3",
-  "ts": 1753700478000,
-  "dependency_count": 2,
-  "ref_count": 10,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791230000,
+  "ts_update": 1753795626851,
+  "count_dep": 10,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701427686
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

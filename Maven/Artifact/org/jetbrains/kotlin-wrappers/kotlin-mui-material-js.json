@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js",
+  "description": "Kotlin wrapper for Material UI",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-mui-material-js",
-  "latest_version": "2025.7.13-5.17.1",
-  "description": "Kotlin wrapper for Material UI",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-material-js",
-  "ts": 1753424231225,
-  "dependency_count": 4,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.7.15-5.17.1",
+  "ts_publish": 1753795070000,
+  "ts_update": 1753796223536,
+  "count_dep": 4,
+  "count_ref": 4,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425415874
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

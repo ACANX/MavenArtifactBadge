@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.lynxsdk.lynx/lynx-service-devtool",
+  "description": "Lynx Service Devtool",
   "group_id": "org.lynxsdk.lynx",
   "artifact_id": "lynx-service-devtool",
-  "latest_version": "3.3.1",
-  "description": "Lynx Service Devtool",
-  "id": "pkg:maven/org.lynxsdk.lynx/lynx-service-devtool",
-  "ts": 1753417014000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "3.4.0-rc.0",
+  "ts_publish": 1754044714000,
+  "ts_update": 1754045821438,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
-    "The Apache License, Version 2.0"
+    "The Apache License, version 2.0"
   ],
-  "last_updated": 1753417619912
+  "categories": null,
+  "dsv": 1
 }

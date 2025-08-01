@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-runner-launcher_3",
+  "description": "mill-runner-launcher",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-launcher_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-runner-launcher",
-  "id": "pkg:maven/com.lihaoyi/mill-runner-launcher_3",
-  "ts": 1753700527000,
-  "dependency_count": 3,
-  "ref_count": 60,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791276000,
+  "ts_update": 1753795620334,
+  "count_dep": 60,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701426995
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

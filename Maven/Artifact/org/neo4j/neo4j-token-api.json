@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-token-api",
+  "description": "Internal Neo4j API for managing and accessing Tokens.",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-token-api",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023386,
+  "count_dep": 18,
+  "count_ref": 15,
+  "licenses": [
+    "GPL-3.0-or-later"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

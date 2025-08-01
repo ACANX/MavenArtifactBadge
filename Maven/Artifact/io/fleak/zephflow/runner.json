@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.fleak.zephflow/runner",
+  "description": "Zephflow Core - Runner Module",
   "group_id": "io.fleak.zephflow",
   "artifact_id": "runner",
-  "latest_version": "0.2.4-rc.6",
-  "description": "Zephflow Core - Runner Module",
-  "id": "pkg:maven/io.fleak.zephflow/runner",
-  "ts": 1753714555000,
-  "dependency_count": 1,
-  "ref_count": 26,
-  "categories": null,
+  "version_latest": "0.2.4-rc.9",
+  "ts_publish": 1753977573000,
+  "ts_update": 1753978024459,
+  "count_dep": 26,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753715823930
+  "categories": null,
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.vality/damsel",
+  "description": "Generates jar artifact containing compiled thrift classes based on generated thrift IDL files",
   "group_id": "dev.vality",
   "artifact_id": "damsel",
-  "latest_version": "1.676-ebe97fb-epic-1",
-  "description": "Generates jar artifact containing compiled thrift classes based on generated thrift IDL files",
-  "id": "pkg:maven/dev.vality/damsel",
-  "ts": 1753709328000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": null,
+  "version_latest": "1.679-8a514b5-epic-1",
+  "ts_publish": 1753778547000,
+  "ts_update": 1753779337016,
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753710423366
+  "categories": null,
+  "dsv": 1
 }

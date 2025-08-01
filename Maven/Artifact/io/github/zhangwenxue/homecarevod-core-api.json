@@ -1,12 +1,16 @@
 {
+  "id": "pkg:maven/io.github.zhangwenxue/homecarevod-core-api",
+  "description": "HomeCareVod Core Api",
   "group_id": "io.github.zhangwenxue",
   "artifact_id": "homecarevod-core-api",
-  "latest_version": "0.0.2",
-  "description": "HomeCareVod Core Api",
-  "id": "pkg:maven/io.github.zhangwenxue/homecarevod-core-api",
-  "ts": 1753242033000,
-  "dependency_count": 0,
-  "ref_count": 10,
+  "version_latest": "0.0.3",
+  "ts_publish": 1753954680000,
+  "ts_update": 1753955218285,
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": null,
-  "last_updated": 1753242857918
+  "dsv": 1
 }

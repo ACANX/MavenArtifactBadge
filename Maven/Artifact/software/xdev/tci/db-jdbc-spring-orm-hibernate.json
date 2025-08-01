@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate",
+  "description": "TCI - db-jdbc-spring-orm-hibernate",
   "group_id": "software.xdev.tci",
   "artifact_id": "db-jdbc-spring-orm-hibernate",
-  "latest_version": "2.4.0",
-  "description": "TCI - db-jdbc-spring-orm-hibernate",
-  "id": "pkg:maven/software.xdev.tci/db-jdbc-spring-orm-hibernate",
-  "ts": 1753341032000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": null,
+  "version_latest": "2.4.1",
+  "ts_publish": 1753966097000,
+  "ts_update": 1753967221818,
+  "count_dep": 31,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753342017804
+  "categories": null,
+  "dsv": 1
 }

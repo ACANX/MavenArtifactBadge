@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.tool/hibernate-tools-orm",
+  "description": "Hibernate Tools ORM",
+  "group_id": "org.hibernate.tool",
+  "artifact_id": "hibernate-tools-orm",
+  "version_latest": "7.0.8.Final",
+  "ts_publish": 1753768441000,
+  "ts_update": 1753769219847,
+  "count_dep": 19,
+  "count_ref": 4,
+  "licenses": [
+    "Apache License, version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

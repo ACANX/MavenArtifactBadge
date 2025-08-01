@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-native",
+  "description": "Neo4j native platform integration module.",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-native",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023859,
+  "count_dep": 4,
+  "count_ref": 19,
+  "licenses": [
+    "GPL-3.0-or-later"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

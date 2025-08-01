@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.manchickas/john",
+  "description": "A fresh, modern, and declarative take on JSON processing in Java.",
   "group_id": "com.manchickas",
   "artifact_id": "john",
-  "latest_version": "1.2.0",
-  "description": "A fresh, modern, and declarative take on JSON processing in Java.",
-  "id": "pkg:maven/com.manchickas/john",
-  "ts": 1753361516000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "2.0.1",
+  "ts_publish": 1753819971000,
+  "ts_update": 1753820816762,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753362421028
+  "categories": null,
+  "dsv": 1
 }

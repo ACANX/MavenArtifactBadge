@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator",
+  "description": "API for programmatic generation of transformation expressions",
   "group_id": "com.solace.connector.core.transform",
   "artifact_id": "pubsubplus-connector-transform-expression-generator",
-  "latest_version": "2.16.3",
-  "description": "API for programmatic generation of transformation expressions",
-  "id": "pkg:maven/com.solace.connector.core.transform/pubsubplus-connector-transform-expression-generator",
-  "ts": 1753717272000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889823258,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "License Agreement for Solace Software"
   ],
-  "last_updated": 1753718220884
+  "categories": null,
+  "dsv": 1
 }

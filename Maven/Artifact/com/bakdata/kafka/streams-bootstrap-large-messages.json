@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages",
+  "description": "Utils for using Large Message SerDe with your Kafka Streams Application",
   "group_id": "com.bakdata.kafka",
   "artifact_id": "streams-bootstrap-large-messages",
-  "latest_version": "5.1.1",
-  "description": "Utils for using Large Message SerDe with your Kafka Streams Application",
-  "id": "pkg:maven/com.bakdata.kafka/streams-bootstrap-large-messages",
-  "ts": 1753437785000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.1.2",
+  "ts_publish": 1753797708000,
+  "ts_update": 1753798621234,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753438622496
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

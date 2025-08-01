@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/app.cash.backfila/client-misk-jooq",
+  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
   "group_id": "app.cash.backfila",
   "artifact_id": "client-misk-jooq",
-  "latest_version": "2025.07.28.193750-99c8949",
-  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
-  "id": "pkg:maven/app.cash.backfila/client-misk-jooq",
-  "ts": 1753732179000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.07.30.212905-62fef5f",
+  "ts_publish": 1753911649000,
+  "ts_update": 1753914422253,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753733220494
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

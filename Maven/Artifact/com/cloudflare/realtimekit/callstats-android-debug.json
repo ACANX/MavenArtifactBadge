@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.cloudflare.realtimekit/callstats-android-debug",
+  "description": "Cloudflare RealtimeKit KMM Client for CallStats",
   "group_id": "com.cloudflare.realtimekit",
   "artifact_id": "callstats-android-debug",
-  "latest_version": "1.7.20",
-  "description": "Cloudflare RealtimeKit KMM Client for CallStats",
-  "id": "pkg:maven/com.cloudflare.realtimekit/callstats-android-debug",
-  "ts": 1753427359000,
-  "dependency_count": 0,
-  "ref_count": 8,
-  "categories": null,
+  "version_latest": "1.7.22",
+  "ts_publish": 1753782571000,
+  "ts_update": 1753784220978,
+  "count_dep": 8,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753427816259
+  "categories": null,
+  "dsv": 1
 }

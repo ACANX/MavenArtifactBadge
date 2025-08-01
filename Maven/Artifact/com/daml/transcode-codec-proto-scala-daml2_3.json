@@ -3,15 +3,16 @@
   "description": "Protobuf Codec for Daml Sdk V2",
   "group_id": "com.daml",
   "artifact_id": "transcode-codec-proto-scala-daml2_3",
-  "version_latest": "0.0.1-main.20250729.107.658.v05eb452",
-  "ts_publish": 1753760294000,
-  "ts_updated": 1753760641343,
-  "count_dep": 3,
+  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
+  "ts_publish": 1753856012000,
+  "ts_update": 1753856821825,
+  "count_dep": 7,
   "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
   "categories": [
     "Uncategorized"
-  ]
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/software.amazon.awsconstructs/openapigatewaylambda",
+  "description": "CDK constructs for defining an interaction between an OpenAPI-defined API Gateway and one or more Lambda functions.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "openapigatewaylambda",
-  "latest_version": "2.89.0",
-  "description": "CDK constructs for defining an interaction between an OpenAPI-defined API Gateway and one or more Lambda functions.",
-  "id": "pkg:maven/software.amazon.awsconstructs/openapigatewaylambda",
-  "ts": 1753738428000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.90.0",
+  "ts_publish": 1753905746000,
+  "ts_update": 1753906622905,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753739196810
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

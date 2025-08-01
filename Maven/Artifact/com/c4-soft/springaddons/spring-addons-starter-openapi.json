@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi",
+  "description": "Helps documenting enums with springdoc-openapi",
   "group_id": "com.c4-soft.springaddons",
   "artifact_id": "spring-addons-starter-openapi",
-  "latest_version": "9.0.0-M1",
-  "description": "Helps documenting enums with springdoc-openapi",
-  "id": "pkg:maven/com.c4-soft.springaddons/spring-addons-starter-openapi",
-  "ts": 1753448392000,
-  "dependency_count": 0,
-  "ref_count": 46,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "9.0.2-M1",
+  "ts_publish": 1753832881000,
+  "ts_update": 1753833422311,
+  "count_dep": 46,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753448817033
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

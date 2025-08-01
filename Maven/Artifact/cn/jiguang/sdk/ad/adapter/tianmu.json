@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu",
+  "description": "tianmu adapter sdk",
   "group_id": "cn.jiguang.sdk.ad.adapter",
   "artifact_id": "tianmu",
-  "latest_version": "3.0.1.06192",
-  "description": "tianmu adapter sdk",
-  "id": "pkg:maven/cn.jiguang.sdk.ad.adapter/tianmu",
-  "ts": 1753353198000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.1.06193",
+  "ts_publish": 1753838750000,
+  "ts_update": 1753839419955,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753353826723
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

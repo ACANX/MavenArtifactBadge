@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.regnosys.rosetta.code-generators/csv",
+  "description": "A Rosetta code generator to create a simple CSV Export",
   "group_id": "com.regnosys.rosetta.code-generators",
   "artifact_id": "csv",
-  "latest_version": "11.75.0",
-  "description": "A Rosetta code generator to create a simple CSV Export",
-  "id": "pkg:maven/com.regnosys.rosetta.code-generators/csv",
-  "ts": 1753726922000,
-  "dependency_count": 1,
-  "ref_count": 80,
-  "categories": null,
+  "version_latest": "11.76.0",
+  "ts_publish": 1753963197000,
+  "ts_update": 1753963622636,
+  "count_dep": 80,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753727819996
+  "categories": null,
+  "dsv": 1
 }

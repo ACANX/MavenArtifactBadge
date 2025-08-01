@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.adyen/adyen-java-api-library",
+  "description": "Adyen API Client Library for Java",
   "group_id": "com.adyen",
   "artifact_id": "adyen-java-api-library",
-  "latest_version": "39.1.0",
-  "description": "Adyen API Client Library for Java",
-  "id": "pkg:maven/com.adyen/adyen-java-api-library",
-  "ts": 1753713626000,
-  "dependency_count": 0,
-  "ref_count": 23,
-  "categories": [
-    "Payment"
-  ],
+  "version_latest": "39.2.0",
+  "ts_publish": 1753874849000,
+  "ts_update": 1753875420072,
+  "count_dep": 23,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753714617819
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
 }

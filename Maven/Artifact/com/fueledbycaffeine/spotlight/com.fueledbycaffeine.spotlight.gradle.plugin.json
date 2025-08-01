@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.fueledbycaffeine.spotlight/com.fueledbycaffeine.spotlight.gradle.plugin",
+  "description": "A Gradle plugin that and makes managing `settings.gradle(.kts)` for large projects easier",
   "group_id": "com.fueledbycaffeine.spotlight",
   "artifact_id": "com.fueledbycaffeine.spotlight.gradle.plugin",
-  "latest_version": "1.3.0",
-  "description": "A Gradle plugin that and makes managing `settings.gradle(.kts)` for large projects easier",
-  "id": "pkg:maven/com.fueledbycaffeine.spotlight/com.fueledbycaffeine.spotlight.gradle.plugin",
-  "ts": 1753300882000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "1.3.1",
+  "ts_publish": 1753878104000,
+  "ts_update": 1753879019060,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753301819955
+  "categories": null,
+  "dsv": 1
 }

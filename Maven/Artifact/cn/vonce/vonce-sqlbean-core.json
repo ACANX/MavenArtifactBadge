@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.vonce/vonce-sqlbean-core",
+  "description": "This is the core project of Sqlbean.",
   "group_id": "cn.vonce",
   "artifact_id": "vonce-sqlbean-core",
-  "latest_version": "1.7.0-beta9",
-  "description": "This is the core project of Sqlbean.",
-  "id": "pkg:maven/cn.vonce/vonce-sqlbean-core",
-  "ts": 1753353096000,
-  "dependency_count": 3,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0-beta11",
+  "ts_publish": 1754046812000,
+  "ts_update": 1754047622166,
+  "count_dep": 2,
+  "count_ref": 4,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753353419654
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

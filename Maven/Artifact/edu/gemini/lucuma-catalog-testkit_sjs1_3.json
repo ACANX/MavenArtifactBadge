@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/edu.gemini/lucuma-catalog-testkit_sjs1_3",
+  "description": "lucuma-catalog-testkit",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-catalog-testkit_sjs1_3",
-  "latest_version": "0.137.4",
-  "description": "lucuma-catalog-testkit",
-  "id": "pkg:maven/edu.gemini/lucuma-catalog-testkit_sjs1_3",
-  "ts": 1753458867000,
-  "dependency_count": 0,
-  "ref_count": 108,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.138.0",
+  "ts_publish": 1753795309000,
+  "ts_update": 1753796221686,
+  "count_dep": 108,
+  "count_ref": 0,
   "licenses": [
     "BSD-3-Clause"
   ],
-  "last_updated": 1753459618561
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

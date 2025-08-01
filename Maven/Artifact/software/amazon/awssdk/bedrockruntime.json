@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/bedrockruntime",
+  "description": "The AWS Java SDK for Bedrock Runtime module holds the client classes that are used for\n        communicating with Bedrock Runtime.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "bedrockruntime",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for Bedrock Runtime module holds the client classes that are used for\n        communicating with Bedrock Runtime.",
-  "id": "pkg:maven/software.amazon.awssdk/bedrockruntime",
-  "ts": 1753478280000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842208000,
+  "ts_update": 1753843019779,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478820810
+  "dsv": 1
 }

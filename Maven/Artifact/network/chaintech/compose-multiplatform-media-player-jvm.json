@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/network.chaintech/compose-multiplatform-media-player-jvm",
+  "description": "Media player library for compose multiplatform",
+  "group_id": "network.chaintech",
+  "artifact_id": "compose-multiplatform-media-player-jvm",
+  "version_latest": "1.0.43",
+  "ts_publish": 1754044772000,
+  "ts_update": 1754045820903,
+  "count_dep": 19,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

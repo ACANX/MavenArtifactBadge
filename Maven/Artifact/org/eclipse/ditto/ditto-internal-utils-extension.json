@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.ditto/ditto-internal-utils-extension",
+  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
   "group_id": "org.eclipse.ditto",
   "artifact_id": "ditto-internal-utils-extension",
-  "latest_version": "3.8.0-M2",
-  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
-  "id": "pkg:maven/org.eclipse.ditto/ditto-internal-utils-extension",
-  "ts": 1753379172000,
-  "dependency_count": 16,
-  "ref_count": 19,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.8.0-M3",
+  "ts_publish": 1753785999000,
+  "ts_update": 1753786619147,
+  "count_dep": 19,
+  "count_ref": 12,
   "licenses": [
     "Eclipse Public License - Version 2.0"
   ],
-  "last_updated": 1753379817316
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

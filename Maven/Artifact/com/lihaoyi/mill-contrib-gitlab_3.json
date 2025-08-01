@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-gitlab_3",
+  "description": "mill-contrib-gitlab",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-gitlab_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-contrib-gitlab",
-  "id": "pkg:maven/com.lihaoyi/mill-contrib-gitlab_3",
-  "ts": 1753700276000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791044000,
+  "ts_update": 1753795628951,
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701429525
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

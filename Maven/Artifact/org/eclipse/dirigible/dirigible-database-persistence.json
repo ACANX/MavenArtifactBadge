@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-persistence",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-persistence",
-  "latest_version": "12.2.0",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-database-persistence",
-  "ts": 1753272414000,
-  "dependency_count": 3,
-  "ref_count": 34,
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879634244,
+  "count_dep": 34,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753273628973
+  "dsv": 1
 }

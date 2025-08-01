@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.bazaarvoice.emodb/emodb",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.bazaarvoice.emodb",
   "artifact_id": "emodb",
-  "latest_version": "6.5.234",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.bazaarvoice.emodb/emodb",
-  "ts": 1753709782000,
-  "dependency_count": 0,
-  "ref_count": 0,
+  "version_latest": "6.5.240",
+  "ts_publish": 1753873510000,
+  "ts_update": 1753874218734,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Copyright (c) 2025 Bazaarvoice, Inc."
+  ],
   "categories": [
     "Data Management",
     "Database"
   ],
-  "licenses": [
-    "Copyright (c) 2025 Bazaarvoice, Inc."
-  ],
-  "last_updated": 1753711020388
+  "dsv": 1
 }

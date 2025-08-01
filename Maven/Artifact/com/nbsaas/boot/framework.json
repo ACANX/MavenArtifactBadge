@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.nbsaas.boot/framework",
+  "description": "Spring Boot for nbsaas.com",
+  "group_id": "com.nbsaas.boot",
+  "artifact_id": "framework",
+  "version_latest": "1.1.23-2025",
+  "ts_publish": 1754034209000,
+  "ts_update": 1754035019700,
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.turbopuffer/turbopuffer-java-client-okhttp",
+  "description": "turbopuffer is a fast search engine that combines vector and full-text search\nusing object storage.",
   "group_id": "com.turbopuffer",
   "artifact_id": "turbopuffer-java-client-okhttp",
-  "latest_version": "0.2.4",
-  "description": "turbopuffer is a fast search engine that combines vector and full-text search\nusing object storage.",
-  "id": "pkg:maven/com.turbopuffer/turbopuffer-java-client-okhttp",
-  "ts": 1753723675000,
-  "dependency_count": 1,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "0.2.6",
+  "ts_publish": 1753830998000,
+  "ts_update": 1753831417730,
+  "count_dep": 11,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753724216223
+  "categories": null,
+  "dsv": 1
 }

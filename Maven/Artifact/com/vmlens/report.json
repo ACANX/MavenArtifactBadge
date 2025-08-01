@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.vmlens/report",
+  "description": "parent pom",
   "group_id": "com.vmlens",
   "artifact_id": "report",
-  "latest_version": "1.2.7",
-  "description": "parent pom",
-  "id": "pkg:maven/com.vmlens/report",
-  "ts": 1753366455000,
-  "dependency_count": 3,
-  "ref_count": 14,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.2.9",
+  "ts_publish": 1754034441000,
+  "ts_update": 1754035019696,
+  "count_dep": 13,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753367218406
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

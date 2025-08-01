@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.driftkit/driftkit-clients-openai",
+  "description": "Openai client",
   "group_id": "ai.driftkit",
   "artifact_id": "driftkit-clients-openai",
-  "latest_version": "0.5.3",
-  "description": "Openai client",
-  "id": "pkg:maven/ai.driftkit/driftkit-clients-openai",
-  "ts": 1753734146000,
-  "dependency_count": 5,
-  "ref_count": 53,
-  "categories": null,
+  "version_latest": "0.5.8",
+  "ts_publish": 1753992365000,
+  "ts_update": 1753993021345,
+  "count_dep": 53,
+  "count_ref": 5,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753735019946
+  "categories": null,
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.vonce/vonce-validator-solon",
+  "description": "This is the solon project of Validator.",
   "group_id": "cn.vonce",
   "artifact_id": "vonce-validator-solon",
-  "latest_version": "1.0.0-beta1",
-  "description": "This is the solon project of Validator.",
-  "id": "pkg:maven/cn.vonce/vonce-validator-solon",
-  "ts": 1753667569000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.0.0-beta2",
+  "ts_publish": 1753772652000,
+  "ts_update": 1753773419348,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "The MIT License"
   ],
-  "last_updated": 1753668416084
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

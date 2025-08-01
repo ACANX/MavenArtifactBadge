@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/predicate-search-core",
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "predicate-search-core",
-  "latest_version": "8.555.25",
-  "description": "Parent artifact for all Vespa maven projects.",
-  "id": "pkg:maven/com.yahoo.vespa/predicate-search-core",
-  "ts": 1753716543000,
-  "dependency_count": 54,
-  "ref_count": 10,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961228786,
+  "count_dep": 10,
+  "count_ref": 32,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717018618
+  "dsv": 1
 }

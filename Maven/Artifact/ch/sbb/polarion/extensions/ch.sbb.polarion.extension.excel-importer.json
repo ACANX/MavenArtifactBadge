@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer",
+  "description": "This Polarion extension provides possibility to update (or create) WorkItems using xlsx-file",
   "group_id": "ch.sbb.polarion.extensions",
   "artifact_id": "ch.sbb.polarion.extension.excel-importer",
-  "latest_version": "4.0.1",
-  "description": "This Polarion extension provides possibility to update (or create) WorkItems using xlsx-file",
-  "id": "pkg:maven/ch.sbb.polarion.extensions/ch.sbb.polarion.extension.excel-importer",
-  "ts": 1753436169000,
-  "dependency_count": 0,
-  "ref_count": 67,
-  "categories": null,
+  "version_latest": "4.1.0",
+  "ts_publish": 1753782533000,
+  "ts_update": 1753783617768,
+  "count_dep": 67,
+  "count_ref": 0,
   "licenses": [
     "The SBB License, Version 1.0"
   ],
-  "last_updated": 1753436818274
+  "categories": null,
+  "dsv": 1
 }

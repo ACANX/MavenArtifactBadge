@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.minghuo/http-client-utils",
+  "description": "网络请求工具类",
   "group_id": "io.github.minghuo",
   "artifact_id": "http-client-utils",
-  "latest_version": "1.0.4.1",
-  "description": "网络请求工具类",
-  "id": "pkg:maven/io.github.minghuo/http-client-utils",
-  "ts": 1753421345000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": null,
+  "version_latest": "2.0.1",
+  "ts_publish": 1753932161000,
+  "ts_update": 1753932422662,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753421817013
+  "categories": null,
+  "dsv": 1
 }

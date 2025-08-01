@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.avaje/avaje-inject-aop",
+  "description": "parent pom for avaje inject library",
   "group_id": "io.avaje",
   "artifact_id": "avaje-inject-aop",
-  "latest_version": "11.6-javax",
-  "description": "parent pom for avaje inject library",
-  "id": "pkg:maven/io.avaje/avaje-inject-aop",
-  "ts": 1753392011000,
-  "dependency_count": 4,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "12.0-RC3",
+  "ts_publish": 1753851048000,
+  "ts_update": 1753851876406,
+  "count_dep": 4,
+  "count_ref": 4,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753392416083
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

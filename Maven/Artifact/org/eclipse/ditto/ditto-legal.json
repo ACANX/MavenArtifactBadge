@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.ditto/ditto-legal",
+  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
   "group_id": "org.eclipse.ditto",
   "artifact_id": "ditto-legal",
-  "latest_version": "3.8.0-M2",
-  "description": "Eclipse Ditto is a framework for creating and managing digital twins in the IoT.",
-  "id": "pkg:maven/org.eclipse.ditto/ditto-legal",
-  "ts": 1753379173000,
-  "dependency_count": 1,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.8.0-M3",
+  "ts_publish": 1753785999000,
+  "ts_update": 1753786618327,
+  "count_dep": 0,
+  "count_ref": 1,
   "licenses": [
     "Eclipse Public License - Version 2.0"
   ],
-  "last_updated": 1753379815429
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

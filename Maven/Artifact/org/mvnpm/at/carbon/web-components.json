@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.carbon/web-components",
+  "description": "Web components for the Carbon Design System",
   "group_id": "org.mvnpm.at.carbon",
   "artifact_id": "web-components",
-  "latest_version": "2.34.1",
-  "description": "Web components for the Carbon Design System",
-  "id": "pkg:maven/org.mvnpm.at.carbon/web-components",
-  "ts": 1753387573000,
-  "dependency_count": 0,
-  "ref_count": 21,
-  "categories": null,
+  "version_latest": "2.35.0",
+  "ts_publish": 1753891580000,
+  "ts_update": 1753892220254,
+  "count_dep": 21,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753388217473
+  "categories": null,
+  "dsv": 1
 }

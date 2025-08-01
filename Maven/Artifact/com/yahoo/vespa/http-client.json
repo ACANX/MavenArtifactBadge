@@ -1,18 +1,17 @@
 {
+  "id": "pkg:maven/com.yahoo.vespa/http-client",
+  "description": "HTTP client wrapper around an Apache http client 5",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "http-client",
-  "latest_version": "8.555.25",
-  "description": "HTTP client wrapper around an Apache http client 5",
-  "id": "pkg:maven/com.yahoo.vespa/http-client",
-  "ts": 1753716542000,
-  "dependency_count": 3,
-  "ref_count": 19,
+  "version_latest": "8.558.9",
+  "ts_publish": 1753959113000,
+  "ts_update": 1753961229396,
+  "count_dep": 8,
+  "count_ref": 2,
+  "licenses": [],
   "categories": [
     "Big Data",
     "Parallel Data Processing"
   ],
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
-  "last_updated": 1753717020533
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect",
+  "description": "RSocket Micro Connect",
   "group_id": "pro.chenggang",
   "artifact_id": "rsocket-micro-connect",
-  "latest_version": "0.2.4.RELEASE",
-  "description": "RSocket Micro Connect",
-  "id": "pkg:maven/pro.chenggang/rsocket-micro-connect",
-  "ts": 1753450194000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.2.5.RELEASE",
+  "ts_publish": 1753763375000,
+  "ts_update": 1753763818453,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753450616395
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

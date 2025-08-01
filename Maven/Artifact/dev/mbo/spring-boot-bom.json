@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.mbo/spring-boot-bom",
+  "description": "BOM for Spring Boot based projects",
   "group_id": "dev.mbo",
   "artifact_id": "spring-boot-bom",
-  "latest_version": "2025.7.6",
-  "description": "BOM for Spring Boot based projects",
-  "id": "pkg:maven/dev.mbo/spring-boot-bom",
-  "ts": 1753648636000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "2025.7.7",
+  "ts_publish": 1753821486000,
+  "ts_update": 1753822621295,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753649217732
+  "categories": null,
+  "dsv": 1
 }

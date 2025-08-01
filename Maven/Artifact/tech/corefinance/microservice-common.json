@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/tech.corefinance/microservice-common",
+  "description": "microservice-common library.",
   "group_id": "tech.corefinance",
   "artifact_id": "microservice-common",
-  "latest_version": "0.0.37",
-  "description": "microservice-common library.",
-  "id": "pkg:maven/tech.corefinance/microservice-common",
-  "ts": 1753694352000,
-  "dependency_count": 5,
-  "ref_count": 90,
-  "categories": null,
+  "version_latest": "0.0.38",
+  "ts_publish": 1753781653000,
+  "ts_update": 1753783016674,
+  "count_dep": 90,
+  "count_ref": 5,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753695116124
+  "categories": null,
+  "dsv": 1
 }

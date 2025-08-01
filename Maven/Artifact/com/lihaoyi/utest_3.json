@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/utest_3",
+  "description": "utest",
   "group_id": "com.lihaoyi",
   "artifact_id": "utest_3",
-  "latest_version": "0.9.0-M5",
-  "description": "utest",
-  "id": "pkg:maven/com.lihaoyi/utest_3",
-  "ts": 1753718923000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "0.9.0",
+  "ts_publish": 1753763899000,
+  "ts_update": 1753764418357,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753720019744
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

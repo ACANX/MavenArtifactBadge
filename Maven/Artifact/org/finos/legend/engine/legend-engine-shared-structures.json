@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-shared-structures",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-shared-structures",
-  "latest_version": "4.93.0",
-  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-shared-structures",
-  "ts": 1753389040000,
-  "dependency_count": 16,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036831526,
+  "count_dep": 3,
+  "count_ref": 45,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753390019955
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

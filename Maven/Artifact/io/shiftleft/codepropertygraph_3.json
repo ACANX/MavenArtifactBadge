@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.shiftleft/codepropertygraph_3",
+  "description": "codepropertygraph",
   "group_id": "io.shiftleft",
   "artifact_id": "codepropertygraph_3",
-  "latest_version": "1.7.45",
-  "description": "codepropertygraph",
-  "id": "pkg:maven/io.shiftleft/codepropertygraph_3",
-  "ts": 1753267839000,
-  "dependency_count": 0,
-  "ref_count": 48,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.46",
+  "ts_publish": 1753964573000,
+  "ts_update": 1753965421814,
+  "count_dep": 48,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753268199914
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

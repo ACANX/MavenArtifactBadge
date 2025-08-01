@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/io.spinnaker.kork/kork-docker",
+  "description": "Spinnaker Kork",
   "group_id": "io.spinnaker.kork",
   "artifact_id": "kork-docker",
-  "latest_version": "main-43",
-  "description": "Spinnaker Kork",
-  "id": "pkg:maven/io.spinnaker.kork/kork-docker",
-  "ts": 1753465025000,
-  "dependency_count": 0,
-  "ref_count": 9,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "main-49",
+  "ts_publish": 1753989678000,
+  "ts_update": 1753990621896,
+  "count_dep": 9,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0",
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753465619093
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

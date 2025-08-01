@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-classgraph-worker_3",
+  "description": "mill-libs-javalib-classgraph-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-classgraph-worker_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-libs-javalib-classgraph-worker",
-  "id": "pkg:maven/com.lihaoyi/mill-libs-javalib-classgraph-worker_3",
-  "ts": 1753700419000,
-  "dependency_count": 0,
-  "ref_count": 28,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791173000,
+  "ts_update": 1753795627581,
+  "count_dep": 28,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701428309
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/openapi-merger",
+  "description": "edc :: openapi-merger",
   "group_id": "org.eclipse.edc",
   "artifact_id": "openapi-merger",
-  "latest_version": "0.13.1",
-  "description": "edc :: openapi-merger",
-  "id": "pkg:maven/org.eclipse.edc/openapi-merger",
-  "ts": 1753363119000,
-  "dependency_count": 2,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753798238000,
+  "ts_update": 1753799218002,
+  "count_dep": 2,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753363624370
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

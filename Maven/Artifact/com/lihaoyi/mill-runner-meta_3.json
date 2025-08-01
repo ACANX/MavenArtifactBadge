@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.lihaoyi/mill-runner-meta_3",
+  "description": "mill-runner-meta",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-meta_3",
-  "latest_version": "1.0.1-25-ee7483",
-  "description": "mill-runner-meta",
-  "id": "pkg:maven/com.lihaoyi/mill-runner-meta_3",
-  "ts": 1753700529000,
-  "dependency_count": 1,
-  "ref_count": 55,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.0.2-3-e42a40",
+  "ts_publish": 1753791281000,
+  "ts_update": 1753795620333,
+  "count_dep": 56,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753701426995
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/me.ahoo.wow/wow-compensation-api",
+  "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
   "group_id": "me.ahoo.wow",
   "artifact_id": "wow-compensation-api",
-  "latest_version": "5.26.8",
-  "description": "A Modern Reactive CQRS Architecture Microservice development framework based on DDD and EventSourcing.",
-  "id": "pkg:maven/me.ahoo.wow/wow-compensation-api",
-  "ts": 1753753219000,
-  "dependency_count": 2,
-  "ref_count": 21,
-  "categories": null,
+  "version_latest": "6.0.1",
+  "ts_publish": 1754019999000,
+  "ts_update": 1754020621622,
+  "count_dep": 7,
+  "count_ref": 2,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753754221555
+  "categories": null,
+  "dsv": 1
 }

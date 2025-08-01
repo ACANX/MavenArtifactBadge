@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.binarywang/weixin-java-common",
+  "description": "微信开发Java SDK公共模块",
   "group_id": "com.github.binarywang",
   "artifact_id": "weixin-java-common",
-  "latest_version": "4.7.7-20250725.114118",
-  "description": "微信开发Java SDK公共模块",
-  "id": "pkg:maven/com.github.binarywang/weixin-java-common",
-  "ts": 1753415063000,
-  "dependency_count": 29,
-  "ref_count": 91,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.7.7-20250730.233020",
+  "ts_publish": 1753889620000,
+  "ts_update": 1753891020854,
+  "count_dep": 91,
+  "count_ref": 29,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753415817245
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

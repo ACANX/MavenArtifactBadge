@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.kingg22/deezer-client-kt",
+  "description": "A Kotlin Multiplatform library to use Deezer public API.",
+  "group_id": "io.github.kingg22",
+  "artifact_id": "deezer-client-kt",
+  "version_latest": "1.0.0",
+  "ts_publish": 1753772225000,
+  "ts_update": 1753772824815,
+  "count_dep": 8,
+  "count_ref": 0,
+  "licenses": [
+    "GNU Affero General Public License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

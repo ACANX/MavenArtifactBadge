@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/nl.nl-portal/documenten-api",
+  "description": "This module facilitates working with a Documenten API compliant microservice.",
   "group_id": "nl.nl-portal",
   "artifact_id": "documenten-api",
-  "latest_version": "2.0.1",
-  "description": "This module facilitates working with a Documenten API compliant microservice.",
-  "id": "pkg:maven/nl.nl-portal/documenten-api",
-  "ts": 1753271481000,
-  "dependency_count": 1,
-  "ref_count": 9,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.0.2",
+  "ts_publish": 1753790772000,
+  "ts_update": 1753795629561,
+  "count_dep": 9,
+  "count_ref": 1,
   "licenses": [
     "Licensed under EUPL, Version 1.2 (the \"License\");"
   ],
-  "last_updated": 1753272416045
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

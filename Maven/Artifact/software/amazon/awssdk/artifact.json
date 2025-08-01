@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/artifact",
+  "description": "The AWS Java SDK for Artifact module holds the client classes that are used for\n        communicating with Artifact.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "artifact",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for Artifact module holds the client classes that are used for\n        communicating with Artifact.",
-  "id": "pkg:maven/software.amazon.awssdk/artifact",
-  "ts": 1753739281000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842217000,
+  "ts_update": 1753843019316,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739725687
+  "dsv": 1
 }

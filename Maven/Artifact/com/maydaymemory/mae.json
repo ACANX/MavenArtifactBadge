@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.maydaymemory/mae",
+  "description": "A java runtime animation library",
+  "group_id": "com.maydaymemory",
+  "artifact_id": "mae",
+  "version_latest": "1.0.2",
+  "ts_publish": 1753906311000,
+  "ts_update": 1753907218109,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "The MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.foldright/cffu",
+  "description": "🦝 A tiny sidekick library to make CompletableFuture usage\n\t\tmore convenient, more efficient and safer in your application. 😋🚀🦺",
   "group_id": "io.foldright",
   "artifact_id": "cffu",
-  "latest_version": "1.1.7",
-  "description": "🦝 A tiny sidekick library to make CompletableFuture usage\n\t\tmore convenient, more efficient and safer in your application. 😋🚀🦺",
-  "id": "pkg:maven/io.foldright/cffu",
-  "ts": 1753700222000,
-  "dependency_count": 3,
-  "ref_count": 18,
-  "categories": null,
+  "version_latest": "1.1.8",
+  "ts_publish": 1753809973000,
+  "ts_update": 1753810622681,
+  "count_dep": 18,
+  "count_ref": 3,
   "licenses": [
     "Apache 2"
   ],
-  "last_updated": 1753700819466
+  "categories": null,
+  "dsv": 1
 }

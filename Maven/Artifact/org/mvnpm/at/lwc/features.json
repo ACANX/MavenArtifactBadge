@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.lwc/features",
+  "description": "LWC Features Flags",
+  "group_id": "org.mvnpm.at.lwc",
+  "artifact_id": "features",
+  "version_latest": "8.20.2",
+  "ts_publish": 1753909214000,
+  "ts_update": 1753914466863,
+  "count_dep": 1,
+  "count_ref": 3,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

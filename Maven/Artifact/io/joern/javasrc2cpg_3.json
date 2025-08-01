@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.joern/javasrc2cpg_3",
+  "description": "javasrc2cpg",
   "group_id": "io.joern",
   "artifact_id": "javasrc2cpg_3",
-  "latest_version": "4.0.399",
-  "description": "javasrc2cpg",
-  "id": "pkg:maven/io.joern/javasrc2cpg_3",
-  "ts": 1753384381000,
-  "dependency_count": 2,
-  "ref_count": 99,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.0.401",
+  "ts_publish": 1753947520000,
+  "ts_update": 1753948021732,
+  "count_dep": 99,
+  "count_ref": 2,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753385217745
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

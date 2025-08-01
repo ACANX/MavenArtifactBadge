@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.neo4j/neo4j-io",
+  "description": "Input/output abstraction layer for Neo4j.",
+  "group_id": "org.neo4j",
+  "artifact_id": "neo4j-io",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023860,
+  "count_dep": 9,
+  "count_ref": 30,
+  "licenses": [],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

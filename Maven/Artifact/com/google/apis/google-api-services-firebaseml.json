@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.google.apis/google-api-services-firebaseml",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.google.apis",
   "artifact_id": "google-api-services-firebaseml",
-  "latest_version": "v2beta-rev20250723-2.0.0",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.google.apis/google-api-services-firebaseml",
-  "ts": 1753517660000,
-  "dependency_count": 0,
-  "ref_count": 22,
-  "categories": [
-    "Data Protocols"
-  ],
+  "version_latest": "v2beta-rev20250727-2.0.0",
+  "ts_publish": 1753863371000,
+  "ts_update": 1753864020642,
+  "count_dep": 22,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753518422160
+  "categories": [
+    "Data Protocols"
+  ],
+  "dsv": 1
 }

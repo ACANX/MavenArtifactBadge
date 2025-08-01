@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.sentry/node",
+  "description": "Sentry Node SDK using OpenTelemetry for performance instrumentation",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "node",
-  "latest_version": "9.42.1",
-  "description": "Sentry Node SDK using OpenTelemetry for performance instrumentation",
-  "id": "pkg:maven/org.mvnpm.at.sentry/node",
-  "ts": 1753719498000,
-  "dependency_count": 0,
-  "ref_count": 79,
-  "categories": null,
+  "version_latest": "10.0.0",
+  "ts_publish": 1753980686000,
+  "ts_update": 1753981626070,
+  "count_dep": 83,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753720018639
+  "categories": null,
+  "dsv": 1
 }

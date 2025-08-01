@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.danilopianini/gradle-kotlin-qa",
+  "description": "Automated Quality Assurance configuration for Kotlin Projects built with Gradle",
   "group_id": "org.danilopianini",
   "artifact_id": "gradle-kotlin-qa",
-  "latest_version": "0.92.0",
-  "description": "Automated Quality Assurance configuration for Kotlin Projects built with Gradle",
-  "id": "pkg:maven/org.danilopianini/gradle-kotlin-qa",
-  "ts": 1753440370000,
-  "dependency_count": 1,
-  "ref_count": 8,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "0.93.0",
+  "ts_publish": 1753805998000,
+  "ts_update": 1753806434884,
+  "count_dep": 8,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753440749441
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

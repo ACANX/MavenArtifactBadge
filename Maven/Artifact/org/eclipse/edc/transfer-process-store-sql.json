@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eclipse.edc/transfer-process-store-sql",
+  "description": "edc :: transfer-process-store-sql",
   "group_id": "org.eclipse.edc",
   "artifact_id": "transfer-process-store-sql",
-  "latest_version": "0.13.1",
-  "description": "edc :: transfer-process-store-sql",
-  "id": "pkg:maven/org.eclipse.edc/transfer-process-store-sql",
-  "ts": 1753436148000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.13.2",
+  "ts_publish": 1753882396000,
+  "ts_update": 1753883824555,
+  "count_dep": 23,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753436818277
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

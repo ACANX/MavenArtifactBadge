@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.neo4j.community/bolt-it",
+  "description": "Neo4j community edition bolt integration tests.",
+  "group_id": "org.neo4j.community",
+  "artifact_id": "bolt-it",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023855,
+  "count_dep": 12,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

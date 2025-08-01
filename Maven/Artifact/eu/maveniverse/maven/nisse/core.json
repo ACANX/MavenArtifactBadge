@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/eu.maveniverse.maven.nisse/core",
+  "description": "Nisse Maven Extension.",
+  "group_id": "eu.maveniverse.maven.nisse",
+  "artifact_id": "core",
+  "version_latest": "0.5.0",
+  "ts_publish": 1753881663000,
+  "ts_update": 1753882293864,
+  "count_dep": 6,
+  "count_ref": 8,
+  "licenses": [
+    "EPL-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

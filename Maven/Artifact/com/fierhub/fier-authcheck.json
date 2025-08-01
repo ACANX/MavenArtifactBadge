@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.fierhub/fier-authcheck",
+  "description": "filter to auto check authentication key",
   "group_id": "com.fierhub",
   "artifact_id": "fier-authcheck",
-  "latest_version": "1.0-1",
-  "description": "filter to auto check authentication key",
-  "id": "pkg:maven/com.fierhub/fier-authcheck",
-  "ts": 1753729469000,
-  "dependency_count": 0,
-  "ref_count": 46,
-  "categories": null,
+  "version_latest": "1.0-2",
+  "ts_publish": 1753770133000,
+  "ts_update": 1753770827609,
+  "count_dep": 46,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753730156424
+  "categories": null,
+  "dsv": 1
 }

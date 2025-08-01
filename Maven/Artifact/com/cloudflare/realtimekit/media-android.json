@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.cloudflare.realtimekit/media-android",
+  "description": "Cloudflare RealtimeKit Media Client SDK",
   "group_id": "com.cloudflare.realtimekit",
   "artifact_id": "media-android",
-  "latest_version": "0.15.10",
-  "description": "Cloudflare RealtimeKit Media Client SDK",
-  "id": "pkg:maven/com.cloudflare.realtimekit/media-android",
-  "ts": 1753269319000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "0.15.12",
+  "ts_publish": 1753772841000,
+  "ts_update": 1753774019625,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753270017077
+  "categories": null,
+  "dsv": 1
 }

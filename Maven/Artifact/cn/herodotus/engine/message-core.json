@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/cn.herodotus.engine/message-core",
+  "description": "基于 Spring Authorization Server 的 Dante Cloud 基础核心组件模块",
   "group_id": "cn.herodotus.engine",
   "artifact_id": "message-core",
-  "latest_version": "3.5.4.0",
-  "description": "基于 Spring Authorization Server 的 Dante Cloud 基础核心组件模块",
-  "id": "pkg:maven/cn.herodotus.engine/message-core",
-  "ts": 1753367015000,
-  "dependency_count": 19,
-  "ref_count": 112,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4.1",
+  "ts_publish": 1753886090000,
+  "ts_update": 1753886818338,
+  "count_dep": 109,
+  "count_ref": 19,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753367821543
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.gr4vy/sdk",
+  "description": "SDK enabling Java developers to easily integrate with the Gr4vy API.",
   "group_id": "com.gr4vy",
   "artifact_id": "sdk",
-  "latest_version": "2.8.6",
-  "description": "SDK enabling Java developers to easily integrate with the Gr4vy API.",
-  "id": "pkg:maven/com.gr4vy/sdk",
-  "ts": 1753729485000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "2.8.9",
+  "ts_publish": 1753949930000,
+  "ts_update": 1753950422869,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753730156423
+  "categories": null,
+  "dsv": 1
 }
