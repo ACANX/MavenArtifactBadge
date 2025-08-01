@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-rate-limiting-bucket4j-mysql",
-  "version_latest": "2025.07.31.213947-514912f",
-  "ts_publish": 1753999387000,
-  "ts_update": 1754000223372,
+  "version_latest": "2025.08.01.102836-90afb48",
+  "ts_publish": 1754045474000,
+  "ts_update": 1754046423853,
   "count_dep": 27,
   "count_ref": 0,
   "licenses": [
