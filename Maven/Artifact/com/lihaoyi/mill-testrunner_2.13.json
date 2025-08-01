@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-testrunner_2.13",
+  "description": "mill-testrunner",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-testrunner_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037255000,
+  "ts_update": 1754038015478,
+  "count_dep": 64,
+  "count_ref": 11,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

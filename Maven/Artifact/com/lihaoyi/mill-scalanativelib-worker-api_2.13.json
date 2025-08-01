@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-scalanativelib-worker-api_2.13",
+  "description": "mill-scalanativelib-worker-api",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-scalanativelib-worker-api_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037249000,
+  "ts_update": 1754038015479,
+  "count_dep": 9,
+  "count_ref": 7,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

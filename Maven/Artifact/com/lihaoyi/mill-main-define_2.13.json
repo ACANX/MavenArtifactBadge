@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-main-define_2.13",
+  "description": "mill-main-define",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-main-define_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037191000,
+  "ts_update": 1754038015838,
+  "count_dep": 80,
+  "count_ref": 15,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

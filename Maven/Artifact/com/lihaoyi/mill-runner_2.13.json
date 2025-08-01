@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-runner_2.13",
+  "description": "mill-runner",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-runner_2.13",
+  "version_latest": "0.12.14-24-a219fe",
+  "ts_publish": 1754037235000,
+  "ts_update": 1754038015482,
+  "count_dep": 111,
+  "count_ref": 6,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}
