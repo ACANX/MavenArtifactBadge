@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Tanstack Query Core",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-tanstack-query-core-js",
-  "version_latest": "2025.7.15-5.83.0",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796222680,
+  "version_latest": "2025.8.0-5.83.0",
+  "ts_publish": 1754051419000,
+  "ts_update": 1754052141615,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

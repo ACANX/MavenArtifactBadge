@@ -3,9 +3,9 @@
   "description": "Helper for `kotlin-js`",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-js-core",
-  "version_latest": "2025.7.15",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796224516,
+  "version_latest": "2025.8.0",
+  "ts_publish": 1754051419000,
+  "ts_update": 1754052141619,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [

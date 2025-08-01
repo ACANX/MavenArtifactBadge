@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Tanstack React Query",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-tanstack-react-query-js",
-  "version_latest": "2025.7.15-5.83.0",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796224073,
+  "version_latest": "2025.8.0-5.83.0",
+  "ts_publish": 1754051419000,
+  "ts_update": 1754052139729,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
