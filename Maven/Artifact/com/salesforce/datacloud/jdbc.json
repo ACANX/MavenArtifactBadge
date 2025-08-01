@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.salesforce.datacloud/jdbc",
+  "description": "Salesforce Data Cloud JDBC driver",
+  "group_id": "com.salesforce.datacloud",
+  "artifact_id": "jdbc",
+  "version_latest": "0.33.0",
+  "ts_publish": 1754088606000,
+  "ts_update": 1754088845992,
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
