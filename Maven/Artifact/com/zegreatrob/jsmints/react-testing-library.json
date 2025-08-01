@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.zegreatrob.jsmints/react-testing-library",
+  "description": "react-testing-library",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "react-testing-library",
-  "latest_version": "6.6.24",
-  "description": "react-testing-library",
-  "id": "pkg:maven/com.zegreatrob.jsmints/react-testing-library",
-  "ts": 1753457285000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "6.6.25",
+  "ts_publish": 1754062108000,
+  "ts_update": 1754062620829,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753457818589
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
