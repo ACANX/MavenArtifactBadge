@@ -3,9 +3,9 @@
   "description": "KSP processor for MustBe validation library.",
   "group_id": "com.suleimanov.kotlin",
   "artifact_id": "mustbe-processor",
-  "version_latest": "0.0.1",
-  "ts_publish": 1754078198000,
-  "ts_update": 1754078826025,
+  "version_latest": "0.0.2",
+  "ts_publish": 1754081469000,
+  "ts_update": 1754082420780,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
