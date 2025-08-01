@@ -3,9 +3,9 @@
   "description": "tencent vectordatabase java sdk.",
   "group_id": "com.tencent.tcvectordb",
   "artifact_id": "vectordatabase-sdk-java",
-  "version_latest": "2.5.2",
-  "ts_publish": 1754031009000,
-  "ts_update": 1754031418214,
+  "version_latest": "2.5.3",
+  "ts_publish": 1754031987000,
+  "ts_update": 1754032620588,
   "count_dep": 69,
   "count_ref": 0,
   "licenses": [

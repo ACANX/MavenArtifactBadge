@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.yingzhuo/spring-turbo-idgen",
+  "description": "Another enhancement library of SpringBoot & SpringFramework",
   "group_id": "com.github.yingzhuo",
   "artifact_id": "spring-turbo-idgen",
-  "latest_version": "3.5.4",
-  "description": "Another enhancement library of SpringBoot & SpringFramework",
-  "id": "pkg:maven/com.github.yingzhuo/spring-turbo-idgen",
-  "ts": 1753400986000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.5.4-1",
+  "ts_publish": 1754031982000,
+  "ts_update": 1754032620590,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753402025125
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

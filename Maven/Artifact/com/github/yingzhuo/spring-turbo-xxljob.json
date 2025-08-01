@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/com.github.yingzhuo/spring-turbo-jwt",
+  "id": "pkg:maven/com.github.yingzhuo/spring-turbo-xxljob",
   "description": "Another enhancement library of SpringBoot & SpringFramework",
   "group_id": "com.github.yingzhuo",
-  "artifact_id": "spring-turbo-jwt",
+  "artifact_id": "spring-turbo-xxljob",
   "version_latest": "3.5.4-1",
-  "ts_publish": 1754031988000,
-  "ts_update": 1754032620588,
-  "count_dep": 8,
-  "count_ref": 1,
+  "ts_publish": 1754032001000,
+  "ts_update": 1754032620585,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
