@@ -3,10 +3,10 @@
   "description": "Jetpack UI Components for Self",
   "group_id": "com.joinself",
   "artifact_id": "mobile-ui",
-  "version_latest": "1.0.5",
-  "ts_publish": 1753780006000,
-  "ts_update": 1753781004573,
-  "count_dep": 37,
+  "version_latest": "1.0.6",
+  "ts_publish": 1754033711000,
+  "ts_update": 1754034040280,
+  "count_dep": 33,
   "count_ref": 0,
   "licenses": [
     "The MIT License"
