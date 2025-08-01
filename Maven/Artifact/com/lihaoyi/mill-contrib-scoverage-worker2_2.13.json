@@ -3,10 +3,10 @@
   "description": "mill-contrib-scoverage-worker2",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scoverage-worker2_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037101000,
-  "ts_update": 1754038016230,
-  "count_dep": 30,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044351000,
+  "ts_update": 1754045033730,
+  "count_dep": 15,
   "count_ref": 0,
   "licenses": [
     "MIT"

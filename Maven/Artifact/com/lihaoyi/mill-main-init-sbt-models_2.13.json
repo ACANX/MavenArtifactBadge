@@ -3,9 +3,9 @@
   "description": "mill-main-init-sbt-models",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-main-init-sbt-models_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037205000,
-  "ts_update": 1754038015835,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044373000,
+  "ts_update": 1754045033099,
   "count_dep": 91,
   "count_ref": 1,
   "licenses": [

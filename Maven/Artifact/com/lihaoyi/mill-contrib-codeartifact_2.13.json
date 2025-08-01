@@ -3,9 +3,9 @@
   "description": "mill-contrib-codeartifact",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-codeartifact_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037072000,
-  "ts_update": 1754037423578,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044342000,
+  "ts_update": 1754045033735,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

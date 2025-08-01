@@ -3,9 +3,9 @@
   "description": "mill-scalalib-classgraph-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-scalalib-classgraph-worker_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037238000,
-  "ts_update": 1754038015482,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044383000,
+  "ts_update": 1754045032507,
   "count_dep": 25,
   "count_ref": 0,
   "licenses": [

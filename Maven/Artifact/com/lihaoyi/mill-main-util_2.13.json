@@ -3,11 +3,11 @@
   "description": "mill-main-util",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-main-util_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037221000,
-  "ts_update": 1754038015484,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044378000,
+  "ts_update": 1754045032510,
   "count_dep": 63,
-  "count_ref": 18,
+  "count_ref": 17,
   "licenses": [
     "MIT"
   ],

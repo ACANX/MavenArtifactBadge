@@ -3,10 +3,10 @@
   "description": "mill-kotlinlib-worker-impl",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-kotlinlib-worker-impl_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037179000,
-  "ts_update": 1754038015839,
-  "count_dep": 101,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044375000,
+  "ts_update": 1754045033098,
+  "count_dep": 23,
   "count_ref": 0,
   "licenses": [
     "MIT"

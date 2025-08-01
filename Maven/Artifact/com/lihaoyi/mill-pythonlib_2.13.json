@@ -3,11 +3,11 @@
   "description": "mill-pythonlib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-pythonlib_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037220000,
-  "ts_update": 1754038015485,
-  "count_dep": 9,
-  "count_ref": 5,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044378000,
+  "ts_update": 1754045032509,
+  "count_dep": 96,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],

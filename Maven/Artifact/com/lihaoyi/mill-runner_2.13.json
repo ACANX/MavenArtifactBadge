@@ -3,11 +3,11 @@
   "description": "mill-runner",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037235000,
-  "ts_update": 1754038015482,
-  "count_dep": 111,
-  "count_ref": 6,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044386000,
+  "ts_update": 1754045032506,
+  "count_dep": 119,
+  "count_ref": 7,
   "licenses": [
     "MIT"
   ],

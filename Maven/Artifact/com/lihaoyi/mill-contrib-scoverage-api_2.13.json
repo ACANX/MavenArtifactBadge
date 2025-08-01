@@ -3,11 +3,11 @@
   "description": "mill-contrib-scoverage-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scoverage-api_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037097000,
-  "ts_update": 1754037423574,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044349000,
+  "ts_update": 1754045033731,
   "count_dep": 9,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],

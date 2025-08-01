@@ -3,9 +3,9 @@
   "description": "mill-testkit",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-testkit_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037253000,
-  "ts_update": 1754038015479,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044388000,
+  "ts_update": 1754045032504,
   "count_dep": 96,
   "count_ref": 0,
   "licenses": [

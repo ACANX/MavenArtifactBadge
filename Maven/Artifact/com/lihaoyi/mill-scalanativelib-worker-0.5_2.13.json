@@ -3,9 +3,9 @@
   "description": "mill-scalanativelib-worker-0.5",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-scalanativelib-worker-0.5_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037249000,
-  "ts_update": 1754038015479,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044386000,
+  "ts_update": 1754045032505,
   "count_dep": 22,
   "count_ref": 0,
   "licenses": [

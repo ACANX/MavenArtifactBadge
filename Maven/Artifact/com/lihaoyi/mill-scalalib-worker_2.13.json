@@ -3,9 +3,9 @@
   "description": "mill-scalalib-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-scalalib-worker_2.13",
-  "version_latest": "0.12.14-24-a219fe",
-  "ts_publish": 1754037245000,
-  "ts_update": 1754038015480,
+  "version_latest": "0.12.15",
+  "ts_publish": 1754044385000,
+  "ts_update": 1754045032506,
   "count_dep": 63,
   "count_ref": 0,
   "licenses": [
