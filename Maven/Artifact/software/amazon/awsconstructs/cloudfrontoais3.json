@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS Cloudfront to AWS S3 integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "cloudfrontoais3",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622901,
+  "version_latest": "2.90.1",
+  "ts_publish": 1754084841000,
+  "ts_update": 1754085340763,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [

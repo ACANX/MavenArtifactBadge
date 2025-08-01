@@ -3,9 +3,9 @@
   "description": "Resource CDK Constructs for patterns library",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "resources",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906621375,
+  "version_latest": "2.90.1",
+  "ts_publish": 1754084841000,
+  "ts_update": 1754085339669,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS IoT to AWS SQS integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "iotsqs",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622901,
+  "version_latest": "2.90.1",
+  "ts_publish": 1754084841000,
+  "ts_update": 1754085340759,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

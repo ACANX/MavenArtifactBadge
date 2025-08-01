@@ -3,9 +3,9 @@
   "description": "CDK constructs for defining an interaction between an API Gateway and a Lambda function.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "apigatewaylambda",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906621898,
+  "version_latest": "2.90.1",
+  "ts_publish": 1754084841000,
+  "ts_update": 1754085339126,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [
