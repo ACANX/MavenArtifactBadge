@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.vmlens/trace-agent-bootstrap",
+  "description": "parent pom",
   "group_id": "com.vmlens",
   "artifact_id": "trace-agent-bootstrap",
-  "latest_version": "1.2.7",
-  "description": "parent pom",
-  "id": "pkg:maven/com.vmlens/trace-agent-bootstrap",
-  "ts": 1753366455000,
-  "dependency_count": 6,
-  "ref_count": 7,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "1.2.9",
+  "ts_publish": 1754034441000,
+  "ts_update": 1754035019692,
+  "count_dep": 5,
+  "count_ref": 6,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753367218403
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }
