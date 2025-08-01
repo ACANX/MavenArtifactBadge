@@ -3,9 +3,9 @@
   "description": "Flux Capacitor provides messaging-as-a-service for distributed applications.",
   "group_id": "io.flux-capacitor",
   "artifact_id": "flux-capacitor-client",
-  "version_latest": "0.1222.0",
-  "ts_publish": 1754024176000,
-  "ts_update": 1754024821139,
+  "version_latest": "0.1223.0",
+  "ts_publish": 1754026457000,
+  "ts_update": 1754027220690,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [
