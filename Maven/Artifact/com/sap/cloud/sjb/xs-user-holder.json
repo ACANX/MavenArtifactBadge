@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.sap.cloud.sjb/xs-user-holder",
+  "description": "Use this library to access user information during authentication and authorization when using SAP BTP Security Services Integration Libraries (https://github.com/SAP/cloud-security-services-integration-library)",
   "group_id": "com.sap.cloud.sjb",
   "artifact_id": "xs-user-holder",
-  "latest_version": "2.15.0",
-  "description": "Use this library to access user information during authentication and authorization when using SAP BTP Security Services Integration Libraries (https://github.com/SAP/cloud-security-services-integration-library)",
-  "id": "pkg:maven/com.sap.cloud.sjb/xs-user-holder",
-  "ts": 1753741347000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.16.0",
+  "ts_publish": 1754086264000,
+  "ts_update": 1754087220864,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "SAP DEVELOPER LICENSE AGREEMENT"
   ],
-  "last_updated": 1753741618981
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
