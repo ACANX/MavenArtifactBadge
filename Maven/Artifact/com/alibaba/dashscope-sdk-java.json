@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.alibaba/dashscope-sdk-java",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.alibaba",
   "artifact_id": "dashscope-sdk-java",
-  "latest_version": "2.21.0",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.alibaba/dashscope-sdk-java",
-  "ts": 1753272738000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": [
-    "Other"
-  ],
+  "version_latest": "2.21.1",
+  "ts_publish": 1754028009000,
+  "ts_update": 1754028418083,
+  "count_dep": 31,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753273621819
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
 }
