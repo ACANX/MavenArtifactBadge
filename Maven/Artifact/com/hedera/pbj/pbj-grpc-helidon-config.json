@@ -3,9 +3,9 @@
   "description": "Configuration for a Helidon gRPC plugin for PBJ",
   "group_id": "com.hedera.pbj",
   "artifact_id": "pbj-grpc-helidon-config",
-  "version_latest": "0.11.12",
-  "ts_publish": 1753897655000,
-  "ts_update": 1753898817362,
+  "version_latest": "0.11.13",
+  "ts_publish": 1754069552000,
+  "ts_update": 1754069861214,
   "count_dep": 13,
   "count_ref": 1,
   "licenses": [
