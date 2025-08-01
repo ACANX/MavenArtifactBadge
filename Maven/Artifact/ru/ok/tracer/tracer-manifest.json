@@ -3,9 +3,9 @@
   "description": "Tracer is a service from OK.Tech for collecting and analyzing errors in mobile applications for iOS and Android",
   "group_id": "ru.ok.tracer",
   "artifact_id": "tracer-manifest",
-  "version_latest": "1.1.2-rc.1",
-  "ts_publish": 1753879133000,
-  "ts_update": 1753879626635,
+  "version_latest": "1.1.2",
+  "ts_publish": 1754059806000,
+  "ts_update": 1754060820066,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [
