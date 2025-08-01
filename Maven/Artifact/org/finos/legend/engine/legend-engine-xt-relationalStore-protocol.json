@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-protocol",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-relationalStore-protocol",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-protocol",
-  "ts": 1753345439000,
-  "dependency_count": 66,
-  "ref_count": 10,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036830233,
+  "count_dep": 10,
+  "count_ref": 74,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346832593
+  "dsv": 1
 }

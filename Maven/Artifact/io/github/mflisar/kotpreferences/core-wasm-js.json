@@ -3,9 +3,9 @@
   "description": "KotPreferences - core module - this is the core module of the library",
   "group_id": "io.github.mflisar.kotpreferences",
   "artifact_id": "core-wasm-js",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753885697000,
-  "ts_update": 1753886818980,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754035434000,
+  "ts_update": 1754036823438,
   "count_dep": 3,
   "count_ref": 2,
   "licenses": [

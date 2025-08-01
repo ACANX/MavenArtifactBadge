@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-diagram-pure-metamodel",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-diagram-pure-metamodel",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-diagram-pure-metamodel",
-  "ts": 1753389041000,
-  "dependency_count": 0,
-  "ref_count": 8,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036825160,
+  "count_dep": 8,
+  "count_ref": 11,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390018990
+  "dsv": 1
 }

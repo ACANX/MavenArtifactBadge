@@ -3,9 +3,9 @@
   "description": "KotPreferences - storage-datastore module - provides a storage implementation based on jetpack datastore",
   "group_id": "io.github.mflisar.kotpreferences",
   "artifact_id": "storage-datastore-macosarm64",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753885697000,
-  "ts_update": 1753886818981,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754035434000,
+  "ts_update": 1754036823439,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

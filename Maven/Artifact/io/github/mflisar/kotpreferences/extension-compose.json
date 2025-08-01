@@ -3,9 +3,9 @@
   "description": "KotPreferences - extension-compose module - provides composable extensions",
   "group_id": "io.github.mflisar.kotpreferences",
   "artifact_id": "extension-compose",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753885697000,
-  "ts_update": 1753886819722,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754035434000,
+  "ts_update": 1754036823843,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

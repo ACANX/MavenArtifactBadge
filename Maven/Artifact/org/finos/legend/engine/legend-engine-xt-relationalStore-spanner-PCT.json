@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-spanner-PCT",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-relationalStore-spanner-PCT",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-spanner-PCT",
-  "ts": 1753345440000,
-  "dependency_count": 1,
-  "ref_count": 31,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036835265,
+  "count_dep": 31,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346826094
+  "dsv": 1
 }

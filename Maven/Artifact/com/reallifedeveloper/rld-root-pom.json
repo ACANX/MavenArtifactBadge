@@ -3,9 +3,9 @@
   "description": "The common grandfather of all POMs and BOMs uesd by RealLifeDeveloper projects.",
   "group_id": "com.reallifedeveloper",
   "artifact_id": "rld-root-pom",
-  "version_latest": "9",
-  "ts_publish": 1753792688000,
-  "ts_update": 1753795618975,
+  "version_latest": "10",
+  "ts_publish": 1754035380000,
+  "ts_update": 1754036824288,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

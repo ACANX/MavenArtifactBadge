@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-logical-plan",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-persistence-component-logical-plan",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-logical-plan",
-  "ts": 1753345440000,
-  "dependency_count": 11,
-  "ref_count": 5,
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036834857,
+  "count_dep": 5,
+  "count_ref": 11,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346826099
+  "dsv": 1
 }

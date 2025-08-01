@@ -3,9 +3,9 @@
   "description": "KotPreferences - storage-keyvalue module - provides a storage implementation based on a simple key-value text file",
   "group_id": "io.github.mflisar.kotpreferences",
   "artifact_id": "storage-keyvalue-iosx64",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753885697000,
-  "ts_update": 1753886819721,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754035434000,
+  "ts_update": 1754036823435,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
