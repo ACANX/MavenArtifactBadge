@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aliyun/eds_aic20230930",
+  "description": "Alibaba Cloud eds-aic (20230930) SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "eds_aic20230930",
-  "latest_version": "3.9.0",
-  "description": "Alibaba Cloud eds-aic (20230930) SDK for Java",
-  "id": "pkg:maven/com.aliyun/eds_aic20230930",
-  "ts": 1753723154000,
-  "dependency_count": 0,
-  "ref_count": 20,
-  "categories": [
-    "Software Development Kit"
-  ],
+  "version_latest": "3.10.0",
+  "ts_publish": 1754028579000,
+  "ts_update": 1754029618207,
+  "count_dep": 20,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753723542925
+  "categories": [
+    "Software Development Kit"
+  ],
+  "dsv": 1
 }
