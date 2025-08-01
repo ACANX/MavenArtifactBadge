@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.jsonjoy.com/util",
+  "description": "Various helper utilities",
   "group_id": "org.mvnpm.at.jsonjoy.com",
   "artifact_id": "util",
-  "latest_version": "1.8.0",
-  "description": "Various helper utilities",
-  "id": "pkg:maven/org.mvnpm.at.jsonjoy.com/util",
-  "ts": 1753474144000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "1.8.1",
+  "ts_publish": 1754065455000,
+  "ts_update": 1754066224952,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753474617754
+  "categories": null,
+  "dsv": 1
 }

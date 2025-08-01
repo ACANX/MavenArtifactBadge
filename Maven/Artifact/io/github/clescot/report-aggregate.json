@@ -3,9 +3,9 @@
   "description": "Aggregate Coverage Report module.",
   "group_id": "io.github.clescot",
   "artifact_id": "report-aggregate",
-  "version_latest": "0.8.61",
-  "ts_publish": 1754064139000,
-  "ts_update": 1754065018121,
+  "version_latest": "0.8.62",
+  "ts_publish": 1754065415000,
+  "ts_update": 1754066224954,
   "count_dep": 108,
   "count_ref": 0,
   "licenses": [
