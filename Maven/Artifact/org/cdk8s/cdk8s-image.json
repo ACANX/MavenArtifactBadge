@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.cdk8s/cdk8s-image",
+  "description": "Build & Push local docker images inside CDK8s applications",
+  "group_id": "org.cdk8s",
+  "artifact_id": "cdk8s-image",
+  "version_latest": "0.2.694",
+  "ts_publish": 1754050793000,
+  "ts_update": 1754051219806,
+  "count_dep": 14,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
