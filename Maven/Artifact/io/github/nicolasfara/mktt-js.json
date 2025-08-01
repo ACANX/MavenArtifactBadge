@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.nicolasfara/mktt-js",
+  "description": "A Kotlin multiplatform MQTT client library.",
+  "group_id": "io.github.nicolasfara",
+  "artifact_id": "mktt-js",
+  "version_latest": "2.0.1-dev06+85e081a",
+  "ts_publish": 1754067295000,
+  "ts_update": 1754068025825,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
