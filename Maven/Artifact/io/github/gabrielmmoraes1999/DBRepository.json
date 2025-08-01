@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.gabrielmmoraes1999/DBRepository",
+  "description": "Gerenciador de banco de dados.",
   "group_id": "io.github.gabrielmmoraes1999",
   "artifact_id": "DBRepository",
-  "latest_version": "1.4.2",
-  "description": "Gerenciador de banco de dados.",
-  "id": "pkg:maven/io.github.gabrielmmoraes1999/DBRepository",
-  "ts": 1753399526000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "1.5.0",
+  "ts_publish": 1754009345000,
+  "ts_update": 1754009821416,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753400016286
+  "categories": null,
+  "dsv": 1
 }
