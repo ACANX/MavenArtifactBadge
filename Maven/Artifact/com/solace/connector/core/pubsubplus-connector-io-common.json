@@ -3,9 +3,9 @@
   "description": "Common library for I/O with the PubSub+ Connector Framework",
   "group_id": "com.solace.connector.core",
   "artifact_id": "pubsubplus-connector-io-common",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823260,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056843000,
+  "ts_update": 1754057823320,
   "count_dep": 58,
   "count_ref": 1,
   "licenses": [

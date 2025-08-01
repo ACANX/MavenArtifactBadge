@@ -3,9 +3,9 @@
   "description": "Annotations for transformation modules",
   "group_id": "com.solace.connector.core.transform",
   "artifact_id": "pubsubplus-connector-transform-annotations",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823633,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056842000,
+  "ts_update": 1754057824709,
   "count_dep": 0,
   "count_ref": 5,
   "licenses": [

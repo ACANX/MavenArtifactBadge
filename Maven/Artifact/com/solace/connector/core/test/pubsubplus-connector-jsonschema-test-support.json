@@ -3,9 +3,9 @@
   "description": "Utilities to help test JSON schemas for PubSub+ Connectors",
   "group_id": "com.solace.connector.core.test",
   "artifact_id": "pubsubplus-connector-jsonschema-test-support",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823262,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056843000,
+  "ts_update": 1754057823320,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

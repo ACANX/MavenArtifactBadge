@@ -3,9 +3,9 @@
   "description": "AsciiDoctor resources for PubSub+ Connectors",
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-asciidoctor-resource-bundle",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823636,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056842000,
+  "ts_update": 1754057824711,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
