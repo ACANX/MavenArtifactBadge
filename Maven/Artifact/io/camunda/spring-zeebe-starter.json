@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.camunda/spring-zeebe-starter",
+  "description": "This POM defines the required plugins and profiles to allow a Camunda Community Hub release build.\n        Inherit this POM when you want to use https://github.com/camunda-community-hub/community-action-maven-release",
+  "group_id": "io.camunda",
+  "artifact_id": "spring-zeebe-starter",
+  "version_latest": "8.5.20-rc1",
+  "ts_publish": 1754058276000,
+  "ts_update": 1754059019686,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

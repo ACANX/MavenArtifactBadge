@@ -3,9 +3,9 @@
   "description": "QuickJS runtime for Taler",
   "group_id": "net.taler",
   "artifact_id": "qtart",
-  "version_latest": "1.0.26",
-  "ts_publish": 1753910559000,
-  "ts_update": 1753914425380,
+  "version_latest": "1.0.27",
+  "ts_publish": 1754058292000,
+  "ts_update": 1754059019114,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
