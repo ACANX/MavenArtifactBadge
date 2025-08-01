@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.beangle.doc/beangle-doc-excel",
+  "description": "The Beangle Doc Library",
   "group_id": "org.beangle.doc",
   "artifact_id": "beangle-doc-excel",
-  "latest_version": "0.4.15",
-  "description": "The Beangle Doc Library",
-  "id": "pkg:maven/org.beangle.doc/beangle-doc-excel",
-  "ts": 1753629089000,
-  "dependency_count": 1,
-  "ref_count": 24,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.4.16",
+  "ts_publish": 1754046836000,
+  "ts_update": 1754047622164,
+  "count_dep": 24,
+  "count_ref": 1,
   "licenses": [
     "GNU Lesser General Public License version 3"
   ],
-  "last_updated": 1753629901205
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.beangle.doc/beangle-doc-docx",
+  "description": "The Beangle Doc Library",
   "group_id": "org.beangle.doc",
   "artifact_id": "beangle-doc-docx",
-  "latest_version": "0.4.15",
-  "description": "The Beangle Doc Library",
-  "id": "pkg:maven/org.beangle.doc/beangle-doc-docx",
-  "ts": 1753629089000,
-  "dependency_count": 0,
-  "ref_count": 23,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.4.16",
+  "ts_publish": 1754046836000,
+  "ts_update": 1754047622164,
+  "count_dep": 23,
+  "count_ref": 0,
   "licenses": [
     "GNU Lesser General Public License version 3"
   ],
-  "last_updated": 1753629901204
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

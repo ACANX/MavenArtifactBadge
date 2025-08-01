@@ -3,11 +3,11 @@
   "description": "This is the core project of Sqlbean.",
   "group_id": "cn.vonce",
   "artifact_id": "vonce-sqlbean-core",
-  "version_latest": "1.7.0-beta10",
-  "ts_publish": 1753781137000,
-  "ts_update": 1753783025525,
+  "version_latest": "1.7.0-beta11",
+  "ts_publish": 1754046812000,
+  "ts_update": 1754047622166,
   "count_dep": 2,
-  "count_ref": 2,
+  "count_ref": 4,
   "licenses": [
     "The MIT License"
   ],
