@@ -3,11 +3,11 @@
   "description": "Shaded version of dependencies used only for internal OpenMetadata code.",
   "group_id": "org.open-metadata",
   "artifact_id": "elasticsearch-deps",
-  "version_latest": "1.8.8",
-  "ts_publish": 1753886755000,
-  "ts_update": 1753887541856,
+  "version_latest": "1.8.9",
+  "ts_publish": 1754052648000,
+  "ts_update": 1754053024562,
   "count_dep": 0,
-  "count_ref": 2,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
