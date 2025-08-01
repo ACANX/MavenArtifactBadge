@@ -3,9 +3,9 @@
   "description": "java object query distributed connector",
   "group_id": "com.easy-query",
   "artifact_id": "easy-query-all",
-  "version_latest": "3.0.63",
-  "ts_publish": 1754013885000,
-  "ts_update": 1754014622873,
+  "version_latest": "3.0.64",
+  "ts_publish": 1754018321000,
+  "ts_update": 1754018822742,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

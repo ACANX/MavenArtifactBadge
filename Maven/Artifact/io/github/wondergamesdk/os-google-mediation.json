@@ -3,9 +3,9 @@
   "description": "WonderGame海外Google应用市场多聚合SDK",
   "group_id": "io.github.wondergamesdk",
   "artifact_id": "os-google-mediation",
-  "version_latest": "1.5.4",
-  "ts_publish": 1753949893000,
-  "ts_update": 1753950422870,
+  "version_latest": "1.5.5",
+  "ts_publish": 1754018302000,
+  "ts_update": 1754018823356,
   "count_dep": 104,
   "count_ref": 0,
   "licenses": [
