@@ -3,9 +3,9 @@
   "description": "EMF compatibility layer for LionWeb",
   "group_id": "io.lionweb.lionweb-java",
   "artifact_id": "lionweb-java-2024.1-emf",
-  "version_latest": "1.0.4",
-  "ts_publish": 1753801201000,
-  "ts_update": 1753801623047,
+  "version_latest": "1.0.5",
+  "ts_publish": 1754037517000,
+  "ts_update": 1754038621233,
   "count_dep": 69,
   "count_ref": 0,
   "licenses": [

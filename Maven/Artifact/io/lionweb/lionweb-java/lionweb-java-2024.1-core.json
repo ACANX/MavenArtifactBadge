@@ -3,9 +3,9 @@
   "description": "Java APIs for the LionWeb system",
   "group_id": "io.lionweb.lionweb-java",
   "artifact_id": "lionweb-java-2024.1-core",
-  "version_latest": "1.0.4",
-  "ts_publish": 1753801201000,
-  "ts_update": 1753801623048,
+  "version_latest": "1.0.5",
+  "ts_publish": 1754037517000,
+  "ts_update": 1754038621233,
   "count_dep": 6,
   "count_ref": 4,
   "licenses": [
