@@ -3,9 +3,9 @@
   "description": "A powerful desktop companion for Android apps, inspect, debug, and control your app in real time.",
   "group_id": "io.github.openflocon",
   "artifact_id": "flocon-grpc-interceptor",
-  "version_latest": "0.0.3",
-  "ts_publish": 1753897834000,
-  "ts_update": 1753898817361,
+  "version_latest": "1.0.0",
+  "ts_publish": 1754133398000,
+  "ts_update": 1754134021037,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
