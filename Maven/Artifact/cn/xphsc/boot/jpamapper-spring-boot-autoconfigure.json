@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/cn.xphsc.boot/jpamapper-spring-boot-autoconfigure",
+  "description": "jpamapper  Spring Boot AutoConfigure 的数据访问层的增强以及SQL SQL注解 支持组件",
+  "group_id": "cn.xphsc.boot",
+  "artifact_id": "jpamapper-spring-boot-autoconfigure",
+  "version_latest": "2.0.4",
+  "ts_publish": 1754139314000,
+  "ts_update": 1754140020390,
+  "count_dep": 61,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
