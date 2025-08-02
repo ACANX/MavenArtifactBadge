@@ -3,9 +3,9 @@
   "description": "CDK constructs for connecting an Amazon Route53 domain to an API Gateway.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "route53apigateway",
-  "version_latest": "2.90.1",
-  "ts_publish": 1754084841000,
-  "ts_update": 1754085340219,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099822007,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

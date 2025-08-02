@@ -3,9 +3,9 @@
   "description": "CDK Constructs for streaming data from AWS Kinesis Data Stream for Glue ETL custom Job processing",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "kinesisstreamsgluejob",
-  "version_latest": "2.90.1",
-  "ts_publish": 1754084841000,
-  "ts_update": 1754085340222,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099822587,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

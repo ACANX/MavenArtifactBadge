@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS Fargate to Amazon OpenSearch Service",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "fargateopensearch",
-  "version_latest": "2.90.1",
-  "ts_publish": 1754084841000,
-  "ts_update": 1754085339674,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099821385,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

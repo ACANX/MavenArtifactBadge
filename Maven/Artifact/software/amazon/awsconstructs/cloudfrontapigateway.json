@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS Cloudfront to AWS API Gateway integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "cloudfrontapigateway",
-  "version_latest": "2.90.1",
-  "ts_publish": 1754084841000,
-  "ts_update": 1754085339132,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099820837,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

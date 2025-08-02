@@ -3,9 +3,9 @@
   "description": "CDK Constructs for Amazon SQS to AWS Step Functions via Amazon EventBridge Pipes integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "sqspipesstepfunctions",
-  "version_latest": "2.90.1",
-  "ts_publish": 1754084841000,
-  "ts_update": 1754085340754,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099822590,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [
