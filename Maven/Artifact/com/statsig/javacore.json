@@ -3,9 +3,9 @@
   "description": "A feature gating and a/b testing java library for statsig",
   "group_id": "com.statsig",
   "artifact_id": "javacore",
-  "version_latest": "0.7.0",
-  "ts_publish": 1754088723000,
-  "ts_update": 1754089020965,
+  "version_latest": "0.7.1-beta.2508020241",
+  "ts_publish": 1754103093000,
+  "ts_update": 1754103420287,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
