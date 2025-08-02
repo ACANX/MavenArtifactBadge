@@ -3,9 +3,9 @@
   "description": "A repository for managing shared build logics between my projects.",
   "group_id": "dev.siroshun.gradle.plugins.aggregated-javadoc-collector",
   "artifact_id": "dev.siroshun.gradle.plugins.aggregated-javadoc-collector.gradle.plugin",
-  "version_latest": "1.4.0",
-  "ts_publish": 1754103885000,
-  "ts_update": 1754104379711,
+  "version_latest": "1.4.1",
+  "ts_publish": 1754104710000,
+  "ts_update": 1754105219430,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
