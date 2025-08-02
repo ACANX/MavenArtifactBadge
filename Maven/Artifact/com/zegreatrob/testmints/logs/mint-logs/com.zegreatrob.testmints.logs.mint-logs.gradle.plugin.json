@@ -3,9 +3,9 @@
   "description": "mint-logs-plugin",
   "group_id": "com.zegreatrob.testmints.logs.mint-logs",
   "artifact_id": "com.zegreatrob.testmints.logs.mint-logs.gradle.plugin",
-  "version_latest": "12.3.10",
-  "ts_publish": 1754063579000,
-  "ts_update": 1754063821043,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162026000,
+  "ts_update": 1754162535038,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
