@@ -3,9 +3,9 @@
   "description": "Functional ADT And Asynchronous library in Java",
   "group_id": "org.smallibs",
   "artifact_id": "hpas",
-  "version_latest": "0.12.2",
-  "ts_publish": 1753881893000,
-  "ts_update": 1753882621761,
+  "version_latest": "0.12.4",
+  "ts_publish": 1754120863000,
+  "ts_update": 1754121419878,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
