@@ -3,9 +3,9 @@
   "description": "plugins",
   "group_id": "com.zegreatrob.jsmints.plugins.ncu",
   "artifact_id": "com.zegreatrob.jsmints.plugins.ncu.gradle.plugin",
-  "version_latest": "6.6.25",
-  "ts_publish": 1754062017000,
-  "ts_update": 1754062621475,
+  "version_latest": "6.6.26",
+  "ts_publish": 1754148335000,
+  "ts_update": 1754149024310,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

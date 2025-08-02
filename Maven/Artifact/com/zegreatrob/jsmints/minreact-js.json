@@ -3,9 +3,9 @@
   "description": "minreact",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "minreact-js",
-  "version_latest": "6.6.25",
-  "ts_publish": 1754062108000,
-  "ts_update": 1754062620826,
+  "version_latest": "6.6.26",
+  "ts_publish": 1754148423000,
+  "ts_update": 1754149023872,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

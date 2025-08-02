@@ -3,9 +3,9 @@
   "description": "wrapper-processor",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "wrapper-processor",
-  "version_latest": "6.6.25",
-  "ts_publish": 1754062108000,
-  "ts_update": 1754062621474,
+  "version_latest": "6.6.26",
+  "ts_publish": 1754148423000,
+  "ts_update": 1754149023879,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
