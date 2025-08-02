@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.labijie.infra/oauth2-commons",
+  "description": "infrastructure for oauth2 library",
+  "group_id": "com.labijie.infra",
+  "artifact_id": "oauth2-commons",
+  "version_latest": "2.1.1",
+  "ts_publish": 1754108470000,
+  "ts_update": 1754108822440,
+  "count_dep": 70,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

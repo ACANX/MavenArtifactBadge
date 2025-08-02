@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.pulumi/junipermist",
+  "description": "A Pulumi package for creating and managing Juniper Mist resources.",
+  "group_id": "com.pulumi",
+  "artifact_id": "junipermist",
+  "version_latest": "0.5.3",
+  "ts_publish": 1754108551000,
+  "ts_update": 1754108822439,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
