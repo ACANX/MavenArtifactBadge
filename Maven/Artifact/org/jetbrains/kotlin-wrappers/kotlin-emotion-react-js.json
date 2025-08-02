@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Emotion React",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-emotion-react-js",
-  "version_latest": "2025.8.0-11.14.0",
-  "ts_publish": 1754051419000,
-  "ts_update": 1754052140355,
+  "version_latest": "2025.8.1-11.14.0",
+  "ts_publish": 1754142314000,
+  "ts_update": 1754142913155,
   "count_dep": 8,
   "count_ref": 1,
   "licenses": [

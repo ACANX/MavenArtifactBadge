@@ -3,9 +3,9 @@
   "description": "Kotlin Wrappers BOM",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-wrappers-bom",
-  "version_latest": "2025.7.15",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796223095,
+  "version_latest": "2025.8.1",
+  "ts_publish": 1754142314000,
+  "ts_update": 1754142911735,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

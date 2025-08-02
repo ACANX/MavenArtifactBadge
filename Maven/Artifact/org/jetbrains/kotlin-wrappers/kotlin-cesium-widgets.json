@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for CesiumJS",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-cesium-widgets",
-  "version_latest": "2025.8.0-12.3.0",
-  "ts_publish": 1754051419000,
-  "ts_update": 1754052138916,
+  "version_latest": "2025.8.1-13.0.0",
+  "ts_publish": 1754142314000,
+  "ts_update": 1754142911741,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

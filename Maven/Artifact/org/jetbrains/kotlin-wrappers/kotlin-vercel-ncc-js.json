@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for @vercel/ncc",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-vercel-ncc-js",
-  "version_latest": "2025.8.0-0.38.3",
-  "ts_publish": 1754051419000,
-  "ts_update": 1754052140360,
+  "version_latest": "2025.8.1-0.38.3",
+  "ts_publish": 1754142314000,
+  "ts_update": 1754142913160,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

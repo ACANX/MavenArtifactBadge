@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for react-beautiful-dnd (rbd)",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-react-beautiful-dnd",
-  "version_latest": "2025.8.0-13.1.1",
-  "ts_publish": 1754051419000,
-  "ts_update": 1754052142207,
+  "version_latest": "2025.8.1-13.1.1",
+  "ts_publish": 1754142314000,
+  "ts_update": 1754142915047,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
