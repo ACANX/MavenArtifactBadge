@@ -3,9 +3,9 @@
   "description": "digger-json",
   "group_id": "com.zegreatrob.tools",
   "artifact_id": "digger-json",
-  "version_latest": "1.8.0",
-  "ts_publish": 1754159508000,
-  "ts_update": 1754160420032,
+  "version_latest": "1.8.1",
+  "ts_publish": 1754160337000,
+  "ts_update": 1754160658926,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

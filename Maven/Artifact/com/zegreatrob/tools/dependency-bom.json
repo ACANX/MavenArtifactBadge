@@ -3,9 +3,9 @@
   "description": "dependency-bom",
   "group_id": "com.zegreatrob.tools",
   "artifact_id": "dependency-bom",
-  "version_latest": "1.8.0",
-  "ts_publish": 1754159508000,
-  "ts_update": 1754160420031,
+  "version_latest": "1.8.1",
+  "ts_publish": 1754160337000,
+  "ts_update": 1754160658928,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
