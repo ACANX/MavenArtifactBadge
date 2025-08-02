@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/mint-logs-iosx64",
+  "description": "mint-logs",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "mint-logs-iosx64",
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162910000,
+  "ts_update": 1754163421911,
+  "count_dep": 13,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
