@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.cponfick/komp-geom-androidnativex86",
+  "description": "A computational geometry library written in the kotlin multiplatform technology.",
   "group_id": "io.github.cponfick",
   "artifact_id": "komp-geom-androidnativex86",
-  "latest_version": "0.3.0-rc1",
-  "description": "A computational geometry library written in the kotlin multiplatform technology.",
-  "id": "pkg:maven/io.github.cponfick/komp-geom-androidnativex86",
-  "ts": 1753514557000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "0.3.0-rc2",
+  "ts_publish": 1754124872000,
+  "ts_update": 1754125623327,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753515419494
+  "categories": null,
+  "dsv": 1
 }
