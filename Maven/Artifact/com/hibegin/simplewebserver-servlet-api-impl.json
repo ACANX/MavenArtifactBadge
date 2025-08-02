@@ -3,9 +3,9 @@
   "description": "Simple, flexible, less dependent, more extended. Less memory footprint, can quickly build Web project.\n        Can quickly run embedded, Android devices",
   "group_id": "com.hibegin",
   "artifact_id": "simplewebserver-servlet-api-impl",
-  "version_latest": "4.0.97",
-  "ts_publish": 1754109497000,
-  "ts_update": 1754109975736,
+  "version_latest": "4.0.98",
+  "ts_publish": 1754112273000,
+  "ts_update": 1754112918908,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
