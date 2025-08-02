@@ -1,11 +1,11 @@
 {
   "id": "pkg:maven/io.github.oshai/kotlin-logging-tvosarm64",
-  "description": "kotlin-logging 7.0.10 - Lightweight logging framework for Kotlin",
+  "description": "kotlin-logging 7.0.11 - Lightweight logging framework for Kotlin",
   "group_id": "io.github.oshai",
   "artifact_id": "kotlin-logging-tvosarm64",
-  "version_latest": "7.0.10",
-  "ts_publish": 1753988399000,
-  "ts_update": 1753988821713,
+  "version_latest": "7.0.11",
+  "ts_publish": 1754176059000,
+  "ts_update": 1754176620470,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
