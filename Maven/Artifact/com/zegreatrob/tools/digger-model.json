@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.tools/digger-model",
+  "description": "digger-model",
+  "group_id": "com.zegreatrob.tools",
+  "artifact_id": "digger-model",
+  "version_latest": "1.8.0",
+  "ts_publish": 1754159508000,
+  "ts_update": 1754160420448,
+  "count_dep": 2,
+  "count_ref": 2,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

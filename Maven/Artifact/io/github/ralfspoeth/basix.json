@@ -3,9 +3,9 @@
   "description": "This project implements some basic data structures\n        missing in terms of purity in the Java libraries, and some\n        useful functions and predicates.",
   "group_id": "io.github.ralfspoeth",
   "artifact_id": "basix",
-  "version_latest": "1.0.14",
-  "ts_publish": 1754081150000,
-  "ts_update": 1754081642813,
+  "version_latest": "1.0.15",
+  "ts_publish": 1754159530000,
+  "ts_update": 1754160420030,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

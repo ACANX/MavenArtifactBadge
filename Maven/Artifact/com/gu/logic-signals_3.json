@@ -3,9 +3,9 @@
   "description": "logic-signals",
   "group_id": "com.gu",
   "artifact_id": "logic-signals_3",
-  "version_latest": "2.2.0",
-  "ts_publish": 1753857777000,
-  "ts_update": 1753858619807,
+  "version_latest": "3.0.0",
+  "ts_publish": 1754160113000,
+  "ts_update": 1754160420029,
   "count_dep": 33,
   "count_ref": 0,
   "licenses": [
