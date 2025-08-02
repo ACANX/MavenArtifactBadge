@@ -3,9 +3,9 @@
   "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-spring-boot-starter-web",
-  "version_latest": "1.1.69",
-  "ts_publish": 1754108976000,
-  "ts_update": 1754109420864,
+  "version_latest": "1.1.70",
+  "ts_publish": 1754122241000,
+  "ts_update": 1754122625280,
   "count_dep": 122,
   "count_ref": 2,
   "licenses": [
