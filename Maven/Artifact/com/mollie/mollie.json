@@ -3,9 +3,9 @@
   "description": "SDK enabling Java developers to easily integrate with the Mollie API.",
   "group_id": "com.mollie",
   "artifact_id": "mollie",
-  "version_latest": "0.14.1",
-  "ts_publish": 1754007314000,
-  "ts_update": 1754008024464,
+  "version_latest": "0.14.2",
+  "ts_publish": 1754093658000,
+  "ts_update": 1754094422992,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

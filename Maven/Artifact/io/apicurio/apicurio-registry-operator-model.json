@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.apicurio/apicurio-registry-operator-model",
+  "description": "Open Source API & Schema Registry",
   "group_id": "io.apicurio",
   "artifact_id": "apicurio-registry-operator-model",
-  "latest_version": "3.0.10",
-  "description": "Open Source API & Schema Registry",
-  "id": "pkg:maven/io.apicurio/apicurio-registry-operator-model",
-  "ts": 1753283753000,
-  "dependency_count": 1,
-  "ref_count": 56,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.11",
+  "ts_publish": 1754093739000,
+  "ts_update": 1754094421563,
+  "count_dep": 56,
+  "count_ref": 1,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753284419728
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
