@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.glavo.hmcl/hmcl-dev",
+  "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
   "group_id": "org.glavo.hmcl",
   "artifact_id": "hmcl-dev",
-  "latest_version": "3.6.15.287",
-  "description": "A Minecraft Launcher which is multi-functional, cross-platform and popular",
-  "id": "pkg:maven/org.glavo.hmcl/hmcl-dev",
-  "ts": 1753590796000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.6.15.288",
+  "ts_publish": 1754161003000,
+  "ts_update": 1754161248704,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "GPL 3.0"
   ],
-  "last_updated": 1753591618622
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
