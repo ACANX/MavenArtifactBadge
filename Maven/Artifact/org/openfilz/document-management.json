@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.openfilz/document-management",
+  "description": "OpenFilz - Document Management API",
   "group_id": "org.openfilz",
   "artifact_id": "document-management",
-  "latest_version": "1.0.43",
-  "description": "OpenFilz - Document Management API",
-  "id": "pkg:maven/org.openfilz/document-management",
-  "ts": 1753699677000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.0.47",
+  "ts_publish": 1754167561000,
+  "ts_update": 1754168205913,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753700219603
+  "categories": null,
+  "dsv": 1
 }
