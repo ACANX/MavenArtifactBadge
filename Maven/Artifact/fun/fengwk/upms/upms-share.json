@@ -3,9 +3,9 @@
   "description": "UPMS Share",
   "group_id": "fun.fengwk.upms",
   "artifact_id": "upms-share",
-  "version_latest": "1.0.22",
-  "ts_publish": 1754106511000,
-  "ts_update": 1754107021007,
+  "version_latest": "1.0.23",
+  "ts_publish": 1754109795000,
+  "ts_update": 1754110618567,
   "count_dep": 94,
   "count_ref": 0,
   "licenses": [
