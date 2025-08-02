@@ -3,9 +3,9 @@
   "description": "mill-core-exec",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-exec_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791098000,
-  "ts_update": 1753795628252,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098347000,
+  "ts_update": 1754099222934,
   "count_dep": 28,
   "count_ref": 3,
   "licenses": [

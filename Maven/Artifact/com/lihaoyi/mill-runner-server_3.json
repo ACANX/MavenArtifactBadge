@@ -3,9 +3,9 @@
   "description": "mill-runner-server",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-server_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791288000,
-  "ts_update": 1753795620333,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098486000,
+  "ts_update": 1754099221781,
   "count_dep": 79,
   "count_ref": 2,
   "licenses": [

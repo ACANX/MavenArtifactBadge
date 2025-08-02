@@ -3,10 +3,10 @@
   "description": "mill-libs-javalib-jarjarabrams-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-jarjarabrams-worker_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791177000,
-  "ts_update": 1753795627581,
-  "count_dep": 36,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098411000,
+  "ts_update": 1754099222362,
+  "count_dep": 56,
   "count_ref": 0,
   "licenses": [
     "MIT"

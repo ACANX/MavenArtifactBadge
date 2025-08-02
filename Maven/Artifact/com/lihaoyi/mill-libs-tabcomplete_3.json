@@ -3,9 +3,9 @@
   "description": "mill-libs-tabcomplete",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-tabcomplete_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791249000,
-  "ts_update": 1753795626848,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098464000,
+  "ts_update": 1754099221785,
   "count_dep": 27,
   "count_ref": 1,
   "licenses": [

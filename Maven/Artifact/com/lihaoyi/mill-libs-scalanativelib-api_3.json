@@ -3,11 +3,11 @@
   "description": "mill-libs-scalanativelib-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalanativelib-api_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791239000,
-  "ts_update": 1753795626849,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098457000,
+  "ts_update": 1754099221787,
   "count_dep": 8,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],

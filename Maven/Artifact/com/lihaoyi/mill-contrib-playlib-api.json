@@ -3,9 +3,9 @@
   "description": "mill-contrib-playlib-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-playlib-api",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791046000,
-  "ts_update": 1753795628951,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098306000,
+  "ts_update": 1754099223391,
   "count_dep": 0,
   "count_ref": 6,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "mill-core-internal",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-internal_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791102000,
-  "ts_update": 1753795628252,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098350000,
+  "ts_update": 1754099222933,
   "count_dep": 35,
   "count_ref": 8,
   "licenses": [

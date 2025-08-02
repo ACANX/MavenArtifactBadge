@@ -3,9 +3,9 @@
   "description": "mill-libs-scalanativelib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalanativelib_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791241000,
-  "ts_update": 1753795626849,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098459000,
+  "ts_update": 1754099221786,
   "count_dep": 10,
   "count_ref": 2,
   "licenses": [

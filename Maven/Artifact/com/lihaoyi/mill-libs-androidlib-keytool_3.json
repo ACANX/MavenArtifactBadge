@@ -3,10 +3,10 @@
   "description": "mill-libs-androidlib-keytool",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-androidlib-keytool_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791140000,
-  "ts_update": 1753795628249,
-  "count_dep": 17,
+  "version_latest": "1.0.2-15-ec8f45",
+  "ts_publish": 1754098380000,
+  "ts_update": 1754099222932,
+  "count_dep": 15,
   "count_ref": 0,
   "licenses": [
     "MIT"
