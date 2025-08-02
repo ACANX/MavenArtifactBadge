@@ -3,9 +3,9 @@
   "description": "core",
   "group_id": "com.madgag.play-git-hub",
   "artifact_id": "core_2.13",
-  "version_latest": "8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1715.4f38c47f",
-  "ts_publish": 1754155183000,
-  "ts_update": 1754155620896,
+  "version_latest": "8.0.0-PREVIEW.add-support-for-getting-authenticated-github-app.2025-08-02T1821.298572ed",
+  "ts_publish": 1754159125000,
+  "ts_update": 1754159822386,
   "count_dep": 73,
   "count_ref": 1,
   "licenses": [

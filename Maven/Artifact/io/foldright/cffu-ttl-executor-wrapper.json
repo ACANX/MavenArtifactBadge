@@ -3,9 +3,9 @@
   "description": "cffu executor wrapper provider for TTL",
   "group_id": "io.foldright",
   "artifact_id": "cffu-ttl-executor-wrapper",
-  "version_latest": "1.1.8",
-  "ts_publish": 1753809973000,
-  "ts_update": 1753810623185,
+  "version_latest": "1.1.9",
+  "ts_publish": 1754159458000,
+  "ts_update": 1754159821576,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [
