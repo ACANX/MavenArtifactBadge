@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/solon-security-validation",
+  "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-security-validation",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear/solon-security-validation",
-  "ts": 1753692864000,
-  "dependency_count": 4,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122410000,
+  "ts_update": 1754123175920,
+  "count_dep": 2,
+  "count_ref": 4,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693626721
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
