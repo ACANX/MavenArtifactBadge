@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/io.helidon.build-tools.archetype/helidon-archetype-engine-v1",
+  "id": "pkg:maven/io.helidon.build-tools.cli/helidon-cli-harness",
   "description": "Build tools for the Helidon project(s)",
-  "group_id": "io.helidon.build-tools.archetype",
-  "artifact_id": "helidon-archetype-engine-v1",
+  "group_id": "io.helidon.build-tools.cli",
+  "artifact_id": "helidon-cli-harness",
   "version_latest": "4.0.19",
   "ts_publish": 1754171792000,
-  "ts_update": 1754172994995,
+  "ts_update": 1754172995436,
   "count_dep": 8,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "Apache 2.0"
   ],
