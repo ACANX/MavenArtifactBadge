@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/action-js",
+  "description": "action",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "action-js",
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162383000,
+  "ts_update": 1754162821760,
+  "count_dep": 3,
+  "count_ref": 2,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

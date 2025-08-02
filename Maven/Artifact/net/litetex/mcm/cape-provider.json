@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/net.litetex.mcm/cape-provider",
+  "description": "Use capes from various providers",
   "group_id": "net.litetex.mcm",
   "artifact_id": "cape-provider",
-  "latest_version": "2.2.0",
-  "description": "Use capes from various providers",
-  "id": "pkg:maven/net.litetex.mcm/cape-provider",
-  "ts": 1753473484000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "3.0.0",
+  "ts_publish": 1754162455000,
+  "ts_update": 1754162821220,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "LGPL-2.1-or-later"
   ],
-  "last_updated": 1753474019172
+  "categories": null,
+  "dsv": 1
 }

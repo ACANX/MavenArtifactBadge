@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/testmints-bom",
+  "description": "testmints-bom",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "testmints-bom",
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162383000,
+  "ts_update": 1754162822974,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

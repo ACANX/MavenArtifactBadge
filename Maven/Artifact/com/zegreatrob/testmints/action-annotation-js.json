@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/action-annotation-js",
+  "description": "action-annotation",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "action-annotation-js",
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162383000,
+  "ts_update": 1754162821222,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

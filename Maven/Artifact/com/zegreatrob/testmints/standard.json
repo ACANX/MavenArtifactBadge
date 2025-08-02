@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/standard",
+  "description": "standard",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "standard",
+  "version_latest": "12.4.0",
+  "ts_publish": 1754162383000,
+  "ts_update": 1754162821753,
+  "count_dep": 4,
+  "count_ref": 2,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
