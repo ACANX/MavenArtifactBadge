@@ -3,9 +3,9 @@
   "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-agent",
-  "version_latest": "1.1.70",
-  "ts_publish": 1754122241000,
-  "ts_update": 1754122625277,
+  "version_latest": "1.1.71",
+  "ts_publish": 1754149501000,
+  "ts_update": 1754149880745,
   "count_dep": 14,
   "count_ref": 11,
   "licenses": [

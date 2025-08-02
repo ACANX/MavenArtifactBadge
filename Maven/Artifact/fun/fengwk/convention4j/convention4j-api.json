@@ -3,9 +3,9 @@
   "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-api",
-  "version_latest": "1.1.70",
-  "ts_publish": 1754122241000,
-  "ts_update": 1754122625278,
+  "version_latest": "1.1.71",
+  "ts_publish": 1754149501000,
+  "ts_update": 1754149880746,
   "count_dep": 15,
   "count_ref": 16,
   "licenses": [

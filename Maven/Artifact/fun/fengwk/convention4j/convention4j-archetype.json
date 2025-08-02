@@ -3,9 +3,9 @@
   "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-archetype",
-  "version_latest": "1.1.70",
-  "ts_publish": 1754122241000,
-  "ts_update": 1754122624808,
+  "version_latest": "1.1.71",
+  "ts_publish": 1754149501000,
+  "ts_update": 1754149880740,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
