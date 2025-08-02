@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/cloud.trustpin/kotlin-sdk",
+  "description": "Certificate pinning SDK for Android and JVM applications",
+  "group_id": "cloud.trustpin",
+  "artifact_id": "kotlin-sdk",
+  "version_latest": "0.7.0",
+  "ts_publish": 1754145137000,
+  "ts_update": 1754145422002,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "TrustPin Binary License Agreement"
+  ],
+  "categories": null,
+  "dsv": 1
+}
