@@ -3,9 +3,9 @@
   "description": "ZrLog base logic code repo",
   "group_id": "com.hibegin",
   "artifact_id": "zrlog-base",
-  "version_latest": "3.2.68",
-  "ts_publish": 1754064473000,
-  "ts_update": 1754065314774,
+  "version_latest": "3.2.71",
+  "ts_publish": 1754130623000,
+  "ts_update": 1754131021684,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
