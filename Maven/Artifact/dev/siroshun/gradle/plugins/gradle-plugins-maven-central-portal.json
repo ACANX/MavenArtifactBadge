@@ -3,9 +3,9 @@
   "description": "A repository for managing shared build logics between my projects.",
   "group_id": "dev.siroshun.gradle.plugins",
   "artifact_id": "gradle-plugins-maven-central-portal",
-  "version_latest": "1.4.3",
-  "ts_publish": 1754108038000,
-  "ts_update": 1754108822442,
+  "version_latest": "1.4.4",
+  "ts_publish": 1754109120000,
+  "ts_update": 1754109420271,
   "count_dep": 0,
   "count_ref": 1,
   "licenses": [
