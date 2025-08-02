@@ -3,9 +3,9 @@
   "description": "wdio-testing-library",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "wdio-testing-library-js",
-  "version_latest": "6.6.26",
-  "ts_publish": 1754148423000,
-  "ts_update": 1754149024309,
+  "version_latest": "6.7.0",
+  "ts_publish": 1754158279000,
+  "ts_update": 1754159151420,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

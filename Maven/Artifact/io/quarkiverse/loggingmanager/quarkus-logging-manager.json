@@ -3,9 +3,9 @@
   "description": "Provides endpoints to visualize and control the log level of your loggers.",
   "group_id": "io.quarkiverse.loggingmanager",
   "artifact_id": "quarkus-logging-manager",
-  "version_latest": "3.3.6",
-  "ts_publish": 1754147434000,
-  "ts_update": 1754147821248,
+  "version_latest": "3.3.7",
+  "ts_publish": 1754158916000,
+  "ts_update": 1754159151414,
   "count_dep": 93,
   "count_ref": 1,
   "licenses": [
