@@ -3,9 +3,9 @@
   "description": "bee-spring-boot",
   "group_id": "org.teasoft",
   "artifact_id": "bee-spring-boot",
-  "version_latest": "2.5.2",
-  "ts_publish": 1754130451000,
-  "ts_update": 1754131021686,
+  "version_latest": "2.5.2.boot2.7.18",
+  "ts_publish": 1754130812000,
+  "ts_update": 1754131255733,
   "count_dep": 13,
   "count_ref": 1,
   "licenses": [
