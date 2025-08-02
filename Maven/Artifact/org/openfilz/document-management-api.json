@@ -3,9 +3,9 @@
   "description": "Document Management Service providing REST APIs",
   "group_id": "org.openfilz",
   "artifact_id": "document-management-api",
-  "version_latest": "1.0.47",
-  "ts_publish": 1754167561000,
-  "ts_update": 1754168205914,
+  "version_latest": "1.0.48",
+  "ts_publish": 1754174771000,
+  "ts_update": 1754175141176,
   "count_dep": 192,
   "count_ref": 0,
   "licenses": [

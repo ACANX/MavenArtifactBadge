@@ -3,9 +3,9 @@
   "description": "Spring Cloud Gateway for Document Management System",
   "group_id": "org.openfilz",
   "artifact_id": "document-management-gateway",
-  "version_latest": "1.0.47",
-  "ts_publish": 1754167561000,
-  "ts_update": 1754168205914,
+  "version_latest": "1.0.48",
+  "ts_publish": 1754174771000,
+  "ts_update": 1754175141177,
   "count_dep": 137,
   "count_ref": 0,
   "licenses": [
