@@ -3,10 +3,10 @@
   "description": null,
   "group_id": "io.github.trimax",
   "artifact_id": "container",
-  "version_latest": "0.5.21",
-  "ts_publish": 1753967018000,
-  "ts_update": 1753967820519,
-  "count_dep": 3,
+  "version_latest": "0.6.1",
+  "ts_publish": 1754215715000,
+  "ts_update": 1754216220332,
+  "count_dep": 6,
   "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
