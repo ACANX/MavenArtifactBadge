@@ -3,9 +3,9 @@
   "description": "Intermediate representations for dex2jar",
   "group_id": "de.femtopedia.dex2jar",
   "artifact_id": "dex-ir",
-  "version_latest": "2.4.30",
-  "ts_publish": 1753821835000,
-  "ts_update": 1753822688370,
+  "version_latest": "2.4.31",
+  "ts_publish": 1754250525000,
+  "ts_update": 1754251022668,
   "count_dep": 2,
   "count_ref": 3,
   "licenses": [
