@@ -3,9 +3,9 @@
   "description": "plugins",
   "group_id": "com.zegreatrob.jsmints.plugins.wdiotest",
   "artifact_id": "com.zegreatrob.jsmints.plugins.wdiotest.gradle.plugin",
-  "version_latest": "6.7.0",
-  "ts_publish": 1754158181000,
-  "ts_update": 1754158620920,
+  "version_latest": "6.7.1",
+  "ts_publish": 1754230258000,
+  "ts_update": 1754230543561,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
