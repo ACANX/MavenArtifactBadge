@@ -3,9 +3,9 @@
   "description": "UDP Client Server",
   "group_id": "io.github.remmerw",
   "artifact_id": "dagr",
-  "version_latest": "0.2.7",
-  "ts_publish": 1754202861000,
-  "ts_update": 1754203618149,
+  "version_latest": "0.2.8",
+  "ts_publish": 1754223234000,
+  "ts_update": 1754223941789,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

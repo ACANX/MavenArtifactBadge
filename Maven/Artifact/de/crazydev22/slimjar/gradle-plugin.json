@@ -3,9 +3,9 @@
   "description": "A simple and robust runtime dependency manager for JVM languages.",
   "group_id": "de.crazydev22.slimjar",
   "artifact_id": "gradle-plugin",
-  "version_latest": "2.1.5",
-  "ts_publish": 1754089321000,
-  "ts_update": 1754089621617,
+  "version_latest": "2.1.6",
+  "ts_publish": 1754223290000,
+  "ts_update": 1754223941788,
   "count_dep": 0,
   "count_ref": 1,
   "licenses": [
