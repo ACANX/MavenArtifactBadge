@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-core",
+  "description": "Core functionality and APIs for dictionary and internationalization management",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-core",
-  "latest_version": "1.0.1",
-  "description": "Core functionality and APIs for dictionary and internationalization management",
-  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-core",
-  "ts": 1753674616000,
-  "dependency_count": 8,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754220363000,
+  "ts_update": 1754220777190,
+  "count_dep": 7,
+  "count_ref": 8,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753675025261
+  "categories": null,
+  "dsv": 1
 }

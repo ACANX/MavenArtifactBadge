@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-parent",
+  "description": "Parent POM for managing dependencies and versions across Dict I18n modules",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-parent",
-  "latest_version": "1.0.1",
-  "description": "Parent POM for managing dependencies and versions across Dict I18n modules",
-  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-parent",
-  "ts": 1753674616000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754220363000,
+  "ts_update": 1754220777194,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753675025264
+  "categories": null,
+  "dsv": 1
 }

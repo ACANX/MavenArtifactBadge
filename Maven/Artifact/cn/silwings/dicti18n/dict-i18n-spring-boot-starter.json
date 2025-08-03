@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-spring-boot-starter",
+  "description": "Spring Boot auto-configuration for seamless integration of Dict I18n",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-spring-boot-starter",
-  "latest_version": "1.0.1",
-  "description": "Spring Boot auto-configuration for seamless integration of Dict I18n",
-  "id": "pkg:maven/cn.silwings.dicti18n/dict-i18n-spring-boot-starter",
-  "ts": 1753674616000,
-  "dependency_count": 1,
-  "ref_count": 42,
-  "categories": null,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754220363000,
+  "ts_update": 1754220777191,
+  "count_dep": 42,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753675025262
+  "categories": null,
+  "dsv": 1
 }
