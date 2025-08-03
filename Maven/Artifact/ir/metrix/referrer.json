@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/ir.metrix/referrer",
+  "description": "Metrix Referrer Android library",
+  "group_id": "ir.metrix",
+  "artifact_id": "referrer",
+  "version_latest": "2.6.5",
+  "ts_publish": 1754231020000,
+  "ts_update": 1754231821047,
+  "count_dep": 3,
+  "count_ref": 6,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

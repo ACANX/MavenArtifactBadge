@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/ir.metrix.attribution/metrix-cordova",
+  "description": "Metrix Android attribution library",
+  "group_id": "ir.metrix.attribution",
+  "artifact_id": "metrix-cordova",
+  "version_latest": "2.6.5",
+  "ts_publish": 1754231020000,
+  "ts_update": 1754231821046,
+  "count_dep": 8,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

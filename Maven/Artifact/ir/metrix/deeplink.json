@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/ir.metrix/deeplink",
+  "description": "Metrix Deeplink Android library",
+  "group_id": "ir.metrix",
+  "artifact_id": "deeplink",
+  "version_latest": "2.6.5",
+  "ts_publish": 1754231020000,
+  "ts_update": 1754231821048,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -3,9 +3,9 @@
   "description": "certifier-plugin",
   "group_id": "com.zegreatrob.tools",
   "artifact_id": "certifier-plugin",
-  "version_latest": "1.8.1",
-  "ts_publish": 1754160337000,
-  "ts_update": 1754160658927,
+  "version_latest": "1.8.2",
+  "ts_publish": 1754230965000,
+  "ts_update": 1754231822632,
   "count_dep": 0,
   "count_ref": 1,
   "licenses": [
