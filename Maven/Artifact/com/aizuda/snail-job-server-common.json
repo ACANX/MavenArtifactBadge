@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aizuda/snail-job-server-common",
+  "description": "snail-job-server-common",
   "group_id": "com.aizuda",
   "artifact_id": "snail-job-server-common",
-  "latest_version": "1.7.0-beta1",
-  "description": "snail-job-server-common",
-  "id": "pkg:maven/com.aizuda/snail-job-server-common",
-  "ts": 1753716798000,
-  "dependency_count": 6,
-  "ref_count": 120,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212619534,
+  "count_dep": 120,
+  "count_ref": 6,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753717622899
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

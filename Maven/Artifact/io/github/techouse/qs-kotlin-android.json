@@ -3,9 +3,9 @@
   "description": "Android (AAR) wrapper for qs-kotlin — query string encoding/decoding ported from qs (JS).",
   "group_id": "io.github.techouse",
   "artifact_id": "qs-kotlin-android",
-  "version_latest": "1.0.0",
-  "ts_publish": 1754179472000,
-  "ts_update": 1754180220880,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754212216000,
+  "ts_update": 1754212619530,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

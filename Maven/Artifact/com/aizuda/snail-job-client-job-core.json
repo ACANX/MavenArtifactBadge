@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aizuda/snail-job-client-job-core",
+  "description": "snail-job-client-job-core",
   "group_id": "com.aizuda",
   "artifact_id": "snail-job-client-job-core",
-  "latest_version": "1.7.0-beta1",
-  "description": "snail-job-client-job-core",
-  "id": "pkg:maven/com.aizuda/snail-job-client-job-core",
-  "ts": 1753716798000,
-  "dependency_count": 1,
-  "ref_count": 74,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212619533,
+  "count_dep": 74,
+  "count_ref": 1,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753717623439
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

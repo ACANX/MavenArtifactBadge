@@ -3,9 +3,9 @@
   "description": "A query string encoding and decoding library for Android and Kotlin/JVM. Ported from qs for JavaScript.",
   "group_id": "io.github.techouse",
   "artifact_id": "qs-kotlin",
-  "version_latest": "1.0.0",
-  "ts_publish": 1754179472000,
-  "ts_update": 1754180220880,
+  "version_latest": "1.0.1",
+  "ts_publish": 1754212216000,
+  "ts_update": 1754212619530,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [
