@@ -1,11 +1,11 @@
 {
-  "id": "pkg:maven/one.xis/xis-spring",
-  "description": "Module xis-spring of the XIS declarative web framework.",
+  "id": "pkg:maven/one.xis/xis-idp-server",
+  "description": "Module xis-idp-server of the XIS declarative web framework.",
   "group_id": "one.xis",
-  "artifact_id": "xis-spring",
+  "artifact_id": "xis-idp-server",
   "version_latest": "0.1.2",
   "ts_publish": 1754262009000,
-  "ts_update": 1754262421332,
+  "ts_update": 1754262420640,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

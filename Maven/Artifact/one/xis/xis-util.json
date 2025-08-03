@@ -3,11 +3,11 @@
   "description": "Module xis-util of the XIS declarative web framework.",
   "group_id": "one.xis",
   "artifact_id": "xis-util",
-  "version_latest": "0.1.1",
-  "ts_publish": 1754224228000,
-  "ts_update": 1754225221059,
+  "version_latest": "0.1.2",
+  "ts_publish": 1754262009000,
+  "ts_update": 1754262420634,
   "count_dep": 3,
-  "count_ref": 10,
+  "count_ref": 13,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
