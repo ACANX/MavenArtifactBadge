@@ -3,9 +3,9 @@
   "description": "This plugin generates a \"fielded\" version of any Kotlin library.",
   "group_id": "it.unibo.collektive.collektivize",
   "artifact_id": "it.unibo.collektive.collektivize.gradle.plugin",
-  "version_latest": "26.0.1-dev05+b5086a8",
-  "ts_publish": 1754003189000,
-  "ts_update": 1754003822970,
+  "version_latest": "26.0.1-dev06+5ea0ee6",
+  "ts_publish": 1754198278000,
+  "ts_update": 1754198822740,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
