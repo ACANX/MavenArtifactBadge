@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.kourier/amqp-core-iossimulatorarm64",
+  "description": "Core AMQP models for kourier.",
   "group_id": "dev.kourier",
   "artifact_id": "amqp-core-iossimulatorarm64",
-  "latest_version": "0.0.8",
-  "description": "Core AMQP models for kourier.",
-  "id": "pkg:maven/dev.kourier/amqp-core-iossimulatorarm64",
-  "ts": 1753361982000,
-  "dependency_count": 1,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "0.2.0",
+  "ts_publish": 1754214000000,
+  "ts_update": 1754214639482,
+  "count_dep": 4,
+  "count_ref": 1,
   "licenses": [
     "Apache 2.0"
   ],
-  "last_updated": 1753363027396
+  "categories": null,
+  "dsv": 1
 }
