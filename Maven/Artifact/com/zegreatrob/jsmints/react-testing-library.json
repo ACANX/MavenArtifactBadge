@@ -3,9 +3,9 @@
   "description": "react-testing-library",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "react-testing-library",
-  "version_latest": "6.7.1",
-  "ts_publish": 1754230360000,
-  "ts_update": 1754231220147,
+  "version_latest": "6.7.2",
+  "ts_publish": 1754234903000,
+  "ts_update": 1754235422529,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
