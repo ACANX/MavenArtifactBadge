@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.syrou/reaktiv-core-jvm",
+  "description": "A flexible and powerful state management library...",
+  "group_id": "io.github.syrou",
+  "artifact_id": "reaktiv-core-jvm",
+  "version_latest": "0.9.3",
+  "ts_publish": 1754242778000,
+  "ts_update": 1754243554305,
+  "count_dep": 2,
+  "count_ref": 2,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
