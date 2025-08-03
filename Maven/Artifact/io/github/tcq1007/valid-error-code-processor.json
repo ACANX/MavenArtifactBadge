@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.tcq1007/valid-error-code-processor",
+  "description": "valid-errorcode-processor",
+  "group_id": "io.github.tcq1007",
+  "artifact_id": "valid-error-code-processor",
+  "version_latest": "1.0.0",
+  "ts_publish": 1754203681000,
+  "ts_update": 1754204155074,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
