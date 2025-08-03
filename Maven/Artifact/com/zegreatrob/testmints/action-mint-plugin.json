@@ -3,9 +3,9 @@
   "description": "action-mint-plugin",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "action-mint-plugin",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162026000,
-  "ts_update": 1754162535038,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754232725000,
+  "ts_update": 1754233020274,
   "count_dep": 3,
   "count_ref": 1,
   "licenses": [
