@@ -3,9 +3,9 @@
   "description": "A client-server implementation which supports pns URIs",
   "group_id": "io.github.remmerw",
   "artifact_id": "idun-jvm",
-  "version_latest": "0.5.1",
-  "ts_publish": 1754146010000,
-  "ts_update": 1754146622769,
+  "version_latest": "0.5.2",
+  "ts_publish": 1754206914000,
+  "ts_update": 1754207629838,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
