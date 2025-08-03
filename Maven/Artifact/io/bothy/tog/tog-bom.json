@@ -3,9 +3,9 @@
   "description": "Simple, useful utilities.",
   "group_id": "io.bothy.tog",
   "artifact_id": "tog-bom",
-  "version_latest": "0.4.1",
-  "ts_publish": 1754210679000,
-  "ts_update": 1754211405876,
+  "version_latest": "0.5.0",
+  "ts_publish": 1754242343000,
+  "ts_update": 1754242624764,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

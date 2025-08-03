@@ -3,11 +3,11 @@
   "description": "Simple, useful utilities.",
   "group_id": "io.bothy.tog",
   "artifact_id": "tog-processor",
-  "version_latest": "0.4.1",
-  "ts_publish": 1754210679000,
-  "ts_update": 1754211405876,
+  "version_latest": "0.5.0",
+  "ts_publish": 1754242343000,
+  "ts_update": 1754242624765,
   "count_dep": 22,
-  "count_ref": 0,
+  "count_ref": 1,
   "licenses": [
     "GPL-3.0-or-later"
   ],
