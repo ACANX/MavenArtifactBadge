@@ -3,9 +3,9 @@
   "description": "Parent POM",
   "group_id": "io.github.jonasrutishauser",
   "artifact_id": "parent",
-  "version_latest": "30",
-  "ts_publish": 1754251035000,
-  "ts_update": 1754251619969,
+  "version_latest": "31",
+  "ts_publish": 1754252993000,
+  "ts_update": 1754253350397,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
