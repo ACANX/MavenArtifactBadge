@@ -3,10 +3,10 @@
   "description": "Various helper utilities",
   "group_id": "org.mvnpm.at.jsonjoy.com",
   "artifact_id": "util",
-  "version_latest": "1.8.1",
-  "ts_publish": 1754065455000,
-  "ts_update": 1754066224952,
-  "count_dep": 3,
+  "version_latest": "1.9.0",
+  "ts_publish": 1754179398000,
+  "ts_update": 1754180220881,
+  "count_dep": 5,
   "count_ref": 0,
   "licenses": [
     "Apache-2.0"
