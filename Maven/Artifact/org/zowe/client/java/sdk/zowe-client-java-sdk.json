@@ -3,9 +3,9 @@
   "description": "A SDK that lets you leverage the underlying z/OSMF REST APIs on a z/OS system to build applications that\n        interface with the mainframe.",
   "group_id": "org.zowe.client.java.sdk",
   "artifact_id": "zowe-client-java-sdk",
-  "version_latest": "4.1.0-RC",
-  "ts_publish": 1754185010000,
-  "ts_update": 1754185621963,
+  "version_latest": "4.1.0-RC2",
+  "ts_publish": 1754186277000,
+  "ts_update": 1754186739144,
   "count_dep": 38,
   "count_ref": 0,
   "licenses": [
