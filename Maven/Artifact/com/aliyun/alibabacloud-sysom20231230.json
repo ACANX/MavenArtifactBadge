@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud SysOM (20231230) Async SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "alibabacloud-sysom20231230",
-  "version_latest": "1.0.15",
-  "ts_publish": 1754068178000,
-  "ts_update": 1754068620271,
+  "version_latest": "1.0.16",
+  "ts_publish": 1754240788000,
+  "ts_update": 1754241425205,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [
