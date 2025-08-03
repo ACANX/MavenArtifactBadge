@@ -3,9 +3,9 @@
   "description": "action-annotation",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "action-annotation-wasm-js",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162383000,
-  "ts_update": 1754162821760,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754233040000,
+  "ts_update": 1754233625276,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

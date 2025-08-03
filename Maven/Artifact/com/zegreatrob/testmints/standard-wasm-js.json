@@ -3,9 +3,9 @@
   "description": "standard",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "standard-wasm-js",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162383000,
-  "ts_update": 1754162821225,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754233040000,
+  "ts_update": 1754233625774,
   "count_dep": 4,
   "count_ref": 2,
   "licenses": [

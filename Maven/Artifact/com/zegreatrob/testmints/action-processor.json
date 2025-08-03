@@ -3,9 +3,9 @@
   "description": "action-processor",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "action-processor",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162383000,
-  "ts_update": 1754162821221,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754233040000,
+  "ts_update": 1754233625774,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
