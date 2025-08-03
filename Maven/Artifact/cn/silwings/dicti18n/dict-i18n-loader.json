@@ -3,9 +3,9 @@
   "description": "Abstractions and interfaces for loading dictionary resources",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-loader",
-  "version_latest": "1.0.4",
-  "ts_publish": 1754238559000,
-  "ts_update": 1754239024537,
+  "version_latest": "1.0.5",
+  "ts_publish": 1754239049000,
+  "ts_update": 1754239411718,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

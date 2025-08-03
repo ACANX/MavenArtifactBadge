@@ -3,9 +3,9 @@
   "description": "Example project demonstrating usage of Dict I18n framework",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-demo",
-  "version_latest": "1.0.4",
-  "ts_publish": 1754238559000,
-  "ts_update": 1754239024536,
+  "version_latest": "1.0.5",
+  "ts_publish": 1754239049000,
+  "ts_update": 1754239411716,
   "count_dep": 79,
   "count_ref": 0,
   "licenses": [
