@@ -3,9 +3,9 @@
   "description": "Stat KPIs for Mobiera Aircast Containers",
   "group_id": "com.mobiera.libs",
   "artifact_id": "aircast-api-stats",
-  "version_latest": "1.5",
-  "ts_publish": 1754233833000,
-  "ts_update": 1754234223970,
+  "version_latest": "1.6",
+  "ts_publish": 1754236317000,
+  "ts_update": 1754237223192,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

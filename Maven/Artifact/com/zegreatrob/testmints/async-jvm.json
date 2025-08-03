@@ -3,9 +3,9 @@
   "description": "async",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "async-jvm",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754233040000,
-  "ts_update": 1754233625274,
+  "version_latest": "12.4.2",
+  "ts_publish": 1754236540000,
+  "ts_update": 1754237222230,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

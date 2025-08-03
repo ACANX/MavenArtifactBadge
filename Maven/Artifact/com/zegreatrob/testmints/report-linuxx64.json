@@ -3,9 +3,9 @@
   "description": "report",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "report-linuxx64",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754233040000,
-  "ts_update": 1754233625780,
+  "version_latest": "12.4.2",
+  "ts_publish": 1754236540000,
+  "ts_update": 1754237221696,
   "count_dep": 5,
   "count_ref": 3,
   "licenses": [

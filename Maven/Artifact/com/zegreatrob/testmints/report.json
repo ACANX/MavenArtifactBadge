@@ -3,9 +3,9 @@
   "description": "report",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "report",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754233040000,
-  "ts_update": 1754233625273,
+  "version_latest": "12.4.2",
+  "ts_publish": 1754236540000,
+  "ts_update": 1754237222233,
   "count_dep": 4,
   "count_ref": 3,
   "licenses": [
