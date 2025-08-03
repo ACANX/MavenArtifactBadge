@@ -3,9 +3,9 @@
   "description": "Deserialize XML DTD into type-safe Kotlin objects.",
   "group_id": "io.github.boswelja.xmldtd",
   "artifact_id": "deserialize",
-  "version_latest": "1.0.0-alpha04",
-  "ts_publish": 1754093674000,
-  "ts_update": 1754094422991,
+  "version_latest": "1.0.0-alpha05",
+  "ts_publish": 1754187157000,
+  "ts_update": 1754187420848,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
