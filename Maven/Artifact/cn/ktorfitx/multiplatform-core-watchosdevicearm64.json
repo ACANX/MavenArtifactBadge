@@ -3,9 +3,9 @@
   "description": "Ktorfitx 基于 KSP2 的代码生成框架，在 Kotlin Multiplatform 中是 RESTful API 框架，在 Ktor Server 中是 路由以及参数解析框架",
   "group_id": "cn.ktorfitx",
   "artifact_id": "multiplatform-core-watchosdevicearm64",
-  "version_latest": "3.2.3-3.0.4",
-  "ts_publish": 1754104478000,
-  "ts_update": 1754105222071,
+  "version_latest": "3.2.3-3.0.5",
+  "ts_publish": 1754237720000,
+  "ts_update": 1754238424140,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [
