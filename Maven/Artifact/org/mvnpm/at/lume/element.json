@@ -3,9 +3,9 @@
   "description": "Create Custom Elements with reactivity and automatic re-rendering.",
   "group_id": "org.mvnpm.at.lume",
   "artifact_id": "element",
-  "version_latest": "0.16.1",
-  "ts_publish": 1754193802000,
-  "ts_update": 1754194624689,
+  "version_latest": "0.16.2",
+  "ts_publish": 1754208384000,
+  "ts_update": 1754208988373,
   "count_dep": 55,
   "count_ref": 0,
   "licenses": [
