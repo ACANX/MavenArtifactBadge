@@ -3,9 +3,9 @@
   "description": "Certificate transparency for Android and Java",
   "group_id": "com.appmattus.certificatetransparency",
   "artifact_id": "certificatetransparency-android",
-  "version_latest": "2.7.7",
-  "ts_publish": 1753890601000,
-  "ts_update": 1753891017017,
+  "version_latest": "2.8.0",
+  "ts_publish": 1754210310000,
+  "ts_update": 1754210551313,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
