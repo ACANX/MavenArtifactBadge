@@ -3,9 +3,9 @@
   "description": "minjson",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "minjson",
-  "version_latest": "6.7.0",
-  "ts_publish": 1754158279000,
-  "ts_update": 1754159151420,
+  "version_latest": "6.7.1",
+  "ts_publish": 1754230360000,
+  "ts_update": 1754231220147,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

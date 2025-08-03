@@ -3,9 +3,9 @@
   "description": "minreact-processor",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "minreact-processor-jvm",
-  "version_latest": "6.7.0",
-  "ts_publish": 1754158279000,
-  "ts_update": 1754159151417,
+  "version_latest": "6.7.1",
+  "ts_publish": 1754230360000,
+  "ts_update": 1754231220145,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
