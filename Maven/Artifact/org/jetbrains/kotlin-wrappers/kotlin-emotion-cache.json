@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Emotion Cache",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-emotion-cache",
-  "version_latest": "2025.8.1-11.14.0",
-  "ts_publish": 1754142314000,
-  "ts_update": 1754142913856,
+  "version_latest": "2025.8.2-11.14.0",
+  "ts_publish": 1754225560000,
+  "ts_update": 1754226424167,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

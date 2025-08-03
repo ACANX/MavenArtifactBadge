@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Electron",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-electron-js",
-  "version_latest": "2025.8.1-33.2.1",
-  "ts_publish": 1754142314000,
-  "ts_update": 1754142911068,
+  "version_latest": "2025.8.2-33.2.1",
+  "ts_publish": 1754225560000,
+  "ts_update": 1754226421818,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

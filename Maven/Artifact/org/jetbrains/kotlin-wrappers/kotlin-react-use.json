@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for React Use",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-react-use",
-  "version_latest": "2025.8.1",
-  "ts_publish": 1754142314000,
-  "ts_update": 1754142911075,
+  "version_latest": "2025.8.2",
+  "ts_publish": 1754225560000,
+  "ts_update": 1754226421824,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

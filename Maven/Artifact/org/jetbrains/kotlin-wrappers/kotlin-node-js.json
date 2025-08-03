@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Node.js",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-node-js",
-  "version_latest": "2025.8.1-22.13.10",
-  "ts_publish": 1754142314000,
-  "ts_update": 1754142911073,
+  "version_latest": "2025.8.2-22.13.10",
+  "ts_publish": 1754225560000,
+  "ts_update": 1754226421823,
   "count_dep": 6,
   "count_ref": 9,
   "licenses": [
