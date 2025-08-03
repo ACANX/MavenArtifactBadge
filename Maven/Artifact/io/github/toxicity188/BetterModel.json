@@ -3,9 +3,9 @@
   "description": "Lightweight BlockBench model engine for Bukkit",
   "group_id": "io.github.toxicity188",
   "artifact_id": "BetterModel",
-  "version_latest": "1.10.2",
-  "ts_publish": 1753837484000,
-  "ts_update": 1753838217506,
+  "version_latest": "1.10.3",
+  "ts_publish": 1754202242000,
+  "ts_update": 1754202945984,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
