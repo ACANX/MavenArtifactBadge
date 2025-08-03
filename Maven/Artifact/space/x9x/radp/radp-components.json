@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/space.x9x.radp/radp-components",
+  "description": "Rapid Application Development Platform",
   "group_id": "space.x9x.radp",
   "artifact_id": "radp-components",
-  "latest_version": "3.23",
-  "description": "Rapid Application Development Platform",
-  "id": "pkg:maven/space.x9x.radp/radp-components",
-  "ts": 1753728922000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "3.23.1",
+  "ts_publish": 1754221770000,
+  "ts_update": 1754222222353,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753730156426
+  "categories": null,
+  "dsv": 1
 }

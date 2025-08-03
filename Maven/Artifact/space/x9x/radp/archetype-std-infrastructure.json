@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/space.x9x.radp/archetype-std-infrastructure",
+  "description": "数据持久层",
   "group_id": "space.x9x.radp",
   "artifact_id": "archetype-std-infrastructure",
-  "latest_version": "3.23",
-  "description": "数据持久层",
-  "id": "pkg:maven/space.x9x.radp/archetype-std-infrastructure",
-  "ts": 1753728922000,
-  "dependency_count": 1,
-  "ref_count": 131,
-  "categories": null,
+  "version_latest": "3.23.1",
+  "ts_publish": 1754221770000,
+  "ts_update": 1754222222939,
+  "count_dep": 131,
+  "count_ref": 1,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753730158414
+  "categories": null,
+  "dsv": 1
 }
