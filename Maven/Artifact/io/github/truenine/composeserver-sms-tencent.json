@@ -3,9 +3,9 @@
   "description": "Tencent Cloud SMS service integration for reliable message delivery.\nProvides SMS sending capabilities through Tencent Cloud SMS API with template support and delivery tracking.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-sms-tencent",
-  "version_latest": "0.0.15",
-  "ts_publish": 1754142081000,
-  "ts_update": 1754142915825,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224622223,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

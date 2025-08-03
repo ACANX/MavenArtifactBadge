@@ -3,9 +3,9 @@
   "description": "XXL-JOB distributed task scheduling framework integration for enterprise job management.\nProvides distributed task execution, scheduling, and monitoring capabilities with fault tolerance.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-depend-xxl-job",
-  "version_latest": "0.0.15",
-  "ts_publish": 1754142080000,
-  "ts_update": 1754142916501,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224621490,
   "count_dep": 25,
   "count_ref": 0,
   "licenses": [

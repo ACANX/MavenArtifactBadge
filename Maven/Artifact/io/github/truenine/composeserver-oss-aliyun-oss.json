@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud OSS (Object Storage Service) integration for scalable cloud storage operations.\nProvides seamless integration with Aliyun OSS including authentication, bucket operations, and file management.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-oss-aliyun-oss",
-  "version_latest": "0.0.15",
-  "ts_publish": 1754142081000,
-  "ts_update": 1754142915829,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224622230,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

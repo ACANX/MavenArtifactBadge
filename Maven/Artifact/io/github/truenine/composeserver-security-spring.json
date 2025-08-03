@@ -3,9 +3,9 @@
   "description": "Spring Security integration providing authentication, authorization, and security configurations.\nIncludes JWT token handling, CAPTCHA support, XSS protection, and comprehensive security filters.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-security-spring",
-  "version_latest": "0.0.15",
-  "ts_publish": 1754142080000,
-  "ts_update": 1754142917238,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224622229,
   "count_dep": 44,
   "count_ref": 0,
   "licenses": [

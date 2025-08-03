@@ -3,9 +3,9 @@
   "description": "Cryptographic utilities and security functions using Spring Security and BouncyCastle.\nProvides encryption/decryption, hashing, digital signatures, and secure random number generation.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-security-crypto",
-  "version_latest": "0.0.15",
-  "ts_publish": 1754142080000,
-  "ts_update": 1754142916502,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224622223,
   "count_dep": 13,
   "count_ref": 4,
   "licenses": [
