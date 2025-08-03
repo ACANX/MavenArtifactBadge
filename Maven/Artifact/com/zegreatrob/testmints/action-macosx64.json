@@ -3,9 +3,9 @@
   "description": "action",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "action-macosx64",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754233570000,
-  "ts_update": 1754234223974,
+  "version_latest": "12.4.2",
+  "ts_publish": 1754237118000,
+  "ts_update": 1754237705219,
   "count_dep": 3,
   "count_ref": 2,
   "licenses": [

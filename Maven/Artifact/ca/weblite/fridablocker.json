@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/ca.weblite/fridablocker",
+  "description": "Android native library for detecting Frida instrumentation framework",
+  "group_id": "ca.weblite",
+  "artifact_id": "fridablocker",
+  "version_latest": "1.0.0",
+  "ts_publish": 1754237160000,
+  "ts_update": 1754237704798,
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
+}
