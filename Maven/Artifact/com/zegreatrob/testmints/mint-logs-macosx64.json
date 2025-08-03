@@ -3,9 +3,9 @@
   "description": "mint-logs",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "mint-logs-macosx64",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162910000,
-  "ts_update": 1754163421907,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754233570000,
+  "ts_update": 1754234223973,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

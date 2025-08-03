@@ -3,9 +3,9 @@
   "description": "minspy",
   "group_id": "com.zegreatrob.testmints",
   "artifact_id": "minspy-macosx64",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754162910000,
-  "ts_update": 1754163421909,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754233570000,
+  "ts_update": 1754234223975,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
