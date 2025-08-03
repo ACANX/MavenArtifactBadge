@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.jora.checkstyle/checkstyle-no-private-method-annotation-rule",
+  "description": "A checkstyle custom rule to disallow private methods with specific annotations.",
+  "group_id": "dev.jora.checkstyle",
+  "artifact_id": "checkstyle-no-private-method-annotation-rule",
+  "version_latest": "1.0.0",
+  "ts_publish": 1754236102000,
+  "ts_update": 1754236425355,
+  "count_dep": 32,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
