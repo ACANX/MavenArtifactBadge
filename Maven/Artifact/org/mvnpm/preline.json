@@ -3,9 +3,9 @@
   "description": "Preline UI is an open-source set of prebuilt UI components based on the utility-first Tailwind CSS framework.",
   "group_id": "org.mvnpm",
   "artifact_id": "preline",
-  "version_latest": "3.2.1",
-  "ts_publish": 1754222603000,
-  "ts_update": 1754223423229,
+  "version_latest": "3.2.2",
+  "ts_publish": 1754251401000,
+  "ts_update": 1754251984673,
   "count_dep": 24,
   "count_ref": 0,
   "licenses": [
