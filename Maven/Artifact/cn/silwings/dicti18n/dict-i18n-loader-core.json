@@ -3,9 +3,9 @@
   "description": "Core implementations for dictionary resource loading",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-loader-core",
-  "version_latest": "1.0.2",
-  "ts_publish": 1754220363000,
-  "ts_update": 1754220777193,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754235511000,
+  "ts_update": 1754236020462,
   "count_dep": 18,
   "count_ref": 6,
   "licenses": [
