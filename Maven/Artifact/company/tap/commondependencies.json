@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/company.tap/commondependencies",
+  "description": "A library for executing dependent/Independent tasks in a reliable way for all the Tap Payments applications.",
   "group_id": "company.tap",
   "artifact_id": "commondependencies",
-  "latest_version": "1.0.411",
-  "description": "A library for executing dependent/Independent tasks in a reliable way for all the Tap Payments applications.",
-  "id": "pkg:maven/company.tap/commondependencies",
-  "ts": 1753609962000,
-  "dependency_count": 0,
-  "ref_count": 74,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.0.414",
+  "ts_publish": 1754257195000,
+  "ts_update": 1754257623981,
+  "count_dep": 74,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753610219496
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
