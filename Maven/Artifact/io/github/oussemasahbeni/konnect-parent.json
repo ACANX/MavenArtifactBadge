@@ -3,9 +3,9 @@
   "description": "A Spring Boot Starter for easy integration with the Konnect payment service API",
   "group_id": "io.github.oussemasahbeni",
   "artifact_id": "konnect-parent",
-  "version_latest": "0.0.1",
-  "ts_publish": 1754242102000,
-  "ts_update": 1754242624767,
+  "version_latest": "0.0.2",
+  "ts_publish": 1754243533000,
+  "ts_update": 1754243826649,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
