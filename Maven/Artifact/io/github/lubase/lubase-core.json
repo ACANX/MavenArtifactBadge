@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.lubase/lubase-core",
+  "description": "lubase-core",
   "group_id": "io.github.lubase",
   "artifact_id": "lubase-core",
-  "latest_version": "2.0.0",
-  "description": "lubase-core",
-  "id": "pkg:maven/io.github.lubase/lubase-core",
-  "ts": 1753715297000,
-  "dependency_count": 0,
-  "ref_count": 199,
-  "categories": null,
+  "version_latest": "2.0.1",
+  "ts_publish": 1754180855000,
+  "ts_update": 1754181425872,
+  "count_dep": 219,
+  "count_ref": 0,
   "licenses": [
     "AGPL 3.0"
   ],
-  "last_updated": 1753715819465
+  "categories": null,
+  "dsv": 1
 }
