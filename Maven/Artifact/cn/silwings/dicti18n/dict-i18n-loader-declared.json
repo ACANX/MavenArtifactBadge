@@ -3,9 +3,9 @@
   "description": "Loader for statically declared dictionary entries",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-loader-declared",
-  "version_latest": "1.0.3",
-  "ts_publish": 1754235511000,
-  "ts_update": 1754236020460,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754238559000,
+  "ts_update": 1754239024534,
   "count_dep": 19,
   "count_ref": 1,
   "licenses": [
