@@ -3,9 +3,9 @@
   "description": "Shared abstractions and interfaces for object storage operations across different cloud providers.\nProvides unified API for file upload, download, and management operations regardless of the underlying storage service.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-oss-shared",
-  "version_latest": "0.0.16",
-  "ts_publish": 1754223689000,
-  "ts_update": 1754224621489,
+  "version_latest": "0.0.17",
+  "ts_publish": 1754246236000,
+  "ts_update": 1754246756610,
   "count_dep": 12,
   "count_ref": 4,
   "licenses": [

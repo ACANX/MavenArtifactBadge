@@ -3,9 +3,9 @@
   "description": "Data extraction utilities supporting multiple formats including Excel, CSV, and web scraping.\nProvides EasyExcel integration, JSoup for HTML parsing, and reactive data processing capabilities.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-data-extract",
-  "version_latest": "0.0.16",
-  "ts_publish": 1754223689000,
-  "ts_update": 1754224621484,
+  "version_latest": "0.0.17",
+  "ts_publish": 1754246236000,
+  "ts_update": 1754246757187,
   "count_dep": 37,
   "count_ref": 0,
   "licenses": [

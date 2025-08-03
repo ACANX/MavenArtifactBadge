@@ -3,9 +3,9 @@
   "description": "A powerful desktop companion for Android apps, inspect, debug, and control your app in real time.",
   "group_id": "io.github.openflocon",
   "artifact_id": "flocon",
-  "version_latest": "1.0.1",
-  "ts_publish": 1754145715000,
-  "ts_update": 1754146020727,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754245997000,
+  "ts_update": 1754246757192,
   "count_dep": 5,
   "count_ref": 2,
   "licenses": [
