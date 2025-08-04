@@ -3,9 +3,9 @@
   "description": "Tools to aid Hibernate developers through natural language,\n        leveraging LLMs and generative AI functionalities.",
   "group_id": "org.hibernate.tool",
   "artifact_id": "hibernate-tools-language",
-  "version_latest": "7.0.8.Final",
-  "ts_publish": 1753768441000,
-  "ts_update": 1753769219849,
+  "version_latest": "7.0.9.Final",
+  "ts_publish": 1754308834000,
+  "ts_update": 1754309820560,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
