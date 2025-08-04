@@ -442,6 +442,7 @@
     "com.github.erosb:kappa-servlet-adapter": 1754334820000,
     "com.github.erosb:kappa": 1754334820000,
     "com.github.erosb:kappa-spring": 1754334820000,
-    "com.github.erosb:kappa-undertow-adapter": 1754334820000
+    "com.github.erosb:kappa-undertow-adapter": 1754334820000,
+    "de.gesellix:docker-filesocket": 1754335736000
   }
 }
