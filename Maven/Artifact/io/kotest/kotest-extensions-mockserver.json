@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kotest/kotest-extensions-mockserver",
+  "description": "Kotlin Test Framework",
+  "group_id": "io.kotest",
+  "artifact_id": "kotest-extensions-mockserver",
+  "version_latest": "6.0.0.M10",
+  "ts_publish": 1754276253000,
+  "ts_update": 1754278029910,
+  "count_dep": 103,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
