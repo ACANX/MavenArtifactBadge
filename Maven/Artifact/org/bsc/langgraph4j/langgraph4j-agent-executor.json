@@ -3,9 +3,9 @@
   "description": "A library for building stateful, multi-agents applications with LLMs",
   "group_id": "org.bsc.langgraph4j",
   "artifact_id": "langgraph4j-agent-executor",
-  "version_latest": "1.6.0-rc3",
-  "ts_publish": 1754064314000,
-  "ts_update": 1754065315237,
+  "version_latest": "1.6.0-rc4",
+  "ts_publish": 1754342272000,
+  "ts_update": 1754343425243,
   "count_dep": 53,
   "count_ref": 2,
   "licenses": [
