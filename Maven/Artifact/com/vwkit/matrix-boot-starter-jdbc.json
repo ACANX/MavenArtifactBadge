@@ -3,9 +3,9 @@
   "description": "matrix-boot",
   "group_id": "com.vwkit",
   "artifact_id": "matrix-boot-starter-jdbc",
-  "version_latest": "2.3.4",
-  "ts_publish": 1754318439000,
-  "ts_update": 1754319298982,
+  "version_latest": "2.3.5",
+  "ts_publish": 1754320534000,
+  "ts_update": 1754321224082,
   "count_dep": 160,
   "count_ref": 4,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "infrastructure for oauth2 library",
   "group_id": "com.labijie.infra",
   "artifact_id": "oauth2-authorization-server-starter",
-  "version_latest": "2.1.2",
-  "ts_publish": 1754286031000,
-  "ts_update": 1754286420864,
+  "version_latest": "2.1.3",
+  "ts_publish": 1754320822000,
+  "ts_update": 1754321223067,
   "count_dep": 93,
   "count_ref": 0,
   "licenses": [

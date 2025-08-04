@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.cap",
   "artifact_id": "cap-parent",
-  "version_latest": "10.0.51-java11",
-  "ts_publish": 1753877861000,
-  "ts_update": 1753879019066,
+  "version_latest": "10.0.52",
+  "ts_publish": 1754320686000,
+  "ts_update": 1754321223599,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

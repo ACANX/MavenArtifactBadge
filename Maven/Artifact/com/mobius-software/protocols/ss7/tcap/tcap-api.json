@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.tcap",
   "artifact_id": "tcap-api",
-  "version_latest": "10.0.51-java11",
-  "ts_publish": 1753877861000,
-  "ts_update": 1753879019716,
+  "version_latest": "10.0.52",
+  "ts_publish": 1754320686000,
+  "ts_update": 1754321223069,
   "count_dep": 9,
   "count_ref": 10,
   "licenses": [
