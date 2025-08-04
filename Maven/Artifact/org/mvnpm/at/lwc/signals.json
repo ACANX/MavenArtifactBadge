@@ -3,11 +3,11 @@
   "description": "Provides the interface to interact with reactivity from outside the framework",
   "group_id": "org.mvnpm.at.lwc",
   "artifact_id": "signals",
-  "version_latest": "8.20.2",
-  "ts_publish": 1753909933000,
-  "ts_update": 1753914426658,
+  "version_latest": "8.20.3",
+  "ts_publish": 1754347338000,
+  "ts_update": 1754347624833,
   "count_dep": 0,
-  "count_ref": 2,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],

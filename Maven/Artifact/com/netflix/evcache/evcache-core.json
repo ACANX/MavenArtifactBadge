@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.netflix.evcache/evcache-core",
+  "description": "evcache-core",
   "group_id": "com.netflix.evcache",
   "artifact_id": "evcache-core",
-  "latest_version": "5.25.0",
-  "description": "evcache-core",
-  "id": "pkg:maven/com.netflix.evcache/evcache-core",
-  "ts": 1753310841000,
-  "dependency_count": 3,
-  "ref_count": 28,
+  "version_latest": "5.26.0",
+  "ts_publish": 1754347095000,
+  "ts_update": 1754347624834,
+  "count_dep": 28,
+  "count_ref": 3,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
   "categories": [
     "Data Management",
     "Caching"
   ],
-  "licenses": [
-    "The Apache Software License, Version 2.0"
-  ],
-  "last_updated": 1753311364094
+  "dsv": 1
 }
