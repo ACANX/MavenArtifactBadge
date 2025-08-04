@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/org.sonarsource.sonarlint.core/sonarlint-java-client-utils",
-  "description": "Utility classes for Java clients",
+  "id": "pkg:maven/org.sonarsource.sonarlint.core/sonarlint-core",
+  "description": "Common library used by some SonarLint flavors",
   "group_id": "org.sonarsource.sonarlint.core",
-  "artifact_id": "sonarlint-java-client-utils",
+  "artifact_id": "sonarlint-core",
   "version_latest": "10.27.1.81985",
   "ts_publish": 1754333413000,
   "ts_update": 1754334050449,
-  "count_dep": 11,
-  "count_ref": 2,
+  "count_dep": 72,
+  "count_ref": 3,
   "licenses": [
     "GNU LGPL 3"
   ],
