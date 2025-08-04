@@ -3,9 +3,9 @@
   "description": "poi-scala-scalaz",
   "group_id": "info.folone",
   "artifact_id": "poi-scala-scalaz_2.13",
-  "version_latest": "2.0.2",
-  "ts_publish": 1754290591000,
-  "ts_update": 1754291223070,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754299944000,
+  "ts_update": 1754300821154,
   "count_dep": 21,
   "count_ref": 1,
   "licenses": [

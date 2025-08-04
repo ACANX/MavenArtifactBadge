@@ -3,9 +3,9 @@
   "description": "xm-commons-domainevent-outbox",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-domainevent-outbox",
-  "version_latest": "4.0.46",
-  "ts_publish": 1753943168000,
-  "ts_update": 1753943822132,
+  "version_latest": "4.0.47",
+  "ts_publish": 1754298639000,
+  "ts_update": 1754299020563,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

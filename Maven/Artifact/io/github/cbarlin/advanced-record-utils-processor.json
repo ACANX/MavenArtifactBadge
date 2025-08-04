@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.cbarlin/advanced-record-utils-processor",
+  "description": "The processor to generate Advanced Record Utils",
   "group_id": "io.github.cbarlin",
   "artifact_id": "advanced-record-utils-processor",
-  "latest_version": "0.5.1",
-  "description": "The processor to generate Advanced Record Utils",
-  "id": "pkg:maven/io.github.cbarlin/advanced-record-utils-processor",
-  "ts": 1753480344000,
-  "dependency_count": 0,
-  "ref_count": 9,
-  "categories": null,
+  "version_latest": "0.6.0",
+  "ts_publish": 1754298381000,
+  "ts_update": 1754299021032,
+  "count_dep": 16,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753480619720
+  "categories": null,
+  "dsv": 1
 }

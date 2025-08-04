@@ -3,9 +3,9 @@
   "description": "SonarQube Community Build Web App",
   "group_id": "org.sonarsource.sonarqube",
   "artifact_id": "webapp-assets",
-  "version_latest": "2025.4.0.23622",
-  "ts_publish": 1753969938000,
-  "ts_update": 1753970820450,
+  "version_latest": "2025.5.0.23692",
+  "ts_publish": 1754297631000,
+  "ts_update": 1754298426101,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

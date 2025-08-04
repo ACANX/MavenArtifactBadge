@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/cn.klaw/klaw-file-core-starter",
+  "description": "klaw-file-core",
+  "group_id": "cn.klaw",
+  "artifact_id": "klaw-file-core-starter",
+  "version_latest": "5.2.0-RELEASE",
+  "ts_publish": 1754298381000,
+  "ts_update": 1754299021035,
+  "count_dep": 19,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

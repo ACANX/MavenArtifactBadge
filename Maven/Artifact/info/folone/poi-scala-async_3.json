@@ -3,9 +3,9 @@
   "description": "poi-scala-async",
   "group_id": "info.folone",
   "artifact_id": "poi-scala-async_3",
-  "version_latest": "2.0.2",
-  "ts_publish": 1754290591000,
-  "ts_update": 1754291223067,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754299944000,
+  "ts_update": 1754300820482,
   "count_dep": 18,
   "count_ref": 1,
   "licenses": [

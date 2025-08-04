@@ -3,9 +3,9 @@
   "description": "xm-commons-tenant",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-tenant",
-  "version_latest": "4.0.46",
-  "ts_publish": 1753943168000,
-  "ts_update": 1753943822647,
+  "version_latest": "4.0.47",
+  "ts_publish": 1754298639000,
+  "ts_update": 1754299021031,
   "count_dep": 47,
   "count_ref": 21,
   "licenses": [

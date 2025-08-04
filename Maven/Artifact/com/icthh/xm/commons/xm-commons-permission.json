@@ -3,10 +3,10 @@
   "description": "xm-commons-permission",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-permission",
-  "version_latest": "4.0.46",
-  "ts_publish": 1753943168000,
-  "ts_update": 1753943822646,
-  "count_dep": 94,
+  "version_latest": "4.0.47",
+  "ts_publish": 1754298639000,
+  "ts_update": 1754299021029,
+  "count_dep": 73,
   "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
