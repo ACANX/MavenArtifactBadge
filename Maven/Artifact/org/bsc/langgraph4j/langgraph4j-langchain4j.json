@@ -3,9 +3,9 @@
   "description": "langchain4j integration utilities",
   "group_id": "org.bsc.langgraph4j",
   "artifact_id": "langgraph4j-langchain4j",
-  "version_latest": "1.6.0-rc3",
-  "ts_publish": 1754064314000,
-  "ts_update": 1754065315238,
+  "version_latest": "1.6.0-rc4",
+  "ts_publish": 1754342272000,
+  "ts_update": 1754343425244,
   "count_dep": 23,
   "count_ref": 2,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Bill of Materials POM (BOM) for the LangGraph4j modules",
   "group_id": "org.bsc.langgraph4j",
   "artifact_id": "langgraph4j-bom",
-  "version_latest": "1.6.0-rc3",
-  "ts_publish": 1754064314000,
-  "ts_update": 1754065315238,
+  "version_latest": "1.6.0-rc4",
+  "ts_publish": 1754342272000,
+  "ts_update": 1754343425955,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
