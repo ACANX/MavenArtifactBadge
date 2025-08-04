@@ -1,6 +1,9 @@
 {
-	"map":{
-		
-	},
-	"ts":1754344169568
+  "map": {
+    "org.brapi:brapi-schema-tools-core": 1754344103000,
+    "org.brapi.brapi-schema-tools:brapi-schema-tools-analyse": 1754344103000,
+    "org.brapi.brapi-schema-tools:brapi-schema-tools-cli": 1754344103000,
+    "org.mvnpm.at.typescript-eslint:project-service": 1754344099000
+  },
+  "ts": 1754344169568
 }
