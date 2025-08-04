@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.m3ua",
   "artifact_id": "m3ua-api",
-  "version_latest": "10.0.52",
-  "ts_publish": 1754320686000,
-  "ts_update": 1754321223068,
+  "version_latest": "10.0.52-java11",
+  "ts_publish": 1754321962000,
+  "ts_update": 1754322430812,
   "count_dep": 7,
   "count_ref": 2,
   "licenses": [
