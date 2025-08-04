@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.foilen/foilen-acilia",
+  "description": "Acilia is a tool to help with various system administration tasks",
+  "group_id": "com.foilen",
+  "artifact_id": "foilen-acilia",
+  "version_latest": "0.1.0",
+  "ts_publish": 1754348679000,
+  "ts_update": 1754349027567,
+  "count_dep": 12,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
