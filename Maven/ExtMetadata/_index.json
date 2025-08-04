@@ -49,6 +49,8 @@
     "org.stebz:stebz-bom": 1754329033000,
     "org.stebz:stebz-qase": 1754329033000,
     "org.stebz:stebz-gherkin-annotations": 1754329033000,
-    "org.openjdbcproxy:ojp-jdbc-driver": 1754328972000
+    "org.openjdbcproxy:ojp-jdbc-driver": 1754328972000,
+    "is.codion:codion-framework-bom": 1754329826000,
+    "is.codion:codion-common-bom": 1754329770000
   }
 }
