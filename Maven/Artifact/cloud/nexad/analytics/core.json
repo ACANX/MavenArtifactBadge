@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cloud.nexad.analytics/core",
+  "description": "Nexad Analytics Core",
   "group_id": "cloud.nexad.analytics",
   "artifact_id": "core",
-  "latest_version": "1.0.3",
-  "description": "Nexad Analytics Core",
-  "id": "pkg:maven/cloud.nexad.analytics/core",
-  "ts": 1753693796000,
-  "dependency_count": 0,
-  "ref_count": 11,
-  "categories": null,
+  "version_latest": "1.0.5",
+  "ts_publish": 1754312608000,
+  "ts_update": 1754313426812,
+  "count_dep": 11,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753694824073
+  "categories": null,
+  "dsv": 1
 }

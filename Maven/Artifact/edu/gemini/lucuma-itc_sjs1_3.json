@@ -3,9 +3,9 @@
   "description": "lucuma-itc",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-itc_sjs1_3",
-  "version_latest": "0.42.2",
-  "ts_publish": 1753981392000,
-  "ts_update": 1753982219429,
+  "version_latest": "0.42.4",
+  "ts_publish": 1754326207000,
+  "ts_update": 1754327224030,
   "count_dep": 72,
   "count_ref": 2,
   "licenses": [

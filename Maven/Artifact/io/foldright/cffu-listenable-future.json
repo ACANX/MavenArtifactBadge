@@ -3,9 +3,9 @@
   "description": "Guava ListenableFuture Integration with CF",
   "group_id": "io.foldright",
   "artifact_id": "cffu-listenable-future",
-  "version_latest": "1.1.9-Alpha",
-  "ts_publish": 1754159458000,
-  "ts_update": 1754159821574,
+  "version_latest": "1.1.10-Alpha",
+  "ts_publish": 1754326507000,
+  "ts_update": 1754327224025,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

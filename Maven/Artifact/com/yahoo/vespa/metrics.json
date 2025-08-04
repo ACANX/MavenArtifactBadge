@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "metrics",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961229397,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306826856,
   "count_dep": 5,
-  "count_ref": 25,
+  "count_ref": 43,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

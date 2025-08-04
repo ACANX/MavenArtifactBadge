@@ -3,9 +3,9 @@
   "description": "Official Sentry utilities for OpenTelemetry",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "opentelemetry",
-  "version_latest": "9.43.0",
-  "ts_publish": 1753806073000,
-  "ts_update": 1753806656022,
+  "version_latest": "10.1.0",
+  "ts_publish": 1754310080000,
+  "ts_update": 1754311020142,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

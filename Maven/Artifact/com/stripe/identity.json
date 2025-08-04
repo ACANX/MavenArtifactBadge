@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.stripe/identity",
+  "description": "Stripe Identity Android SDK",
   "group_id": "com.stripe",
   "artifact_id": "identity",
-  "latest_version": "21.22.0",
-  "description": "Stripe Identity Android SDK",
-  "id": "pkg:maven/com.stripe/identity",
-  "ts": 1753733603000,
-  "dependency_count": 0,
-  "ref_count": 32,
-  "categories": [
-    "Payment"
-  ],
+  "version_latest": "21.22.1",
+  "ts_publish": 1754325833000,
+  "ts_update": 1754327227177,
+  "count_dep": 32,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753734415632
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
 }

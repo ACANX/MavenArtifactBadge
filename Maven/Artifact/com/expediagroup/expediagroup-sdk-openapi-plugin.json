@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.expediagroup/expediagroup-sdk-openapi-plugin",
+  "description": "Gradle plugin based on OpenAPI generator that applies EG SDKs conventions to the generated models",
   "group_id": "com.expediagroup",
   "artifact_id": "expediagroup-sdk-openapi-plugin",
-  "latest_version": "0.0.16-alpha",
-  "description": "Gradle plugin based on OpenAPI generator that applies EG SDKs conventions to the generated models",
-  "id": "pkg:maven/com.expediagroup/expediagroup-sdk-openapi-plugin",
-  "ts": 1753710821000,
-  "dependency_count": 1,
-  "ref_count": 72,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.0.0",
+  "ts_publish": 1754308463000,
+  "ts_update": 1754309220360,
+  "count_dep": 72,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753711618818
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

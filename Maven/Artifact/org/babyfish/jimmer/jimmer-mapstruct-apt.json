@@ -3,9 +3,9 @@
   "description": "The most advanced ORM of JVM, for both java & kotlin",
   "group_id": "org.babyfish.jimmer",
   "artifact_id": "jimmer-mapstruct-apt",
-  "version_latest": "0.9.103",
-  "ts_publish": 1754257917000,
-  "ts_update": 1754258218345,
+  "version_latest": "0.9.104",
+  "ts_publish": 1754326039000,
+  "ts_update": 1754327226676,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [

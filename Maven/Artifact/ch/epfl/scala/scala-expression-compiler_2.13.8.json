@@ -3,9 +3,9 @@
   "description": "scala-expression-compiler",
   "group_id": "ch.epfl.scala",
   "artifact_id": "scala-expression-compiler_2.13.8",
-  "version_latest": "4.2.7",
-  "ts_publish": 1753885503000,
-  "ts_update": 1753886822452,
+  "version_latest": "4.2.8",
+  "ts_publish": 1754317613000,
+  "ts_update": 1754317985624,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

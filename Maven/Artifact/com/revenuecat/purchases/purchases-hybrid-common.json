@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.revenuecat.purchases/purchases-hybrid-common",
+  "description": "Mobile subscriptions in hours, not months.",
   "group_id": "com.revenuecat.purchases",
   "artifact_id": "purchases-hybrid-common",
-  "latest_version": "16.1.0",
-  "description": "Mobile subscriptions in hours, not months.",
-  "id": "pkg:maven/com.revenuecat.purchases/purchases-hybrid-common",
-  "ts": 1753688143000,
-  "dependency_count": 1,
-  "ref_count": 6,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "16.2.1",
+  "ts_publish": 1754315855000,
+  "ts_update": 1754316421758,
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753689421430
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

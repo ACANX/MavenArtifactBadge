@@ -1,16 +1,14 @@
 {
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-repository-cache",
-  "description": "Core modules packaged with Dirigible",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-repository-cache",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753878428000,
-  "ts_update": 1753879634242,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319306950,
   "count_dep": 32,
   "count_ref": 1,
-  "licenses": [
-    "Eclipse Public License - v 2.0"
-  ],
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],

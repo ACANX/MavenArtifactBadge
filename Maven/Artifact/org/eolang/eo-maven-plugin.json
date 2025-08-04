@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eolang/eo-maven-plugin",
+  "description": "EO-to-Java Maven Plugin",
   "group_id": "org.eolang",
   "artifact_id": "eo-maven-plugin",
-  "latest_version": "0.57.3",
-  "description": "EO-to-Java Maven Plugin",
-  "id": "pkg:maven/org.eolang/eo-maven-plugin",
-  "ts": 1753609117000,
-  "dependency_count": 0,
-  "ref_count": 141,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.58.0",
+  "ts_publish": 1754323700000,
+  "ts_update": 1754324221834,
+  "count_dep": 141,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753609620176
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

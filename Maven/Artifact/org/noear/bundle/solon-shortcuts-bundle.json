@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-shortcuts-bundle",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122340000,
-  "ts_update": 1754122624235,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754324871000,
+  "ts_update": 1754326029764,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Sentry Node-Core SDK",
   "group_id": "org.mvnpm.at.sentry",
   "artifact_id": "node-core",
-  "version_latest": "10.0.0",
-  "ts_publish": 1753981396000,
-  "ts_update": 1753982219427,
+  "version_latest": "10.1.0",
+  "ts_publish": 1754318361000,
+  "ts_update": 1754319308141,
   "count_dep": 32,
   "count_ref": 1,
   "licenses": [

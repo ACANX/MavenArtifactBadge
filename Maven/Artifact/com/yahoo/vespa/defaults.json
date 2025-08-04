@@ -3,12 +3,14 @@
   "description": "Library with the defaults for Vespa.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "defaults",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961230853,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306825779,
   "count_dep": 2,
-  "count_ref": 54,
-  "licenses": [],
+  "count_ref": 79,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

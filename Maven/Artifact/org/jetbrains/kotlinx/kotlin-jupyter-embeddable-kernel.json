@@ -3,9 +3,9 @@
   "description": "Kotlin Kernel suitable for embedding into IntelliJ IDEA",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-embeddable-kernel",
-  "version_latest": "0.15.0-573",
-  "ts_publish": 1754291429000,
-  "ts_update": 1754291818600,
+  "version_latest": "0.15.0-574",
+  "ts_publish": 1754323200000,
+  "ts_update": 1754324222454,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

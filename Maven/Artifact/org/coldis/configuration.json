@@ -3,9 +3,9 @@
   "description": "Common configuration and dependencies.",
   "group_id": "org.coldis",
   "artifact_id": "configuration",
-  "version_latest": "2.0.124",
-  "ts_publish": 1754157599000,
-  "ts_update": 1754158024180,
+  "version_latest": "2.0.125",
+  "ts_publish": 1754319749000,
+  "ts_update": 1754320633816,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

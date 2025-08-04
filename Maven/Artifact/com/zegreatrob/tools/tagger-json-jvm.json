@@ -3,9 +3,9 @@
   "description": "tagger-json",
   "group_id": "com.zegreatrob.tools",
   "artifact_id": "tagger-json-jvm",
-  "version_latest": "1.8.2",
-  "ts_publish": 1754230965000,
-  "ts_update": 1754231821865,
+  "version_latest": "1.8.3",
+  "ts_publish": 1754310758000,
+  "ts_update": 1754311363578,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

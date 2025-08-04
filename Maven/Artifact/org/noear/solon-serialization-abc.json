@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-serialization-abc",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122636000,
-  "ts_update": 1754123172209,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754325187000,
+  "ts_update": 1754326025820,
   "count_dep": 17,
   "count_ref": 1,
   "licenses": [

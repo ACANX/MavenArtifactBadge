@@ -3,9 +3,9 @@
   "description": "API to generate JVM projects",
   "group_id": "io.micronaut.projectgen",
   "artifact_id": "micronaut-projectgen-openrewrite-runner-maven",
-  "version_latest": "0.0.6",
-  "ts_publish": 1753770117000,
-  "ts_update": 1753770828213,
+  "version_latest": "0.0.8",
+  "ts_publish": 1754316314000,
+  "ts_update": 1754317021847,
   "count_dep": 31,
   "count_ref": 0,
   "licenses": [

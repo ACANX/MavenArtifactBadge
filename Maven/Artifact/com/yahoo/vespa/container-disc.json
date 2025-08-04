@@ -1,14 +1,16 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/container-disc",
-  "description": null,
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "container-disc",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961229876,
-  "count_dep": 21,
-  "count_ref": 24,
-  "licenses": [],
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306827412,
+  "count_dep": 87,
+  "count_ref": 37,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

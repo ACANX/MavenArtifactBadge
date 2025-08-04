@@ -3,9 +3,9 @@
   "description": "The subscription data platform for mobile-first companies.",
   "group_id": "io.qonversion.android.sdk",
   "artifact_id": "sdk",
-  "version_latest": "9.0.1",
-  "ts_publish": 1754211684000,
-  "ts_update": 1754212619531,
+  "version_latest": "9.0.2",
+  "ts_publish": 1754313124000,
+  "ts_update": 1754313426809,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

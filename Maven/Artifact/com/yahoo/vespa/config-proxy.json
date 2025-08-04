@@ -1,14 +1,16 @@
 {
   "id": "pkg:maven/com.yahoo.vespa/config-proxy",
-  "description": null,
+  "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "config-proxy",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961230855,
-  "count_dep": 12,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306825779,
+  "count_dep": 29,
   "count_ref": 0,
-  "licenses": [],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
   "categories": [
     "Big Data",
     "Parallel Data Processing"

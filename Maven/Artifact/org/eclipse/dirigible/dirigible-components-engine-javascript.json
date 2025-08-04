@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-javascript",
+  "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-engine-javascript",
-  "latest_version": "12.2.1",
-  "description": null,
-  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-javascript",
-  "ts": 1753347840000,
-  "dependency_count": 3,
-  "ref_count": 45,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319306950,
+  "count_dep": 45,
+  "count_ref": 3,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753348632491
+  "dsv": 1
 }

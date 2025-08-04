@@ -3,9 +3,9 @@
   "description": "Kotlin Jupyter kernel script classpath for IDE with all dependencies inside one artifact",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-ide-classpath-shadowed",
-  "version_latest": "0.15.0-573",
-  "ts_publish": 1754291429000,
-  "ts_update": 1754291818598,
+  "version_latest": "0.15.0-574",
+  "ts_publish": 1754323200000,
+  "ts_update": 1754324222450,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

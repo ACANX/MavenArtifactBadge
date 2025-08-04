@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-api-s3",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753878428000,
-  "ts_update": 1753879636853,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319300342,
   "count_dep": 5,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [],
   "categories": [
     "Uncategorized"
