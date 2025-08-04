@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-mui-base",
+  "description": "Kotlin wrapper for MUI Base UI",
+  "group_id": "org.jetbrains.kotlin-wrappers",
+  "artifact_id": "kotlin-mui-base",
+  "version_latest": "2025.8.3-5.0.0-beta.40-1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289425180,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

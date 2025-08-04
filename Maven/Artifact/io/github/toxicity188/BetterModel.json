@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.toxicity188/BetterModel",
+  "description": "Lightweight BlockBench model engine for Bukkit",
+  "group_id": "io.github.toxicity188",
+  "artifact_id": "BetterModel",
+  "version_latest": "1.10.3",
+  "ts_publish": 1754202242000,
+  "ts_update": 1754202945984,
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

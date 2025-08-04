@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/app.cash.backfila/client-s3",
+  "description": "Backfila is a service that manages backfill state, calling into other services to do batched work.",
+  "group_id": "app.cash.backfila",
+  "artifact_id": "client-s3",
+  "version_latest": "2025.07.30.212905-62fef5f",
+  "ts_publish": 1753911649000,
+  "ts_update": 1753914422254,
+  "count_dep": 16,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

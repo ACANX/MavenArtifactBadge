@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.arconia.migrations/rewrite-bom",
+  "description": "Arconia Migrations Bill of Materials.",
+  "group_id": "io.arconia.migrations",
+  "artifact_id": "rewrite-bom",
+  "version_latest": "0.3.0",
+  "ts_publish": 1753812283000,
+  "ts_update": 1753813018692,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

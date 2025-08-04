@@ -1,0 +1,17 @@
+{
+  "id": "pkg:maven/fun.hereis.code/code",
+  "group_id": "fun.hereis.code",
+  "artifact_id": "code",
+  "latest_version": "1.12.1.RLS",
+  "ts": 1753758688000,
+  "last_updated": 1753759019371,
+  "description": "The common code which are used frequently.",
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "dep_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ]
+}

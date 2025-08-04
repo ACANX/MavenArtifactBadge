@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/mx.openpay/library-data",
+  "description": "Sdk Openpay",
+  "group_id": "mx.openpay",
+  "artifact_id": "library-data",
+  "version_latest": "1.0.54",
+  "ts_publish": 1753899410000,
+  "ts_update": 1753900022406,
+  "count_dep": 22,
+  "count_ref": 1,
+  "licenses": [
+    "Library License"
+  ],
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.antgroup.antchain.openapi/openapi-gesaas",
+  "description": "Ant Chain GESAAS SDK for Java",
+  "group_id": "com.antgroup.antchain.openapi",
+  "artifact_id": "openapi-gesaas",
+  "version_latest": "1.0.3",
+  "ts_publish": 1753788353000,
+  "ts_update": 1753789018683,
+  "count_dep": 24,
+  "count_ref": 0,
+  "licenses": [
+    ""
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

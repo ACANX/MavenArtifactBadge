@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.getelements.elements/rt-server-simple",
+  "description": "Elements is an Open Source Backend for Games",
+  "group_id": "dev.getelements.elements",
+  "artifact_id": "rt-server-simple",
+  "version_latest": "3.3.4",
+  "ts_publish": 1754007513000,
+  "ts_update": 1754008022750,
+  "count_dep": 35,
+  "count_ref": 10,
+  "licenses": [
+    "Modified GNU AGPL v3.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

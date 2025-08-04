@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.easycode8",
+  "artifact_id": "fast-api",
+  "latest_version": "1.2.4",
+  "description": "fast api for spring",
+  "id": "pkg:maven/io.github.easycode8/fast-api",
+  "ts": 1753342725000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753343140314
+}

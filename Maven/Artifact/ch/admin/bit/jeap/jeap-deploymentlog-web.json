@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-deploymentlog-web",
+  "latest_version": "2.10.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-web",
+  "ts": 1753453151000,
+  "dependency_count": 1,
+  "ref_count": 163,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548128
+}

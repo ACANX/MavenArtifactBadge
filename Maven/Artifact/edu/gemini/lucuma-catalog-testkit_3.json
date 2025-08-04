@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/edu.gemini/lucuma-catalog-testkit_3",
+  "description": "lucuma-catalog-testkit",
+  "group_id": "edu.gemini",
+  "artifact_id": "lucuma-catalog-testkit_3",
+  "version_latest": "0.141.0",
+  "ts_publish": 1754323083000,
+  "ts_update": 1754324223015,
+  "count_dep": 93,
+  "count_ref": 0,
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

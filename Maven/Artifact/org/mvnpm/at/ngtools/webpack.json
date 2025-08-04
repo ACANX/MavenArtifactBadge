@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.ngtools/webpack",
+  "description": "Webpack plugin that AoT compiles your Angular components and modules.",
+  "group_id": "org.mvnpm.at.ngtools",
+  "artifact_id": "webpack",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753920201000,
+  "ts_update": 1753921023032,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

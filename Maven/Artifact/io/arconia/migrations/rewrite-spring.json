@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.arconia.migrations/rewrite-spring",
+  "description": "Arconia OpenRewrite Recipes for Spring.",
+  "group_id": "io.arconia.migrations",
+  "artifact_id": "rewrite-spring",
+  "version_latest": "0.3.0",
+  "ts_publish": 1753812283000,
+  "ts_update": 1753813018692,
+  "count_dep": 10,
+  "count_ref": 1,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

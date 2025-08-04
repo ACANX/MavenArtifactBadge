@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-relationalStore-duckdb-pure",
+  "description": null,
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-relationalStore-duckdb-pure",
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036826057,
+  "count_dep": 26,
+  "count_ref": 1,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

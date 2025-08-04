@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.affixapi/api",
+  "description": "AffixApiSdk",
+  "group_id": "com.affixapi",
+  "artifact_id": "api",
+  "version_latest": "1.1.112",
+  "ts_publish": 1753921893000,
+  "ts_update": 1753922820342,
+  "count_dep": 16,
+  "count_ref": 0,
+  "licenses": [
+    "Unlicense"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.apoapsis.ortserver.services/ort-run-service",
+  "description": "Part of the ORT Server, the reference implementation of Eclipse Apoapsis.",
+  "group_id": "org.eclipse.apoapsis.ortserver.services",
+  "artifact_id": "ort-run-service",
+  "version_latest": "0.21.0",
+  "ts_publish": 1753784172000,
+  "ts_update": 1753784781249,
+  "count_dep": 49,
+  "count_ref": 3,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

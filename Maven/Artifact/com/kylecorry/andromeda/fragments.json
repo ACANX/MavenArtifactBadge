@@ -1,0 +1,15 @@
+{
+  "group_id": "com.kylecorry.andromeda",
+  "artifact_id": "fragments",
+  "latest_version": "15.3.0",
+  "description": "A collection of Android libraries for simplifying development using Android APIs.",
+  "id": "pkg:maven/com.kylecorry.andromeda/fragments",
+  "ts": 1753559432000,
+  "dependency_count": 0,
+  "ref_count": 12,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753560418127
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular/router",
+  "description": "Angular - the routing library",
+  "group_id": "org.mvnpm.at.angular",
+  "artifact_id": "router",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753964656000,
+  "ts_update": 1753965420556,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

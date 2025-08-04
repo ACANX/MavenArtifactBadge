@@ -1,0 +1,17 @@
+{
+  "group_id": "com.johnsnowlabs.nlp",
+  "artifact_id": "spark-nlp-gpu_2.12",
+  "latest_version": "6.1.0",
+  "description": "Spark NLP is an open-source text processing library for advanced natural language processing.",
+  "id": "pkg:maven/com.johnsnowlabs.nlp/spark-nlp-gpu_2.12",
+  "ts": 1753293198000,
+  "dependency_count": 0,
+  "ref_count": 388,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753294018674
+}

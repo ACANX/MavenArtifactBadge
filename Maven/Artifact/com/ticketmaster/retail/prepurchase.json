@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.ticketmaster.retail/prepurchase",
+  "description": "PrePurchaseAPI for Android",
+  "group_id": "com.ticketmaster.retail",
+  "artifact_id": "prepurchase",
+  "version_latest": "3.7.0",
+  "ts_publish": 1753916799000,
+  "ts_update": 1753917422952,
+  "count_dep": 36,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

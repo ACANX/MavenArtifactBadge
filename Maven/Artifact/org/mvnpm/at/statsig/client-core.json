@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.statsig/client-core",
+  "description": "statsig client-core",
+  "group_id": "org.mvnpm.at.statsig",
+  "artifact_id": "client-core",
+  "version_latest": "3.20.3",
+  "ts_publish": 1753834331000,
+  "ts_update": 1753835220187,
+  "count_dep": 0,
+  "count_ref": 1,
+  "licenses": [
+    "ISC"
+  ],
+  "categories": null,
+  "dsv": 1
+}

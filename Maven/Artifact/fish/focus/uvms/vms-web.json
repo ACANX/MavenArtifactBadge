@@ -1,0 +1,15 @@
+{
+  "group_id": "fish.focus.uvms",
+  "artifact_id": "vms-web",
+  "latest_version": "1.4.0",
+  "description": "focus pom, parent for all projects",
+  "id": "pkg:maven/fish.focus.uvms/vms-web",
+  "ts": 1753278344000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "GNU General Public License (GPLv3)"
+  ],
+  "last_updated": 1753279018740
+}

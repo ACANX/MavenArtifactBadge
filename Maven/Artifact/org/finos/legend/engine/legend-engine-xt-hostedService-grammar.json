@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-hostedService-grammar",
+  "description": null,
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-hostedService-grammar",
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036829811,
+  "count_dep": 14,
+  "count_ref": 4,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "io.sourcesync.sdk",
+  "artifact_id": "sourcesync-sdk-ui-android",
+  "latest_version": "0.1.26",
+  "description": "Android UI components for SourceSync SDK",
+  "id": "pkg:maven/io.sourcesync.sdk/sourcesync-sdk-ui-android",
+  "ts": 1753296346000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753296683453
+}

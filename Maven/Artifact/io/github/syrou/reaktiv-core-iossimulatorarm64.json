@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.syrou/reaktiv-core-iossimulatorarm64",
+  "description": "A flexible and powerful state management library...",
+  "group_id": "io.github.syrou",
+  "artifact_id": "reaktiv-core-iossimulatorarm64",
+  "version_latest": "0.9.4",
+  "ts_publish": 1754328702000,
+  "ts_update": 1754329408009,
+  "count_dep": 3,
+  "count_ref": 2,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

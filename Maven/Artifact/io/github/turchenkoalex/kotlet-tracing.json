@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/io.github.turchenkoalex/kotlet-tracing",
+  "description": "Kotlet tracing module",
+  "group_id": "io.github.turchenkoalex",
+  "artifact_id": "kotlet-tracing",
+  "version_latest": "0.47.0",
+  "ts_publish": 1753760115000,
+  "ts_updated": 1753760641903,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null
+}

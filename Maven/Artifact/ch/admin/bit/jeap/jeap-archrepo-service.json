@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-archrepo-service",
+  "latest_version": "1.28.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-service",
+  "ts": 1753453776000,
+  "dependency_count": 0,
+  "ref_count": 39,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454217927
+}

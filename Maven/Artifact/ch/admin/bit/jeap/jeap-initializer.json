@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-initializer",
+  "latest_version": "2.16.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-initializer",
+  "ts": 1753452993000,
+  "dependency_count": 0,
+  "ref_count": 121,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548715
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "drs",
+  "latest_version": "1.5.4",
+  "description": "The AWS SDK for Kotlin client for drs",
+  "id": "pkg:maven/aws.sdk.kotlin/drs",
+  "ts": 1753486078000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753488425421
+}

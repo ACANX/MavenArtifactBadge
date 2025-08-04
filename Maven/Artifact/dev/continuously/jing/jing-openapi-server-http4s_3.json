@@ -1,0 +1,15 @@
+{
+  "group_id": "dev.continuously.jing",
+  "artifact_id": "jing-openapi-server-http4s_3",
+  "latest_version": "0.0.2",
+  "description": "Just Import 'N' Go: Spec-first APIs without codegen",
+  "id": "pkg:maven/dev.continuously.jing/jing-openapi-server-http4s_3",
+  "ts": 1753475519000,
+  "dependency_count": 0,
+  "ref_count": 43,
+  "categories": null,
+  "licenses": [
+    "MPL 2.0"
+  ],
+  "last_updated": 1753476421373
+}

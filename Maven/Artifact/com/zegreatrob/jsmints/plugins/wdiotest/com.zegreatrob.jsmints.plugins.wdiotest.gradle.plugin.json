@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.jsmints.plugins.wdiotest/com.zegreatrob.jsmints.plugins.wdiotest.gradle.plugin",
+  "description": "plugins",
+  "group_id": "com.zegreatrob.jsmints.plugins.wdiotest",
+  "artifact_id": "com.zegreatrob.jsmints.plugins.wdiotest.gradle.plugin",
+  "version_latest": "6.7.3",
+  "ts_publish": 1754321290000,
+  "ts_update": 1754321823265,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

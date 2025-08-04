@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-data-space-compiler",
+  "description": null,
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-data-space-compiler",
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036834035,
+  "count_dep": 24,
+  "count_ref": 11,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

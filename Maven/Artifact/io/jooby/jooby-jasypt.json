@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.jooby/jooby-jasypt",
+  "description": "The modular web framework for Java and Kotlin",
+  "group_id": "io.jooby",
+  "artifact_id": "jooby-jasypt",
+  "version_latest": "4.0.3",
+  "ts_publish": 1753816413000,
+  "ts_update": 1753816999355,
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

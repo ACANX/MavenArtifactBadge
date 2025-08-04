@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.anyline/anyline-log",
+  "description": null,
+  "group_id": "org.anyline",
+  "artifact_id": "anyline-log",
+  "version_latest": "8.7.2-20250801",
+  "ts_publish": 1754025951000,
+  "ts_update": 1754026624139,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

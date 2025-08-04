@@ -1,0 +1,18 @@
+{
+  "group_id": "org.webjars.npm",
+  "artifact_id": "marked",
+  "latest_version": "16.1.1",
+  "description": "WebJar for marked",
+  "id": "pkg:maven/org.webjars.npm/marked",
+  "ts": 1753343439000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Build Tools",
+    "Packaging"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753343817584
+}

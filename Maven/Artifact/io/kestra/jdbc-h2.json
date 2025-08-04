@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kestra/jdbc-h2",
+  "description": "io.kestra:jdbc-h2:0.23.9",
+  "group_id": "io.kestra",
+  "artifact_id": "jdbc-h2",
+  "version_latest": "0.23.9",
+  "ts_publish": 1753798508000,
+  "ts_update": 1753799216695,
+  "count_dep": 43,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

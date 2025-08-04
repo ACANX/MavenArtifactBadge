@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.module-federation",
+  "artifact_id": "error-codes",
+  "latest_version": "0.17.1",
+  "description": "Module Federation Error Codes",
+  "id": "pkg:maven/org.mvnpm.at.module-federation/error-codes",
+  "ts": 1753374603000,
+  "dependency_count": 1,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753375017674
+}

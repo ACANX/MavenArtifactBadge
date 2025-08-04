@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.signal/libsignal-client",
+  "description": "Signal Protocol cryptography library for Java",
+  "group_id": "org.signal",
+  "artifact_id": "libsignal-client",
+  "version_latest": "0.78.0",
+  "ts_publish": 1753998502000,
+  "ts_update": 1753999021875,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [
+    "AGPLv3"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

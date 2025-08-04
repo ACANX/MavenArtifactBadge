@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.5hmla/vcatalog",
+  "description": "version catalog",
+  "group_id": "io.github.5hmla",
+  "artifact_id": "vcatalog",
+  "version_latest": "2025.08.05",
+  "ts_publish": 1754323622000,
+  "ts_update": 1754324221835,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

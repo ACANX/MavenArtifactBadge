@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.pubnub/pubnub-kotlin",
+  "description": "PubNub is a cross-platform client-to-client (1:1 and 1:many) push service in the cloud, capable of broadcasting real-time messages to millions of web and mobile clients simultaneously, in less than a quarter second!",
+  "group_id": "com.pubnub",
+  "artifact_id": "pubnub-kotlin",
+  "version_latest": "10.5.7",
+  "ts_publish": 1753989222000,
+  "ts_update": 1753990021672,
+  "count_dep": 17,
+  "count_ref": 0,
+  "licenses": [
+    "PubNub Software Development Kit License"
+  ],
+  "categories": [
+    "Data Transport"
+  ],
+  "dsv": 1
+}

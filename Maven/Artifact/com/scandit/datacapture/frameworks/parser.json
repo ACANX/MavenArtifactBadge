@@ -1,0 +1,15 @@
+{
+  "group_id": "com.scandit.datacapture.frameworks",
+  "artifact_id": "parser",
+  "latest_version": "7.5.0-beta.1",
+  "description": "ScanditFrameworksParser implements the parsing capabilities of the Scandit Data Capture SDK in our Frameworks modules.",
+  "id": "pkg:maven/com.scandit.datacapture.frameworks/parser",
+  "ts": 1753729735000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "Scandit Commercial License"
+  ],
+  "last_updated": 1753730155332
+}

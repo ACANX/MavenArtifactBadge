@@ -1,0 +1,17 @@
+{
+  "group_id": "com.aliyun",
+  "artifact_id": "alibabacloud-paistudio20220112",
+  "latest_version": "2.0.6",
+  "description": "Alibaba Cloud PaiStudio (20220112) Async SDK for Java",
+  "id": "pkg:maven/com.aliyun/alibabacloud-paistudio20220112",
+  "ts": 1753463467000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753463818522
+}

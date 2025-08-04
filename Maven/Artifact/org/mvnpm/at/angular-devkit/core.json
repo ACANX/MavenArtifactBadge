@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular-devkit/core",
+  "description": "Angular DevKit - Core Utility Library",
+  "group_id": "org.mvnpm.at.angular-devkit",
+  "artifact_id": "core",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753920734000,
+  "ts_update": 1753921623270,
+  "count_dep": 14,
+  "count_ref": 4,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

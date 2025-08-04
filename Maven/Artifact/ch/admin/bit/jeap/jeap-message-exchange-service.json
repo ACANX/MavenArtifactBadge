@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-message-exchange-service",
+  "latest_version": "2.25.0",
+  "description": "A common parent project",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-message-exchange-service",
+  "ts": 1753453775000,
+  "dependency_count": 0,
+  "ref_count": 39,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753454218508
+}

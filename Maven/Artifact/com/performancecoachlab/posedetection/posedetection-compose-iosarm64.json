@@ -1,0 +1,15 @@
+{
+  "group_id": "com.performancecoachlab.posedetection",
+  "artifact_id": "posedetection-compose-iosarm64",
+  "latest_version": "3.1.0",
+  "description": "real time body tracking for compose multiplatform mobile apps",
+  "id": "pkg:maven/com.performancecoachlab.posedetection/posedetection-compose-iosarm64",
+  "ts": 1753655824000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753656418355
+}

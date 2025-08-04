@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.alfresco.maven/alfresco-sdk-aggregator",
+  "description": "This aggregator Project builds all modules required for the Alfresco SDK",
+  "group_id": "org.alfresco.maven",
+  "artifact_id": "alfresco-sdk-aggregator",
+  "version_latest": "4.13.0-A6",
+  "ts_publish": 1754294576000,
+  "ts_update": 1754295266865,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Build Tools"
+  ],
+  "dsv": 1
+}

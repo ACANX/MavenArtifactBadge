@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.ydb.yoj",
+  "artifact_id": "yoj-repository-test",
+  "latest_version": "2.6.23",
+  "description": "Basic tests which all YOJ Repository implementations must pass.",
+  "id": "pkg:maven/tech.ydb.yoj/yoj-repository-test",
+  "ts": 1753363060000,
+  "dependency_count": 2,
+  "ref_count": 25,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363627058
+}

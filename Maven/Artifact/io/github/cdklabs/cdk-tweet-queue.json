@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.github.cdklabs/cdk-tweet-queue",
+  "description": "Defines an SQS queue with tweet stream from a search",
+  "group_id": "io.github.cdklabs",
+  "artifact_id": "cdk-tweet-queue",
+  "version_latest": "2.0.874",
+  "ts_publish": 1754008415000,
+  "ts_update": 1754009220685,
+  "count_dep": 13,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

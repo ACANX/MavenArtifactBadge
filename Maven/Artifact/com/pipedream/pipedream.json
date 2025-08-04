@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.pipedream/pipedream",
+  "description": "The official SDK of pipedream",
+  "group_id": "com.pipedream",
+  "artifact_id": "pipedream",
+  "version_latest": "0.0.256",
+  "ts_publish": 1754008047000,
+  "ts_update": 1754009220686,
+  "count_dep": 16,
+  "count_ref": 0,
+  "licenses": [
+    "The MIT License (MIT)"
+  ],
+  "categories": null,
+  "dsv": 1
+}

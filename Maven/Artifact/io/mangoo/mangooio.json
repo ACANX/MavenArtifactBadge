@@ -1,0 +1,17 @@
+{
+  "group_id": "io.mangoo",
+  "artifact_id": "mangooio",
+  "latest_version": "9.7.0-Beta4",
+  "description": "mangoo I/O is a Modern, Intuitive, Lightweight, High\n\t\tPerformance Full Stack Java Web Framework.",
+  "id": "pkg:maven/io.mangoo/mangooio",
+  "ts": 1753698362000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Web Frameworks"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753699017671
+}

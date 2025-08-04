@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.daml/transcode-codegen-scala-runtime_3",
+  "description": "Runtime classes used by generated scala code",
+  "group_id": "com.daml",
+  "artifact_id": "transcode-codegen-scala-runtime_3",
+  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
+  "ts_publish": 1754283204000,
+  "ts_update": 1754283795870,
+  "count_dep": 3,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

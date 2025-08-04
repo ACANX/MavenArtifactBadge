@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-flyway-db2",
+  "latest_version": "3.25.0",
+  "description": "This extension is added by Quarkus automatically when quarkus-flyway and quarkus-jdbc-db2 are on the classpath",
+  "id": "pkg:maven/io.quarkus/quarkus-flyway-db2",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264621732
+}

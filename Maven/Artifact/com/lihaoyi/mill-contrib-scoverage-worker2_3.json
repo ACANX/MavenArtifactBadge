@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.lihaoyi/mill-contrib-scoverage-worker2_3",
+  "description": "mill-contrib-scoverage-worker2",
+  "group_id": "com.lihaoyi",
+  "artifact_id": "mill-contrib-scoverage-worker2_3",
+  "version_latest": "1.0.2-23-d3f2ba",
+  "ts_publish": 1754326128000,
+  "ts_update": 1754327226141,
+  "count_dep": 17,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

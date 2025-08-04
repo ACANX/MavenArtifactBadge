@@ -1,0 +1,15 @@
+{
+  "group_id": "ch.admin.bit.jeap",
+  "artifact_id": "jeap-bptest-orchestrator",
+  "latest_version": "3.33.0",
+  "description": "jEAP Business Process Test Orchestrator",
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-bptest-orchestrator",
+  "ts": 1753453024000,
+  "dependency_count": 1,
+  "ref_count": 123,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753453548129
+}

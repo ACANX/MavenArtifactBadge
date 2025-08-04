@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/eu.maveniverse.maven.nisse.sources/os-source",
+  "description": "Nisse Maven Extension.",
+  "group_id": "eu.maveniverse.maven.nisse.sources",
+  "artifact_id": "os-source",
+  "version_latest": "0.5.0",
+  "ts_publish": 1753881663000,
+  "ts_update": 1753882293865,
+  "count_dep": 7,
+  "count_ref": 4,
+  "licenses": [
+    "EPL-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

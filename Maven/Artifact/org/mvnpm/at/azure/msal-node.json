@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.azure",
+  "artifact_id": "msal-node",
+  "latest_version": "3.6.4",
+  "description": "Microsoft Authentication Library for Node",
+  "id": "pkg:maven/org.mvnpm.at.azure/msal-node",
+  "ts": 1753286584000,
+  "dependency_count": 0,
+  "ref_count": 19,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753287419245
+}

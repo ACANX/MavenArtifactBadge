@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.truenine/composeserver-rds-jimmer-ext-postgres",
+  "description": "PostgreSQL-specific extensions and enhancements for Jimmer ORM framework.\nProvides PostgreSQL-optimized features, custom types, and database-specific functionality.",
+  "group_id": "io.github.truenine",
+  "artifact_id": "composeserver-rds-jimmer-ext-postgres",
+  "version_latest": "0.0.17",
+  "ts_publish": 1754246236000,
+  "ts_update": 1754246757187,
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [
+    "GNU Lesser General Public License v2.1"
+  ],
+  "categories": null,
+  "dsv": 1
+}

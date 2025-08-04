@@ -1,0 +1,17 @@
+{
+  "group_id": "org.open-metadata",
+  "artifact_id": "openmetadata-dist",
+  "latest_version": "1.8.7",
+  "description": "OpenMetadata binary distribution",
+  "id": "pkg:maven/org.open-metadata/openmetadata-dist",
+  "ts": 1753339177000,
+  "dependency_count": 0,
+  "ref_count": 431,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753339619704
+}

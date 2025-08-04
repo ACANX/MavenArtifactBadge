@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.github.cdklabs/cdk-hyperledger-fabric-network",
+  "description": "CDK construct to deploy a Hyperledger Fabric network running on Amazon Managed Blockchain",
+  "group_id": "io.github.cdklabs",
+  "artifact_id": "cdk-hyperledger-fabric-network",
+  "version_latest": "0.8.930",
+  "ts_publish": 1754008344000,
+  "ts_update": 1754009220685,
+  "count_dep": 17,
+  "count_ref": 0,
+  "licenses": [
+    "MIT No Attribution"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

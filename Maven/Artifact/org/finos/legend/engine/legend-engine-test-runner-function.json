@@ -1,0 +1,17 @@
+{
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-test-runner-function",
+  "latest_version": "4.93.0",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-test-runner-function",
+  "ts": 1753389040000,
+  "dependency_count": 0,
+  "ref_count": 91,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753390024051
+}

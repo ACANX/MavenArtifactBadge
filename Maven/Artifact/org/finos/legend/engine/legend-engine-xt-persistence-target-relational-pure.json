@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-target-relational-pure",
+  "description": null,
+  "group_id": "org.finos.legend.engine",
+  "artifact_id": "legend-engine-xt-persistence-target-relational-pure",
+  "version_latest": "4.95.0",
+  "ts_publish": 1754035364000,
+  "ts_update": 1754036829813,
+  "count_dep": 9,
+  "count_ref": 3,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

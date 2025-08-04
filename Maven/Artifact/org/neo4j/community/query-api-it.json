@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.neo4j.community/query-api-it",
+  "description": "Neo4j Query API Integration Tests.",
+  "group_id": "org.neo4j.community",
+  "artifact_id": "query-api-it",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885021479,
+  "count_dep": 5,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

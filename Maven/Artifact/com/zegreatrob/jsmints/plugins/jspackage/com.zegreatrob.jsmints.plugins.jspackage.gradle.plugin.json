@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.jsmints.plugins.jspackage/com.zegreatrob.jsmints.plugins.jspackage.gradle.plugin",
+  "description": "plugins",
+  "group_id": "com.zegreatrob.jsmints.plugins.jspackage",
+  "artifact_id": "com.zegreatrob.jsmints.plugins.jspackage.gradle.plugin",
+  "version_latest": "6.7.3",
+  "ts_publish": 1754321290000,
+  "ts_update": 1754321823263,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

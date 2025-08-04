@@ -1,0 +1,17 @@
+{
+  "group_id": "io.streamnative",
+  "artifact_id": "pulsar-bom",
+  "latest_version": "4.0.5.4",
+  "description": "Pulsar (Bill of Materials)",
+  "id": "pkg:maven/io.streamnative/pulsar-bom",
+  "ts": 1753462544000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753462842589
+}

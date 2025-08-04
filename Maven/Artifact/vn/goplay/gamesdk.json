@@ -1,0 +1,15 @@
+{
+  "group_id": "vn.goplay",
+  "artifact_id": "gamesdk",
+  "latest_version": "2.0.17",
+  "description": "sdk for VTC online partner",
+  "id": "pkg:maven/vn.goplay/gamesdk",
+  "ts": 1753257499000,
+  "dependency_count": 0,
+  "ref_count": 19,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753258026520
+}

@@ -1,0 +1,19 @@
+{
+  "group_id": "com.arangodb",
+  "artifact_id": "jsonb-serde",
+  "latest_version": "7.21.0",
+  "description": "JsonB Serde module for ArangoDB Java Driver",
+  "id": "pkg:maven/com.arangodb/jsonb-serde",
+  "ts": 1753297835000,
+  "dependency_count": 0,
+  "ref_count": 8,
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753298819368
+}

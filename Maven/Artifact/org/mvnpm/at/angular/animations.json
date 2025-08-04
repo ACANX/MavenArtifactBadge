@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular/animations",
+  "description": "Angular - animations integration with web-animations",
+  "group_id": "org.mvnpm.at.angular",
+  "artifact_id": "animations",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753963755000,
+  "ts_update": 1753964832235,
+  "count_dep": 4,
+  "count_ref": 1,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

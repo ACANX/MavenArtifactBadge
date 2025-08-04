@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.sentry-internal/replay",
+  "description": "User replays for Sentry",
+  "group_id": "org.mvnpm.at.sentry-internal",
+  "artifact_id": "replay",
+  "version_latest": "10.1.0",
+  "ts_publish": 1754309359000,
+  "ts_update": 1754310422662,
+  "count_dep": 2,
+  "count_ref": 1,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

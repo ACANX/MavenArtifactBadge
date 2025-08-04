@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.easy-query/sql-core",
+  "description": "java object query distributed connector",
+  "group_id": "com.easy-query",
+  "artifact_id": "sql-core",
+  "version_latest": "3.0.65",
+  "ts_publish": 1754272874000,
+  "ts_update": 1754273220693,
+  "count_dep": 1,
+  "count_ref": 18,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

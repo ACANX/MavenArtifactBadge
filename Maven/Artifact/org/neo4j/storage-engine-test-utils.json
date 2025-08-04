@@ -1,0 +1,20 @@
+{
+  "id": "pkg:maven/org.neo4j/storage-engine-test-utils",
+  "description": "A set of storage engine utilities used by tests.",
+  "group_id": "org.neo4j",
+  "artifact_id": "storage-engine-test-utils",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885024294,
+  "count_dep": 38,
+  "count_ref": 5,
+  "licenses": [
+    "GPL-3.0-or-later"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

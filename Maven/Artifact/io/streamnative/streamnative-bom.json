@@ -1,0 +1,17 @@
+{
+  "group_id": "io.streamnative",
+  "artifact_id": "streamnative-bom",
+  "latest_version": "4.0.5.4",
+  "description": "Shared maven dependency for plugins",
+  "id": "pkg:maven/io.streamnative/streamnative-bom",
+  "ts": 1753462543000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753462842589
+}

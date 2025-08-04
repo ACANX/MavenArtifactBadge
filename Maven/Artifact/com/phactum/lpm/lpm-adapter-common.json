@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.phactum.lpm/lpm-adapter-common",
+  "description": "API for ingesting signals for process monitoring.",
+  "group_id": "com.phactum.lpm",
+  "artifact_id": "lpm-adapter-common",
+  "version_latest": "0.9.7",
+  "ts_publish": 1753776108000,
+  "ts_update": 1753777020682,
+  "count_dep": 3,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

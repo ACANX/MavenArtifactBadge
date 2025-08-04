@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.alexmofer.android",
+  "artifact_id": "support",
+  "latest_version": "1.15.0",
+  "description": "Android support library, some auxiliary tools.",
+  "id": "pkg:maven/io.github.alexmofer.android/support",
+  "ts": 1753715460000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753716418169
+}

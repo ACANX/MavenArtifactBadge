@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.anyline/anyline-data-jdbc-edb",
+  "description": "EDB",
+  "group_id": "org.anyline",
+  "artifact_id": "anyline-data-jdbc-edb",
+  "version_latest": "8.7.2-20250801",
+  "ts_publish": 1754025951000,
+  "ts_update": 1754026622972,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "com.codbex.phoebe",
+  "artifact_id": "codbex-phoebe-components-ui-menu-help",
+  "latest_version": "3.17.0",
+  "description": "codbex phoebe",
+  "id": "pkg:maven/com.codbex.phoebe/codbex-phoebe-components-ui-menu-help",
+  "ts": 1753683544000,
+  "dependency_count": 1,
+  "ref_count": 121,
+  "categories": null,
+  "licenses": [
+    "Eclipse Public License - v 2.0"
+  ],
+  "last_updated": 1753684024164
+}

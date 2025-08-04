@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.neo4j/import-test-utils",
+  "description": "A set of batch import utilities used by tests.",
+  "group_id": "org.neo4j",
+  "artifact_id": "import-test-utils",
+  "version_latest": "2025.07.0",
+  "ts_publish": 1753884084000,
+  "ts_update": 1753885023388,
+  "count_dep": 4,
+  "count_ref": 4,
+  "licenses": [],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

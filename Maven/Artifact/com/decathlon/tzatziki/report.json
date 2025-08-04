@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.decathlon.tzatziki/report",
+  "description": "cucumber library",
+  "group_id": "com.decathlon.tzatziki",
+  "artifact_id": "report",
+  "version_latest": "2.1.0",
+  "ts_publish": 1754038805000,
+  "ts_update": 1754039821411,
+  "count_dep": 291,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,0 +1,18 @@
+{
+  "group_id": "com.netflix.evcache",
+  "artifact_id": "evcache-client",
+  "latest_version": "5.25.0",
+  "description": "evcache-client",
+  "id": "pkg:maven/com.netflix.evcache/evcache-client",
+  "ts": 1753310841000,
+  "dependency_count": 1,
+  "ref_count": 70,
+  "categories": [
+    "Data Management",
+    "Caching"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753311364095
+}
