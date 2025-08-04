@@ -1,22 +1,6 @@
 {
-  "map": {
-    "com.foilen:jl-smalltools-mongodb": 1754338705000,
-    "com.foilen:jl-smalltools-bouncycastle": 1754338705000,
-    "com.foilen:jl-smalltools-ssh": 1754338705000,
-    "com.foilen:jl-smalltools-database": 1754338705000,
-    "com.foilen:jl-smalltools-mongodb-5-spring": 1754338705000,
-    "com.foilen:jl-smalltools-spring": 1754338705000,
-    "com.foilen:jl-smalltools-mongodb-5": 1754338705000,
-    "com.foilen:jl-smalltools-hibernate61": 1754338705000,
-    "com.foilen:jl-smalltools-mongodb-spring": 1754338705000,
-    "com.foilen:jl-smalltools-main": 1754338705000,
-    "com.foilen:jl-smalltools-hibernate63": 1754338705000,
-    "org.mvnpm.at.typescript-eslint:visitor-keys": 1754338699000,
-    "org.mvnpm.at.typescript-eslint:scope-manager": 1754338519000,
-    "com.barion:nfcemvreader": 1754338447000,
-    "fr.alexpado:jda-interactions-extension": 1754338406000,
-    "com.stytch.sdk:sdk": 1754338385000,
-    "org.mvnpm.at.typescript-eslint:typescript-estree": 1754338348000
-  },
-  "ts": 1754338975668
+	"map":{
+		
+	},
+	"ts":1754339232054
 }
