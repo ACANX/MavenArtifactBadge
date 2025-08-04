@@ -3,9 +3,9 @@
   "description": "The most advanced ORM of JVM, for both java & kotlin",
   "group_id": "org.babyfish.jimmer",
   "artifact_id": "jimmer-core-kotlin",
-  "version_latest": "0.9.103",
-  "ts_publish": 1754257917000,
-  "ts_update": 1754258218341,
+  "version_latest": "0.9.104",
+  "ts_publish": 1754326039000,
+  "ts_update": 1754327226673,
   "count_dep": 6,
   "count_ref": 2,
   "licenses": [

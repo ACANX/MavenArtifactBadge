@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-core-registry",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753878428000,
-  "ts_update": 1753879631873,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319303805,
   "count_dep": 44,
-  "count_ref": 6,
+  "count_ref": 8,
   "licenses": [],
   "categories": [
     "Uncategorized"

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/is.codion/codion-plugin-imagepanel",
+  "description": "Codion Application Framework",
   "group_id": "is.codion",
   "artifact_id": "codion-plugin-imagepanel",
-  "latest_version": "0.18.42",
-  "description": "Codion Application Framework",
-  "id": "pkg:maven/is.codion/codion-plugin-imagepanel",
-  "ts": 1753704636000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "0.18.43",
+  "ts_publish": 1754325631000,
+  "ts_update": 1754326620026,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "GPL-3.0"
   ],
-  "last_updated": 1753705627331
+  "categories": null,
+  "dsv": 1
 }

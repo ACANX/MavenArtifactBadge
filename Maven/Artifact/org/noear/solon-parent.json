@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-parent",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754121816000,
-  "ts_update": 1754122625283,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754324111000,
+  "ts_update": 1754324829956,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

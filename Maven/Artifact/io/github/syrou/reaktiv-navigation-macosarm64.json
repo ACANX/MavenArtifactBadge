@@ -3,9 +3,9 @@
   "description": "A flexible and powerful state management library...",
   "group_id": "io.github.syrou",
   "artifact_id": "reaktiv-navigation-macosarm64",
-  "version_latest": "0.9.3",
-  "ts_publish": 1754242847000,
-  "ts_update": 1754243553829,
+  "version_latest": "0.9.4",
+  "ts_publish": 1754328804000,
+  "ts_update": 1754329407280,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

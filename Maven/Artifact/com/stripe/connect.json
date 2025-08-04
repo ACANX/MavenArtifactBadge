@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.stripe/connect",
+  "description": "The Connect Embedded Components SDK module of the Stripe Android SDK",
   "group_id": "com.stripe",
   "artifact_id": "connect",
-  "latest_version": "21.22.0",
-  "description": "The Connect Embedded Components SDK module of the Stripe Android SDK",
-  "id": "pkg:maven/com.stripe/connect",
-  "ts": 1753733603000,
-  "dependency_count": 0,
-  "ref_count": 19,
-  "categories": [
-    "Payment"
-  ],
+  "version_latest": "21.22.1",
+  "ts_publish": 1754325833000,
+  "ts_update": 1754327227172,
+  "count_dep": 19,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753734415636
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
 }

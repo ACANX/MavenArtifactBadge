@@ -3,9 +3,9 @@
   "description": "The PayPal Android SDK Messages Module: Promote offers to your customers such as Pay Later and PayPal Credit.",
   "group_id": "com.paypal.messages",
   "artifact_id": "paypal-messages",
-  "version_latest": "1.1.0",
-  "ts_publish": 1753903143000,
-  "ts_update": 1753904217186,
+  "version_latest": "1.1.1",
+  "ts_publish": 1754325677000,
+  "ts_update": 1754326620024,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

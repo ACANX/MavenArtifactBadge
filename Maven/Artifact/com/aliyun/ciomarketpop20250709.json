@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud CioMarketPop (20250709) SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "ciomarketpop20250709",
-  "version_latest": "1.0.0",
-  "ts_publish": 1753863813000,
-  "ts_update": 1753864625756,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754305953000,
+  "ts_update": 1754306172225,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [

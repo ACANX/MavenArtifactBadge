@@ -3,9 +3,9 @@
   "description": "Palantir open source project",
   "group_id": "com.palantir.gradle.externalpublish",
   "artifact_id": "publish-plugin-lib",
-  "version_latest": "1.22.0",
-  "ts_publish": 1753886611000,
-  "ts_update": 1753887422731,
+  "version_latest": "1.24.0",
+  "ts_publish": 1754325201000,
+  "ts_update": 1754326025185,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

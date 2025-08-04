@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-base-bundle6",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122626000,
-  "ts_update": 1754123172729,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754325149000,
+  "ts_update": 1754326026433,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

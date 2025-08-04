@@ -3,11 +3,11 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-ai-core",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122873000,
-  "ts_update": 1754123171095,
-  "count_dep": 15,
-  "count_ref": 5,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754325353000,
+  "ts_update": 1754326024009,
+  "count_dep": 19,
+  "count_ref": 23,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],

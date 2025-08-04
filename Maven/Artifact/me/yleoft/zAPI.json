@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/me.yleoft/zAPI",
+  "description": "API used to manage my plugins",
   "group_id": "me.yleoft",
   "artifact_id": "zAPI",
-  "latest_version": "1.4.1",
-  "description": "API used to manage my plugins",
-  "id": "pkg:maven/me.yleoft/zAPI",
-  "ts": 1753719754000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "1.4.2",
+  "ts_publish": 1754325325000,
+  "ts_update": 1754326024586,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753720601404
+  "categories": null,
+  "dsv": 1
 }

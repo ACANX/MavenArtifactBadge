@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.eolang/eo-parent",
+  "description": "EO Language Compiler and Runtime",
   "group_id": "org.eolang",
   "artifact_id": "eo-parent",
-  "latest_version": "0.57.3",
-  "description": "EO Language Compiler and Runtime",
-  "id": "pkg:maven/org.eolang/eo-parent",
-  "ts": 1753609117000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.58.0",
+  "ts_publish": 1754323700000,
+  "ts_update": 1754324221834,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753609620176
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

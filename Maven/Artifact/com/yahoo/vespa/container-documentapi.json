@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "container-documentapi",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873078594,
-  "count_dep": 3,
-  "count_ref": 4,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306826299,
+  "count_dep": 26,
+  "count_ref": 41,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

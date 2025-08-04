@@ -3,9 +3,9 @@
   "description": "Mobius public Parent",
   "group_id": "com.mobius-software.protocols.ss7.commonapp",
   "artifact_id": "commonapp-impl",
-  "version_latest": "10.0.51-java11",
-  "ts_publish": 1753877861000,
-  "ts_update": 1753879019719,
+  "version_latest": "10.0.52-java11",
+  "ts_publish": 1754321962000,
+  "ts_update": 1754322431332,
   "count_dep": 16,
   "count_ref": 4,
   "licenses": [

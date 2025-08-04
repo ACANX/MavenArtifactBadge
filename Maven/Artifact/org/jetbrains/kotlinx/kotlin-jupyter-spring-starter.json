@@ -3,9 +3,9 @@
   "description": "Interactive Jupyter-style console for Spring applications",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-spring-starter",
-  "version_latest": "0.15.0-573",
-  "ts_publish": 1754291429000,
-  "ts_update": 1754291818599,
+  "version_latest": "0.15.0-574",
+  "ts_publish": 1754323200000,
+  "ts_update": 1754324222451,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Provides integration between Micronaut and Oracle Cloud",
   "group_id": "io.micronaut.oraclecloud",
   "artifact_id": "micronaut-oraclecloud-bmc-resourcesearch",
-  "version_latest": "5.2.2",
-  "ts_publish": 1753943866000,
-  "ts_update": 1753944419449,
+  "version_latest": "5.3.0",
+  "ts_publish": 1754322791000,
+  "ts_update": 1754323623260,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [

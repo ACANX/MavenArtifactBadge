@@ -3,9 +3,9 @@
   "description": "Test suite for testing Kotlin kernel library integration",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-test-kit",
-  "version_latest": "0.15.0-573",
-  "ts_publish": 1754291429000,
-  "ts_update": 1754291818597,
+  "version_latest": "0.15.0-574",
+  "ts_publish": 1754323200000,
+  "ts_update": 1754324222452,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [

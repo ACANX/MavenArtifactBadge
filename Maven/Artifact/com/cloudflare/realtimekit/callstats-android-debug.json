@@ -3,9 +3,9 @@
   "description": "Cloudflare RealtimeKit KMM Client for CallStats",
   "group_id": "com.cloudflare.realtimekit",
   "artifact_id": "callstats-android-debug",
-  "version_latest": "1.7.23",
-  "ts_publish": 1754294792000,
-  "ts_update": 1754295266285,
+  "version_latest": "1.7.24",
+  "ts_publish": 1754309892000,
+  "ts_update": 1754310422657,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

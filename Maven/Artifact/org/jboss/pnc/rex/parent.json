@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.jboss.pnc.rex/parent",
+  "description": "Clusterable scheduler of remotely executed tasks",
   "group_id": "org.jboss.pnc.rex",
   "artifact_id": "parent",
-  "latest_version": "1.1.1",
-  "description": "Clusterable scheduler of remotely executed tasks",
-  "id": "pkg:maven/org.jboss.pnc.rex/parent",
-  "ts": 1753371205000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.2.0",
+  "ts_publish": 1754317171000,
+  "ts_update": 1754317987032,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753371567271
+  "categories": null,
+  "dsv": 1
 }

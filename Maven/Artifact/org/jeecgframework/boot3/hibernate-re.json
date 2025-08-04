@@ -3,9 +3,9 @@
   "description": "JeecgBoot在线低代码功能（online表单、online报表）",
   "group_id": "org.jeecgframework.boot3",
   "artifact_id": "hibernate-re",
-  "version_latest": "3.8.2-beta",
-  "ts_publish": 1753930604000,
-  "ts_update": 1753931224230,
+  "version_latest": "3.8.2",
+  "ts_publish": 1754303750000,
+  "ts_update": 1754304424202,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

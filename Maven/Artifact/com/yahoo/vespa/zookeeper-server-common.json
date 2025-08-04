@@ -3,11 +3,11 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "zookeeper-server-common",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961228793,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306826296,
   "count_dep": 67,
-  "count_ref": 10,
+  "count_ref": 8,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
