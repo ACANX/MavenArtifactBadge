@@ -474,6 +474,10 @@
     "com.amazonaws:athena-mysql": 1754336259000,
     "com.amazonaws:athena-jdbc": 1754336259000,
     "com.amazonaws:athena-dynamodb": 1754336259000,
-    "net.sf.mpxj:mpxj": 1754336115000
+    "net.sf.mpxj:mpxj": 1754336115000,
+    "com.johnsnowlabs.nlp:jsl-llamacpp-gpu": 1754336584000,
+    "com.discord4j:discord-json-api": 1754336491000,
+    "com.discord4j:discord-json": 1754336491000,
+    "com.discord4j:discord-json-encoding": 1754336491000
   }
 }
