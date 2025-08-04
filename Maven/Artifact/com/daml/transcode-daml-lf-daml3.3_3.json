@@ -3,9 +3,9 @@
   "description": "Daml LF Schema extraction utilities",
   "group_id": "com.daml",
   "artifact_id": "transcode-daml-lf-daml3.3_3",
-  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
-  "ts_publish": 1753856165000,
-  "ts_update": 1753856821220,
+  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
+  "ts_publish": 1754283338000,
+  "ts_update": 1754284021324,
   "count_dep": 31,
   "count_ref": 4,
   "licenses": [

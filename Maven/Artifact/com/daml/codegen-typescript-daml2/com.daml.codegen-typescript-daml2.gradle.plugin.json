@@ -3,10 +3,10 @@
   "description": "Gradle Plugin for Typescript Code Generation",
   "group_id": "com.daml.codegen-typescript-daml2",
   "artifact_id": "com.daml.codegen-typescript-daml2.gradle.plugin",
-  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
-  "ts_publish": 1753856169000,
-  "ts_update": 1753856821219,
-  "count_dep": 45,
+  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
+  "ts_publish": 1754283346000,
+  "ts_update": 1754284021323,
+  "count_dep": 47,
   "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
