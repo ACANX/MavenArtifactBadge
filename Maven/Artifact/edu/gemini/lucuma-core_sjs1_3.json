@@ -3,9 +3,9 @@
   "description": "lucuma-core",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-core_sjs1_3",
-  "version_latest": "0.140.0",
-  "ts_publish": 1754316531000,
-  "ts_update": 1754317021846,
+  "version_latest": "0.140.1",
+  "ts_publish": 1754319923000,
+  "ts_update": 1754320633206,
   "count_dep": 86,
   "count_ref": 4,
   "licenses": [

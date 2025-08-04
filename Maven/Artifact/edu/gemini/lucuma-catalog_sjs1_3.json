@@ -3,9 +3,9 @@
   "description": "lucuma-catalog",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-catalog_sjs1_3",
-  "version_latest": "0.140.0",
-  "ts_publish": 1754316531000,
-  "ts_update": 1754317021845,
+  "version_latest": "0.140.1",
+  "ts_publish": 1754319923000,
+  "ts_update": 1754320633815,
   "count_dep": 114,
   "count_ref": 2,
   "licenses": [
