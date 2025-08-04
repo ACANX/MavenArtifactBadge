@@ -3,9 +3,9 @@
   "description": "Redis",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-redis",
-  "version_latest": "1.1.8",
-  "ts_publish": 1753772141000,
-  "ts_update": 1753772824820,
+  "version_latest": "1.1.10",
+  "ts_publish": 1754291107000,
+  "ts_update": 1754291819216,
   "count_dep": 8,
   "count_ref": 3,
   "licenses": [

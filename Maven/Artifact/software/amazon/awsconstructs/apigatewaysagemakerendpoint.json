@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS API Gateway and Amazon SageMaker Endpoint integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "apigatewaysagemakerendpoint",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622463,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099821386,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

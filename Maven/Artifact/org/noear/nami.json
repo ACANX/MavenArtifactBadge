@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/nami",
+  "description": "Java project for nami",
   "group_id": "org.noear",
   "artifact_id": "nami",
-  "latest_version": "3.4.2",
-  "description": "Java project for nami",
-  "id": "pkg:maven/org.noear/nami",
-  "ts": 1753692814000,
-  "dependency_count": 12,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122361000,
+  "ts_update": 1754122623645,
+  "count_dep": 3,
+  "count_ref": 12,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693626728
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

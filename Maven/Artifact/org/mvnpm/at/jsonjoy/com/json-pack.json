@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack",
+  "description": "High-performance JSON serialization library",
   "group_id": "org.mvnpm.at.jsonjoy.com",
   "artifact_id": "json-pack",
-  "latest_version": "1.4.0",
-  "description": "High-performance JSON serialization library",
-  "id": "pkg:maven/org.mvnpm.at.jsonjoy.com/json-pack",
-  "ts": 1753531565000,
-  "dependency_count": 0,
-  "ref_count": 10,
-  "categories": null,
+  "version_latest": "1.8.0",
+  "ts_publish": 1754179578000,
+  "ts_update": 1754180220879,
+  "count_dep": 12,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753532217022
+  "categories": null,
+  "dsv": 1
 }

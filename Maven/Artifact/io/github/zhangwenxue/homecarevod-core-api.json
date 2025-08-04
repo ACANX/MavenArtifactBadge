@@ -3,9 +3,9 @@
   "description": "HomeCareVod Core Api",
   "group_id": "io.github.zhangwenxue",
   "artifact_id": "homecarevod-core-api",
-  "version_latest": "0.0.3",
-  "ts_publish": 1753954680000,
-  "ts_update": 1753955218285,
+  "version_latest": "0.0.4",
+  "ts_publish": 1754281214000,
+  "ts_update": 1754281621198,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

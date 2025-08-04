@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/space.x9x.radp/radp-spring-test",
+  "description": "Spring Test 扩展",
   "group_id": "space.x9x.radp",
   "artifact_id": "radp-spring-test",
-  "latest_version": "3.23",
-  "description": "Spring Test 扩展",
-  "id": "pkg:maven/space.x9x.radp/radp-spring-test",
-  "ts": 1753728922000,
-  "dependency_count": 5,
-  "ref_count": 116,
-  "categories": null,
+  "version_latest": "3.23.1",
+  "ts_publish": 1754221770000,
+  "ts_update": 1754222223473,
+  "count_dep": 116,
+  "count_ref": 5,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753730157429
+  "categories": null,
+  "dsv": 1
 }

@@ -3,11 +3,11 @@
   "description": "Kotlin Test Framework",
   "group_id": "io.kotest",
   "artifact_id": "kotest-common-watchosdevicearm64",
-  "version_latest": "6.0.0.M9",
-  "ts_publish": 1753912177000,
-  "ts_update": 1753915022733,
+  "version_latest": "6.0.0.M10",
+  "ts_publish": 1754276537000,
+  "ts_update": 1754278022363,
   "count_dep": 5,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [
     "Apache-2.0"
   ],

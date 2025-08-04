@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.kourier/amqp-client-macosarm64",
+  "description": "AMQP Client for kourier.",
   "group_id": "dev.kourier",
   "artifact_id": "amqp-client-macosarm64",
-  "latest_version": "0.0.8",
-  "description": "AMQP Client for kourier.",
-  "id": "pkg:maven/dev.kourier/amqp-client-macosarm64",
-  "ts": 1753361982000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "0.2.0",
+  "ts_publish": 1754214000000,
+  "ts_update": 1754214639477,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "Apache 2.0"
   ],
-  "last_updated": 1753363026991
+  "categories": null,
+  "dsv": 1
 }

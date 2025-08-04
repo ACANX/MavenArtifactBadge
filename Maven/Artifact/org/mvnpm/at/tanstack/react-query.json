@@ -3,9 +3,9 @@
   "description": "Hooks for managing, caching and syncing asynchronous and remote data in React",
   "group_id": "org.mvnpm.at.tanstack",
   "artifact_id": "react-query",
-  "version_latest": "5.84.0",
-  "ts_publish": 1753992194000,
-  "ts_update": 1753993022713,
+  "version_latest": "5.84.1",
+  "ts_publish": 1754064195000,
+  "ts_update": 1754065018120,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

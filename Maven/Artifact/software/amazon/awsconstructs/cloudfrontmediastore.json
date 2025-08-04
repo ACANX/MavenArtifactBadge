@@ -3,9 +3,9 @@
   "description": "CDK Constructs for Amazon CloudFront to AWS Elemental MediaStore integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "cloudfrontmediastore",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906621379,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099820839,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

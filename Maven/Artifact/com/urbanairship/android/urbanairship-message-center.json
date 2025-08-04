@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.urbanairship.android/urbanairship-message-center",
+  "description": "Airship Android SDK Message Center module",
   "group_id": "com.urbanairship.android",
   "artifact_id": "urbanairship-message-center",
-  "latest_version": "19.10.0",
-  "description": "Airship Android SDK Message Center module",
-  "id": "pkg:maven/com.urbanairship.android/urbanairship-message-center",
-  "ts": 1753390380000,
-  "dependency_count": 0,
-  "ref_count": 27,
-  "categories": [
-    "Software Development Kit"
-  ],
+  "version_latest": "19.10.1",
+  "ts_publish": 1754081885000,
+  "ts_update": 1754082420777,
+  "count_dep": 27,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753390552077
+  "categories": [
+    "Software Development Kit"
+  ],
+  "dsv": 1
 }

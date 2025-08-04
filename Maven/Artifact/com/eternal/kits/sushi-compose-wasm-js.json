@@ -3,9 +3,9 @@
   "description": "Sushi Design System for Compose Multiplatform",
   "group_id": "com.eternal.kits",
   "artifact_id": "sushi-compose-wasm-js",
-  "version_latest": "0.0.10",
-  "ts_publish": 1753855476000,
-  "ts_update": 1753856219637,
+  "version_latest": "0.0.11",
+  "ts_publish": 1754289360000,
+  "ts_update": 1754290024457,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

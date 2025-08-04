@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/space.x9x.radp/radp-integration-tests",
+  "description": "集成测试",
   "group_id": "space.x9x.radp",
   "artifact_id": "radp-integration-tests",
-  "latest_version": "3.23",
-  "description": "集成测试",
-  "id": "pkg:maven/space.x9x.radp/radp-integration-tests",
-  "ts": 1753728922000,
-  "dependency_count": 0,
-  "ref_count": 65,
-  "categories": null,
+  "version_latest": "3.23.1",
+  "ts_publish": 1754221770000,
+  "ts_update": 1754222223990,
+  "count_dep": 65,
+  "count_ref": 0,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753730157900
+  "categories": null,
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS API Gateway and Amazon DynamoDB integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "apigatewaydynamodb",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622465,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099820835,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

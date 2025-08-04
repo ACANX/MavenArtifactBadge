@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.pulpogato/pulpogato-rest-ghes-3.14",
+  "description": "REST types for ghes-3.14",
   "group_id": "io.github.pulpogato",
   "artifact_id": "pulpogato-rest-ghes-3.14",
-  "latest_version": "0.14.0",
-  "description": "REST types for ghes-3.14",
-  "id": "pkg:maven/io.github.pulpogato/pulpogato-rest-ghes-3.14",
-  "ts": 1753509120000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "0.15.0",
+  "ts_publish": 1754061913000,
+  "ts_update": 1754062622111,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753510017379
+  "categories": null,
+  "dsv": 1
 }

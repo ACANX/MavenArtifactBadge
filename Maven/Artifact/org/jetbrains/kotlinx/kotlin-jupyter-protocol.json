@@ -3,9 +3,9 @@
   "description": "Protocol implementations and message handling utilities for Jupyter communication",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-protocol",
-  "version_latest": "0.15.0-572",
-  "ts_publish": 1753869109000,
-  "ts_update": 1753870021729,
+  "version_latest": "0.15.0-573",
+  "ts_publish": 1754291429000,
+  "ts_update": 1754291818599,
   "count_dep": 1,
   "count_ref": 5,
   "licenses": [

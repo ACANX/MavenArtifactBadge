@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/solon-serialization-gson",
+  "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-serialization-gson",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear/solon-serialization-gson",
-  "ts": 1753693057000,
-  "dependency_count": 1,
-  "ref_count": 5,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122636000,
+  "ts_update": 1754123172209,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693620643
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

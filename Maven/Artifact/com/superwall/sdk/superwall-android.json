@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.superwall.sdk/superwall-android",
+  "description": "Remotely configure paywalls without shipping app updates",
   "group_id": "com.superwall.sdk",
   "artifact_id": "superwall-android",
-  "latest_version": "2.3.2",
-  "description": "Remotely configure paywalls without shipping app updates",
-  "id": "pkg:maven/com.superwall.sdk/superwall-android",
-  "ts": 1753294787000,
-  "dependency_count": 1,
-  "ref_count": 18,
-  "categories": null,
+  "version_latest": "2.5.0",
+  "ts_publish": 1754061500000,
+  "ts_update": 1754062018528,
+  "count_dep": 18,
+  "count_ref": 1,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753295218342
+  "categories": null,
+  "dsv": 1
 }

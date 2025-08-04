@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.substrait/isthmus",
+  "description": "Create a well-defined, cross-language specification for data compute operations",
   "group_id": "io.substrait",
   "artifact_id": "isthmus",
-  "latest_version": "0.62.1",
-  "description": "Create a well-defined, cross-language specification for data compute operations",
-  "id": "pkg:maven/io.substrait/isthmus",
-  "ts": 1753589754000,
-  "dependency_count": 0,
-  "ref_count": 26,
-  "categories": null,
+  "version_latest": "0.63.0",
+  "ts_publish": 1754194852000,
+  "ts_update": 1754195219332,
+  "count_dep": 26,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753590421878
+  "categories": null,
+  "dsv": 1
 }

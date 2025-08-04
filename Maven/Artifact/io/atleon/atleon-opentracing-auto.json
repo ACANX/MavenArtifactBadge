@@ -3,9 +3,9 @@
   "description": "Reactive streaming library targeting continuous pipelines with at-least-once processing guarantees. Backed by Project Reactor.",
   "group_id": "io.atleon",
   "artifact_id": "atleon-opentracing-auto",
-  "version_latest": "0.32.0",
-  "ts_publish": 1753982508000,
-  "ts_update": 1753983421912,
+  "version_latest": "0.32.1",
+  "ts_publish": 1754069589000,
+  "ts_update": 1754069860570,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

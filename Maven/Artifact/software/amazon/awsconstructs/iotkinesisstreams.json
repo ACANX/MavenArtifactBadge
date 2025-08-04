@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS IoT to AWS Kinesis Data Stream.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "iotkinesisstreams",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906621895,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099820841,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

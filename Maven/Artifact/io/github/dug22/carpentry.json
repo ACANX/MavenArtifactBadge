@@ -3,9 +3,9 @@
   "description": "A Java-based DataFrame library",
   "group_id": "io.github.dug22",
   "artifact_id": "carpentry",
-  "version_latest": "1.0.6",
-  "ts_publish": 1753832295000,
-  "ts_update": 1753832821003,
+  "version_latest": "1.0.7.5",
+  "ts_publish": 1754271017000,
+  "ts_update": 1754271420596,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

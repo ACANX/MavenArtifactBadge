@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.hotrodorm.hotrod/hotrod",
+  "description": "HotRod is an ORM for Java, Spring and SpringBoot.",
   "group_id": "org.hotrodorm.hotrod",
   "artifact_id": "hotrod",
-  "latest_version": "5.0.2",
-  "description": "HotRod is an ORM for Java, Spring and SpringBoot.",
-  "id": "pkg:maven/org.hotrodorm.hotrod/hotrod",
-  "ts": 1753380279000,
-  "dependency_count": 5,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "5.0.3",
+  "ts_publish": 1754076402000,
+  "ts_update": 1754076962944,
+  "count_dep": 0,
+  "count_ref": 5,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753381018056
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

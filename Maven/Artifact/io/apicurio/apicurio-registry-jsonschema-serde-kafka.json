@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka",
+  "description": "Open Source API & Schema Registry",
   "group_id": "io.apicurio",
   "artifact_id": "apicurio-registry-jsonschema-serde-kafka",
-  "latest_version": "3.0.10",
-  "description": "Open Source API & Schema Registry",
-  "id": "pkg:maven/io.apicurio/apicurio-registry-jsonschema-serde-kafka",
-  "ts": 1753283753000,
-  "dependency_count": 3,
-  "ref_count": 46,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.11",
+  "ts_publish": 1754093739000,
+  "ts_update": 1754094422988,
+  "count_dep": 46,
+  "count_ref": 3,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753284420791
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

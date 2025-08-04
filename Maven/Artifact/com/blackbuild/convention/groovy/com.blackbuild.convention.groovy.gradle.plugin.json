@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.blackbuild.convention.groovy/com.blackbuild.convention.groovy.gradle.plugin",
+  "description": "KlumAST Gradle Plugins",
   "group_id": "com.blackbuild.convention.groovy",
   "artifact_id": "com.blackbuild.convention.groovy.gradle.plugin",
-  "latest_version": "2.0.0-rc.60",
-  "description": "Adds Groovy and Spock dependencies to the project",
-  "id": "pkg:maven/com.blackbuild.convention.groovy/com.blackbuild.convention.groovy.gradle.plugin",
-  "ts": 1753737915000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "2.1.0",
+  "ts_publish": 1754292571000,
+  "ts_update": 1754293619941,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "MIT License (MIT)"
   ],
-  "last_updated": 1753738367434
+  "categories": null,
+  "dsv": 1
 }

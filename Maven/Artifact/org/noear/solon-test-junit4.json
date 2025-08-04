@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/solon-test-junit4",
+  "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-test-junit4",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear/solon-test-junit4",
-  "ts": 1753693045000,
-  "dependency_count": 0,
-  "ref_count": 3,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122626000,
+  "ts_update": 1754123172729,
+  "count_dep": 3,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693621336
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

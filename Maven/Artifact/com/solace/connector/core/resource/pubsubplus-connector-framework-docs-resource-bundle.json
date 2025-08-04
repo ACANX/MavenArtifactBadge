@@ -3,9 +3,9 @@
   "description": "Documentation for PubSub+ Connector Framework features",
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-framework-docs-resource-bundle",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889822842,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056843000,
+  "ts_update": 1754057823321,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

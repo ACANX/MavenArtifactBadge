@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.noear.bundle/solon-shortcuts-bundle",
+  "description": "Java project for solon",
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-shortcuts-bundle",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear.bundle/solon-shortcuts-bundle",
-  "ts": 1753692779000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122340000,
+  "ts_update": 1754122624235,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693627328
+  "categories": null,
+  "dsv": 1
 }

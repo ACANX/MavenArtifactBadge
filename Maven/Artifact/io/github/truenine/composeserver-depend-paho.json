@@ -3,10 +3,10 @@
   "description": "Eclipse Paho MQTT client integration for IoT and real-time messaging applications.\nProvides Spring Integration MQTT support with reliable message delivery and connection management.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-depend-paho",
-  "version_latest": "0.0.14",
-  "ts_publish": 1754046237000,
-  "ts_update": 1754047019777,
-  "count_dep": 7,
+  "version_latest": "0.0.17",
+  "ts_publish": 1754246236000,
+  "ts_update": 1754246756611,
+  "count_dep": 14,
   "count_ref": 0,
   "licenses": [
     "GNU Lesser General Public License v2.1"

@@ -3,9 +3,9 @@
   "description": "Gradle Plugin for Scala Code Generation",
   "group_id": "com.daml.codegen-scala-daml3_4",
   "artifact_id": "com.daml.codegen-scala-daml3_4.gradle.plugin",
-  "version_latest": "0.0.1-main.20250730.108.663.v27e81e9",
-  "ts_publish": 1753833473000,
-  "ts_update": 1753834018601,
+  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
+  "ts_publish": 1754283076000,
+  "ts_update": 1754283796448,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.zegreatrob.jsmints/user-event-testing-library",
+  "description": "user-event-testing-library",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "user-event-testing-library",
-  "latest_version": "6.6.24",
-  "description": "user-event-testing-library",
-  "id": "pkg:maven/com.zegreatrob.jsmints/user-event-testing-library",
-  "ts": 1753457285000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "6.7.2",
+  "ts_publish": 1754234903000,
+  "ts_update": 1754235422523,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753457818583
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

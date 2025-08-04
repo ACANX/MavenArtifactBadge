@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.jsousa32/lib-dealsign",
+  "description": "Biblioteca Dealsign",
   "group_id": "io.github.jsousa32",
   "artifact_id": "lib-dealsign",
-  "latest_version": "1.0.2",
-  "description": "Biblioteca Dealsign",
-  "id": "pkg:maven/io.github.jsousa32/lib-dealsign",
-  "ts": 1753684271000,
-  "dependency_count": 0,
-  "ref_count": 48,
-  "categories": null,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754168194000,
+  "ts_update": 1754168819215,
+  "count_dep": 48,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753685221142
+  "categories": null,
+  "dsv": 1
 }

@@ -3,10 +3,10 @@
   "description": "A tooltip is a floating, non-actionable label used to explain a user interface element or feature.",
   "group_id": "org.mvnpm.at.atlaskit",
   "artifact_id": "tooltip",
-  "version_latest": "20.4.0",
-  "ts_publish": 1753776196000,
-  "ts_update": 1753777020681,
-  "count_dep": 35,
+  "version_latest": "20.4.1",
+  "ts_publish": 1754294606000,
+  "ts_update": 1754295266862,
+  "count_dep": 40,
   "count_ref": 0,
   "licenses": [
     "Apache-2.0"

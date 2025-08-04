@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.blackbuild.klum.ast/klum-ast-runtime",
+  "description": "Runtime Library for KlumAST",
   "group_id": "com.blackbuild.klum.ast",
   "artifact_id": "klum-ast-runtime",
-  "latest_version": "2.0.0-rc.60",
-  "description": "Runtime Library for KlumAST",
-  "id": "pkg:maven/com.blackbuild.klum.ast/klum-ast-runtime",
-  "ts": 1753737915000,
-  "dependency_count": 2,
-  "ref_count": 3,
-  "categories": [
-    "Developer Tools"
-  ],
+  "version_latest": "2.1.0",
+  "ts_publish": 1754292571000,
+  "ts_update": 1754293619940,
+  "count_dep": 3,
+  "count_ref": 2,
   "licenses": [
     "MIT License (MIT)"
   ],
-  "last_updated": 1753738367434
+  "categories": [
+    "Developer Tools"
+  ],
+  "dsv": 1
 }

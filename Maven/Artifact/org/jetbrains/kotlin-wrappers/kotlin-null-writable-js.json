@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable-js",
+  "description": "Kotlin wrapper for null-writable",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-null-writable-js",
-  "latest_version": "2025.7.13-2.0.1",
-  "description": "Kotlin wrapper for null-writable",
-  "id": "pkg:maven/org.jetbrains.kotlin-wrappers/kotlin-null-writable-js",
-  "ts": 1753424269981,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2025.8.3-2.0.1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289426760,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753425415870
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

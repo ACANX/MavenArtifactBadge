@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.eolang/jeo-maven-plugin",
+  "description": "Optimisation of Java Bytecode via EOLANG",
+  "group_id": "org.eolang",
+  "artifact_id": "jeo-maven-plugin",
+  "version_latest": "0.13.0",
+  "ts_publish": 1754288645000,
+  "ts_update": 1754289427276,
+  "count_dep": 153,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

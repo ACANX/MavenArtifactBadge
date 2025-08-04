@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/solon-ai-load-pdf",
+  "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-ai-load-pdf",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear/solon-ai-load-pdf",
-  "ts": 1753693116000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122873000,
+  "ts_update": 1754123171100,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693619334
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "Flyway database migration scripts and configuration for PostgreSQL databases.\nContains versioned SQL migration files and Spring Boot integration for automated database schema evolution.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-rds-flyway-migration-postgresql",
-  "version_latest": "0.0.14",
-  "ts_publish": 1754046236000,
-  "ts_update": 1754047020515,
+  "version_latest": "0.0.17",
+  "ts_publish": 1754246236000,
+  "ts_update": 1754246756615,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

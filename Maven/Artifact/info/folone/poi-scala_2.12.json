@@ -3,10 +3,10 @@
   "description": "poi-scala",
   "group_id": "info.folone",
   "artifact_id": "poi-scala_2.12",
-  "version_latest": "1.1.0",
-  "ts_publish": 1753867831000,
-  "ts_update": 1753868826103,
-  "count_dep": 27,
+  "version_latest": "2.0.2",
+  "ts_publish": 1754290591000,
+  "ts_update": 1754291223070,
+  "count_dep": 19,
   "count_ref": 0,
   "licenses": [
     "Apache-2.0"

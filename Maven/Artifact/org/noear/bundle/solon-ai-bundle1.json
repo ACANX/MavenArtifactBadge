@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.noear.bundle/solon-ai-bundle1",
+  "description": "Java project for solon",
   "group_id": "org.noear.bundle",
   "artifact_id": "solon-ai-bundle1",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear.bundle/solon-ai-bundle1",
-  "ts": 1753693116000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122873000,
+  "ts_update": 1754123171102,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693619983
+  "categories": null,
+  "dsv": 1
 }

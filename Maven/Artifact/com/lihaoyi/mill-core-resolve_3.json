@@ -3,9 +3,9 @@
   "description": "mill-core-resolve",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-resolve_3",
-  "version_latest": "1.0.2-3-e42a40",
-  "ts_publish": 1753791107000,
-  "ts_update": 1753795628251,
+  "version_latest": "1.0.2-19-fe3d72",
+  "ts_publish": 1754183116000,
+  "ts_update": 1754183821543,
   "count_dep": 27,
   "count_ref": 3,
   "licenses": [

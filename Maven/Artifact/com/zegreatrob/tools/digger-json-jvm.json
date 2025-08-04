@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.tools/digger-json-jvm",
+  "description": "digger-json",
+  "group_id": "com.zegreatrob.tools",
+  "artifact_id": "digger-json-jvm",
+  "version_latest": "1.8.2",
+  "ts_publish": 1754230965000,
+  "ts_update": 1754231822636,
+  "count_dep": 5,
+  "count_ref": 1,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

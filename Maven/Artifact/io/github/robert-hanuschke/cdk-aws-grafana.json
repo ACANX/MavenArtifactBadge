@@ -1,12 +1,12 @@
 {
   "id": "pkg:maven/io.github.robert-hanuschke/cdk-aws-grafana",
-  "description": "AWS CDK Construct Library for Grafana",
+  "description": "AWS CDK Construct Library for Amazon Managed Grafana",
   "group_id": "io.github.robert-hanuschke",
   "artifact_id": "cdk-aws-grafana",
-  "version_latest": "0.0.70",
-  "ts_publish": 1753934702000,
-  "ts_update": 1753935422085,
-  "count_dep": 19,
+  "version_latest": "0.0.73",
+  "ts_publish": 1754280981000,
+  "ts_update": 1754281621200,
+  "count_dep": 18,
   "count_ref": 0,
   "licenses": [
     "MIT License"

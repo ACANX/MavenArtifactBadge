@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for null-writable",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-null-writable",
-  "version_latest": "2025.7.15-2.0.1",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796222121,
+  "version_latest": "2025.8.3-2.0.1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289426283,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

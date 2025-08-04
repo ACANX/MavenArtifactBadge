@@ -3,9 +3,9 @@
   "description": "Shared components and utilities for surveillance systems integration. Provides common interfaces, data models, and utility functions for various surveillance device protocols.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-surveillance-shared",
-  "version_latest": "0.0.14",
-  "ts_publish": 1754046236000,
-  "ts_update": 1754047019783,
+  "version_latest": "0.0.16",
+  "ts_publish": 1754223689000,
+  "ts_update": 1754224621486,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

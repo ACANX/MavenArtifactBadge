@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.lokksmith/lokksmith-compose",
+  "description": "Kotlin Multiplatform OpenID Connect client library",
   "group_id": "dev.lokksmith",
   "artifact_id": "lokksmith-compose",
-  "latest_version": "0.3.3",
-  "description": "Kotlin Multiplatform OpenID Connect client library",
-  "id": "pkg:maven/dev.lokksmith/lokksmith-compose",
-  "ts": 1753696510000,
-  "dependency_count": 0,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "0.3.4",
+  "ts_publish": 1754294522000,
+  "ts_update": 1754295267530,
+  "count_dep": 4,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753697221478
+  "categories": null,
+  "dsv": 1
 }

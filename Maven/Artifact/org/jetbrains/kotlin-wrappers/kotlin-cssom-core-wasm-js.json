@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for CSS core types",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-cssom-core-wasm-js",
-  "version_latest": "2025.7.15",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796222119,
+  "version_latest": "2025.8.3",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289425804,
   "count_dep": 3,
   "count_ref": 1,
   "licenses": [

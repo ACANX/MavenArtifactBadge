@@ -3,9 +3,9 @@
   "description": "Maven plugin to process micro-integrations build resources",
   "group_id": "com.solace.connector.core.plugin",
   "artifact_id": "build-resource-processor-maven-plugin",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889822846,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056842000,
+  "ts_update": 1754057824048,
   "count_dep": 19,
   "count_ref": 0,
   "licenses": [

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aizuda/snail-job-server-ui",
+  "description": "snail-job-server-ui",
   "group_id": "com.aizuda",
   "artifact_id": "snail-job-server-ui",
-  "latest_version": "1.7.0-beta1",
-  "description": "snail-job-server-ui",
-  "id": "pkg:maven/com.aizuda/snail-job-server-ui",
-  "ts": 1753716798000,
-  "dependency_count": 1,
-  "ref_count": 34,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212620104,
+  "count_dep": 34,
+  "count_ref": 1,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753717622896
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

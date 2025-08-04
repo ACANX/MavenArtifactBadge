@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.qonversion.android.sdk/sdk",
+  "description": "The subscription data platform for mobile-first companies.",
   "group_id": "io.qonversion.android.sdk",
   "artifact_id": "sdk",
-  "latest_version": "9.0.0",
-  "description": "The subscription data platform for mobile-first companies.",
-  "id": "pkg:maven/io.qonversion.android.sdk/sdk",
-  "ts": 1753261558000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": null,
+  "version_latest": "9.0.1",
+  "ts_publish": 1754211684000,
+  "ts_update": 1754212619531,
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753262217888
+  "categories": null,
+  "dsv": 1
 }

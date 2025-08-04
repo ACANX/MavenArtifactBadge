@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/one.xis/xis-plugin",
+  "description": "Gradle plugin module for the XIS declarative web framework.",
+  "group_id": "one.xis",
+  "artifact_id": "xis-plugin",
+  "version_latest": "0.1.2",
+  "ts_publish": 1754262009000,
+  "ts_update": 1754262420635,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

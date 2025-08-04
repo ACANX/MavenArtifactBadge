@@ -3,9 +3,9 @@
   "description": "focus pom, parent for all projects",
   "group_id": "fish.focus.uvms.docker",
   "artifact_id": "uvms-docker-wildfly-unionvms",
-  "version_latest": "4.6.0",
-  "ts_publish": 1753966201000,
-  "ts_update": 1753967221104,
+  "version_latest": "4.6.1",
+  "ts_publish": 1754059187000,
+  "ts_update": 1754060217624,
   "count_dep": 124,
   "count_ref": 0,
   "licenses": [

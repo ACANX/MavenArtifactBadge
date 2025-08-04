@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aizuda/snail-job-server-retry-task",
+  "description": "snail-job-server-retry-task",
   "group_id": "com.aizuda",
   "artifact_id": "snail-job-server-retry-task",
-  "latest_version": "1.7.0-beta1",
-  "description": "snail-job-server-retry-task",
-  "id": "pkg:maven/com.aizuda/snail-job-server-retry-task",
-  "ts": 1753716798000,
-  "dependency_count": 4,
-  "ref_count": 119,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212620104,
+  "count_dep": 119,
+  "count_ref": 4,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753717622896
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

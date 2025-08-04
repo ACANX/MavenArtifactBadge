@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/ru.astrainteractive.klibs/kstorage-wasm-js",
+  "description": "Kotlin wrapper for key-value storage libraries",
   "group_id": "ru.astrainteractive.klibs",
   "artifact_id": "kstorage-wasm-js",
-  "latest_version": "4.2.1",
-  "description": "Kotlin wrapper for key-value storage libraries",
-  "id": "pkg:maven/ru.astrainteractive.klibs/kstorage-wasm-js",
-  "ts": 1753281393000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.2.2",
+  "ts_publish": 1754129515000,
+  "ts_update": 1754130422533,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "Apache-2.0"
   ],
-  "last_updated": 1753282018776
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

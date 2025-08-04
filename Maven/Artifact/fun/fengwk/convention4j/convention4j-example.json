@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-example",
+  "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-example",
-  "latest_version": "1.1.65",
-  "description": "Convention For Java",
-  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-example",
-  "ts": 1753635624000,
-  "dependency_count": 0,
-  "ref_count": 26,
-  "categories": null,
+  "version_latest": "1.1.71",
+  "ts_publish": 1754149501000,
+  "ts_update": 1754149880740,
+  "count_dep": 26,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753636619814
+  "categories": null,
+  "dsv": 1
 }

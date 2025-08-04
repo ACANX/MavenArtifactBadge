@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.nb6868.onex/websocket",
+  "description": "websocket通信",
   "group_id": "com.nb6868.onex",
   "artifact_id": "websocket",
-  "latest_version": "4.5.67",
-  "description": "websocket通信",
-  "id": "pkg:maven/com.nb6868.onex/websocket",
-  "ts": 1753680283000,
-  "dependency_count": 0,
-  "ref_count": 113,
-  "categories": null,
+  "version_latest": "4.5.70",
+  "ts_publish": 1754273056000,
+  "ts_update": 1754273825914,
+  "count_dep": 113,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753681024268
+  "categories": null,
+  "dsv": 1
 }

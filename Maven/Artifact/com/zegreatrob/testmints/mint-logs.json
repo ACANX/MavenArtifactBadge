@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.testmints/mint-logs",
+  "description": "mint-logs",
+  "group_id": "com.zegreatrob.testmints",
+  "artifact_id": "mint-logs",
+  "version_latest": "12.4.2",
+  "ts_publish": 1754236540000,
+  "ts_update": 1754237221700,
+  "count_dep": 8,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

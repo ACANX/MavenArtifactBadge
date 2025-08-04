@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/net.neoforged.jst/jst-cli-bundle",
+  "description": "The JavaSourceTransformer CLI bundle, containing all builtin plugins shadowed",
+  "group_id": "net.neoforged.jst",
+  "artifact_id": "jst-cli-bundle",
+  "version_latest": "1.0.74",
+  "ts_publish": 1754224421000,
+  "ts_update": 1754225221058,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "LGPL-2.1-only"
+  ],
+  "categories": null,
+  "dsv": 1
+}

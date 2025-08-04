@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.apicurio/apicurio-registry-serde-common",
+  "description": "Open Source API & Schema Registry",
   "group_id": "io.apicurio",
   "artifact_id": "apicurio-registry-serde-common",
-  "latest_version": "3.0.10",
-  "description": "Open Source API & Schema Registry",
-  "id": "pkg:maven/io.apicurio/apicurio-registry-serde-common",
-  "ts": 1753283753000,
-  "dependency_count": 11,
-  "ref_count": 38,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.11",
+  "ts_publish": 1754093739000,
+  "ts_update": 1754094422989,
+  "count_dep": 38,
+  "count_ref": 11,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753284420790
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

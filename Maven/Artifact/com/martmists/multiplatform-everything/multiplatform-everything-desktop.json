@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.martmists.multiplatform-everything/multiplatform-everything-desktop",
+  "description": "Kotlin/Multiplatform NDArray with SIMD optimizations and low memory footprint",
   "group_id": "com.martmists.multiplatform-everything",
   "artifact_id": "multiplatform-everything-desktop",
-  "latest_version": "1.2.7",
-  "description": "Kotlin/Multiplatform NDArray with SIMD optimizations and low memory footprint",
-  "id": "pkg:maven/com.martmists.multiplatform-everything/multiplatform-everything-desktop",
-  "ts": 1753362942000,
-  "dependency_count": 0,
-  "ref_count": 6,
-  "categories": null,
+  "version_latest": "1.3.1",
+  "ts_publish": 1754066986000,
+  "ts_update": 1754067422336,
+  "count_dep": 6,
+  "count_ref": 0,
   "licenses": [
     "3-Clause BSD NON-AI License"
   ],
-  "last_updated": 1753363627063
+  "categories": null,
+  "dsv": 1
 }

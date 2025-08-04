@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.aizuda/snail-job-server-job-task",
+  "description": "snail-job-server-job-task",
   "group_id": "com.aizuda",
   "artifact_id": "snail-job-server-job-task",
-  "latest_version": "1.7.0-beta1",
-  "description": "snail-job-server-job-task",
-  "id": "pkg:maven/com.aizuda/snail-job-server-job-task",
-  "ts": 1753716798000,
-  "dependency_count": 4,
-  "ref_count": 125,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212620105,
+  "count_dep": 125,
+  "count_ref": 4,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753717623442
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

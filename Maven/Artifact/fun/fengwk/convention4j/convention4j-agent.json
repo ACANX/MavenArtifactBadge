@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-agent",
+  "description": "Convention For Java",
   "group_id": "fun.fengwk.convention4j",
   "artifact_id": "convention4j-agent",
-  "latest_version": "1.1.65",
-  "description": "Convention For Java",
-  "id": "pkg:maven/fun.fengwk.convention4j/convention4j-agent",
-  "ts": 1753635624000,
-  "dependency_count": 11,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "1.1.71",
+  "ts_publish": 1754149501000,
+  "ts_update": 1754149880745,
+  "count_dep": 14,
+  "count_ref": 11,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753636620342
+  "categories": null,
+  "dsv": 1
 }

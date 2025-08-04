@@ -3,9 +3,9 @@
   "description": "Core utilities and foundations for Sushi Design System",
   "group_id": "com.eternal.kits",
   "artifact_id": "sushi-core-iosarm64",
-  "version_latest": "0.0.10",
-  "ts_publish": 1753855476000,
-  "ts_update": 1753856219634,
+  "version_latest": "0.0.11",
+  "ts_publish": 1754289360000,
+  "ts_update": 1754290024459,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [

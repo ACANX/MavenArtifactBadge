@@ -3,9 +3,9 @@
   "description": "SDK module for Rapid Development support, such as Alfresco JUnit runner",
   "group_id": "org.alfresco.maven",
   "artifact_id": "alfresco-rad",
-  "version_latest": "4.13.0-A4",
-  "ts_publish": 1753965453000,
-  "ts_update": 1753966018777,
+  "version_latest": "4.13.0-A6",
+  "ts_publish": 1754294576000,
+  "ts_update": 1754295266866,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [

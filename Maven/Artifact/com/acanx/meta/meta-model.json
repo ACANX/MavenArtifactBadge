@@ -3,9 +3,9 @@
   "description": "Meta-Model POM",
   "group_id": "com.acanx.meta",
   "artifact_id": "meta-model",
-  "version_latest": "0.3.4",
-  "ts_publish": 1753772635000,
-  "ts_update": 1753773419990,
+  "version_latest": "0.3.5",
+  "ts_publish": 1754232473000,
+  "ts_update": 1754233020276,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

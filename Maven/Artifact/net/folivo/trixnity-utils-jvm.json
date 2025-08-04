@@ -3,11 +3,11 @@
   "description": "Multiplatform Kotlin SDK for matrix-protocol",
   "group_id": "net.folivo",
   "artifact_id": "trixnity-utils-jvm",
-  "version_latest": "4.19.0",
-  "ts_publish": 1753791274000,
-  "ts_update": 1753795623754,
+  "version_latest": "4.20.0",
+  "ts_publish": 1754064055000,
+  "ts_update": 1754065020034,
   "count_dep": 14,
-  "count_ref": 3,
+  "count_ref": 2,
   "licenses": [
     "Apache License 2.0"
   ],

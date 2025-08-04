@@ -3,9 +3,9 @@
   "description": "@robhan-cdk-lib/utils",
   "group_id": "io.github.robert-hanuschke",
   "artifact_id": "cdk-utils",
-  "version_latest": "0.0.10",
-  "ts_publish": 1754012864000,
-  "ts_update": 1754013424376,
+  "version_latest": "0.0.11",
+  "ts_publish": 1754280859000,
+  "ts_update": 1754281621201,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

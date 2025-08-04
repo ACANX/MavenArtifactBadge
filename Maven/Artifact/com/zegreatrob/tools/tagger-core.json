@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.tools/tagger-core",
+  "description": "tagger-core",
+  "group_id": "com.zegreatrob.tools",
+  "artifact_id": "tagger-core",
+  "version_latest": "1.8.2",
+  "ts_publish": 1754230965000,
+  "ts_update": 1754231821865,
+  "count_dep": 2,
+  "count_ref": 1,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

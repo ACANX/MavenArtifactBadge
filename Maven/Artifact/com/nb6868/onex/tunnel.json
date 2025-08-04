@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.nb6868.onex/tunnel",
+  "description": "隧道",
   "group_id": "com.nb6868.onex",
   "artifact_id": "tunnel",
-  "latest_version": "4.5.67",
-  "description": "隧道",
-  "id": "pkg:maven/com.nb6868.onex/tunnel",
-  "ts": 1753680283000,
-  "dependency_count": 0,
-  "ref_count": 108,
-  "categories": null,
+  "version_latest": "4.5.70",
+  "ts_publish": 1754273056000,
+  "ts_update": 1754273825913,
+  "count_dep": 108,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753681024269
+  "categories": null,
+  "dsv": 1
 }

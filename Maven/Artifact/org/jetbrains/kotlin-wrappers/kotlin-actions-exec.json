@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for GitHub Actions Exec",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-actions-exec",
-  "version_latest": "2025.7.15-1.1.1",
-  "ts_publish": 1753795071000,
-  "ts_update": 1753796221691,
+  "version_latest": "2025.8.3-1.1.1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289424236,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

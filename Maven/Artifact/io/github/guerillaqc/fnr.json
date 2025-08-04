@@ -3,9 +3,9 @@
   "description": "Et bibliotek for å genererer gyldige norske fødselsnumre, samt å validere fødselsnumre.",
   "group_id": "io.github.guerillaqc",
   "artifact_id": "fnr",
-  "version_latest": "1.1.6",
-  "ts_publish": 1753792421000,
-  "ts_update": 1753795618978,
+  "version_latest": "1.1.7",
+  "ts_publish": 1754053693000,
+  "ts_update": 1754054223201,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

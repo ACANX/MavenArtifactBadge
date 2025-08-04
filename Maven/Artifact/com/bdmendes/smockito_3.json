@@ -3,9 +3,9 @@
   "description": "Tiny Scala facade for Mockito.",
   "group_id": "com.bdmendes",
   "artifact_id": "smockito_3",
-  "version_latest": "1.2.1",
-  "ts_publish": 1753956268000,
-  "ts_update": 1753956748106,
+  "version_latest": "1.2.3",
+  "ts_publish": 1754214191000,
+  "ts_update": 1754215022489,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "SDK enabling Java developers to easily integrate with the Unified API Inc. API.",
   "group_id": "to.unified",
   "artifact_id": "unified-java-sdk",
-  "version_latest": "0.34.0",
-  "ts_publish": 1754008847000,
-  "ts_update": 1754009821417,
+  "version_latest": "0.34.1",
+  "ts_publish": 1754094901000,
+  "ts_update": 1754095623102,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "CDK Constructs for Amazon Dynamodb streams to AWS Lambda to AWS Elasticsearch with Kibana integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "dynamodbstreamslambdaelasticsearchkibana",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622465,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099821387,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

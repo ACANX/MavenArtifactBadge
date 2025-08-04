@@ -3,11 +3,11 @@
   "description": "Transcoding Schema",
   "group_id": "com.daml",
   "artifact_id": "transcode-schema_3",
-  "version_latest": "0.0.1-main.20250730.109.670.ve2fdbea",
-  "ts_publish": 1753856167000,
-  "ts_update": 1753856821219,
+  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
+  "ts_publish": 1754283342000,
+  "ts_update": 1754284021323,
   "count_dep": 8,
-  "count_ref": 28,
+  "count_ref": 21,
   "licenses": [
     "Apache License, Version 2.0"
   ],

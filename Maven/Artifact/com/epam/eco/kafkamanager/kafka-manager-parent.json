@@ -3,9 +3,9 @@
   "description": "Eco Kafka Manager",
   "group_id": "com.epam.eco.kafkamanager",
   "artifact_id": "kafka-manager-parent",
-  "version_latest": "3.0.15",
-  "ts_publish": 1753777569000,
-  "ts_update": 1753778217031,
+  "version_latest": "3.0.16",
+  "ts_publish": 1754054800000,
+  "ts_update": 1754055419448,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

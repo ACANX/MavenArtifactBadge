@@ -3,9 +3,9 @@
   "description": "Parent for Remote Resources for PubSub+ Connector Framework",
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-resource-parent",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823635,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056842000,
+  "ts_update": 1754057824711,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

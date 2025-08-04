@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.apicurio/apicurio-registry-distro-docker",
+  "description": "Open Source API & Schema Registry",
   "group_id": "io.apicurio",
   "artifact_id": "apicurio-registry-distro-docker",
-  "latest_version": "3.0.10",
-  "description": "Open Source API & Schema Registry",
-  "id": "pkg:maven/io.apicurio/apicurio-registry-distro-docker",
-  "ts": 1753283753000,
-  "dependency_count": 0,
-  "ref_count": 363,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.11",
+  "ts_publish": 1754093739000,
+  "ts_update": 1754094422987,
+  "count_dep": 363,
+  "count_ref": 0,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753284420790
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
   "description": "CDK construct that provisions (1) an AWS Lambda function that is configured to send messages to a queue; (2) an Amazon SQS queue; and (3) an AWS Lambda function configured to consume messages from the queue.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "lambdasqslambda",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622468,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099820836,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "cffu parent",
   "group_id": "io.foldright",
   "artifact_id": "cffu-parent",
-  "version_latest": "1.1.8",
-  "ts_publish": 1753809973000,
-  "ts_update": 1753810622680,
+  "version_latest": "1.1.9",
+  "ts_publish": 1754159458000,
+  "ts_update": 1754159821575,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [

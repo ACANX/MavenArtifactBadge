@@ -3,9 +3,9 @@
   "description": "公共部分",
   "group_id": "io.github.na-tool",
   "artifact_id": "na-common",
-  "version_latest": "2.0.4",
-  "ts_publish": 1753871350000,
-  "ts_update": 1753872287375,
+  "version_latest": "2.0.5",
+  "ts_publish": 1754289089000,
+  "ts_update": 1754290025328,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

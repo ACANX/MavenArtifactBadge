@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.openfilz/document-management-api",
+  "description": "Document Management Service providing REST APIs",
   "group_id": "org.openfilz",
   "artifact_id": "document-management-api",
-  "latest_version": "1.0.43",
-  "description": "Document Management Service providing REST APIs",
-  "id": "pkg:maven/org.openfilz/document-management-api",
-  "ts": 1753699677000,
-  "dependency_count": 0,
-  "ref_count": 186,
-  "categories": null,
+  "version_latest": "1.0.48",
+  "ts_publish": 1754174771000,
+  "ts_update": 1754175141176,
+  "count_dep": 192,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753700219603
+  "categories": null,
+  "dsv": 1
 }

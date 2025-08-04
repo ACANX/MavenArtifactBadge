@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.tools/dependency-bom",
+  "description": "dependency-bom",
+  "group_id": "com.zegreatrob.tools",
+  "artifact_id": "dependency-bom",
+  "version_latest": "1.8.2",
+  "ts_publish": 1754230965000,
+  "ts_update": 1754231821864,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

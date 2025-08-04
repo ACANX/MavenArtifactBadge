@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.zegreatrob.jsmints.plugins.minreact/com.zegreatrob.jsmints.plugins.minreact.gradle.plugin",
+  "description": "plugins",
   "group_id": "com.zegreatrob.jsmints.plugins.minreact",
   "artifact_id": "com.zegreatrob.jsmints.plugins.minreact.gradle.plugin",
-  "latest_version": "6.6.24",
-  "description": "plugins",
-  "id": "pkg:maven/com.zegreatrob.jsmints.plugins.minreact/com.zegreatrob.jsmints.plugins.minreact.gradle.plugin",
-  "ts": 1753457183000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "6.7.2",
+  "ts_publish": 1754234800000,
+  "ts_update": 1754235423151,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753457819216
+  "categories": null,
+  "dsv": 1
 }

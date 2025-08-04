@@ -3,9 +3,9 @@
   "description": "Platform-agnostic CSS primitives (common module)",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-css",
-  "version_latest": "2025.7.15",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796222120,
+  "version_latest": "2025.8.3",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289425803,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

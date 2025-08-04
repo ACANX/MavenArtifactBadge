@@ -3,9 +3,9 @@
   "description": "An admin interface generation library for Ktor servers.",
   "group_id": "xyz.daimones",
   "artifact_id": "ktor-panel",
-  "version_latest": "0.1.1",
-  "ts_publish": 1753992813000,
-  "ts_update": 1753993621222,
+  "version_latest": "0.2.0",
+  "ts_publish": 1754255407000,
+  "ts_update": 1754255824840,
   "count_dep": 41,
   "count_ref": 0,
   "licenses": [

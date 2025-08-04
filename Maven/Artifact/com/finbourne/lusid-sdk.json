@@ -3,9 +3,9 @@
   "description": "lusid",
   "group_id": "com.finbourne",
   "artifact_id": "lusid-sdk",
-  "version_latest": "2.0.1531",
-  "ts_publish": 1754039405000,
-  "ts_update": 1754040423102,
+  "version_latest": "2.0.1535",
+  "ts_publish": 1754170671000,
+  "ts_update": 1754171214816,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [

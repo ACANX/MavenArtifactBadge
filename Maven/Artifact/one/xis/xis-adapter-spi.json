@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/one.xis/xis-adapter-spi",
+  "description": "Module xis-adapter-spi of the XIS declarative web framework.",
+  "group_id": "one.xis",
+  "artifact_id": "xis-adapter-spi",
+  "version_latest": "0.1.2",
+  "ts_publish": 1754262009000,
+  "ts_update": 1754262420636,
+  "count_dep": 7,
+  "count_ref": 6,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

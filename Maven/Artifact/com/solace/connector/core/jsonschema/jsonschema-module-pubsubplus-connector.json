@@ -3,9 +3,9 @@
   "description": "Modules for the JSON Schema Generator to support custom functionality and keywords for Solace PubSub+ connectors",
   "group_id": "com.solace.connector.core.jsonschema",
   "artifact_id": "jsonschema-module-pubsubplus-connector",
-  "version_latest": "2.16.4",
-  "ts_publish": 1753888785000,
-  "ts_update": 1753889823259,
+  "version_latest": "2.16.5",
+  "ts_publish": 1754056842000,
+  "ts_update": 1754057824040,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "The best DI for Android)",
   "group_id": "io.github.eugenprog",
   "artifact_id": "android-di",
-  "version_latest": "1.0.2",
-  "ts_publish": 1754032507000,
-  "ts_update": 1754033222726,
+  "version_latest": "1.0.4",
+  "ts_publish": 1754055789000,
+  "ts_update": 1754056510510,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

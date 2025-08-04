@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.noear/solon-cache-redisson",
+  "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-cache-redisson",
-  "latest_version": "3.4.2",
-  "description": "Java project for solon",
-  "id": "pkg:maven/org.noear/solon-cache-redisson",
-  "ts": 1753692875000,
-  "dependency_count": 1,
-  "ref_count": 28,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.4.3-M1",
+  "ts_publish": 1754122435000,
+  "ts_update": 1754123174809,
+  "count_dep": 28,
+  "count_ref": 1,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753693625429
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

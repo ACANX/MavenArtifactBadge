@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-addressbook",
+  "description": "Hedera AddressBook Service API",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-service-addressbook",
-  "latest_version": "0.64.1",
-  "description": "Hedera AddressBook Service API",
-  "id": "pkg:maven/com.hedera.hashgraph/app-service-addressbook",
-  "ts": 1753382112000,
-  "dependency_count": 4,
-  "ref_count": 20,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070423263,
+  "count_dep": 20,
+  "count_ref": 4,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382817281
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

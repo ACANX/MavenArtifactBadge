@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS S3 to AWS Step Functions integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "s3stepfunctions",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622462,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098909000,
+  "ts_update": 1754099822012,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [

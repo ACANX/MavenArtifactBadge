@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/space.x9x.radp/radp-commons",
+  "description": "流行工具集整合",
   "group_id": "space.x9x.radp",
   "artifact_id": "radp-commons",
-  "latest_version": "3.23",
-  "description": "流行工具集整合",
-  "id": "pkg:maven/space.x9x.radp/radp-commons",
-  "ts": 1753728922000,
-  "dependency_count": 38,
-  "ref_count": 47,
-  "categories": null,
+  "version_latest": "3.23.1",
+  "ts_publish": 1754221770000,
+  "ts_update": 1754222222358,
+  "count_dep": 47,
+  "count_ref": 38,
   "licenses": [
     "GNU General Public License, Version 3"
   ],
-  "last_updated": 1753730157904
+  "categories": null,
+  "dsv": 1
 }

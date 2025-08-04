@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for VS Code API",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-vscode-js",
-  "version_latest": "2025.7.15-1.102.0",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796223094,
+  "version_latest": "2025.8.3-1.102.0",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289424233,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

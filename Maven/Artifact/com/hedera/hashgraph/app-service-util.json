@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-util",
+  "description": "Hedera Util Service API",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-service-util",
-  "latest_version": "0.64.1",
-  "description": "Hedera Util Service API",
-  "id": "pkg:maven/com.hedera.hashgraph/app-service-util",
-  "ts": 1753382112000,
-  "dependency_count": 2,
-  "ref_count": 7,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070422225,
+  "count_dep": 7,
+  "count_ref": 2,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753382816305
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

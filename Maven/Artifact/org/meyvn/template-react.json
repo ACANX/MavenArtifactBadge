@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.meyvn/template-react",
+  "description": "Exploring state in React with Clojurescript (no wrapper library, plain hooks)",
   "group_id": "org.meyvn",
   "artifact_id": "template-react",
-  "latest_version": "1.5.1",
-  "description": "Exploring state in React with Clojurescript (no wrapper library, plain hooks)",
-  "id": "pkg:maven/org.meyvn/template-react",
-  "ts": 1753296514000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.5.2",
+  "ts_publish": 1754274864000,
+  "ts_update": 1754275630745,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Eclipse Public License 2.0"
   ],
-  "last_updated": 1753297022141
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

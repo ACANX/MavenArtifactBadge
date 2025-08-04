@@ -3,9 +3,9 @@
   "description": "Archetypes Integration Tests",
   "group_id": "org.alfresco.maven.archetype",
   "artifact_id": "archetypes-it",
-  "version_latest": "4.13.0-A4",
-  "ts_publish": 1753965453000,
-  "ts_update": 1753966018775,
+  "version_latest": "4.13.0-A6",
+  "ts_publish": 1754294576000,
+  "ts_update": 1754295266864,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

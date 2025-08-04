@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.clescot/report-aggregate",
+  "description": "Aggregate Coverage Report module.",
   "group_id": "io.github.clescot",
   "artifact_id": "report-aggregate",
-  "latest_version": "0.8.59",
-  "description": "Aggregate Coverage Report module.",
-  "id": "pkg:maven/io.github.clescot/report-aggregate",
-  "ts": 1753746371000,
-  "dependency_count": 0,
-  "ref_count": 108,
-  "categories": null,
+  "version_latest": "0.8.62",
+  "ts_publish": 1754065415000,
+  "ts_update": 1754066224954,
+  "count_dep": 108,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753746854451
+  "categories": null,
+  "dsv": 1
 }

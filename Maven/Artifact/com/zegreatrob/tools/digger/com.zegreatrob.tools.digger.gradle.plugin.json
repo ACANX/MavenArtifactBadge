@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.zegreatrob.tools.digger/com.zegreatrob.tools.digger.gradle.plugin",
+  "description": "digger-plugin",
+  "group_id": "com.zegreatrob.tools.digger",
+  "artifact_id": "com.zegreatrob.tools.digger.gradle.plugin",
+  "version_latest": "1.8.2",
+  "ts_publish": 1754230965000,
+  "ts_update": 1754231821867,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

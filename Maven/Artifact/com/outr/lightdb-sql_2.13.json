@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.outr/lightdb-sql_2.13",
+  "description": "lightdb-sql",
   "group_id": "com.outr",
   "artifact_id": "lightdb-sql_2.13",
-  "latest_version": "4.0.5",
-  "description": "lightdb-sql",
-  "id": "pkg:maven/com.outr/lightdb-sql_2.13",
-  "ts": 1753562786000,
-  "dependency_count": 5,
-  "ref_count": 36,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.1.0",
+  "ts_publish": 1754070682000,
+  "ts_update": 1754071620262,
+  "count_dep": 36,
+  "count_ref": 5,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753563419080
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

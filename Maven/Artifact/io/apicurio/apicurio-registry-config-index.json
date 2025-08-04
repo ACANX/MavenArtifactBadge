@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.apicurio/apicurio-registry-config-index",
+  "description": "Open Source API & Schema Registry",
   "group_id": "io.apicurio",
   "artifact_id": "apicurio-registry-config-index",
-  "latest_version": "3.0.10",
-  "description": "Open Source API & Schema Registry",
-  "id": "pkg:maven/io.apicurio/apicurio-registry-config-index",
-  "ts": 1753283753000,
-  "dependency_count": 5,
-  "ref_count": 43,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.0.11",
+  "ts_publish": 1754093739000,
+  "ts_update": 1754094421564,
+  "count_dep": 43,
+  "count_ref": 5,
   "licenses": [
     "Apache License Version 2.0"
   ],
-  "last_updated": 1753284419726
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

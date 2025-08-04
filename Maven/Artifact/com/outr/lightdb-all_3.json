@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.outr/lightdb-all_3",
+  "description": "lightdb-all",
   "group_id": "com.outr",
   "artifact_id": "lightdb-all_3",
-  "latest_version": "4.0.5",
-  "description": "lightdb-all",
-  "id": "pkg:maven/com.outr/lightdb-all_3",
-  "ts": 1753562786000,
-  "dependency_count": 0,
-  "ref_count": 113,
-  "categories": [
-    "MULTI-PROJECT"
-  ],
+  "version_latest": "4.1.0",
+  "ts_publish": 1754070682000,
+  "ts_update": 1754071619611,
+  "count_dep": 113,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753563419078
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "dsv": 1
 }

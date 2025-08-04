@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.clescot/kafka-connect-http",
+  "description": "a set of Kafka Connect connectors (Sink and Source), to interact with HTTP servers.",
   "group_id": "io.github.clescot",
   "artifact_id": "kafka-connect-http",
-  "latest_version": "0.8.59",
-  "description": "a set of Kafka Connect connectors (Sink and Source), to interact with HTTP servers.",
-  "id": "pkg:maven/io.github.clescot/kafka-connect-http",
-  "ts": 1753746371000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "0.8.62",
+  "ts_publish": 1754065415000,
+  "ts_update": 1754066224953,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753746854452
+  "categories": null,
+  "dsv": 1
 }

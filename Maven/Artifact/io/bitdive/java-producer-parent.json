@@ -3,9 +3,9 @@
   "description": "library is a common module for the system for collecting profiling information",
   "group_id": "io.bitdive",
   "artifact_id": "java-producer-parent",
-  "version_latest": "1.2.0",
-  "ts_publish": 1753967114000,
-  "ts_update": 1753967820518,
+  "version_latest": "1.2.1",
+  "ts_publish": 1754058293000,
+  "ts_update": 1754059019113,
   "count_dep": 0,
   "count_ref": 2,
   "licenses": [

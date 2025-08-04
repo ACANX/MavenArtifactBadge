@@ -3,9 +3,9 @@
   "description": "CDK Constructs for AWS Fargate to an Amazon Kinesis Data Stream",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "fargatekinesisstreams",
-  "version_latest": "2.90.0",
-  "ts_publish": 1753905746000,
-  "ts_update": 1753906622901,
+  "version_latest": "2.90.2",
+  "ts_publish": 1754098910000,
+  "ts_update": 1754099821382,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

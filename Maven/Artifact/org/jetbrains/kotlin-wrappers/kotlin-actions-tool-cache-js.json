@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for GitHub Actions Tool Cache",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-actions-tool-cache-js",
-  "version_latest": "2025.7.15-2.0.2",
-  "ts_publish": 1753795070000,
-  "ts_update": 1753796222119,
+  "version_latest": "2025.8.3-2.0.2",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289425186,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

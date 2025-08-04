@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.sap.cloud.sjb.cf/sap-java-buildpack-bom",
+  "description": "Versions control of SAP Java Buildpack dependencies",
   "group_id": "com.sap.cloud.sjb.cf",
   "artifact_id": "sap-java-buildpack-bom",
-  "latest_version": "2.36.0",
-  "description": "Versions control of SAP Java Buildpack dependencies",
-  "id": "pkg:maven/com.sap.cloud.sjb.cf/sap-java-buildpack-bom",
-  "ts": 1753745458000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "2.37.0",
+  "ts_publish": 1754085511000,
+  "ts_update": 1754086020347,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "SAP DEVELOPER LICENSE AGREEMENT"
   ],
-  "last_updated": 1753746024318
+  "categories": null,
+  "dsv": 1
 }

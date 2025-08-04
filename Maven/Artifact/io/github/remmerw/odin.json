@@ -3,9 +3,9 @@
   "description": "API library for Odin application",
   "group_id": "io.github.remmerw",
   "artifact_id": "odin",
-  "version_latest": "0.4.2",
-  "ts_publish": 1753859156000,
-  "ts_update": 1753859821036,
+  "version_latest": "0.4.3",
+  "ts_publish": 1754062319000,
+  "ts_update": 1754062960257,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
