@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.switcherapi/switcher-client",
+  "description": "Switcher Client SDK for working with Switcher API",
+  "group_id": "com.switcherapi",
+  "artifact_id": "switcher-client",
+  "version_latest": "1.8.0",
+  "ts_publish": 1754338059000,
+  "ts_update": 1754338624852,
+  "count_dep": 37,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

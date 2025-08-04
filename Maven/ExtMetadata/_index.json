@@ -481,6 +481,18 @@
     "com.discord4j:discord-json-encoding": 1754336491000,
     "design.ore.api:OreNetBridge": 1754337019000,
     "com.authme:algo": 1754336634000,
-    "net.solarnetwork.common:net.solarnetwork.common.web.jakarta": 1754337644000
+    "net.solarnetwork.common:net.solarnetwork.common.web.jakarta": 1754337644000,
+    "org.mvnpm:lwc": 1754338172000,
+    "com.switcherapi:switcher-client": 1754338059000,
+    "org.mvnpm:typescript-eslint": 1754337986000,
+    "com.microsoft.azure:synapseml-core_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml-cognitive_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml-vw_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml-opencv_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml-deep-learning_2.12": 1754337912000,
+    "com.microsoft.azure:synapseml-lightgbm_2.12": 1754337912000,
+    "org.mvnpm.at.typescript-eslint:type-utils": 1754337811000,
+    "com.github.romanqed:jconv": 1754337766000
   }
 }

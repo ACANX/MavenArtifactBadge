@@ -3,9 +3,9 @@
   "description": "Lightning Web Components (LWC)",
   "group_id": "org.mvnpm",
   "artifact_id": "lwc",
-  "version_latest": "8.20.2",
-  "ts_publish": 1753905986000,
-  "ts_update": 1753906621373,
+  "version_latest": "8.20.3",
+  "ts_publish": 1754338172000,
+  "ts_update": 1754338624852,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [
