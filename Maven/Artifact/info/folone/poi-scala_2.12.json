@@ -3,9 +3,9 @@
   "description": "poi-scala",
   "group_id": "info.folone",
   "artifact_id": "poi-scala_2.12",
-  "version_latest": "2.0.1",
-  "ts_publish": 1754212356000,
-  "ts_update": 1754212797178,
+  "version_latest": "2.0.2",
+  "ts_publish": 1754290591000,
+  "ts_update": 1754291223070,
   "count_dep": 19,
   "count_ref": 0,
   "licenses": [
