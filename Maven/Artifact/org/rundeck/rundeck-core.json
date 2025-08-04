@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/org.rundeck/rundeck-core",
+  "description": "Rundeck",
   "group_id": "org.rundeck",
   "artifact_id": "rundeck-core",
-  "latest_version": "5.14.0-rc2-20250724",
-  "description": "Rundeck",
-  "id": "pkg:maven/org.rundeck/rundeck-core",
-  "ts": 1753393033000,
-  "dependency_count": 0,
-  "ref_count": 50,
+  "version_latest": "5.14.0-20250804",
+  "ts_publish": 1754333812000,
+  "ts_update": 1754334421132,
+  "count_dep": 50,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
   "categories": [
     "Build Tools",
     "Task Automation"
   ],
-  "licenses": [
-    "The Apache Software License, Version 2.0"
-  ],
-  "last_updated": 1753393558194
+  "dsv": 1
 }
