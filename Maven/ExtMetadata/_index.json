@@ -351,6 +351,7 @@
     "io.github.bbasinsk:http-openapi-linuxx64": 1754331623000,
     "io.github.bbasinsk:schema-hocon": 1754331623000,
     "io.github.bbasinsk:http-jvm": 1754331623000,
-    "com.presagetech:smartspectra": 1754332612000
+    "com.presagetech:smartspectra": 1754332612000,
+    "fr.alexpado:jda-interactions-extension": 1754332890000
   }
 }
