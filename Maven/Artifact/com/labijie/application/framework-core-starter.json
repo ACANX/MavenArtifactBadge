@@ -3,9 +3,9 @@
   "description": "application framework package",
   "group_id": "com.labijie.application",
   "artifact_id": "framework-core-starter",
-  "version_latest": "3.3.0",
-  "ts_publish": 1754119933000,
-  "ts_update": 1754120345343,
+  "version_latest": "3.3.1",
+  "ts_publish": 1754305240000,
+  "ts_update": 1754306172229,
   "count_dep": 110,
   "count_ref": 7,
   "licenses": [
