@@ -14,12 +14,12 @@ jobs:
 
     steps:
       - name: CheckoutAutoCommitBranch
-        uses: actions/checkout@v4.7.1
+        uses: actions/checkout@v4
         with:
           ref: feat  # 强制检出feat分支
 
       - name: SetUpJdk21
-        uses: actions/setup-java@v5   # https://github.com/marketplace/actions/setup-java-jdk
+        uses: actions/setup-java@v4.7.1   # https://github.com/marketplace/actions/setup-java-jdk
         with:
           distribution: 'oracle' # See 'Supported distributions' for available options   oracle corretto graalvm
           java-version: "21"
