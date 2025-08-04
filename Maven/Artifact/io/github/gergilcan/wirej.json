@@ -3,10 +3,10 @@
   "description": "WireJ Application",
   "group_id": "io.github.gergilcan",
   "artifact_id": "wirej",
-  "version_latest": "0.0.1",
-  "ts_publish": 1754158970000,
-  "ts_update": 1754159822387,
-  "count_dep": 64,
+  "version_latest": "0.0.2",
+  "ts_publish": 1754292364000,
+  "ts_update": 1754292698520,
+  "count_dep": 65,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
