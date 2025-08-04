@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud AiMiaoBi (20230801) SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "aimiaobi20230801",
-  "version_latest": "1.33.0",
-  "ts_publish": 1754041183000,
-  "ts_update": 1754041620846,
+  "version_latest": "1.33.1",
+  "ts_publish": 1754327639000,
+  "ts_update": 1754328423175,
   "count_dep": 40,
   "count_ref": 0,
   "licenses": [

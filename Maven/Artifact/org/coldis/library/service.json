@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.coldis.library/service",
+  "description": "Java Spring Boot utilities.",
+  "group_id": "org.coldis.library",
+  "artifact_id": "service",
+  "version_latest": "2.0.186",
+  "ts_publish": 1754327973000,
+  "ts_update": 1754328423173,
+  "count_dep": 211,
+  "count_ref": 0,
+  "licenses": [
+    "GPL"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
