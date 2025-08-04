@@ -3,9 +3,9 @@
   "description": "Generate static websites out of your Quarkus web application.",
   "group_id": "io.quarkiverse.roq",
   "artifact_id": "quarkus-roq-theme-resume",
-  "version_latest": "1.7.0.CR4",
-  "ts_publish": 1754076122000,
-  "ts_update": 1754076963844,
+  "version_latest": "1.7.0",
+  "ts_publish": 1754336320000,
+  "ts_update": 1754336820741,
   "count_dep": 100,
   "count_ref": 0,
   "licenses": [
