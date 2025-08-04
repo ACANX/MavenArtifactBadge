@@ -3,10 +3,10 @@
   "description": "Module xis-adapter-spi of the XIS declarative web framework.",
   "group_id": "one.xis",
   "artifact_id": "xis-adapter-spi",
-  "version_latest": "0.1.4",
-  "ts_publish": 1754307290000,
-  "ts_update": 1754308020838,
-  "count_dep": 7,
+  "version_latest": "0.1.5",
+  "ts_publish": 1754334919000,
+  "ts_update": 1754335574194,
+  "count_dep": 8,
   "count_ref": 6,
   "licenses": [
     "The Apache License, Version 2.0"
