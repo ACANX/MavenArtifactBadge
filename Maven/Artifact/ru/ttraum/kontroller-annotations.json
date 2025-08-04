@@ -3,9 +3,9 @@
   "description": "Annotation library for generating controller routing for ktor",
   "group_id": "ru.ttraum",
   "artifact_id": "kontroller-annotations",
-  "version_latest": "0.0.1",
-  "ts_publish": 1754327540000,
-  "ts_update": 1754327820551,
+  "version_latest": "0.0.2",
+  "ts_publish": 1754330293000,
+  "ts_update": 1754330819266,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

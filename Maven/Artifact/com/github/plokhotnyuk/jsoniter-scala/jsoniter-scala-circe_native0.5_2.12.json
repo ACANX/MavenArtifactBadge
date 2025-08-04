@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_native0.5_2.12",
+  "description": "jsoniter-scala-circe",
   "group_id": "com.github.plokhotnyuk.jsoniter-scala",
   "artifact_id": "jsoniter-scala-circe_native0.5_2.12",
-  "latest_version": "2.37.0",
-  "description": "jsoniter-scala-circe",
-  "id": "pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-circe_native0.5_2.12",
-  "ts": 1753334839000,
-  "dependency_count": 0,
-  "ref_count": 23,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.37.1",
+  "ts_publish": 1754330835000,
+  "ts_update": 1754331426950,
+  "count_dep": 23,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753335418998
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

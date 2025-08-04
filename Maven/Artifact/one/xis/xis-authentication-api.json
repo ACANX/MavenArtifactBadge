@@ -3,11 +3,11 @@
   "description": "Module xis-authentication-api of the XIS declarative web framework.",
   "group_id": "one.xis",
   "artifact_id": "xis-authentication-api",
-  "version_latest": "0.1.4",
-  "ts_publish": 1754307290000,
-  "ts_update": 1754308021567,
+  "version_latest": "0.1.5",
+  "ts_publish": 1754334919000,
+  "ts_update": 1754335574197,
   "count_dep": 0,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],

@@ -3,9 +3,9 @@
   "description": "Module xis-server of the XIS declarative web framework.",
   "group_id": "one.xis",
   "artifact_id": "xis-server",
-  "version_latest": "0.1.4",
-  "ts_publish": 1754307290000,
-  "ts_update": 1754308020839,
+  "version_latest": "0.1.5",
+  "ts_publish": 1754334919000,
+  "ts_update": 1754335574199,
   "count_dep": 17,
   "count_ref": 3,
   "licenses": [

@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/org.rundeck/rundeck-storage-data",
+  "description": "Rundeck",
   "group_id": "org.rundeck",
   "artifact_id": "rundeck-storage-data",
-  "latest_version": "5.14.0-rc2-20250724",
-  "description": "Rundeck",
-  "id": "pkg:maven/org.rundeck/rundeck-storage-data",
-  "ts": 1753393033000,
-  "dependency_count": 3,
-  "ref_count": 1,
+  "version_latest": "5.14.0-20250804",
+  "ts_publish": 1754333812000,
+  "ts_update": 1754334421131,
+  "count_dep": 1,
+  "count_ref": 3,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
   "categories": [
     "Build Tools",
     "Task Automation"
   ],
-  "licenses": [
-    "The Apache Software License, Version 2.0"
-  ],
-  "last_updated": 1753393558193
+  "dsv": 1
 }

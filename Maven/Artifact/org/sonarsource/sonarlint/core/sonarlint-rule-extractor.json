@@ -3,11 +3,11 @@
   "description": "Extract rules metadata from plugins",
   "group_id": "org.sonarsource.sonarlint.core",
   "artifact_id": "sonarlint-rule-extractor",
-  "version_latest": "10.27.0.81966",
-  "ts_publish": 1753977741000,
-  "ts_update": 1753978632109,
+  "version_latest": "10.27.1.81985",
+  "ts_publish": 1754333413000,
+  "ts_update": 1754334051027,
   "count_dep": 32,
-  "count_ref": 3,
+  "count_ref": 4,
   "licenses": [
     "GNU LGPL 3"
   ],

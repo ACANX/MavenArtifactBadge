@@ -3,11 +3,11 @@
   "description": "Generate static websites out of your Quarkus web application.",
   "group_id": "io.quarkiverse.roq",
   "artifact_id": "quarkus-roq-generator",
-  "version_latest": "1.7.0.CR4",
-  "ts_publish": 1754076122000,
-  "ts_update": 1754076964329,
+  "version_latest": "1.7.0",
+  "ts_publish": 1754336320000,
+  "ts_update": 1754336821367,
   "count_dep": 115,
-  "count_ref": 4,
+  "count_ref": 2,
   "licenses": [
     "Apache License, Version 2.0"
   ],
