@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/vn.kalapa/common",
+  "description": "kalapa common sdk",
   "group_id": "vn.kalapa",
   "artifact_id": "common",
-  "latest_version": "0.1.0",
-  "description": "kalapa common sdk",
-  "id": "pkg:maven/vn.kalapa/common",
-  "ts": 1753263797000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "0.1.1",
+  "ts_publish": 1754278282000,
+  "ts_update": 1754279223081,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753265220586
+  "categories": null,
+  "dsv": 1
 }

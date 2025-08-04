@@ -3,13 +3,14 @@
   "description": "a tool about milvus",
   "group_id": "io.github.xermaor",
   "artifact_id": "milvus-plus-parent",
-  "version_latest": "1.1.2",
-  "ts_publish": 1753760258000,
-  "ts_updated": 1753760641346,
+  "version_latest": "1.1.3",
+  "ts_publish": 1754278414000,
+  "ts_update": 1754279223076,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "categories": null
+  "categories": null,
+  "dsv": 1
 }
