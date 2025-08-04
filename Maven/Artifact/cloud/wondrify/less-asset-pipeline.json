@@ -3,9 +3,9 @@
   "description": "Provides LESS Compiling support for the Asset-Pipeline library.",
   "group_id": "cloud.wondrify",
   "artifact_id": "less-asset-pipeline",
-  "version_latest": "5.0.13",
-  "ts_publish": 1754268722000,
-  "ts_update": 1754269626550,
+  "version_latest": "5.0.14",
+  "ts_publish": 1754275670000,
+  "ts_update": 1754276222057,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

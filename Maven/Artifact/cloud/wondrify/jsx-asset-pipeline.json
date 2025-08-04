@@ -3,9 +3,9 @@
   "description": "JSX Transpiler Extension for the JVM Based Asset-Pipeline.",
   "group_id": "cloud.wondrify",
   "artifact_id": "jsx-asset-pipeline",
-  "version_latest": "5.0.13",
-  "ts_publish": 1754268722000,
-  "ts_update": 1754269626548,
+  "version_latest": "5.0.14",
+  "ts_publish": 1754275670000,
+  "ts_update": 1754276222053,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
