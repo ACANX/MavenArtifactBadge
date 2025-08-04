@@ -3,9 +3,9 @@
   "description": "KPM: the Kill Bill Package Manager",
   "group_id": "org.kill-bill.billing.installer",
   "artifact_id": "kpm",
-  "version_latest": "0.12.2",
-  "ts_publish": 1754313174000,
-  "ts_update": 1754313426808,
+  "version_latest": "0.12.3",
+  "ts_publish": 1754314197000,
+  "ts_update": 1754315223023,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Android native library for detecting Frida instrumentation framework",
   "group_id": "ca.weblite",
   "artifact_id": "fridablocker",
-  "version_latest": "1.0.7",
-  "ts_publish": 1754261435000,
-  "ts_update": 1754261739587,
+  "version_latest": "1.0.8",
+  "ts_publish": 1754314659000,
+  "ts_update": 1754315223018,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
