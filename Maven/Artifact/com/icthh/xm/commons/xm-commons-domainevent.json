@@ -3,9 +3,9 @@
   "description": "xm-commons-domainevent",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-domainevent",
-  "version_latest": "4.0.46",
-  "ts_publish": 1753943168000,
-  "ts_update": 1753943822129,
+  "version_latest": "4.0.47",
+  "ts_publish": 1754298639000,
+  "ts_update": 1754299020559,
   "count_dep": 5,
   "count_ref": 2,
   "licenses": [
