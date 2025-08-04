@@ -3,11 +3,11 @@
   "description": "lucuma-catalog",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-catalog_sjs1_3",
-  "version_latest": "0.139.0",
-  "ts_publish": 1753973316000,
-  "ts_update": 1753973820252,
+  "version_latest": "0.140.0",
+  "ts_publish": 1754316531000,
+  "ts_update": 1754317021845,
   "count_dep": 114,
-  "count_ref": 0,
+  "count_ref": 2,
   "licenses": [
     "BSD-3-Clause"
   ],
