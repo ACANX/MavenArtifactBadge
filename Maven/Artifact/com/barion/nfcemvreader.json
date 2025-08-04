@@ -3,9 +3,9 @@
   "description": "Barion NFC EMV Reader",
   "group_id": "com.barion",
   "artifact_id": "nfcemvreader",
-  "version_latest": "1.0.1",
-  "ts_publish": 1754035966000,
-  "ts_update": 1754036822922,
+  "version_latest": "1.0.2",
+  "ts_publish": 1754338447000,
+  "ts_update": 1754339067967,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
