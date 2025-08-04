@@ -1,0 +1,8 @@
+{
+	"ts_update":1754336845855,
+	"url_project":"http://docs.sonarqube.org/display/PLUG/Plugin+Library/sonarlint-core-parent/sonarlint-server-api",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/org.sonarsource.sonarlint.core/sonarlint-server-api@10.27.1.81985",
+	"url_issue_management":"https://jira.sonarsource.com/browse/SLCORE",
+	"url_scm":"https://github.com/SonarSource/parent-oss/sonarlint-core-parent/sonarlint-server-api",
+	"url_ci_management":"https://cirrus-ci.com/github/SonarSource/"
+}
