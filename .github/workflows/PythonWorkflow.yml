@@ -42,6 +42,22 @@ jobs:
             exit 1
           fi
 
+      - name: SetUpJdk21
+        uses: actions/setup-java@v4.7.1   # https://github.com/marketplace/actions/setup-java-jdk
+        with:
+          distribution: 'oracle' # See 'Supported distributions' for available options   oracle corretto graalvm
+          java-version: "21"
+
+      - name: RunJavaJarApplication
+        run: |
+          if [ -d "Java" ]; then
+            cd Java && sh run.sh
+          else
+            echo "::error::Java目录未找到！"
+            exit 1
+          fi
+
+
       - name: CommitChanges
         id: commit
         run: |
