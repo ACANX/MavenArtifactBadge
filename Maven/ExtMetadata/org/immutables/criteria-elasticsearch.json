@@ -1,0 +1,6 @@
+{
+	"ts_update":1754336681079,
+	"url_project":"https://github.com/immutables/immutables/tree/master/criteria/elasticsearch",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/org.immutables/criteria-elasticsearch@2.11.2",
+	"url_scm":"https://github.com/immutables/immutables.git/criteria/criteria-elasticsearch"
+}

@@ -1,3 +1,6 @@
 {
-	
+	"ts_update":1754336530980,
+	"url_project":"https://github.com/Syrou/Reaktiv",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/io.github.syrou/reaktiv-core-macosarm64@0.9.4",
+	"url_scm":"https://github.com/Syrou/Reaktiv"
 }
