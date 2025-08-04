@@ -3,9 +3,9 @@
   "description": "JDBC driver for OJP (Open JDBC Proxy)",
   "group_id": "org.openjdbcproxy",
   "artifact_id": "ojp-jdbc-driver",
-  "version_latest": "0.0.6-alpha",
-  "ts_publish": 1754328972000,
-  "ts_update": 1754329621654,
+  "version_latest": "0.0.7-alpha",
+  "ts_publish": 1754330075000,
+  "ts_update": 1754330821213,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
