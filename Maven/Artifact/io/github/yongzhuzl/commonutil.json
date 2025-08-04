@@ -3,9 +3,9 @@
   "description": "commonutil是一个功能丰富的Java工具类库，通过封装静态方法，降低学习成本，提升工作效率。",
   "group_id": "io.github.yongzhuzl",
   "artifact_id": "commonutil",
-  "version_latest": "4.7.8",
-  "ts_publish": 1754302932000,
-  "ts_update": 1754303726580,
+  "version_latest": "4.7.9",
+  "ts_publish": 1754305015000,
+  "ts_update": 1754305624033,
   "count_dep": 99,
   "count_ref": 0,
   "licenses": [
