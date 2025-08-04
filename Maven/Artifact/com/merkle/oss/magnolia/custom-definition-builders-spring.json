@@ -3,9 +3,9 @@
   "description": "The Definition Builder module is a builder for definitions.",
   "group_id": "com.merkle.oss.magnolia",
   "artifact_id": "custom-definition-builders-spring",
-  "version_latest": "1.2.25",
-  "ts_publish": 1753956547000,
-  "ts_update": 1753957620915,
+  "version_latest": "1.2.26",
+  "ts_publish": 1754317016000,
+  "ts_update": 1754317987035,
   "count_dep": 221,
   "count_ref": 0,
   "licenses": [
