@@ -3,9 +3,9 @@
   "description": "AirPower is a fast backend development tool based on SpringBoot3 and JPA. It's the core of AirPower.",
   "group_id": "cn.hamm",
   "artifact_id": "airpower-core",
-  "version_latest": "3.4.3",
-  "ts_publish": 1753844463000,
-  "ts_update": 1753845420672,
+  "version_latest": "3.4.4",
+  "ts_publish": 1754291652000,
+  "ts_update": 1754292422152,
   "count_dep": 116,
   "count_ref": 0,
   "licenses": [
