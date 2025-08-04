@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.52ylx/lxboot3",
+  "description": "使用文档: https://a7fi97h1rc.feishu.cn/docx/IJ2ZdQzbHoiO0fxsShgcS6vPnre",
   "group_id": "io.github.52ylx",
   "artifact_id": "lxboot3",
-  "latest_version": "1.12.4",
-  "description": "使用文档: https://a7fi97h1rc.feishu.cn/docx/IJ2ZdQzbHoiO0fxsShgcS6vPnre",
-  "id": "pkg:maven/io.github.52ylx/lxboot3",
-  "ts": 1753437217000,
-  "dependency_count": 0,
-  "ref_count": 230,
-  "categories": null,
+  "version_latest": "1.12.5",
+  "ts_publish": 1754273937000,
+  "ts_update": 1754274422409,
+  "count_dep": 230,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753437619433
+  "categories": null,
+  "dsv": 1
 }

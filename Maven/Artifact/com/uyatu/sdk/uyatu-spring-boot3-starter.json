@@ -3,10 +3,10 @@
   "description": "基于JDK17开发的springboot快速启动",
   "group_id": "com.uyatu.sdk",
   "artifact_id": "uyatu-spring-boot3-starter",
-  "version_latest": "2.0.1",
-  "ts_publish": 1754013901000,
-  "ts_update": 1754014622161,
-  "count_dep": 223,
+  "version_latest": "2.0.2",
+  "ts_publish": 1754274115000,
+  "ts_update": 1754274422407,
+  "count_dep": 212,
   "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
