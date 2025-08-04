@@ -1,12 +1,12 @@
 {
-  "id": "pkg:maven/com.xiaoyudeguang/mybatis-plus-jpa-dicode",
-  "description": "低码脚手架",
+  "id": "pkg:maven/com.xiaoyudeguang/mybatis-plus-jpa-boot",
+  "description": "mybatis-plus-jpa-web 项目的启动器",
   "group_id": "com.xiaoyudeguang",
-  "artifact_id": "mybatis-plus-jpa-dicode",
+  "artifact_id": "mybatis-plus-jpa-boot",
   "version_latest": "1.0.11.1",
-  "ts_publish": 1754290967000,
+  "ts_publish": 1754291051000,
   "ts_update": 1754291819219,
-  "count_dep": 9,
+  "count_dep": 209,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
