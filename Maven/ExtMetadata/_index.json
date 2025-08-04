@@ -1,15 +1,6 @@
 {
-  "map": {
-    "com.labijie.application:framework-dapr-starter": 1754339140000,
-    "com.labijie.application:framework-email-starter": 1754339140000,
-    "com.labijie.application:framework-auth-starter": 1754339140000,
-    "com.labijie.application:framework-core-web-starter": 1754339140000,
-    "com.labijie.application:framework-sms-starter": 1754339140000,
-    "com.labijie.application:framework-hcaptcha-starter": 1754339140000,
-    "com.labijie.application:framework-identity-starter": 1754339140000,
-    "com.labijie.application:framework-core-starter": 1754339140000,
-    "net.solarnetwork.common:net.solarnetwork.common.web.jakarta": 1754339103000,
-    "org.mvnpm.at.typescript-eslint:utils": 1754339068000
-  },
-  "ts": 1754339232054
+	"map":{
+		
+	},
+	"ts":1754339789146
 }
