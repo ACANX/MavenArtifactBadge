@@ -480,6 +480,7 @@
     "com.discord4j:discord-json": 1754336491000,
     "com.discord4j:discord-json-encoding": 1754336491000,
     "design.ore.api:OreNetBridge": 1754337019000,
-    "com.authme:algo": 1754336634000
+    "com.authme:algo": 1754336634000,
+    "net.solarnetwork.common:net.solarnetwork.common.web.jakarta": 1754337644000
   }
 }
