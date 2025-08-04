@@ -3,9 +3,9 @@
   "description": "Comprehensive advertising SDK for Android applications with support for banner, carousel, video, interstitial, and Picture-in-Picture ads",
   "group_id": "ai.onlinesales.mobiletest",
   "artifact_id": "osmos-android-sdk",
-  "version_latest": "2.0.1-test-pro",
-  "ts_publish": 1753969958000,
-  "ts_update": 1753970820450,
+  "version_latest": "2.0.2-test",
+  "ts_publish": 1754312794000,
+  "ts_update": 1754313426812,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [
