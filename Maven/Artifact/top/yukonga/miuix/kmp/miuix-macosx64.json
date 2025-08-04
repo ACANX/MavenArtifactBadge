@@ -3,9 +3,9 @@
   "description": "A UI library for Compose MultiPlatform",
   "group_id": "top.yukonga.miuix.kmp",
   "artifact_id": "miuix-macosx64",
-  "version_latest": "0.4.9",
-  "ts_publish": 1753762582000,
-  "ts_update": 1753763216597,
+  "version_latest": "0.5.0",
+  "ts_publish": 1754294683000,
+  "ts_update": 1754295266858,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

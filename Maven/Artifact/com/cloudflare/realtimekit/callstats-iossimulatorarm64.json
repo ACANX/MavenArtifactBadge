@@ -3,9 +3,9 @@
   "description": "Cloudflare RealtimeKit KMM Client for CallStats",
   "group_id": "com.cloudflare.realtimekit",
   "artifact_id": "callstats-iossimulatorarm64",
-  "version_latest": "1.7.22",
-  "ts_publish": 1753782571000,
-  "ts_update": 1753784220979,
+  "version_latest": "1.7.23",
+  "ts_publish": 1754294792000,
+  "ts_update": 1754295266286,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
