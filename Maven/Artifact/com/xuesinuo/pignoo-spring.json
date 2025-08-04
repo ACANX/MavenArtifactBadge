@@ -3,9 +3,9 @@
   "description": "pignoo-spring is a plug-in for using pignoo in SpringIoC",
   "group_id": "com.xuesinuo",
   "artifact_id": "pignoo-spring",
-  "version_latest": "0.3.0",
-  "ts_publish": 1754224621000,
-  "ts_update": 1754225219845,
+  "version_latest": "0.3.1",
+  "ts_publish": 1754292804000,
+  "ts_update": 1754293619298,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

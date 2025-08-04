@@ -3,9 +3,9 @@
   "description": "pignoo is a simple jdbc tool.",
   "group_id": "com.xuesinuo",
   "artifact_id": "pignoo-core",
-  "version_latest": "0.3.0",
-  "ts_publish": 1754224621000,
-  "ts_update": 1754225219844,
+  "version_latest": "0.3.1",
+  "ts_publish": 1754292804000,
+  "ts_update": 1754293619297,
   "count_dep": 7,
   "count_ref": 2,
   "licenses": [
