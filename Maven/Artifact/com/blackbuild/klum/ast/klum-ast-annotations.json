@@ -3,9 +3,9 @@
   "description": "Annontations for Klum AST",
   "group_id": "com.blackbuild.klum.ast",
   "artifact_id": "klum-ast-annotations",
-  "version_latest": "2.1.0",
-  "ts_publish": 1754292571000,
-  "ts_update": 1754293619941,
+  "version_latest": "2.1.1",
+  "ts_publish": 1754310185000,
+  "ts_update": 1754311020142,
   "count_dep": 2,
   "count_ref": 3,
   "licenses": [
