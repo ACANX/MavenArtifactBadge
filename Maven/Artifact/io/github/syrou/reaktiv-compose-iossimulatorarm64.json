@@ -3,9 +3,9 @@
   "description": "A flexible and powerful state management library...",
   "group_id": "io.github.syrou",
   "artifact_id": "reaktiv-compose-iossimulatorarm64",
-  "version_latest": "0.9.3",
-  "ts_publish": 1754242807000,
-  "ts_update": 1754243553830,
+  "version_latest": "0.9.4",
+  "ts_publish": 1754328760000,
+  "ts_update": 1754329407283,
   "count_dep": 6,
   "count_ref": 1,
   "licenses": [
