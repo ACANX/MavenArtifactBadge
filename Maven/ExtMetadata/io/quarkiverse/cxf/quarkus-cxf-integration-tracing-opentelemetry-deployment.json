@@ -1,7 +1,3 @@
 {
-	"ts_update":1754336569510,
-	"url_project":"https://github.com/quarkiverse/quarkiverse-cxf",
-	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/io.quarkiverse.cxf/quarkus-cxf-integration-tracing-opentelemetry-deployment@3.25.0",
-	"url_issue_management":"https://github.com/quarkiverse/quarkiverse-cxf",
-	"url_scm":"https://github.com/quarkiverse/quarkiverse-cxf"
+	
 }
