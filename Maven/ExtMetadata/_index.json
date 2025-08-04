@@ -478,6 +478,8 @@
     "com.johnsnowlabs.nlp:jsl-llamacpp-gpu": 1754336584000,
     "com.discord4j:discord-json-api": 1754336491000,
     "com.discord4j:discord-json": 1754336491000,
-    "com.discord4j:discord-json-encoding": 1754336491000
+    "com.discord4j:discord-json-encoding": 1754336491000,
+    "design.ore.api:OreNetBridge": 1754337019000,
+    "com.authme:algo": 1754336634000
   }
 }
