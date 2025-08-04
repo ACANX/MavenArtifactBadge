@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_2.13",
+  "description": "jsoniter-scala-macros",
   "group_id": "com.github.plokhotnyuk.jsoniter-scala",
   "artifact_id": "jsoniter-scala-macros_2.13",
-  "latest_version": "2.37.0",
-  "description": "jsoniter-scala-macros",
-  "id": "pkg:maven/com.github.plokhotnyuk.jsoniter-scala/jsoniter-scala-macros_2.13",
-  "ts": 1753334839000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.37.1",
+  "ts_publish": 1754330835000,
+  "ts_update": 1754331426947,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753335418371
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
