@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for React",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-react-legacy-js",
-  "version_latest": "2025.8.2-19.1.1",
-  "ts_publish": 1754225560000,
-  "ts_update": 1754226423223,
+  "version_latest": "2025.8.3-19.1.1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289425184,
   "count_dep": 4,
   "count_ref": 2,
   "licenses": [

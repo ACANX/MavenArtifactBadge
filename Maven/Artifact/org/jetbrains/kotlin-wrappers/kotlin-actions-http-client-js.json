@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for GitHub Actions HTTP Client",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-actions-http-client-js",
-  "version_latest": "2025.8.2-2.2.3",
-  "ts_publish": 1754225560000,
-  "ts_update": 1754226421816,
+  "version_latest": "2025.8.3-2.2.3",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289423737,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Ajv",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-ajv-wasm-js",
-  "version_latest": "2025.8.1-8.17.1",
-  "ts_publish": 1754142314000,
-  "ts_update": 1754142911742,
+  "version_latest": "2025.8.3-8.17.1",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289424236,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

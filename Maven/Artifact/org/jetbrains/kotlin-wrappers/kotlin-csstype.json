@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for CSSType",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-csstype",
-  "version_latest": "2025.8.2-3.1.3",
-  "ts_publish": 1754225560000,
-  "ts_update": 1754226422423,
+  "version_latest": "2025.8.3-3.1.3",
+  "ts_publish": 1754288655000,
+  "ts_update": 1754289424241,
   "count_dep": 4,
   "count_ref": 3,
   "licenses": [
