@@ -3,9 +3,9 @@
   "description": "A shared library for Proton Pass clients that implements common operations.",
   "group_id": "me.proton.authenticator.common",
   "artifact_id": "lib",
-  "version_latest": "0.25.1",
-  "ts_publish": 1754290956000,
-  "ts_update": 1754291819220,
+  "version_latest": "0.25.2",
+  "ts_publish": 1754298967000,
+  "ts_update": 1754299622242,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
