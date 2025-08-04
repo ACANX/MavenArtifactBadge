@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/is.codion/codion-common-model",
+  "description": "Codion Application Framework",
   "group_id": "is.codion",
   "artifact_id": "codion-common-model",
-  "latest_version": "0.18.42",
-  "description": "Codion Application Framework",
-  "id": "pkg:maven/is.codion/codion-common-model",
-  "ts": 1753704636000,
-  "dependency_count": 12,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "0.18.43",
+  "ts_publish": 1754325631000,
+  "ts_update": 1754326620636,
+  "count_dep": 4,
+  "count_ref": 12,
   "licenses": [
     "GPL-3.0"
   ],
-  "last_updated": 1753705626674
+  "categories": null,
+  "dsv": 1
 }
