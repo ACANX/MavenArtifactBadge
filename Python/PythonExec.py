@@ -10,6 +10,11 @@ def get_index_file() -> pathlib.Path:
     current_file = pathlib.Path(__file__).resolve()
     return current_file.parent.parent / "Maven" / "Artifact" / "_index.json"
 
+# 获取扩展元数据索引文件路径
+def get_ext_metadata_index_file() -> pathlib.Path:
+    current_file = pathlib.Path(__file__).resolve()
+    return current_file.parent.parent / "Maven" / "ExtMetadata" / "_index.json"
+
 # 读取索引文件中的时间戳
 def read_last_timestamp() -> int:
     index_file = get_index_file()
@@ -32,6 +37,36 @@ def update_last_timestamp(ts: int):
         print(f"✅ 更新索引文件: {index_file} (ts={ts})")
     except Exception as e:
         print(f"❌ 更新索引文件失败: {e}")
+
+# 读取扩展元数据索引
+def read_ext_metadata_index() -> Dict[str, int]:
+    index_file = get_ext_metadata_index_file()
+    try:
+        if index_file.exists():
+            with open(index_file, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                return data.get("map", {})
+    except Exception as e:
+        print(f"❌ 读取扩展元数据索引失败: {e}")
+    return {}
+
+# 更新扩展元数据索引
+def update_ext_metadata_index(ext_index: Dict[str, int]):
+    index_file = get_ext_metadata_index_file()
+    try:
+        index_file.parent.mkdir(parents=True, exist_ok=True)
+        # 读取现有索引（如果存在）
+        current_data = {}
+        if index_file.exists():
+            with open(index_file, "r", encoding="utf-8") as f:
+                current_data = json.load(f)
+        # 更新映射数据
+        current_data["map"] = ext_index
+        with open(index_file, "w", encoding="utf-8") as f:
+            json.dump(current_data, f, indent=2, ensure_ascii=False)
+        print(f"✅ 更新扩展元数据索引文件: {index_file}")
+    except Exception as e:
+        print(f"❌ 更新扩展元数据索引失败: {e}")
 
 def create_maven_artifact_badge_svg_file(data: dict):
     """创建包含详细构件信息的 Maven 徽章 SVG 文件（垂直布局）"""
@@ -173,7 +208,6 @@ def fetch_maven_components_page(page: int) -> List[Dict[str, Any]]:
     try:
         response = requests.post(url, headers=headers, json=payload, timeout=30)
         response.raise_for_status()  # 检查 HTTP 错误
-        
         data = response.json()
         return data.get("components", [])
     
@@ -205,6 +239,10 @@ def generate_badges_for_components():
     last_ts = read_last_timestamp()
     print(f"⏱️ 上次处理的最新构件时间戳: {last_ts}")
     
+    # 读取扩展元数据索引
+    ext_index = read_ext_metadata_index()
+    print(f"📋 已加载扩展元数据索引: {len(ext_index)} 个构件记录")
+    
     # 记录本次执行中最新构件的时间戳
     new_last_ts = None
     page = 0
@@ -215,27 +253,23 @@ def generate_badges_for_components():
         if not components:
             print("⏹️ 没有更多构件数据")
             break
-        
         # 处理当前页的每个构件
         page_processed = 0
         for component in components:
             data = parse_component_data(component)
-            
             # 如果是第一页的第一个构件，记录为新的时间戳
             if page == 0 and new_last_ts is None:
                 new_last_ts = data["ts"]
-                print(f"📌 记录新时间戳: {new_last_ts}")
-            
+                print(f"📌 记录新时间戳: {new_last_ts}")            
             # 检查是否达到上次处理的时间点
             if data["ts"] <= last_ts:
                 print(f"⏹️ 遇到已处理构件 (ts={data['ts']})，停止处理")
                 break
-            
             # 处理有效构件
             if data['group_id'] and data['artifact_id']:
                 print(f"\n🔍 处理构件 (ts={data['ts']}):")
-                print(f"   Group ID: {data['group_id']}")
-                print(f"   Artifact ID: {data['artifact_id']}")
+                print(f"   GroupID: {data['group_id']}")
+                print(f"   ArtifactID: {data['artifact_id']}")
                 print(f"   最新版本: {data['latest_version']}")
                 print(f"   依赖数量: {data['dep_count']}")
                 print(f"   被引用量: {data['ref_count']}")
@@ -246,8 +280,12 @@ def generate_badges_for_components():
                     print("   分类: 无")
                 # 创建徽章文件
                 create_maven_artifact_badge_svg_file(data)
-                # 新增：创建JSON数据文件
+                # 创建JSON数据文件
                 create_maven_artifact_json_file(data)
+                # 更新扩展元数据索引
+                key = f"{data['group_id']}:{data['artifact_id']}"
+                ext_index[key] = data["ts"]
+                print(f"   🔖 更新扩展索引: {key} -> {data['ts']}")
                 processed_count += 1
                 page_processed += 1
             else:
@@ -261,6 +299,13 @@ def generate_badges_for_components():
         # 继续下一页
         page += 1
         print(" ")
+    
+    # 更新扩展元数据索引文件
+    if processed_count > 0:
+        update_ext_metadata_index(ext_index)
+        print(f"✅ 已更新扩展元数据索引，新增 {processed_count} 条记录")
+    else:
+        print("ℹ️ 无新构件，无需更新扩展元数据索引")
     
     # 更新索引文件中的时间戳
     if new_last_ts is not None:
