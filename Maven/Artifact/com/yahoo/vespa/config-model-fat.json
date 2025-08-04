@@ -3,10 +3,10 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "config-model-fat",
-  "version_latest": "8.557.7",
-  "ts_publish": 1753872616000,
-  "ts_update": 1753873078593,
-  "count_dep": 3,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306826297,
+  "count_dep": 76,
   "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"

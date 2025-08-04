@@ -3,9 +3,9 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "vespa-feed-client-cli",
-  "version_latest": "8.556.6",
-  "ts_publish": 1753785692000,
-  "ts_update": 1753786140777,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306827408,
   "count_dep": 21,
   "count_ref": 0,
   "licenses": [

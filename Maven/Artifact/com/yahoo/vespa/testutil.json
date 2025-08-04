@@ -3,9 +3,9 @@
   "description": "Library of useful test utilities.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "testutil",
-  "version_latest": "8.558.9",
-  "ts_publish": 1753959113000,
-  "ts_update": 1753961230370,
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306825777,
   "count_dep": 26,
   "count_ref": 26,
   "licenses": [
