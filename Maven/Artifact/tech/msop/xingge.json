@@ -3,9 +3,9 @@
   "description": "行歌 - 企业级Java开发框架",
   "group_id": "tech.msop",
   "artifact_id": "xingge",
-  "version_latest": "0.0.2",
-  "ts_publish": 1754323816000,
-  "ts_update": 1754324829959,
+  "version_latest": "0.0.3",
+  "ts_publish": 1754327241000,
+  "ts_update": 1754327820557,
   "count_dep": 24,
   "count_ref": 0,
   "licenses": [
