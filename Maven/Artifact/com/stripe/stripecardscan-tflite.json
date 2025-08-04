@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.stripe/stripecardscan-tflite",
+  "description": "Minimalized TensorFlow Lite implementation for stripecardscan",
   "group_id": "com.stripe",
   "artifact_id": "stripecardscan-tflite",
-  "latest_version": "21.22.0",
-  "description": "Minimalized TensorFlow Lite implementation for stripecardscan",
-  "id": "pkg:maven/com.stripe/stripecardscan-tflite",
-  "ts": 1753733603000,
-  "dependency_count": 1,
-  "ref_count": 0,
-  "categories": [
-    "Payment"
-  ],
+  "version_latest": "21.22.1",
+  "ts_publish": 1754325833000,
+  "ts_update": 1754327227173,
+  "count_dep": 0,
+  "count_ref": 1,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753734415637
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
 }

@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.stripe/crypto-onramp",
+  "description": "Stripe Crypto Onramp Android SDK",
   "group_id": "com.stripe",
   "artifact_id": "crypto-onramp",
-  "latest_version": "21.22.0",
-  "description": "Stripe Crypto Onramp Android SDK",
-  "id": "pkg:maven/com.stripe/crypto-onramp",
-  "ts": 1753733603000,
-  "dependency_count": 0,
-  "ref_count": 12,
-  "categories": [
-    "Payment"
-  ],
+  "version_latest": "21.22.1",
+  "ts_publish": 1754325833000,
+  "ts_update": 1754327227173,
+  "count_dep": 12,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753734415636
+  "categories": [
+    "Payment"
+  ],
+  "dsv": 1
 }

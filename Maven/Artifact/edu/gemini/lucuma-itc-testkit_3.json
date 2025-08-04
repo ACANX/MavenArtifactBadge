@@ -3,9 +3,9 @@
   "description": "lucuma-itc-testkit",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-itc-testkit_3",
-  "version_latest": "0.42.3",
-  "ts_publish": 1754318771000,
-  "ts_update": 1754319298270,
+  "version_latest": "0.42.4",
+  "ts_publish": 1754326207000,
+  "ts_update": 1754327224030,
   "count_dep": 105,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-worker_3",
-  "version_latest": "1.0.2-19-fe3d72",
-  "ts_publish": 1754183178000,
-  "ts_update": 1754183820728,
+  "version_latest": "1.0.2-23-d3f2ba",
+  "ts_publish": 1754326171000,
+  "ts_update": 1754327225128,
   "count_dep": 82,
   "count_ref": 0,
   "licenses": [
