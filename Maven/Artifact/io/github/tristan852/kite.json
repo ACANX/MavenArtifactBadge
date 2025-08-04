@@ -3,9 +3,9 @@
   "description": "A Connect Four solver",
   "group_id": "io.github.tristan852",
   "artifact_id": "kite",
-  "version_latest": "1.7.4",
-  "ts_publish": 1754321012000,
-  "ts_update": 1754321823267,
+  "version_latest": "1.7.5",
+  "ts_publish": 1754321710000,
+  "ts_update": 1754322190480,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
