@@ -3,9 +3,9 @@
   "description": "lucuma-ags",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-ags_3",
-  "version_latest": "0.140.1",
-  "ts_publish": 1754319923000,
-  "ts_update": 1754320633816,
+  "version_latest": "0.141.0",
+  "ts_publish": 1754323083000,
+  "ts_update": 1754324223017,
   "count_dep": 68,
   "count_ref": 1,
   "licenses": [

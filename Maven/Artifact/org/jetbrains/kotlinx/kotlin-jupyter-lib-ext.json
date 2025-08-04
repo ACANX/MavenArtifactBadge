@@ -3,9 +3,9 @@
   "description": "Extended functionality for Kotlin kernel",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "kotlin-jupyter-lib-ext",
-  "version_latest": "0.15.0-573",
-  "ts_publish": 1754291429000,
-  "ts_update": 1754291818595,
+  "version_latest": "0.15.0-574",
+  "ts_publish": 1754323200000,
+  "ts_update": 1754324222453,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

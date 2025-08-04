@@ -3,10 +3,10 @@
   "description": "The MuleSoft Amazon Bedrock connector is designed to provide access to Amazon Bedrock foundational models from mule applications",
   "group_id": "io.github.mulesoft-ai-chain-project",
   "artifact_id": "mule4-amazon-bedrock-connector",
-  "version_latest": "0.3.33",
-  "ts_publish": 1754303534000,
-  "ts_update": 1754304424207,
-  "count_dep": 95,
+  "version_latest": "0.4.0",
+  "ts_publish": 1754323384000,
+  "ts_update": 1754324221838,
+  "count_dep": 96,
   "count_ref": 0,
   "licenses": [
     "MIT License"
