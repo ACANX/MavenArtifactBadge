@@ -3,9 +3,9 @@
   "description": "Lorcana set descriptions and data",
   "group_id": "eu.codlab",
   "artifact_id": "test-ignore",
-  "version_latest": "0.20.14",
-  "ts_publish": 1754284494000,
-  "ts_update": 1754285222146,
+  "version_latest": "0.20.15",
+  "ts_publish": 1754349145000,
+  "ts_update": 1754350022739,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
