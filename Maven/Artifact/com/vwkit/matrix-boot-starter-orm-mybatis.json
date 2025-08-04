@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.vwkit/matrix-boot-starter-orm-mybatis",
+  "description": "matrix-boot",
+  "group_id": "com.vwkit",
+  "artifact_id": "matrix-boot-starter-orm-mybatis",
+  "version_latest": "2.3.3",
+  "ts_publish": 1754316801000,
+  "ts_update": 1754317626055,
+  "count_dep": 192,
+  "count_ref": 0,
+  "licenses": [
+    "Apache 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
