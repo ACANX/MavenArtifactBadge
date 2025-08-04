@@ -3,11 +3,11 @@
   "description": "A simple and robust runtime dependency manager for JVM languages.",
   "group_id": "de.crazydev22.slimjar.helper",
   "artifact_id": "spigot",
-  "version_latest": "2.1.7",
-  "ts_publish": 1754226679000,
-  "ts_update": 1754227025045,
+  "version_latest": "2.1.8",
+  "ts_publish": 1754343439000,
+  "ts_update": 1754344020241,
   "count_dep": 1,
-  "count_ref": 0,
+  "count_ref": 1,
   "licenses": [
     "The MIT License"
   ],
