@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.cognite/cognite-sdk-scala_3",
+  "description": "Scala SDK for Cognite Data Fusion.",
+  "group_id": "com.cognite",
+  "artifact_id": "cognite-sdk-scala_3",
+  "version_latest": "2.32.916",
+  "ts_publish": 1754313650000,
+  "ts_update": 1754314229120,
+  "count_dep": 54,
+  "count_ref": 0,
+  "licenses": [
+    "Apache 2"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}
