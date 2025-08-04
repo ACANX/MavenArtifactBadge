@@ -3,9 +3,9 @@
   "description": "Native components for Linux x64",
   "group_id": "io.qtjambi",
   "artifact_id": "qtjambi-bluetooth-native-linux-x64",
-  "version_latest": "6.8.4",
-  "ts_publish": 1754318363000,
-  "ts_update": 1754319308140,
+  "version_latest": "6.9.1",
+  "ts_publish": 1754320892000,
+  "ts_update": 1754321823268,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
