@@ -3,9 +3,9 @@
   "description": "Parent POM for managing dependencies and versions across Dict I18n modules",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-parent",
-  "version_latest": "1.0.5",
-  "ts_publish": 1754239049000,
-  "ts_update": 1754239411718,
+  "version_latest": "1.0.6",
+  "ts_publish": 1754269242000,
+  "ts_update": 1754270221935,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Core functionality and APIs for dictionary and internationalization management",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-core",
-  "version_latest": "1.0.5",
-  "ts_publish": 1754239049000,
-  "ts_update": 1754239411714,
+  "version_latest": "1.0.6",
+  "ts_publish": 1754269242000,
+  "ts_update": 1754270221931,
   "count_dep": 7,
   "count_ref": 8,
   "licenses": [
