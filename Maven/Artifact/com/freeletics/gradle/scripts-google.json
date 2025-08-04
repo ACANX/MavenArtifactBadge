@@ -3,9 +3,9 @@
   "description": "Collection of Google API related kts helpers",
   "group_id": "com.freeletics.gradle",
   "artifact_id": "scripts-google",
-  "version_latest": "0.30.1",
-  "ts_publish": 1754073311000,
-  "ts_update": 1754074023084,
+  "version_latest": "0.30.2",
+  "ts_publish": 1754296375000,
+  "ts_update": 1754297224743,
   "count_dep": 38,
   "count_ref": 0,
   "licenses": [
