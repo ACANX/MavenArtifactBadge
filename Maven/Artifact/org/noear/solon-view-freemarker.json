@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-view-freemarker",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122608000,
-  "ts_update": 1754123173776,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754325113000,
+  "ts_update": 1754326027478,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

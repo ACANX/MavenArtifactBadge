@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon-data-rx-sqlutils",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122410000,
-  "ts_update": 1754123175918,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754324948000,
+  "ts_update": 1754326029258,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Java project for nami",
   "group_id": "org.noear",
   "artifact_id": "nami",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122361000,
-  "ts_update": 1754122623645,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754324863000,
+  "ts_update": 1754326030937,
   "count_dep": 3,
   "count_ref": 12,
   "licenses": [

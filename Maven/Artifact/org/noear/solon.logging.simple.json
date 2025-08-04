@@ -3,9 +3,9 @@
   "description": "Java project for solon",
   "group_id": "org.noear",
   "artifact_id": "solon.logging.simple",
-  "version_latest": "3.4.3-M1",
-  "ts_publish": 1754122340000,
-  "ts_update": 1754122624239,
+  "version_latest": "3.4.3-M2",
+  "ts_publish": 1754324871000,
+  "ts_update": 1754326029761,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
