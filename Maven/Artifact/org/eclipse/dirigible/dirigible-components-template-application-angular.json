@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-template-application-angular",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753878428000,
-  "ts_update": 1753879633058,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319305118,
   "count_dep": 0,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [],
   "categories": [
     "Uncategorized"

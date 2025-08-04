@@ -3,9 +3,9 @@
   "description": "matrix-business",
   "group_id": "com.vwkit",
   "artifact_id": "matrix-business",
-  "version_latest": "2.3.3",
-  "ts_publish": 1754316921000,
-  "ts_update": 1754317626051,
+  "version_latest": "2.3.4",
+  "ts_publish": 1754318488000,
+  "ts_update": 1754319298274,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

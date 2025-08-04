@@ -3,10 +3,10 @@
   "description": "Maven plugin for Fluent i18n natural text internationalization",
   "group_id": "io.github.unattendedflight.fluent",
   "artifact_id": "fluent-i18n-maven-plugin",
-  "version_latest": "0.1.0",
-  "ts_publish": 1754316187000,
-  "ts_update": 1754317021851,
-  "count_dep": 4,
+  "version_latest": "0.1.1",
+  "ts_publish": 1754318561000,
+  "ts_update": 1754319298272,
+  "count_dep": 48,
   "count_ref": 0,
   "licenses": [
     "MIT License"

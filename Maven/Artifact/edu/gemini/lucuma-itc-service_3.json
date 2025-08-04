@@ -3,10 +3,10 @@
   "description": "lucuma-itc-service",
   "group_id": "edu.gemini",
   "artifact_id": "lucuma-itc-service_3",
-  "version_latest": "0.42.2",
-  "ts_publish": 1753981392000,
-  "ts_update": 1753982219429,
-  "count_dep": 159,
+  "version_latest": "0.42.3",
+  "ts_publish": 1754318771000,
+  "ts_update": 1754319298268,
+  "count_dep": 160,
   "count_ref": 0,
   "licenses": [
     "BSD-3-Clause"

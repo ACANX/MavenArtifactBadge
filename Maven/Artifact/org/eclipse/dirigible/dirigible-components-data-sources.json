@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-data-sources",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753878428000,
-  "ts_update": 1753879636854,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754318413000,
+  "ts_update": 1754319299681,
   "count_dep": 51,
-  "count_ref": 12,
+  "count_ref": 14,
   "licenses": [],
   "categories": [
     "Uncategorized"

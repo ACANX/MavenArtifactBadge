@@ -3,9 +3,9 @@
   "description": "matrix-business",
   "group_id": "com.vwkit",
   "artifact_id": "matrix-business-dependencies",
-  "version_latest": "2.3.3",
-  "ts_publish": 1754316921000,
-  "ts_update": 1754317626051,
+  "version_latest": "2.3.4",
+  "ts_publish": 1754318488000,
+  "ts_update": 1754319298273,
   "count_dep": 47,
   "count_ref": 0,
   "licenses": [
