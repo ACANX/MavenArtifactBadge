@@ -3,10 +3,10 @@
   "description": "CDK Constructs for AWS Fargate to Amazon Kinesis Firehose integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "fargatekinesisfirehose",
-  "version_latest": "2.90.2",
-  "ts_publish": 1754098909000,
-  "ts_update": 1754099821383,
-  "count_dep": 16,
+  "version_latest": "2.90.3",
+  "ts_publish": 1754345664000,
+  "ts_update": 1754346423012,
+  "count_dep": 20,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"

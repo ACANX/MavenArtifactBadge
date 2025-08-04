@@ -3,10 +3,10 @@
   "description": "Switcher Client SDK for working with Switcher API",
   "group_id": "com.switcherapi",
   "artifact_id": "switcher-client",
-  "version_latest": "1.8.0",
-  "ts_publish": 1754338059000,
-  "ts_update": 1754338624852,
-  "count_dep": 37,
+  "version_latest": "2.4.0",
+  "ts_publish": 1754346039000,
+  "ts_update": 1754346421724,
+  "count_dep": 17,
   "count_ref": 0,
   "licenses": [
     "MIT License"

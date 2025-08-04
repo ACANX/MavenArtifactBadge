@@ -3,10 +3,10 @@
   "description": "CDK Constructs for AWS Cognito to AWS API Gateway to AWS Lambda integration",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "cognitoapigatewaylambda",
-  "version_latest": "2.90.2",
-  "ts_publish": 1754098910000,
-  "ts_update": 1754099820837,
-  "count_dep": 15,
+  "version_latest": "2.90.3",
+  "ts_publish": 1754345664000,
+  "ts_update": 1754346423581,
+  "count_dep": 19,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"

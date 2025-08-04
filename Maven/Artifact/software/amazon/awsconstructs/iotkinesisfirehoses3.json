@@ -3,10 +3,10 @@
   "description": "CDK Constructs for AWS IoT to AWS Kinesis Firehose to AWS S3 integration.",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "iotkinesisfirehoses3",
-  "version_latest": "2.90.2",
-  "ts_publish": 1754098910000,
-  "ts_update": 1754099820840,
-  "count_dep": 16,
+  "version_latest": "2.90.3",
+  "ts_publish": 1754345664000,
+  "ts_update": 1754346424141,
+  "count_dep": 20,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"

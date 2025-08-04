@@ -3,9 +3,9 @@
   "description": "Synthetic Shadow Root for LWC",
   "group_id": "org.mvnpm.at.lwc",
   "artifact_id": "synthetic-shadow",
-  "version_latest": "8.20.2",
-  "ts_publish": 1753907413000,
-  "ts_update": 1753908419882,
+  "version_latest": "8.20.3",
+  "ts_publish": 1754345718000,
+  "ts_update": 1754346421726,
   "count_dep": 0,
   "count_ref": 1,
   "licenses": [

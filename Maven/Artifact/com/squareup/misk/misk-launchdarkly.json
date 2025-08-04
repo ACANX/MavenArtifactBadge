@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-launchdarkly",
-  "version_latest": "2025.08.01.102836-90afb48",
-  "ts_publish": 1754045474000,
-  "ts_update": 1754046423852,
+  "version_latest": "2025.08.04.214233-e48a27e",
+  "ts_publish": 1754345190000,
+  "ts_update": 1754346425239,
   "count_dep": 36,
   "count_ref": 0,
   "licenses": [
