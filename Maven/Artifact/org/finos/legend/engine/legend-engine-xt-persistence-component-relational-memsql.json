@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-memsql",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-persistence-component-relational-memsql",
-  "latest_version": "4.92.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-persistence-component-relational-memsql",
-  "ts": 1753345440000,
-  "dependency_count": 0,
-  "ref_count": 8,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348832660,
+  "count_dep": 8,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753346822807
+  "dsv": 1
 }

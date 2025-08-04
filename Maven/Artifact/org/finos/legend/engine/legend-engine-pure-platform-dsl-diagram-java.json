@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-diagram-java",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-platform-dsl-diagram-java",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-diagram-java",
-  "ts": 1753389040000,
-  "dependency_count": 1,
-  "ref_count": 7,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348828012,
+  "count_dep": 7,
+  "count_ref": 1,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390019550
+  "dsv": 1
 }

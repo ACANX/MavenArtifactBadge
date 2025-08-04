@@ -3,9 +3,9 @@
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-sql-expression-pure",
-  "version_latest": "4.95.0",
-  "ts_publish": 1754035364000,
-  "ts_update": 1754036828159,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348824585,
   "count_dep": 36,
   "count_ref": 1,
   "licenses": [

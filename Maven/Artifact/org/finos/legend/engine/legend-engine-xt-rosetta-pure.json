@@ -3,9 +3,9 @@
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-rosetta-pure",
-  "version_latest": "4.95.0",
-  "ts_publish": 1754035364000,
-  "ts_update": 1754036827754,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348824996,
   "count_dep": 55,
   "count_ref": 1,
   "licenses": [

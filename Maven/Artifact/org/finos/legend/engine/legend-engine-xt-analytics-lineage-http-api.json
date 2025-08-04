@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-lineage-http-api",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-analytics-lineage-http-api",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-lineage-http-api",
-  "ts": 1753389040000,
-  "dependency_count": 0,
-  "ref_count": 27,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348822258,
+  "count_dep": 27,
+  "count_ref": 2,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390022845
+  "dsv": 1
 }

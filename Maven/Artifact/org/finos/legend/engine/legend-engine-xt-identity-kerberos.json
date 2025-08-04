@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-identity-kerberos",
-  "version_latest": "4.95.0",
-  "ts_publish": 1754035364000,
-  "ts_update": 1754036828157,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348824592,
   "count_dep": 3,
-  "count_ref": 37,
+  "count_ref": 38,
   "licenses": [],
   "categories": [
     "Uncategorized"

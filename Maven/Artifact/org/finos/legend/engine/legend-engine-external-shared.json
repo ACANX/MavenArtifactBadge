@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-external-shared",
-  "version_latest": "4.95.0",
-  "ts_publish": 1754035364000,
-  "ts_update": 1754036834449,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348828015,
   "count_dep": 13,
-  "count_ref": 18,
+  "count_ref": 19,
   "licenses": [],
   "categories": [
     "Uncategorized"

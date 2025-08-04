@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-lineage-pure",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-analytics-lineage-pure",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-analytics-lineage-pure",
-  "ts": 1753389040000,
-  "dependency_count": 0,
-  "ref_count": 28,
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348822255,
+  "count_dep": 28,
+  "count_ref": 9,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390022847
+  "dsv": 1
 }

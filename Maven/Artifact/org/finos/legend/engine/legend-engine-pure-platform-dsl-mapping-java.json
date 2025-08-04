@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-mapping-java",
+  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-platform-dsl-mapping-java",
-  "latest_version": "4.93.0",
-  "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-pure-platform-dsl-mapping-java",
-  "ts": 1753389040000,
-  "dependency_count": 13,
-  "ref_count": 38,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "4.95.1",
+  "ts_publish": 1754347598000,
+  "ts_update": 1754348826746,
+  "count_dep": 38,
+  "count_ref": 55,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753390019552
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
