@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appservice",
+  "description": "This package contains Microsoft Azure App Service Management SDK. For documentation on how to use this package, please see https://aka.ms/azsdk/java/mgmt",
   "group_id": "com.azure.resourcemanager",
   "artifact_id": "azure-resourcemanager-appservice",
-  "latest_version": "2.53.0",
-  "description": "This package contains Microsoft Azure App Service Management SDK. For documentation on how to use this package, please see https://aka.ms/azsdk/java/mgmt",
-  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-appservice",
-  "ts": 1753456842000,
-  "dependency_count": 3,
-  "ref_count": 22,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.53.1",
+  "ts_publish": 1754367430000,
+  "ts_update": 1754368021416,
+  "count_dep": 22,
+  "count_ref": 4,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753457819882
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

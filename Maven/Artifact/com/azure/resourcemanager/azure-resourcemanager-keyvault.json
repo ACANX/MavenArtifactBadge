@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-keyvault",
+  "description": "This package contains Microsoft Azure Key Vault Management SDK. For documentation on how to use this package, please see https://aka.ms/azsdk/java/mgmt",
   "group_id": "com.azure.resourcemanager",
   "artifact_id": "azure-resourcemanager-keyvault",
-  "latest_version": "2.53.0",
-  "description": "This package contains Microsoft Azure Key Vault Management SDK. For documentation on how to use this package, please see https://aka.ms/azsdk/java/mgmt",
-  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-keyvault",
-  "ts": 1753456842000,
-  "dependency_count": 5,
-  "ref_count": 50,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.53.1",
+  "ts_publish": 1754367430000,
+  "ts_update": 1754368021416,
+  "count_dep": 44,
+  "count_ref": 5,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753457819881
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

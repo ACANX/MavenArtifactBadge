@@ -3,10 +3,10 @@
   "description": "AWS CDK Construct Library for Amazon Managed Service for Prometheus",
   "group_id": "io.github.robert-hanuschke",
   "artifact_id": "cdk-aws-aps",
-  "version_latest": "0.0.3",
-  "ts_publish": 1754280984000,
-  "ts_update": 1754281621200,
-  "count_dep": 18,
+  "version_latest": "0.0.4",
+  "ts_publish": 1754367258000,
+  "ts_update": 1754368021418,
+  "count_dep": 20,
   "count_ref": 0,
   "licenses": [
     "MIT License"

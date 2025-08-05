@@ -3,9 +3,9 @@
   "description": "A Pulumi package for creating and managing Juniper Mist resources.",
   "group_id": "com.pulumi",
   "artifact_id": "junipermist",
-  "version_latest": "0.5.3",
-  "ts_publish": 1754108551000,
-  "ts_update": 1754108822439,
+  "version_latest": "0.5.4",
+  "ts_publish": 1754367536000,
+  "ts_update": 1754368020804,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

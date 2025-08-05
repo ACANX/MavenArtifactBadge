@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search",
+  "description": "This package contains Microsoft Azure Cognitive Search Management SDK. For documentation on how to use this package, please see https://aka.ms/azure-sdk-java-mgmt",
   "group_id": "com.azure.resourcemanager",
   "artifact_id": "azure-resourcemanager-search",
-  "latest_version": "2.53.0",
-  "description": "This package contains Microsoft Azure Cognitive Search Management SDK. For documentation on how to use this package, please see https://aka.ms/azure-sdk-java-mgmt",
-  "id": "pkg:maven/com.azure.resourcemanager/azure-resourcemanager-search",
-  "ts": 1753456842000,
-  "dependency_count": 1,
-  "ref_count": 17,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.53.1",
+  "ts_publish": 1754367430000,
+  "ts_update": 1754368020807,
+  "count_dep": 17,
+  "count_ref": 1,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753457819217
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
