@@ -172,7 +172,7 @@
     "com.fasterxml.jackson.datatype:jackson-datatype-hppc": 1754356979000,
     "me.ahoo.wow:wow-kafka": 1754371208000,
     "com.azure.resourcemanager:azure-resourcemanager-containerregistry": 1754367430000,
-    "io.github.yetyman:javafx-tree-view": 1754369498000,
+    "io.github.yetyman:javafx-tree-view": 1754374133000,
     "com.lihaoyi:mill-contrib-scoverage-api": 1754362085000,
     "org.dromara.warm:warm-flow-orm": 1754357497000,
     "com.daml.codegen-typescript-daml2:com.daml.codegen-typescript-daml2.gradle.plugin": 1754370397000,
@@ -469,7 +469,7 @@
     "com.lihaoyi:mill-libs-javalib-api_3": 1754362165000,
     "io.github.turchenkoalex:kotlet-swagger-ui": 1754364266000,
     "io.github.eureka1986:cxai-spring-boot-starter": 1754359617000,
-    "io.github.faceaisdk:Android": 1754373375000,
+    "io.github.faceaisdk:Android": 1754373974000,
     "org.camunda.community.migration:camunda-7-to-8-migration-analyzer": 1754373268000,
     "org.camunda.community.migration:camunda-7-to-8-migration-analyzer-webapp": 1754373268000,
     "org.camunda.community.migration:camunda-7-to-8-migration-analyzer-cli": 1754373268000,
@@ -580,7 +580,9 @@
     "com.wgzhao.addax:s3reader": 1754371262000,
     "com.wgzhao.addax:mysqlwriter": 1754371262000,
     "com.wgzhao.addax:hbase11xsqlreader": 1754371262000,
-    "com.playmohe.antong:atkit": 1754373706000
+    "com.playmohe.antong:atkit": 1754373706000,
+    "com.aliyun:alibabacloud-maxcompute20220104": 1754374270000,
+    "com.github.wseemann:roku-ecp-wrapper-kotlin": 1754373938000
   },
   "ts": 1754372641734
 }
