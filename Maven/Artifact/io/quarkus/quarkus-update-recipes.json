@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-update-recipes",
+  "description": "Quarkus version update recipes",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-update-recipes",
-  "latest_version": "1.4.0",
-  "description": "Quarkus version update recipes",
-  "id": "pkg:maven/io.quarkus/quarkus-update-recipes",
-  "ts": 1753349143000,
-  "dependency_count": 0,
-  "ref_count": 44,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.4.1",
+  "ts_publish": 1754379797000,
+  "ts_update": 1754380310138,
+  "count_dep": 44,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753349821744
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
