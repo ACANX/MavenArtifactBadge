@@ -3,9 +3,9 @@
   "description": "Everything opensearch migrations",
   "group_id": "org.opensearch.migrations.trafficcapture",
   "artifact_id": "jsonJoltMessageTransformerProvider",
-  "version_latest": "0.2.4.8",
-  "ts_publish": 1754086968000,
-  "ts_update": 1754088420621,
+  "version_latest": "0.2.5.0",
+  "ts_publish": 1754430296000,
+  "ts_update": 1754430917834,
   "count_dep": 2,
   "count_ref": 2,
   "licenses": [
