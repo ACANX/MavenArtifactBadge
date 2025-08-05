@@ -3,9 +3,9 @@
   "description": "Processing signals of LPM in memory",
   "group_id": "com.phactum.lpm",
   "artifact_id": "lpm-memorybased",
-  "version_latest": "0.9.7",
-  "ts_publish": 1753776221000,
-  "ts_update": 1753777020680,
+  "version_latest": "0.9.8",
+  "ts_publish": 1754394051000,
+  "ts_update": 1754395024305,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Adapter for generating signals for process monitoring using AspectJ",
   "group_id": "com.phactum.lpm",
   "artifact_id": "lpm-adapter-aspectj",
-  "version_latest": "0.9.7",
-  "ts_publish": 1753776167000,
-  "ts_update": 1753777020681,
+  "version_latest": "0.9.8",
+  "ts_publish": 1754393901000,
+  "ts_update": 1754395024718,
   "count_dep": 10,
   "count_ref": 1,
   "licenses": [

@@ -3,10 +3,10 @@
   "description": "Token generation for universally unique ID",
   "group_id": "app.cash.wisp",
   "artifact_id": "wisp-token",
-  "version_latest": "2025.08.04.214233-e48a27e",
-  "ts_publish": 1754345155000,
-  "ts_update": 1754346425831,
-  "count_dep": 2,
+  "version_latest": "2025.08.05.111709-c1791a4",
+  "ts_publish": 1754394041000,
+  "ts_update": 1754395024710,
+  "count_dep": 1,
   "count_ref": 8,
   "licenses": [
     "The Apache Software License, Version 2.0"

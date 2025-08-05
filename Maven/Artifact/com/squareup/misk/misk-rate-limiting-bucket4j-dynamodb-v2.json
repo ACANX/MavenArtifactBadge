@@ -3,9 +3,9 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-rate-limiting-bucket4j-dynamodb-v2",
-  "version_latest": "2025.08.04.214233-e48a27e",
-  "ts_publish": 1754345190000,
-  "ts_update": 1754346425239,
+  "version_latest": "2025.08.05.111709-c1791a4",
+  "ts_publish": 1754394058000,
+  "ts_update": 1754395023496,
   "count_dep": 52,
   "count_ref": 0,
   "licenses": [
