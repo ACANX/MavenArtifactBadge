@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.kylecorry.andromeda/sense",
+  "description": "A collection of Android libraries for simplifying development using Android APIs.",
   "group_id": "com.kylecorry.andromeda",
   "artifact_id": "sense",
-  "latest_version": "15.3.0",
-  "description": "A collection of Android libraries for simplifying development using Android APIs.",
-  "id": "pkg:maven/com.kylecorry.andromeda/sense",
-  "ts": 1753559432000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "16.0.0",
+  "ts_publish": 1754433671000,
+  "ts_update": 1754434351104,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753560418734
+  "categories": null,
+  "dsv": 1
 }
