@@ -222,7 +222,11 @@
     "app.cash.wisp:wisp-logging": 1754394041000,
     "com.johnsnowlabs.nlp:spark-nlp-gpu_2.12": 1754394012000,
     "com.phactum.lpm:lpm-adapter-aspectj": 1754393901000,
-    "com.johnsnowlabs.nlp:spark-nlp_2.12": 1754393853000
+    "com.johnsnowlabs.nlp:spark-nlp_2.12": 1754393853000,
+    "io.github.strongdm:strongdm-sdk-java": 1754394584000,
+    "ch.admin.bit.jeap:jeap-messaging-model": 1754394476000,
+    "ch.admin.bit.jeap:jeap-messaging": 1754394476000,
+    "ch.admin.bit.jeap:jeap-messaging-avro-compiler": 1754394476000
   },
   "ts": 1754393224657
 }
