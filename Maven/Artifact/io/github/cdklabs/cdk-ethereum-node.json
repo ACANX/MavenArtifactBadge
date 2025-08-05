@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.github.cdklabs/cdk-ethereum-node",
+  "description": "CDK construct to deploy an Ethereum node running on Amazon Managed Blockchain",
+  "group_id": "io.github.cdklabs",
+  "artifact_id": "cdk-ethereum-node",
+  "version_latest": "0.0.673",
+  "ts_publish": 1754354130000,
+  "ts_update": 1754354821620,
+  "count_dep": 18,
+  "count_ref": 0,
+  "licenses": [
+    "MIT No Attribution"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

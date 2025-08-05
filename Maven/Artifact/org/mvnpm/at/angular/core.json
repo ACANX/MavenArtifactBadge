@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular/core",
+  "description": "Angular - the core framework",
+  "group_id": "org.mvnpm.at.angular",
+  "artifact_id": "core",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753965195000,
+  "ts_update": 1753966019286,
+  "count_dep": 7,
+  "count_ref": 4,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

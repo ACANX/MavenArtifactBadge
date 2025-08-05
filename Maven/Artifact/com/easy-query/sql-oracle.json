@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.easy-query/sql-oracle",
+  "description": "java object query distributed connector",
+  "group_id": "com.easy-query",
+  "artifact_id": "sql-oracle",
+  "version_latest": "3.0.65",
+  "ts_publish": 1754272874000,
+  "ts_update": 1754273220686,
+  "count_dep": 2,
+  "count_ref": 2,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

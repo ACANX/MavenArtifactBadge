@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.logchange.hofund/hofund-test-reports",
+  "description": "hofund test reports allow aggregating reports from submodules and join them.",
+  "group_id": "dev.logchange.hofund",
+  "artifact_id": "hofund-test-reports",
+  "version_latest": "2.8.0",
+  "ts_publish": 1754403063000,
+  "ts_update": 1754403761032,
+  "count_dep": 52,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

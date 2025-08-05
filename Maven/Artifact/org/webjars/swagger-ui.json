@@ -1,0 +1,18 @@
+{
+  "group_id": "org.webjars",
+  "artifact_id": "swagger-ui",
+  "latest_version": "5.27.0",
+  "description": "WebJar for Swagger UI",
+  "id": "pkg:maven/org.webjars/swagger-ui",
+  "ts": 1753745231000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "File Utilities",
+    "Compression"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753745818963
+}

@@ -1,0 +1,15 @@
+{
+  "group_id": "com.kmstimes",
+  "artifact_id": "nexon-kms-openapi",
+  "latest_version": "1.0.0",
+  "description": "Java client library for Nexon Maplestory OpenAPI",
+  "id": "pkg:maven/com.kmstimes/nexon-kms-openapi",
+  "ts": 1753609569000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753610219499
+}

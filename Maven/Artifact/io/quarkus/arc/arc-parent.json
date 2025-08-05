@@ -1,0 +1,17 @@
+{
+  "group_id": "io.quarkus.arc",
+  "artifact_id": "arc-parent",
+  "latest_version": "3.25.0",
+  "description": null,
+  "id": "pkg:maven/io.quarkus.arc/arc-parent",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753264623963
+}

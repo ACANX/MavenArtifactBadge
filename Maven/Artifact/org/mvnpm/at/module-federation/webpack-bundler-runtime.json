@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.module-federation",
+  "artifact_id": "webpack-bundler-runtime",
+  "latest_version": "0.17.1",
+  "description": "Module Federation Runtime for webpack",
+  "id": "pkg:maven/org.mvnpm.at.module-federation/webpack-bundler-runtime",
+  "ts": 1753373524000,
+  "dependency_count": 0,
+  "ref_count": 2,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753374419359
+}

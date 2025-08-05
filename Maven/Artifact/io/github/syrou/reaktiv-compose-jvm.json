@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.syrou/reaktiv-compose-jvm",
+  "description": "A flexible and powerful state management library...",
+  "group_id": "io.github.syrou",
+  "artifact_id": "reaktiv-compose-jvm",
+  "version_latest": "0.9.4",
+  "ts_publish": 1754328760000,
+  "ts_update": 1754329407285,
+  "count_dep": 6,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

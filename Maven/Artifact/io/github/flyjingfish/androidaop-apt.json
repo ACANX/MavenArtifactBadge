@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.flyjingfish",
+  "artifact_id": "androidaop-apt",
+  "latest_version": "2.6.8",
+  "description": "Help you transform into an Android platform framework with AOP architecture",
+  "id": "pkg:maven/io.github.flyjingfish/androidaop-apt",
+  "ts": 1753269178000,
+  "dependency_count": 0,
+  "ref_count": 7,
+  "categories": null,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "last_updated": 1753270017080
+}

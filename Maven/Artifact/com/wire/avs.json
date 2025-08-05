@@ -1,0 +1,18 @@
+{
+  "group_id": "com.wire",
+  "artifact_id": "avs",
+  "latest_version": "10.1.4",
+  "description": "Wire - Audio, Video, and Signaling (AVS)",
+  "id": "pkg:maven/com.wire/avs",
+  "ts": 1753433260000,
+  "dependency_count": 0,
+  "ref_count": 15,
+  "categories": [
+    "Programming Language Utilities",
+    "Android"
+  ],
+  "licenses": [
+    "GPL-3.0"
+  ],
+  "last_updated": 1753433816736
+}

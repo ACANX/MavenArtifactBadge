@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.salesforce.datacloud/jdbc-proto",
+  "description": "Salesforce Data Cloud Query v3 API Protocol Buffer Definitions",
+  "group_id": "com.salesforce.datacloud",
+  "artifact_id": "jdbc-proto",
+  "version_latest": "0.33.0",
+  "ts_publish": 1754088606000,
+  "ts_update": 1754088845993,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

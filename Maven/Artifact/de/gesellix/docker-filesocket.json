@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/de.gesellix/docker-filesocket",
+  "description": "Unix Domain Sockets and Named Pipes for the JVM on Linux, macOS, and Windows",
+  "group_id": "de.gesellix",
+  "artifact_id": "docker-filesocket",
+  "version_latest": "2025-08-04T21-27-00",
+  "ts_publish": 1754335736000,
+  "ts_update": 1754336221394,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": [
+    "Other"
+  ],
+  "dsv": 1
+}

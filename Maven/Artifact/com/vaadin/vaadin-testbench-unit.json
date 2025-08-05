@@ -1,0 +1,17 @@
+{
+  "group_id": "com.vaadin",
+  "artifact_id": "vaadin-testbench-unit",
+  "latest_version": "9.4.2",
+  "description": "Vaadin Testbench UI Unit Tests JUnit4",
+  "id": "pkg:maven/com.vaadin/vaadin-testbench-unit",
+  "ts": 1753359157000,
+  "dependency_count": 1,
+  "ref_count": 38,
+  "categories": [
+    "Application Product Development Platform"
+  ],
+  "licenses": [
+    "Vaadin Commercial License and Service Terms"
+  ],
+  "last_updated": 1753360019332
+}

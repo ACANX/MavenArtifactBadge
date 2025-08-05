@@ -1,0 +1,15 @@
+{
+  "id": "pkg:maven/fun.hereis.code/spring",
+  "group_id": "fun.hereis.code",
+  "artifact_id": "spring",
+  "latest_version": "1.12.1.RLS",
+  "ts": 1753758688000,
+  "last_updated": 1753759019371,
+  "description": null,
+  "licenses": [],
+  "dep_count": 10,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ]
+}

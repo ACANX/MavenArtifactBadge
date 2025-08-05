@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "kendra-jvm",
+  "latest_version": "1.5.5",
+  "description": "The AWS SDK for Kotlin client for kendra",
+  "id": "pkg:maven/aws.sdk.kotlin/kendra-jvm",
+  "ts": 1753741682000,
+  "dependency_count": 0,
+  "ref_count": 26,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744636975
+}

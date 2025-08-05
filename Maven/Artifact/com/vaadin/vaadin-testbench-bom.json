@@ -1,0 +1,17 @@
+{
+  "group_id": "com.vaadin",
+  "artifact_id": "vaadin-testbench-bom",
+  "latest_version": "9.4.2",
+  "description": "Vaadin Testbench (Bill of Materials)",
+  "id": "pkg:maven/com.vaadin/vaadin-testbench-bom",
+  "ts": 1753359157000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Application Product Development Platform"
+  ],
+  "licenses": [
+    "Vaadin Commercial License and Service Terms"
+  ],
+  "last_updated": 1753360019333
+}

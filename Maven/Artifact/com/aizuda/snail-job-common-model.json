@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.aizuda/snail-job-common-model",
+  "description": "snail-job-common-model",
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-common-model",
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212619535,
+  "count_dep": 25,
+  "count_ref": 19,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

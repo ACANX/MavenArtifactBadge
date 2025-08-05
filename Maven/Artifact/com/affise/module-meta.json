@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.affise/module-meta",
+  "description": "Affise Attribution Library Meta Module",
+  "group_id": "com.affise",
+  "artifact_id": "module-meta",
+  "version_latest": "1.6.61",
+  "ts_publish": 1753789554000,
+  "ts_update": 1753790218915,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "MIT license"
+  ],
+  "categories": null,
+  "dsv": 1
+}

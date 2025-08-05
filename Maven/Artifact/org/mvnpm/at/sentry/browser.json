@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.sentry/browser",
+  "description": "Official Sentry SDK for browsers",
+  "group_id": "org.mvnpm.at.sentry",
+  "artifact_id": "browser",
+  "version_latest": "10.1.0",
+  "ts_publish": 1754310261000,
+  "ts_update": 1754311020138,
+  "count_dep": 5,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

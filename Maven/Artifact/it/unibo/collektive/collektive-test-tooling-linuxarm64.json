@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/it.unibo.collektive/collektive-test-tooling-linuxarm64",
+  "description": "Aggregate Computing in Kotlin",
+  "group_id": "it.unibo.collektive",
+  "artifact_id": "collektive-test-tooling-linuxarm64",
+  "version_latest": "26.0.1-dev01+6ecf12e",
+  "ts_publish": 1753996329000,
+  "ts_update": 1753997055648,
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

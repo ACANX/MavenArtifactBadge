@@ -1,0 +1,15 @@
+{
+  "group_id": "io.gravitee.exchange",
+  "artifact_id": "gravitee-exchange-connector-embedded",
+  "latest_version": "1.8.5",
+  "description": "The Gravitee.IO Parent POM provides common settings for all Gravitee components.",
+  "id": "pkg:maven/io.gravitee.exchange/gravitee-exchange-connector-embedded",
+  "ts": 1753428192000,
+  "dependency_count": 1,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753428419457
+}

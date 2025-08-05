@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "b2bi",
+  "latest_version": "2.32.9",
+  "description": "The AWS Java SDK for B2 Bi module holds the client classes that are used for\n        communicating with B2 Bi.",
+  "id": "pkg:maven/software.amazon.awssdk/b2bi",
+  "ts": 1753478243000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753478821452
+}

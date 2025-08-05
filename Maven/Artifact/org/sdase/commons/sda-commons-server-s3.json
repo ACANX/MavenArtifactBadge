@@ -1,0 +1,17 @@
+{
+  "group_id": "org.sdase.commons",
+  "artifact_id": "sda-commons-server-s3",
+  "latest_version": "7.6.13",
+  "description": "A libraries to bootstrap services easily that follow the patterns and specifications promoted by the SDA SE",
+  "id": "pkg:maven/org.sdase.commons/sda-commons-server-s3",
+  "ts": 1753716981000,
+  "dependency_count": 1,
+  "ref_count": 123,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753717621676
+}

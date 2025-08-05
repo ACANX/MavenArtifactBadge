@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/software.amazon.awssdk/aws-xml-protocol",
+  "description": "The AWS SDK for Java - module holds the classes for AWS Xml protocol",
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "aws-xml-protocol",
+  "version_latest": "2.32.11",
+  "ts_publish": 1753842201000,
+  "ts_update": 1753843019782,
+  "count_dep": 11,
+  "count_ref": 1,
+  "licenses": [],
+  "categories": [
+    "Software Development Kit"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.tommyettinger",
+  "artifact_id": "kryo-digital",
+  "latest_version": "0.8.0.1",
+  "description": "Kryo 5.x serializers for digital types",
+  "id": "pkg:maven/com.github.tommyettinger/kryo-digital",
+  "ts": 1753693662000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "MULTI-PROJECT"
+  ],
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "last_updated": 1753694824076
+}

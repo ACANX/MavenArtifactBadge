@@ -1,0 +1,15 @@
+{
+  "group_id": "org.mvnpm.at.module-federation",
+  "artifact_id": "runtime-tools",
+  "latest_version": "0.17.1",
+  "description": "Module federation runtime package collection. You can just install it instead of installing all the packages separately.",
+  "id": "pkg:maven/org.mvnpm.at.module-federation/runtime-tools",
+  "ts": 1753374965000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": null,
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753375617213
+}

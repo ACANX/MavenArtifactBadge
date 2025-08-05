@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.apoapsis.ortserver.services/content-management-service",
+  "description": "Part of the ORT Server, the reference implementation of Eclipse Apoapsis.",
+  "group_id": "org.eclipse.apoapsis.ortserver.services",
+  "artifact_id": "content-management-service",
+  "version_latest": "0.22.0",
+  "ts_publish": 1754391055000,
+  "ts_update": 1754392032498,
+  "count_dep": 11,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

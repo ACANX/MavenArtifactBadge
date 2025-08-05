@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.solace.connector.core.resource/pubsubplus-connector-script-artifacts-resource-bundle",
+  "description": "Scripts for PubSub+ Connectors",
+  "group_id": "com.solace.connector.core.resource",
+  "artifact_id": "pubsubplus-connector-script-artifacts-resource-bundle",
+  "version_latest": "2.16.4",
+  "ts_publish": 1753888785000,
+  "ts_update": 1753889823257,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "License Agreement for Solace Software"
+  ],
+  "categories": null,
+  "dsv": 1
+}

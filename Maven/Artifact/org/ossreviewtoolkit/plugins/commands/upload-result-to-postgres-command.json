@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.ossreviewtoolkit.plugins.commands/upload-result-to-postgres-command",
+  "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
+  "group_id": "org.ossreviewtoolkit.plugins.commands",
+  "artifact_id": "upload-result-to-postgres-command",
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384833178,
+  "count_dep": 15,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

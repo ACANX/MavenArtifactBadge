@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.amayaframework/amaya-di-asm",
+  "description": "Amaya DI ASM",
+  "group_id": "io.github.amayaframework",
+  "artifact_id": "amaya-di-asm",
+  "version_latest": "2.0.3",
+  "ts_publish": 1753902238000,
+  "ts_update": 1753903019604,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

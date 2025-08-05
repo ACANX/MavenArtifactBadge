@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.xrosstools/xflow",
+  "description": "The runtime for xross flow model",
+  "group_id": "com.xrosstools",
+  "artifact_id": "xflow",
+  "version_latest": "1.0.3",
+  "ts_publish": 1754390829000,
+  "ts_update": 1754391422135,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "com.amplitude",
+  "artifact_id": "amplitude-engagement-android",
+  "latest_version": "1.0.19",
+  "description": "Amplitude Engagement SDK for Android (Java, Kotlin)",
+  "id": "pkg:maven/com.amplitude/amplitude-engagement-android",
+  "ts": 1753383797000,
+  "dependency_count": 0,
+  "ref_count": 26,
+  "categories": [
+    "Product Analytics"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753384623189
+}

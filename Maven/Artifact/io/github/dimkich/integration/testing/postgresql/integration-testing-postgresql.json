@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.dimkich.integration.testing.postgresql",
+  "artifact_id": "integration-testing-postgresql",
+  "latest_version": "0.2.0",
+  "description": "Provides convenient way of write and support integration tests for Spring Framework",
+  "id": "pkg:maven/io.github.dimkich.integration.testing.postgresql/integration-testing-postgresql",
+  "ts": 1753701341000,
+  "dependency_count": 0,
+  "ref_count": 104,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753702016596
+}

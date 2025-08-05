@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "aws-http",
+  "latest_version": "1.5.4",
+  "description": "HTTP core for AWS service clients",
+  "id": "pkg:maven/aws.sdk.kotlin/aws-http",
+  "ts": 1753486078000,
+  "dependency_count": 0,
+  "ref_count": 6,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753488426508
+}

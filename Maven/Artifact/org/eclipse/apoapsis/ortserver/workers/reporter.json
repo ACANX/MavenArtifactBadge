@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.apoapsis.ortserver.workers/reporter",
+  "description": "Part of the ORT Server, the reference implementation of Eclipse Apoapsis.",
+  "group_id": "org.eclipse.apoapsis.ortserver.workers",
+  "artifact_id": "reporter",
+  "version_latest": "0.22.0",
+  "ts_publish": 1754391055000,
+  "ts_update": 1754392031944,
+  "count_dep": 16,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

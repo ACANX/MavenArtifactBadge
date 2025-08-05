@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.search/hibernate-search-util-common",
+  "description": "Hibernate Search common utilities",
+  "group_id": "org.hibernate.search",
+  "artifact_id": "hibernate-search-util-common",
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993620688,
+  "count_dep": 3,
+  "count_ref": 14,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

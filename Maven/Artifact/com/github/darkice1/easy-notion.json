@@ -1,0 +1,17 @@
+{
+  "group_id": "com.github.darkice1",
+  "artifact_id": "easy-notion",
+  "latest_version": "0.0.9",
+  "description": "Neo easy Notion SDK.",
+  "id": "pkg:maven/com.github.darkice1/easy-notion",
+  "ts": 1753560679000,
+  "dependency_count": 0,
+  "ref_count": 10,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753561196366
+}

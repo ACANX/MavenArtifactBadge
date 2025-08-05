@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/app.cash.wisp/wisp-moshi",
+  "description": "Moshi helpers, etc",
+  "group_id": "app.cash.wisp",
+  "artifact_id": "wisp-moshi",
+  "version_latest": "2025.08.05.111709-c1791a4",
+  "ts_publish": 1754394041000,
+  "ts_update": 1754395024307,
+  "count_dep": 6,
+  "count_ref": 11,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

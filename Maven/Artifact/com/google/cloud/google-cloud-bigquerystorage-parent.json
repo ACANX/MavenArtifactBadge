@@ -1,0 +1,17 @@
+{
+  "group_id": "com.google.cloud",
+  "artifact_id": "google-cloud-bigquerystorage-parent",
+  "latest_version": "3.16.1",
+  "description": "Java idiomatic client for Google Cloud Platform services.",
+  "id": "pkg:maven/com.google.cloud/google-cloud-bigquerystorage-parent",
+  "ts": 1753745270000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Cloud Computing"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753745818404
+}

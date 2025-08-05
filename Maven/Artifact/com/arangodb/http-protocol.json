@@ -1,0 +1,19 @@
+{
+  "group_id": "com.arangodb",
+  "artifact_id": "http-protocol",
+  "latest_version": "7.21.0",
+  "description": "HTTP Protocol module for ArangoDB Java Driver",
+  "id": "pkg:maven/com.arangodb/http-protocol",
+  "ts": 1753297835000,
+  "dependency_count": 1,
+  "ref_count": 26,
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753298819371
+}

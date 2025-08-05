@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.hiedacamellia/immersiveui",
+  "description": "A library mod of ui for immersive experience.",
+  "group_id": "org.hiedacamellia",
+  "artifact_id": "immersiveui",
+  "version_latest": "21.4.1",
+  "ts_publish": 1753984732000,
+  "ts_update": 1753985821762,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Camellia License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/eu.maveniverse.maven.plugins/nisse-plugin3",
+  "description": "Nisse Maven Extension.",
+  "group_id": "eu.maveniverse.maven.plugins",
+  "artifact_id": "nisse-plugin3",
+  "version_latest": "0.5.0",
+  "ts_publish": 1753881663000,
+  "ts_update": 1753882293866,
+  "count_dep": 42,
+  "count_ref": 0,
+  "licenses": [
+    "EPL-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

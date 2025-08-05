@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/it.unibo.collektive/collektivize",
+  "description": "This plugin generates a \"fielded\" version of any Kotlin library.",
+  "group_id": "it.unibo.collektive",
+  "artifact_id": "collektivize",
+  "version_latest": "26.0.1-dev08+8909b96",
+  "ts_publish": 1754403225000,
+  "ts_update": 1754403761027,
+  "count_dep": 5,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

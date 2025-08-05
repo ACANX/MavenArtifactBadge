@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.ossreviewtoolkit.clients/vulnerable-code-client",
+  "description": "A client to communicate with the API of a VulnerableCode instance.",
+  "group_id": "org.ossreviewtoolkit.clients",
+  "artifact_id": "vulnerable-code-client",
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384832628,
+  "count_dep": 16,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

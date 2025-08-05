@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/me.y9san9.jsonrpc/client-jvm",
+  "description": "Json RPC implementation in pure Kotlin",
+  "group_id": "me.y9san9.jsonrpc",
+  "artifact_id": "client-jvm",
+  "version_latest": "1.0.1",
+  "ts_publish": 1754383087000,
+  "ts_update": 1754383623759,
+  "count_dep": 5,
+  "count_ref": 1,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

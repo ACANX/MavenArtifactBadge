@@ -1,0 +1,15 @@
+{
+  "group_id": "software.amazon.awssdk",
+  "artifact_id": "aws-cbor-protocol",
+  "latest_version": "2.32.10",
+  "description": "The AWS SDK for Java - module holds the classes for AWS Cbor protocol",
+  "id": "pkg:maven/software.amazon.awssdk/aws-cbor-protocol",
+  "ts": 1753739308000,
+  "dependency_count": 0,
+  "ref_count": 13,
+  "categories": [
+    "Software Development Kit"
+  ],
+  "licenses": [],
+  "last_updated": 1753739725685
+}

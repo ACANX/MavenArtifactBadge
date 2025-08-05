@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.clerk/shared",
+  "description": "Internal package utils used by the Clerk SDKs",
+  "group_id": "org.mvnpm.at.clerk",
+  "artifact_id": "shared",
+  "version_latest": "3.17.0",
+  "ts_publish": 1753994534000,
+  "ts_update": 1753994929887,
+  "count_dep": 13,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

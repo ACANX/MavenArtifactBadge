@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.vortex/vortex-spark",
+  "description": "Apache Spark bindings for reading Vortex file datasets",
+  "group_id": "dev.vortex",
+  "artifact_id": "vortex-spark",
+  "version_latest": "0.43.0",
+  "ts_publish": 1754399559000,
+  "ts_update": 1754400827633,
+  "count_dep": 145,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kotest/kotest-property-datetime-wasm-js",
+  "description": "Kotlin Test Framework",
+  "group_id": "io.kotest",
+  "artifact_id": "kotest-property-datetime-wasm-js",
+  "version_latest": "6.0.0.M10",
+  "ts_publish": 1754276266000,
+  "ts_update": 1754278027863,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

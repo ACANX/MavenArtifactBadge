@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-bpm-flowable",
+  "description": null,
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-components-engine-bpm-flowable",
+  "version_latest": "12.3.0",
+  "ts_publish": 1753878428000,
+  "ts_update": 1753879630520,
+  "count_dep": 52,
+  "count_ref": 0,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

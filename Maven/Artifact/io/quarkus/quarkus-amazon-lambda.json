@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-amazon-lambda",
+  "latest_version": "3.25.0",
+  "description": "Write AWS Lambda functions",
+  "id": "pkg:maven/io.quarkus/quarkus-amazon-lambda",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264622735
+}

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.ui5/webcomponents-fiori",
+  "description": "UI5 Web Components: webcomponents.fiori",
+  "group_id": "org.mvnpm.at.ui5",
+  "artifact_id": "webcomponents-fiori",
+  "version_latest": "2.13.0",
+  "ts_publish": 1754323584000,
+  "ts_update": 1754324221835,
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

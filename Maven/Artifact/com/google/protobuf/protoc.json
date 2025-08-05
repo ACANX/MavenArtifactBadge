@@ -1,0 +1,18 @@
+{
+  "group_id": "com.google.protobuf",
+  "artifact_id": "protoc",
+  "latest_version": "4.32.0-RC1",
+  "description": "Protobuf Compiler (protoc) is a compiler for .proto files. It generates\n    language-specific code for Protobuf messages and RPC interfaces.",
+  "id": "pkg:maven/com.google.protobuf/protoc",
+  "ts": 1753314770000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Data Processors",
+    "Format"
+  ],
+  "licenses": [
+    "BSD-3-Clause"
+  ],
+  "last_updated": 1753315616345
+}

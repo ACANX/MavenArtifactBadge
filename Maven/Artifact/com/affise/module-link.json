@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.affise/module-link",
+  "description": "Affise Attribution Library Link Module",
+  "group_id": "com.affise",
+  "artifact_id": "module-link",
+  "version_latest": "1.6.61",
+  "ts_publish": 1753789488000,
+  "ts_update": 1753790218917,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "MIT license"
+  ],
+  "categories": null,
+  "dsv": 1
+}

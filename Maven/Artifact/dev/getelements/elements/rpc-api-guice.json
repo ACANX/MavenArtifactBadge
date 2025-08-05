@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.getelements.elements/rpc-api-guice",
+  "description": "Elements is an Open Source Backend for Games",
+  "group_id": "dev.getelements.elements",
+  "artifact_id": "rpc-api-guice",
+  "version_latest": "3.3.4",
+  "ts_publish": 1754007513000,
+  "ts_update": 1754008023207,
+  "count_dep": 38,
+  "count_ref": 3,
+  "licenses": [
+    "Modified GNU AGPL v3.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
