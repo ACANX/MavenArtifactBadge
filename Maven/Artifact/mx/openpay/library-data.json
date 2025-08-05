@@ -3,9 +3,9 @@
   "description": "Sdk Openpay",
   "group_id": "mx.openpay",
   "artifact_id": "library-data",
-  "version_latest": "1.0.54",
-  "ts_publish": 1753899410000,
-  "ts_update": 1753900022406,
+  "version_latest": "1.0.55",
+  "ts_publish": 1754416183000,
+  "ts_update": 1754416654309,
   "count_dep": 22,
   "count_ref": 1,
   "licenses": [
