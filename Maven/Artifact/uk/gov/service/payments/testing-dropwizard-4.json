@@ -3,9 +3,9 @@
   "description": "Common functionality for GOV.UK Pay Java repositories",
   "group_id": "uk.gov.service.payments",
   "artifact_id": "testing-dropwizard-4",
-  "version_latest": "1.0.20250805092633",
-  "ts_publish": 1754386071000,
-  "ts_update": 1754387230905,
+  "version_latest": "1.0.20250805094556",
+  "ts_publish": 1754387217000,
+  "ts_update": 1754387824341,
   "count_dep": 102,
   "count_ref": 0,
   "licenses": [
