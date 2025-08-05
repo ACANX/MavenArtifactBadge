@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.google.protobuf/protobuf-java-util",
+  "description": "Utilities for Protocol Buffers",
   "group_id": "com.google.protobuf",
   "artifact_id": "protobuf-java-util",
-  "latest_version": "4.32.0-RC1",
-  "description": "Utilities for Protocol Buffers",
-  "id": "pkg:maven/com.google.protobuf/protobuf-java-util",
-  "ts": 1753314770000,
-  "dependency_count": 0,
-  "ref_count": 6,
+  "version_latest": "4.32.0-RC2",
+  "ts_publish": 1754422048000,
+  "ts_update": 1754423224067,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "BSD-3-Clause"
+  ],
   "categories": [
     "Data Processors",
     "Format"
   ],
-  "licenses": [
-    "BSD-3-Clause"
-  ],
-  "last_updated": 1753315616344
+  "dsv": 1
 }

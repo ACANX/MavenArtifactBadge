@@ -1,18 +1,19 @@
 {
+  "id": "pkg:maven/com.google.protobuf/protobuf-bom",
+  "description": "A compatible set of open source libraries for working with protocol buffers.",
   "group_id": "com.google.protobuf",
   "artifact_id": "protobuf-bom",
-  "latest_version": "4.32.0-RC1",
-  "description": "A compatible set of open source libraries for working with protocol buffers.",
-  "id": "pkg:maven/com.google.protobuf/protobuf-bom",
-  "ts": 1753314770000,
-  "dependency_count": 0,
-  "ref_count": 0,
+  "version_latest": "4.32.0-RC2",
+  "ts_publish": 1754422048000,
+  "ts_update": 1754423224068,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "BSD-3-Clause"
+  ],
   "categories": [
     "Data Processors",
     "Format"
   ],
-  "licenses": [
-    "BSD-3-Clause"
-  ],
-  "last_updated": 1753315616346
+  "dsv": 1
 }
