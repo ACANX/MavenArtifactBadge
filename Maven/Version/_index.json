@@ -201,7 +201,8 @@
     "org.encalmo:validator_native0.5_3": 1754423994000,
     "org.encalmo:validator_3": 1754423982000,
     "io.github.growthbook:GrowthBookKotlinxSerialization-android": 1754423970000,
-    "io.github.growthbook:GrowthBookKotlinxSerialization": 1754423911000
+    "io.github.growthbook:GrowthBookKotlinxSerialization": 1754423911000,
+    "pro.cyberyon:mojet": 1754424543000
   },
   "ts_update": 1754420240527
 }
