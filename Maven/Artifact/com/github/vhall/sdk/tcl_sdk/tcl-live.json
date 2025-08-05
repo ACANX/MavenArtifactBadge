@@ -3,9 +3,9 @@
   "description": "VHall Android SDK Component.",
   "group_id": "com.github.vhall.sdk.tcl_sdk",
   "artifact_id": "tcl-live",
-  "version_latest": "1.0.0.1",
-  "ts_publish": 1753974975000,
-  "ts_update": 1753975620661,
+  "version_latest": "1.0.0.2",
+  "ts_publish": 1754363103000,
+  "ts_update": 1754363819265,
   "count_dep": 37,
   "count_ref": 0,
   "licenses": [
