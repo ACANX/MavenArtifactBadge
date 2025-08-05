@@ -3,9 +3,9 @@
   "description": "Sample application",
   "group_id": "io.github.yetyman",
   "artifact_id": "javafx-nine-patch",
-  "version_latest": "2025.08.05.1-ALPHA",
-  "ts_publish": 1754369498000,
-  "ts_update": 1754370332651,
+  "version_latest": "2025.08.05.2-ALPHA",
+  "ts_publish": 1754374757000,
+  "ts_update": 1754375616467,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [

@@ -21,7 +21,7 @@
     "io.spinnaker.gate:gate-header": 1754361936000,
     "com.github.nagyesta.abort-mission.boosters:abort.booster-junit4": 1754369088000,
     "org.dromara.warm:warm-flow-plugin-ui-solon-web": 1754357497000,
-    "io.github.yongzhuzl:commonutil": 1754370476000,
+    "io.github.yongzhuzl:commonutil": 1754374730000,
     "com.daml.codegen-scala-daml3_3:com.daml.codegen-scala-daml3_3.gradle.plugin": 1754370405000,
     "com.eygraber:vice-nav-material3-wasm-js": 1754369441000,
     "com.fasterxml.jackson.jaxrs:jackson-jaxrs-base": 1754357877000,
@@ -323,7 +323,7 @@
     "com.lihaoyi:mill-libs-init_3": 1754362155000,
     "io.github.turchenkoalex:kotlet-typesafe": 1754364266000,
     "com.lihaoyi:mill-libs-scalanativelib-api_3": 1754362218000,
-    "io.github.yetyman:javafx-nine-patch": 1754369498000,
+    "io.github.yetyman:javafx-nine-patch": 1754374757000,
     "io.github.yairm210:purity-compiler-plugin": 1754368107000,
     "me.ahoo.wow:wow-test": 1754371208000,
     "com.lihaoyi:mill-libs-androidlib-hilt_3": 1754362145000,
@@ -719,7 +719,16 @@
     "org.jetbrains.kotlin-wrappers:kotlin-tanstack-table-core": 1754374439000,
     "org.jetbrains.kotlin-wrappers:kotlin-tanstack-react-query": 1754374439000,
     "org.jetbrains.kotlin-wrappers:kotlin-typescript": 1754374439000,
-    "org.jetbrains.kotlin-wrappers:kotlin-web": 1754374439000
+    "org.jetbrains.kotlin-wrappers:kotlin-web": 1754374439000,
+    "io.github.jaloon:shardingsphere-infra-executor": 1754374867000,
+    "io.github.jaloon:shardingsphere-infra-binder": 1754374867000,
+    "io.github.jaloon:shardingsphere-infra-database-core": 1754374867000,
+    "io.github.jaloon:shardingsphere-jdbc": 1754374867000,
+    "io.github.jaloon:sharding-jdbc-custom": 1754374867000,
+    "io.github.jaloon:sharding-jdbc-bom": 1754374867000,
+    "io.github.devzwy:pdf_printer": 1754374740000,
+    "io.github.yidun:quicklogin": 1754374639000,
+    "in.payu:threeds-helper-sdk": 1754374630000
   },
   "ts": 1754372641734
 }
