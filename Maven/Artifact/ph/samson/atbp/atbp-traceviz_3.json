@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ph.samson.atbp/atbp-traceviz_3",
+  "description": "atbp-traceviz",
   "group_id": "ph.samson.atbp",
   "artifact_id": "atbp-traceviz_3",
-  "latest_version": "4.4",
-  "description": "atbp-traceviz",
-  "id": "pkg:maven/ph.samson.atbp/atbp-traceviz_3",
-  "ts": 1753340036000,
-  "dependency_count": 1,
-  "ref_count": 15,
-  "categories": null,
+  "version_latest": "5",
+  "ts_publish": 1754386311000,
+  "ts_update": 1754387228677,
+  "count_dep": 15,
+  "count_ref": 1,
   "licenses": [
     "AGPL-3.0-or-later"
   ],
-  "last_updated": 1753340397271
+  "categories": null,
+  "dsv": 1
 }

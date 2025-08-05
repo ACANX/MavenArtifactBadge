@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ph.samson.atbp/atbp-md2c_3",
+  "description": "atbp-md2c",
   "group_id": "ph.samson.atbp",
   "artifact_id": "atbp-md2c_3",
-  "latest_version": "4.4",
-  "description": "atbp-md2c",
-  "id": "pkg:maven/ph.samson.atbp/atbp-md2c_3",
-  "ts": 1753340036000,
-  "dependency_count": 1,
-  "ref_count": 43,
-  "categories": null,
+  "version_latest": "5",
+  "ts_publish": 1754386311000,
+  "ts_update": 1754387228679,
+  "count_dep": 43,
+  "count_ref": 1,
   "licenses": [
     "AGPL-3.0-or-later"
   ],
-  "last_updated": 1753340397273
+  "categories": null,
+  "dsv": 1
 }

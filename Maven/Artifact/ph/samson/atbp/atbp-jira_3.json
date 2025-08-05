@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ph.samson.atbp/atbp-jira_3",
+  "description": "atbp-jira",
   "group_id": "ph.samson.atbp",
   "artifact_id": "atbp-jira_3",
-  "latest_version": "4.4",
-  "description": "atbp-jira",
-  "id": "pkg:maven/ph.samson.atbp/atbp-jira_3",
-  "ts": 1753340036000,
-  "dependency_count": 2,
-  "ref_count": 66,
-  "categories": null,
+  "version_latest": "5",
+  "ts_publish": 1754386311000,
+  "ts_update": 1754387228678,
+  "count_dep": 66,
+  "count_ref": 2,
   "licenses": [
     "AGPL-3.0-or-later"
   ],
-  "last_updated": 1753340397272
+  "categories": null,
+  "dsv": 1
 }
