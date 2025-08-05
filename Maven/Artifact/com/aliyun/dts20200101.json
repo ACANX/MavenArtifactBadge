@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud Data Transmission (20200101) SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "dts20200101",
-  "version_latest": "2.7.0",
-  "ts_publish": 1753842050000,
-  "ts_update": 1753842420218,
+  "version_latest": "2.7.1",
+  "ts_publish": 1754414256000,
+  "ts_update": 1754415298566,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

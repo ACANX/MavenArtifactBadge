@@ -3,9 +3,9 @@
   "description": "The most advanced ORM of JVM, for both java & kotlin",
   "group_id": "org.babyfish.jimmer",
   "artifact_id": "jimmer-client-swagger",
-  "version_latest": "0.9.104",
-  "ts_publish": 1754326039000,
-  "ts_update": 1754327226672,
+  "version_latest": "0.9.105",
+  "ts_publish": 1754414352000,
+  "ts_update": 1754415298563,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

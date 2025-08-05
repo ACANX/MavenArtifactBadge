@@ -3,9 +3,9 @@
   "description": "Alibaba Cloud Dts (20200101) Async SDK for Java",
   "group_id": "com.aliyun",
   "artifact_id": "alibabacloud-dts20200101",
-  "version_latest": "1.0.24",
-  "ts_publish": 1753844114000,
-  "ts_update": 1753844823019,
+  "version_latest": "1.0.25",
+  "ts_publish": 1754413952000,
+  "ts_update": 1754415299278,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [
