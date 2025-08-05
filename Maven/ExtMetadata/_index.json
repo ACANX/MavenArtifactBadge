@@ -1,13 +1,18 @@
 {
 	"map":{
-		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-kotlin":1754353552000,
-		"club.gepetto:gepetto-utils":1754353785000,
+		"io.github.cdklabs:cdk-ecs-service-extensions":1754354203000,
 		"io.github.j5ik2o:event-store-adapter-java":1754353566000,
-		"io.github.flynndi:micronaut-jimmer-repository-processor":1754353552000,
 		"io.github.flynndi:micronaut-jimmer":1754353552000,
 		"io.github.cdklabs:awscdk-appsync-utils":1754353499000,
+		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-kotlin":1754353552000,
+		"io.github.cdklabs:cdk-ethereum-node":1754354130000,
+		"club.gepetto:gepetto-utils":1754353785000,
+		"io.github.cdklabs:cdk-tweet-queue":1754353912000,
+		"io.github.flynndi:micronaut-jimmer-repository-processor":1754353552000,
+		"com.fasterxml.jackson:jackson-parent":1754354193000,
 		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-java":1754353552000,
-		"io.github.cdklabs:cdk-hyperledger-fabric-network":1754353865000
+		"io.github.cdklabs:cdk-hyperledger-fabric-network":1754353865000,
+		"io.github.cdklabs:cdk-docker-image-deployment":1754354208000
 	},
-	"ts":1754354228829
+	"ts":1754354833508
 }
