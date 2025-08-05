@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/co.getstark/accessibility-instrumentation",
+  "description": "Accessibility Reporting for Android",
   "group_id": "co.getstark",
   "artifact_id": "accessibility-instrumentation",
-  "latest_version": "0.1.0",
-  "description": "Accessibility Reporting for Android",
-  "id": "pkg:maven/co.getstark/accessibility-instrumentation",
-  "ts": 1753390911000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "1.0.0",
+  "ts_publish": 1754426125000,
+  "ts_update": 1754426823363,
+  "count_dep": 5,
+  "count_ref": 0,
   "licenses": [
     "Custom License"
   ],
-  "last_updated": 1753391819224
+  "categories": null,
+  "dsv": 1
 }

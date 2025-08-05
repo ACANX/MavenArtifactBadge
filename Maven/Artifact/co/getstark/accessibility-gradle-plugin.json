@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/co.getstark/accessibility-gradle-plugin",
+  "description": "Accessibility Reporting for Android",
   "group_id": "co.getstark",
   "artifact_id": "accessibility-gradle-plugin",
-  "latest_version": "0.1.0",
-  "description": "Accessibility Reporting for Android",
-  "id": "pkg:maven/co.getstark/accessibility-gradle-plugin",
-  "ts": 1753390911000,
-  "dependency_count": 1,
-  "ref_count": 4,
-  "categories": null,
+  "version_latest": "1.0.0",
+  "ts_publish": 1754426125000,
+  "ts_update": 1754426824160,
+  "count_dep": 4,
+  "count_ref": 1,
   "licenses": [
     "Custom License"
   ],
-  "last_updated": 1753391819224
+  "categories": null,
+  "dsv": 1
 }

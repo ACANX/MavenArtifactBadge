@@ -3,9 +3,9 @@
   "description": "Tencent Cloud Open API SDK for Java",
   "group_id": "com.tencentcloudapi",
   "artifact_id": "tencentcloud-sdk-java-vod",
-  "version_latest": "3.1.1312",
-  "ts_publish": 1753821788000,
-  "ts_update": 1753822620572,
+  "version_latest": "3.1.1317",
+  "ts_publish": 1754426196000,
+  "ts_update": 1754426823360,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [

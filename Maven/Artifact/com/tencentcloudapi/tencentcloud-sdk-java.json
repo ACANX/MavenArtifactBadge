@@ -3,9 +3,9 @@
   "description": "Tencent Cloud Open API SDK for Java",
   "group_id": "com.tencentcloudapi",
   "artifact_id": "tencentcloud-sdk-java",
-  "version_latest": "3.1.1316",
-  "ts_publish": 1754379001000,
-  "ts_update": 1754380025762,
+  "version_latest": "3.1.1317",
+  "ts_publish": 1754425960000,
+  "ts_update": 1754426824164,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
