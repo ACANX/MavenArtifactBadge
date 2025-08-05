@@ -3,11 +3,11 @@
   "description": "Code generation for Typescript",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-typescript-generator_3",
-  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
-  "ts_publish": 1754283295000,
-  "ts_update": 1754283795868,
-  "count_dep": 4,
-  "count_ref": 0,
+  "version_latest": "0.0.1-main.20250805.111.690.v7ccb438",
+  "ts_publish": 1754370354000,
+  "ts_update": 1754371022901,
+  "count_dep": 12,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],

@@ -3,11 +3,11 @@
   "description": "Transform daml LF and DAR into generated code",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-generator-daml3.4_3",
-  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
-  "ts_publish": 1754283147000,
-  "ts_update": 1754283795874,
+  "version_latest": "0.0.1-main.20250805.111.690.v7ccb438",
+  "ts_publish": 1754370229000,
+  "ts_update": 1754371023539,
   "count_dep": 33,
-  "count_ref": 1,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],

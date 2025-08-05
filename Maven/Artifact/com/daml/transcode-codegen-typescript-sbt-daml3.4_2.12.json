@@ -3,9 +3,9 @@
   "description": "SBT plugin for Typescript Code Generation",
   "group_id": "com.daml",
   "artifact_id": "transcode-codegen-typescript-sbt-daml3.4_2.12",
-  "version_latest": "0.0.1-main.20250804.110.677.v9e662f3",
-  "ts_publish": 1754283333000,
-  "ts_update": 1754284021325,
+  "version_latest": "0.0.1-main.20250805.111.690.v7ccb438",
+  "ts_publish": 1754370389000,
+  "ts_update": 1754371022898,
   "count_dep": 83,
   "count_ref": 0,
   "licenses": [
