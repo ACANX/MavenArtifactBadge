@@ -3,9 +3,9 @@
   "description": "mill-dist-native-mac-amd64",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-mac-amd64",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754325678000,
-  "ts_update": 1754326620023,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754361669000,
+  "ts_update": 1754362623859,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
