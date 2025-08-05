@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for browser API",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-browser-js",
-  "version_latest": "2025.8.3",
-  "ts_publish": 1754288655000,
-  "ts_update": 1754289423738,
+  "version_latest": "2025.8.4",
+  "ts_publish": 1754374439000,
+  "ts_update": 1754375223029,
   "count_dep": 7,
   "count_ref": 16,
   "licenses": [

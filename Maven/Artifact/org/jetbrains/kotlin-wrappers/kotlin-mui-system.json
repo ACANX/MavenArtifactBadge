@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for MUI System",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-mui-system",
-  "version_latest": "2025.8.3-5.17.1",
-  "ts_publish": 1754288655000,
-  "ts_update": 1754289426283,
+  "version_latest": "2025.8.4-5.17.1",
+  "ts_publish": 1754374439000,
+  "ts_update": 1754375221175,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [

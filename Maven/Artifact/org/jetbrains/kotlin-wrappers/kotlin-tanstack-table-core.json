@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Tanstack Table Core",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-tanstack-table-core",
-  "version_latest": "2025.8.3-8.21.3",
-  "ts_publish": 1754288655000,
-  "ts_update": 1754289425185,
+  "version_latest": "2025.8.4-8.21.3",
+  "ts_publish": 1754374439000,
+  "ts_update": 1754375225293,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

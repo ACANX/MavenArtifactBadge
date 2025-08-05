@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for GitHub Actions GitHub",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-actions-github-js",
-  "version_latest": "2025.8.3-6.0.1",
-  "ts_publish": 1754288655000,
-  "ts_update": 1754289424732,
+  "version_latest": "2025.8.4-6.0.1",
+  "ts_publish": 1754374439000,
+  "ts_update": 1754375224832,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

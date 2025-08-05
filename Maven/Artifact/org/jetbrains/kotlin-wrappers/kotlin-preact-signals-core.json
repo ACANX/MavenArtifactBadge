@@ -3,9 +3,9 @@
   "description": "Kotlin wrapper for Preact Signals Core",
   "group_id": "org.jetbrains.kotlin-wrappers",
   "artifact_id": "kotlin-preact-signals-core",
-  "version_latest": "2025.8.3-1.8.0",
-  "ts_publish": 1754288655000,
-  "ts_update": 1754289424731,
+  "version_latest": "2025.8.4-1.8.0",
+  "ts_publish": 1754374439000,
+  "ts_update": 1754375224212,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
