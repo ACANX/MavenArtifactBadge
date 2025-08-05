@@ -3,9 +3,9 @@
   "description": "The modular web framework for Java and Kotlin",
   "group_id": "io.jooby",
   "artifact_id": "jooby-awssdk-v1",
-  "version_latest": "4.0.3",
-  "ts_publish": 1753816413000,
-  "ts_update": 1753817000449,
+  "version_latest": "4.0.4",
+  "ts_publish": 1754386864000,
+  "ts_update": 1754387634806,
   "count_dep": 22,
   "count_ref": 0,
   "licenses": [

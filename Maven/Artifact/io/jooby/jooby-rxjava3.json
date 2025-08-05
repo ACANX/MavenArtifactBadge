@@ -3,9 +3,9 @@
   "description": "The modular web framework for Java and Kotlin",
   "group_id": "io.jooby",
   "artifact_id": "jooby-rxjava3",
-  "version_latest": "4.0.3",
-  "ts_publish": 1753816413000,
-  "ts_update": 1753816999360,
+  "version_latest": "4.0.4",
+  "ts_publish": 1754386864000,
+  "ts_update": 1754387634356,
   "count_dep": 10,
   "count_ref": 0,
   "licenses": [
