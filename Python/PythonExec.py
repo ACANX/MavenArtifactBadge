@@ -94,7 +94,6 @@ def create_maven_artifact_badge_svg_file(data: dict):
     target_dir = (
         current_file.parent              # PythonExec.py 所在目录
         .parent                          # 上一级目录 (../)
-        / "Maven"                        # 进入 Maven 目录
         / "Badge"                        # 进入 Badge 目录
         / group_id.replace(".", "/")     # 将 groupId 的点替换为路径分隔符
     )
