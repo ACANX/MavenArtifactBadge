@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server-parent",
+  "description": "Parent project of the OAuth / OpenID Connect Mock Server",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-oauth-mock-server-parent",
-  "latest_version": "3.12.0",
-  "description": "Parent project of the OAuth / OpenID Connect Mock Server",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-oauth-mock-server-parent",
-  "ts": 1753452995000,
-  "dependency_count": 0,
-  "ref_count": 39,
-  "categories": null,
+  "version_latest": "3.13.0",
+  "ts_publish": 1754401545000,
+  "ts_update": 1754402220412,
+  "count_dep": 39,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753453548131
+  "categories": null,
+  "dsv": 1
 }
