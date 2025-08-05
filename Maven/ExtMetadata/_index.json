@@ -745,7 +745,9 @@
     "com.exactpro.th2.gradle.base:com.exactpro.th2.gradle.base.gradle.plugin": 1754376143000,
     "com.exactpro.th2.gradle.component:com.exactpro.th2.gradle.component.gradle.plugin": 1754376143000,
     "com.exactpro.th2.gradle.grpc:com.exactpro.th2.gradle.grpc.gradle.plugin": 1754376143000,
-    "com.exactpro.th2.gradle.publish:com.exactpro.th2.gradle.publish.gradle.plugin": 1754376143000
+    "com.exactpro.th2.gradle.publish:com.exactpro.th2.gradle.publish.gradle.plugin": 1754376143000,
+    "com.mazepeng:Kaptcha": 1754376811000,
+    "io.openim:core-sdk": 1754376614000
   },
   "ts": 1754372641734
 }
