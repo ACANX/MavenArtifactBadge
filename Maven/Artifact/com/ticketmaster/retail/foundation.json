@@ -3,9 +3,9 @@
   "description": "Foundation for retail sdk",
   "group_id": "com.ticketmaster.retail",
   "artifact_id": "foundation",
-  "version_latest": "3.7.0",
-  "ts_publish": 1753916799000,
-  "ts_update": 1753917422951,
+  "version_latest": "3.7.1",
+  "ts_publish": 1754420643000,
+  "ts_update": 1754421422664,
   "count_dep": 9,
   "count_ref": 2,
   "licenses": [

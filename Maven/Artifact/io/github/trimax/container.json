@@ -3,9 +3,9 @@
   "description": null,
   "group_id": "io.github.trimax",
   "artifact_id": "container",
-  "version_latest": "0.6.8",
-  "ts_publish": 1754246981000,
-  "ts_update": 1754247424322,
+  "version_latest": "0.6.35",
+  "ts_publish": 1754420793000,
+  "ts_update": 1754421422664,
   "count_dep": 6,
   "count_ref": 1,
   "licenses": [
