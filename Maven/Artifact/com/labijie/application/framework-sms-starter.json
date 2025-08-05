@@ -3,9 +3,9 @@
   "description": "application framework package",
   "group_id": "com.labijie.application",
   "artifact_id": "framework-sms-starter",
-  "version_latest": "3.3.4",
-  "ts_publish": 1754339140000,
-  "ts_update": 1754339492935,
+  "version_latest": "3.3.5",
+  "ts_publish": 1754368500000,
+  "ts_update": 1754369225089,
   "count_dep": 104,
   "count_ref": 0,
   "licenses": [

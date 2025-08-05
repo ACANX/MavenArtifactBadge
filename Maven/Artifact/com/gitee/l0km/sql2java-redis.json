@@ -3,9 +3,9 @@
   "description": "sql2java cache base REDIS",
   "group_id": "com.gitee.l0km",
   "artifact_id": "sql2java-redis",
-  "version_latest": "5.6.0-alpha6",
-  "ts_publish": 1753781691000,
-  "ts_update": 1753783621072,
+  "version_latest": "5.6.0-alpha7",
+  "ts_publish": 1754368553000,
+  "ts_update": 1754369225086,
   "count_dep": 11,
   "count_ref": 0,
   "licenses": [
