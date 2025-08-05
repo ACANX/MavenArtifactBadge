@@ -654,7 +654,22 @@
     "com.kylecorry.andromeda:views": 1754433671000,
     "com.pipedream:pipedream": 1754434756000,
     "com.contrastsecurity:contrast-agent": 1754434614000,
-    "com.peluware:domain-commons": 1754435879000
+    "com.peluware:domain-commons": 1754435879000,
+    "com.pinterest.memq:memq-parent": 1754437230000,
+    "com.pinterest.memq:memq-examples": 1754437230000,
+    "com.pinterest.memq:memq-commons": 1754437230000,
+    "com.pinterest.memq:memq": 1754437230000,
+    "com.pinterest.memq:memq-client": 1754437230000,
+    "com.veryfi:veryfi-kotlin": 1754437175000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-jvm": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-wasm-js": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-iosarm64": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-iosx64": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-ksp-jvm": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-ksp": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-android": 1754436805000,
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-iossimulatorarm64": 1754436805000
   },
   "ts_update": 1754420240527
 }
