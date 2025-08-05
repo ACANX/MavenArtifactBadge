@@ -3,9 +3,9 @@
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.codbex.platform",
   "artifact_id": "codbex-platform-parent",
-  "version_latest": "12.3.0",
-  "ts_publish": 1753879425000,
-  "ts_update": 1753880221492,
+  "version_latest": "12.4.0",
+  "ts_publish": 1754372337000,
+  "ts_update": 1754373901524,
   "count_dep": 106,
   "count_ref": 0,
   "licenses": [

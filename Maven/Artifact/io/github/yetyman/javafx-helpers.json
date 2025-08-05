@@ -3,11 +3,11 @@
   "description": "Sample application",
   "group_id": "io.github.yetyman",
   "artifact_id": "javafx-helpers",
-  "version_latest": "2025.08.05.1-ALPHA",
-  "ts_publish": 1754369498000,
-  "ts_update": 1754370332649,
+  "version_latest": "2025.08.05.2-ALPHA",
+  "ts_publish": 1754373250000,
+  "ts_update": 1754373900932,
   "count_dep": 5,
-  "count_ref": 4,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],

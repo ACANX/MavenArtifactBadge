@@ -3,9 +3,9 @@
   "description": "Kotlin Multiplatform OpenID Connect client library",
   "group_id": "dev.lokksmith",
   "artifact_id": "lokksmith-compose",
-  "version_latest": "0.3.5",
-  "ts_publish": 1754313270000,
-  "ts_update": 1754314028316,
+  "version_latest": "0.3.6",
+  "ts_publish": 1754373136000,
+  "ts_update": 1754373900935,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [
