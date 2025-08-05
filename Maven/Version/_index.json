@@ -603,7 +603,8 @@
     "io.github.day-bringer:BngrPluginUtils": 1754432528000,
     "io.cloudshiftdev.kotlin-cdk-extensions:kotlin-cdk-extensions": 1754432352000,
     "org.codeforamerica.platform:form-flow": 1754431987000,
-    "com.microsoft.graph:microsoft-graph": 1754431966000
+    "com.microsoft.graph:microsoft-graph": 1754431966000,
+    "net.snowflake:snowflake-ingest-sdk": 1754432869000
   },
   "ts_update": 1754420240527
 }
