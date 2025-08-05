@@ -3,9 +3,9 @@
   "description": "Shaded version of dependencies used only for internal OpenMetadata code.",
   "group_id": "org.open-metadata",
   "artifact_id": "openmetadata-shaded-deps",
-  "version_latest": "1.8.8",
-  "ts_publish": 1753886755000,
-  "ts_update": 1753887541857,
+  "version_latest": "1.8.10",
+  "ts_publish": 1754380965000,
+  "ts_update": 1754381827029,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.google.apis",
   "artifact_id": "google-api-services-aiplatform",
-  "version_latest": "v1-rev20250728-2.0.0",
-  "ts_publish": 1753948816000,
-  "ts_update": 1753949221641,
+  "version_latest": "v1-rev20250731-2.0.0",
+  "ts_publish": 1754380784000,
+  "ts_update": 1754381827032,
   "count_dep": 22,
   "count_ref": 0,
   "licenses": [
