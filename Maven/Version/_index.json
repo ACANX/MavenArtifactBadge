@@ -1,13 +1,30 @@
 {
-	"map":{
-		"com.daml:codegen-java":1754415302000,
-		"com.daml:daml-lf-snapshot-proto":1754415302000,
-		"com.daml:community-admin-api_2.13":1754415302000,
-		"com.daml:http-test-utils_2.13":1754415302000,
-		"com.daml:build-info_2.13":1754415302000,
-		"com.daml:codegen-jvm-main":1754415301000,
-		"com.daml:timer-utils_2.13":1754415302000,
-		"com.daml:ledger-api-value-proto":1754415302000
-	},
-	"ts_update":1754420240527
+  "map": {
+    "com.daml:codegen-java": 1754415302000,
+    "com.daml:daml-lf-snapshot-proto": 1754415302000,
+    "com.daml:community-admin-api_2.13": 1754415302000,
+    "com.daml:http-test-utils_2.13": 1754415302000,
+    "com.daml:build-info_2.13": 1754415302000,
+    "com.daml:codegen-jvm-main": 1754415301000,
+    "com.daml:timer-utils_2.13": 1754415302000,
+    "com.daml:ledger-api-value-proto": 1754415302000,
+    "io.github.growthbook:NetworkDispatcherOkHttp-jvm": 1754419999000,
+    "com.nimbusds:nimbus-jose-jwt": 1754419997000,
+    "io.github.growthbook:NetworkDispatcherOkHttp-android": 1754419914000,
+    "io.github.growthbook:NetworkDispatcherOkHttp": 1754419824000,
+    "io.github.growthbook:NetworkDispatcherKtor-wasm-js": 1754419674000,
+    "io.kestra.plugin:plugin-kubernetes": 1754419587000,
+    "io.github.growthbook:NetworkDispatcherKtor-jvm": 1754419568000,
+    "io.kestra.storage:storage-gcs": 1754419551000,
+    "io.kestra.plugin:plugin-kafka": 1754419498000,
+    "io.kestra.plugin:plugin-googleworkspace": 1754419495000,
+    "io.github.growthbook:NetworkDispatcherKtor-js": 1754419490000,
+    "io.kestra.storage:storage-azure": 1754419459000,
+    "io.kestra.plugin:plugin-serdes": 1754419434000,
+    "io.kestra.plugin:plugin-opensearch": 1754419428000,
+    "io.kestra.plugin:plugin-graalvm": 1754419397000,
+    "io.kestra.plugin:plugin-ai": 1754419279000,
+    "io.github.growthbook:NetworkDispatcherKtor-android": 1754419215000
+  },
+  "ts_update": 1754420240527
 }
