@@ -3,9 +3,9 @@
   "description": "HomeCareVod module",
   "group_id": "io.github.zhangwenxue",
   "artifact_id": "homecarevod",
-  "version_latest": "0.0.8",
-  "ts_publish": 1754287264000,
-  "ts_update": 1754288229126,
+  "version_latest": "0.0.9",
+  "ts_publish": 1754382365000,
+  "ts_update": 1754383026822,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [
