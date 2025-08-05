@@ -3,9 +3,9 @@
   "description": "TBD",
   "group_id": "com.daml",
   "artifact_id": "metrics-test-lib_2.13",
-  "version_latest": "3.4.0-adhoc.20250805.14053.0.v97bb7721",
-  "ts_publish": 1754413029000,
-  "ts_update": 1754413631031,
+  "version_latest": "3.4.0-adhoc.20250805.14054.0.v9c4c7803",
+  "ts_publish": 1754415302000,
+  "ts_update": 1754416023491,
   "count_dep": 24,
   "count_ref": 0,
   "licenses": [
