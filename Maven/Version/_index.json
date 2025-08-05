@@ -282,7 +282,10 @@
     "io.yupiik.maven:_documentation": 1754425896000,
     "io.yupiik.maven:yupiik-tools-common": 1754425896000,
     "dev.mongocamp:mongodb-driver_3": 1754426588000,
-    "dev.mongocamp:mongodb-driver_2.13": 1754426588000
+    "dev.mongocamp:mongodb-driver_2.13": 1754426588000,
+    "org.appliedenergistics:appliedenergistics2": 1754426910000,
+    "com.couchbase.client:scala-client_2.13": 1754426800000,
+    "com.tencentcloudapi:tencentcloud-sdk-java-intl-en": 1754426687000
   },
   "ts_update": 1754420240527
 }
