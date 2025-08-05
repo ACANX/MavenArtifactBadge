@@ -3,9 +3,9 @@
   "description": "mill-runner-client",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-client",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326186000,
-  "ts_update": 1754327224557,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362238000,
+  "ts_update": 1754363223726,
   "count_dep": 1,
   "count_ref": 4,
   "licenses": [

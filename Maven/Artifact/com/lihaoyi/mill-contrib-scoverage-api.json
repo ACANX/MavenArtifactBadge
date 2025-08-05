@@ -3,9 +3,9 @@
   "description": "mill-contrib-scoverage-api",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-scoverage-api",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326125000,
-  "ts_update": 1754327226142,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362085000,
+  "ts_update": 1754363225800,
   "count_dep": 0,
   "count_ref": 2,
   "licenses": [

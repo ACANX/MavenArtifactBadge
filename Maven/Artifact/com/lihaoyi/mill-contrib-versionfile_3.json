@@ -3,9 +3,9 @@
   "description": "mill-contrib-versionfile",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-versionfile_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326131000,
-  "ts_update": 1754327226138,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362095000,
+  "ts_update": 1754363225100,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [

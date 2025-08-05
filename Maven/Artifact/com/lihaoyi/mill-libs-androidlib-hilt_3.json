@@ -3,9 +3,9 @@
   "description": "mill-libs-androidlib-hilt",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-androidlib-hilt_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326151000,
-  "ts_update": 1754327225627,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362145000,
+  "ts_update": 1754363225094,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [

@@ -3,11 +3,11 @@
   "description": "mill-libs-javalib-testrunner-entrypoint",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-testrunner-entrypoint",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326168000,
-  "ts_update": 1754327225129,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362188000,
+  "ts_update": 1754363224434,
   "count_dep": 1,
-  "count_ref": 16,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],

@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-spring-boot-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-spring-boot-worker_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326168000,
-  "ts_update": 1754327225129,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362188000,
+  "ts_update": 1754363224435,
   "count_dep": 33,
   "count_ref": 0,
   "licenses": [

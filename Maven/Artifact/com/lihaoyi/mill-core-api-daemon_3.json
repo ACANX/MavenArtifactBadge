@@ -3,11 +3,11 @@
   "description": "mill-core-api-daemon",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-core-api-daemon_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326132000,
-  "ts_update": 1754327225632,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362099000,
+  "ts_update": 1754363225099,
   "count_dep": 9,
-  "count_ref": 35,
+  "count_ref": 21,
   "licenses": [
     "MIT"
   ],

@@ -3,9 +3,9 @@
   "description": "mill-libs-init-buildgen",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init-buildgen_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326155000,
-  "ts_update": 1754327225626,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362149000,
+  "ts_update": 1754363225094,
   "count_dep": 10,
   "count_ref": 3,
   "licenses": [

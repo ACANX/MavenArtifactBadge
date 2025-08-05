@@ -3,9 +3,9 @@
   "description": "mill-libs-init",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-init_3",
-  "version_latest": "1.0.2-23-d3f2ba",
-  "ts_publish": 1754326158000,
-  "ts_update": 1754327225624,
+  "version_latest": "1.0.2-24-4cc427",
+  "ts_publish": 1754362155000,
+  "ts_update": 1754363225092,
   "count_dep": 8,
   "count_ref": 2,
   "licenses": [
