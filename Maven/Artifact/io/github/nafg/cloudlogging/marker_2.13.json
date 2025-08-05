@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.nafg.cloudlogging/marker_2.13",
+  "description": "marker",
+  "group_id": "io.github.nafg.cloudlogging",
+  "artifact_id": "marker_2.13",
+  "version_latest": "0.7.2",
+  "ts_publish": 1754399325000,
+  "ts_update": 1754400148142,
+  "count_dep": 6,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
