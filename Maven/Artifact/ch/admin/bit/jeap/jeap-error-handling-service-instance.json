@@ -3,9 +3,9 @@
   "description": "JEAP Error Handling Parent",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-error-handling-service-instance",
-  "version_latest": "11.8.2",
-  "ts_publish": 1754383676000,
-  "ts_update": 1754384833712,
+  "version_latest": "11.9.0",
+  "ts_publish": 1754402143000,
+  "ts_update": 1754402823854,
   "count_dep": 40,
   "count_ref": 0,
   "licenses": [

@@ -1,7 +1,7 @@
 {
 	"home_page":"https://github.com/clescot/kafka-connect-http",
 	"license":"Apache 2.0",
-	"ranking":"#545487 in MvnRepository",
+	"ranking":"#545531 in MvnRepository",
 	"tags":[
 		"github",
 		"streaming",
@@ -9,7 +9,7 @@
 		"connection",
 		"http"
 	],
-	"ts":1754392043848,
+	"ts":1754402838777,
 	"version":[
 		{
 			"date":"20250801",

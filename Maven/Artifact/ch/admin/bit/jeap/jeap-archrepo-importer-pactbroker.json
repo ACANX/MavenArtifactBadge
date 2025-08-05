@@ -3,9 +3,9 @@
   "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-importer-pactbroker",
-  "version_latest": "1.29.1",
-  "ts_publish": 1754397412000,
-  "ts_update": 1754398023787,
+  "version_latest": "1.30.0",
+  "ts_publish": 1754401969000,
+  "ts_update": 1754402825254,
   "count_dep": 102,
   "count_ref": 1,
   "licenses": [

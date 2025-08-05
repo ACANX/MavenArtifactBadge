@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-service-instance",
+  "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-reaction-observer-service-instance",
-  "latest_version": "1.8.0",
-  "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer-service-instance",
-  "ts": 1753453457000,
-  "dependency_count": 0,
-  "ref_count": 40,
-  "categories": null,
+  "version_latest": "1.9.0",
+  "ts_publish": 1754401869000,
+  "ts_update": 1754402825836,
+  "count_dep": 40,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753454218512
+  "categories": null,
+  "dsv": 1
 }
