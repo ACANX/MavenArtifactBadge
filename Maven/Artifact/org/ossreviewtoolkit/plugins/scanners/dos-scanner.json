@@ -3,9 +3,9 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit.plugins.scanners",
   "artifact_id": "dos-scanner",
-  "version_latest": "65.0.0",
-  "ts_publish": 1753946889000,
-  "ts_update": 1753947692379,
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384830800,
   "count_dep": 14,
   "count_ref": 1,
   "licenses": [

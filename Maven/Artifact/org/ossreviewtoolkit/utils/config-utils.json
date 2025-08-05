@@ -3,9 +3,9 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit.utils",
   "artifact_id": "config-utils",
-  "version_latest": "65.0.0",
-  "ts_publish": 1753946889000,
-  "ts_update": 1753947693417,
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384832002,
   "count_dep": 31,
   "count_ref": 4,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit.plugins.commands",
   "artifact_id": "compare-command",
-  "version_latest": "64.1.0",
-  "ts_publish": 1753777501000,
-  "ts_update": 1753778218184,
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384831402,
   "count_dep": 10,
   "count_ref": 2,
   "licenses": [

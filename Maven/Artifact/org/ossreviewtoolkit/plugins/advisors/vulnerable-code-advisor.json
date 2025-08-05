@@ -3,9 +3,9 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit.plugins.advisors",
   "artifact_id": "vulnerable-code-advisor",
-  "version_latest": "64.1.0",
-  "ts_publish": 1753777501000,
-  "ts_update": 1753778218897,
+  "version_latest": "66.0.0",
+  "ts_publish": 1754383697000,
+  "ts_update": 1754384831400,
   "count_dep": 8,
   "count_ref": 2,
   "licenses": [

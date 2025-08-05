@@ -1,7 +1,8 @@
 {
 	"map":{
-		"org.dromara.warm:warm-flow-mybatis-plus-sb-starter":1754382286000,
-		"org.dromara.warm:warm-flow-mybatis-sb-starter":1754382286000
+		"org.dromara.warm:warm-flow-mybatis-sb-starter":1754382286000,
+		"io.debezium.quarkus:quarkus-debezium-engine-deployment-spi":1754383947000,
+		"org.dromara.warm:warm-flow-mybatis-plus-sb-starter":1754382286000
 	},
-	"ts":1754384415850
+	"ts":1754384932893
 }

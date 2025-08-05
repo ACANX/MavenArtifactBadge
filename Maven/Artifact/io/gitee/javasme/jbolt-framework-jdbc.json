@@ -3,9 +3,9 @@
   "description": "JDBC",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-jdbc",
-  "version_latest": "1.1.12",
-  "ts_publish": 1754378230000,
-  "ts_update": 1754378825615,
+  "version_latest": "1.1.13",
+  "ts_publish": 1754383940000,
+  "ts_update": 1754384830154,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
