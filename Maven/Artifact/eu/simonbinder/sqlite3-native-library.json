@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/eu.simonbinder/sqlite3-native-library",
+  "description": "Native sqlite3 library without JNI bindings",
   "group_id": "eu.simonbinder",
   "artifact_id": "sqlite3-native-library",
-  "latest_version": "3.50.3+1",
-  "description": "Native sqlite3 library without JNI bindings",
-  "id": "pkg:maven/eu.simonbinder/sqlite3-native-library",
-  "ts": 1753612395000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "3.50.4",
+  "ts_publish": 1754428988000,
+  "ts_update": 1754429770358,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Public Domain"
   ],
-  "last_updated": 1753613156261
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

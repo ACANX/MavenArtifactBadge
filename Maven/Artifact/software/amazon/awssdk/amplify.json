@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/amplify",
+  "description": "The AWS Java SDK for Amplify module holds the client classes that are used for\n        communicating with Amplify.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "amplify",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for Amplify module holds the client classes that are used for\n        communicating with Amplify.",
-  "id": "pkg:maven/software.amazon.awssdk/amplify",
-  "ts": 1753739271000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429265000,
+  "ts_update": 1754429768983,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739726342
+  "dsv": 1
 }

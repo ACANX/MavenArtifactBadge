@@ -3,11 +3,11 @@
   "description": "The AWS Java SDK for Backup Search module holds the client classes that are used for\n        communicating with Backup Search.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "backupsearch",
-  "version_latest": "2.32.11",
-  "ts_publish": 1753842217000,
-  "ts_update": 1753843019316,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429291000,
+  "ts_update": 1754429768396,
   "count_dep": 3,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [],
   "categories": [
     "Software Development Kit"

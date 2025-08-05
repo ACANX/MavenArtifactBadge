@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/billing",
+  "description": "The AWS Java SDK for Billing module holds the client classes that are used for\n        communicating with Billing.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "billing",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for Billing module holds the client classes that are used for\n        communicating with Billing.",
-  "id": "pkg:maven/software.amazon.awssdk/billing",
-  "ts": 1753478254000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429172000,
+  "ts_update": 1754429770354,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478821446
+  "dsv": 1
 }

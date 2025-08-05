@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/apache-client",
+  "description": null,
   "group_id": "software.amazon.awssdk",
   "artifact_id": "apache-client",
-  "latest_version": "2.32.10",
-  "description": null,
-  "id": "pkg:maven/software.amazon.awssdk/apache-client",
-  "ts": 1753739280000,
-  "dependency_count": 0,
-  "ref_count": 18,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429300000,
+  "ts_update": 1754429768394,
+  "count_dep": 18,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739725688
+  "dsv": 1
 }

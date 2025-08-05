@@ -3,11 +3,11 @@
   "description": "The AWS SDK for Java - module holds the classes for AWS Xml protocol",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "aws-xml-protocol",
-  "version_latest": "2.32.11",
-  "ts_publish": 1753842201000,
-  "ts_update": 1753843019782,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429262000,
+  "ts_update": 1754429768985,
   "count_dep": 11,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [],
   "categories": [
     "Software Development Kit"

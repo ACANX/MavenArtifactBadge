@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/autoscalingplans",
+  "description": "The AWS Java SDK for Auto Scaling Plans module holds the client classes that are used for\n        communicating with Auto Scaling Plans.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "autoscalingplans",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for Auto Scaling Plans module holds the client classes that are used for\n        communicating with Auto Scaling Plans.",
-  "id": "pkg:maven/software.amazon.awssdk/autoscalingplans",
-  "ts": 1753739206000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429294000,
+  "ts_update": 1754429768396,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739726349
+  "dsv": 1
 }

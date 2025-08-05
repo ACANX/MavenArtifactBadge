@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/appmesh",
+  "description": "The AWS Java SDK for App Mesh module holds the client classes that are used for\n        communicating with App Mesh.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "appmesh",
-  "latest_version": "2.32.10",
-  "description": "The AWS Java SDK for App Mesh module holds the client classes that are used for\n        communicating with App Mesh.",
-  "id": "pkg:maven/software.amazon.awssdk/appmesh",
-  "ts": 1753739269000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429263000,
+  "ts_update": 1754429768984,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753739726342
+  "dsv": 1
 }

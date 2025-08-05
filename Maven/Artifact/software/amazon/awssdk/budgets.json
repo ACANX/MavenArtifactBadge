@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/budgets",
+  "description": "The AWS Java SDK for AWS Budgets module holds the client classes that are used for communicating with\n        AWS Budgets Service",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "budgets",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for AWS Budgets module holds the client classes that are used for communicating with\n        AWS Budgets Service",
-  "id": "pkg:maven/software.amazon.awssdk/budgets",
-  "ts": 1753478253000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429185000,
+  "ts_update": 1754429769749,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478821446
+  "dsv": 1
 }

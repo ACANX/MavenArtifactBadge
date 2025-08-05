@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/software.amazon.awssdk/bcmpricingcalculator",
+  "description": "The AWS Java SDK for BCM Pricing Calculator module holds the client classes that are used for\n        communicating with BCM Pricing Calculator.",
   "group_id": "software.amazon.awssdk",
   "artifact_id": "bcmpricingcalculator",
-  "latest_version": "2.32.9",
-  "description": "The AWS Java SDK for BCM Pricing Calculator module holds the client classes that are used for\n        communicating with BCM Pricing Calculator.",
-  "id": "pkg:maven/software.amazon.awssdk/bcmpricingcalculator",
-  "ts": 1753478196000,
-  "dependency_count": 0,
-  "ref_count": 3,
+  "version_latest": "2.32.16",
+  "ts_publish": 1754429266000,
+  "ts_update": 1754429768983,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Software Development Kit"
   ],
-  "licenses": [],
-  "last_updated": 1753478822812
+  "dsv": 1
 }
