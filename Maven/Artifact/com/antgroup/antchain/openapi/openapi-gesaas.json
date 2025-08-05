@@ -3,9 +3,9 @@
   "description": "Ant Chain GESAAS SDK for Java",
   "group_id": "com.antgroup.antchain.openapi",
   "artifact_id": "openapi-gesaas",
-  "version_latest": "1.0.3",
-  "ts_publish": 1753788353000,
-  "ts_update": 1753789018683,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754366169000,
+  "ts_update": 1754366823317,
   "count_dep": 24,
   "count_ref": 0,
   "licenses": [
