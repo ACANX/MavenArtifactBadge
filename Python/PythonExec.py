@@ -13,7 +13,7 @@ def get_index_file() -> pathlib.Path:
 # 获取扩展元数据索引文件路径
 def get_ext_metadata_index_file() -> pathlib.Path:
     current_file = pathlib.Path(__file__).resolve()
-    return current_file.parent.parent / "Maven" / "ExtMetadata" / "_index.json"
+    return current_file.parent.parent / "Maven" / "Version" / "_index.json"
 
 # 读取索引文件中的时间戳
 def read_last_timestamp() -> int:
