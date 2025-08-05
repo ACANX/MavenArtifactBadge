@@ -3,9 +3,9 @@
   "description": "Core AMQP models for kourier.",
   "group_id": "dev.kourier",
   "artifact_id": "amqp-core-tvossimulatorarm64",
-  "version_latest": "0.2.0",
-  "ts_publish": 1754213999000,
-  "ts_update": 1754214640317,
+  "version_latest": "0.2.1",
+  "ts_publish": 1754406992000,
+  "ts_update": 1754407625998,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [

@@ -3,9 +3,9 @@
 	"description":"No description provided",
 	"group_id":"org.jetbrains.kotlinx.dataframe",
 	"artifact_id":"dataframe-compiler-plugin-core",
-	"version_latest":"1.0.0-dev-7918",
-	"ts_publish":1754400714000,
-	"ts_update":1754389034007,
+	"version_latest":"1.0.0-dev-7922",
+	"ts_publish":1754406758000,
+	"ts_update":1754407686595,
 	"count_dep":3,
 	"count_ref":1,
 	"licenses":[
@@ -36,7 +36,6 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401513894,
 	"version":[
 		{
 			"date":"20250514",

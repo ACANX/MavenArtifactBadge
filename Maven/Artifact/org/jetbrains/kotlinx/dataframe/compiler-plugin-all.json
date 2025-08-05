@@ -3,9 +3,9 @@
   "description": "Data processing in Kotlin",
   "group_id": "org.jetbrains.kotlinx.dataframe",
   "artifact_id": "compiler-plugin-all",
-  "version_latest": "1.0.0-dev-7918",
-  "ts_publish": 1754400714000,
-  "ts_update": 1754401496605,
+  "version_latest": "1.0.0-dev-7922",
+  "ts_publish": 1754406758000,
+  "ts_update": 1754407627343,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

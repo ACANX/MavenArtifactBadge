@@ -3,9 +3,9 @@
 	"description":"CSV support for Kotlin Dataframe",
 	"group_id":"org.jetbrains.kotlinx",
 	"artifact_id":"dataframe-csv",
-	"version_latest":"1.0.0-dev-7918",
-	"ts_publish":1754400714000,
-	"ts_update":1754389035597,
+	"version_latest":"1.0.0-dev-7922",
+	"ts_publish":1754406758000,
+	"ts_update":1754407686580,
 	"count_dep":13,
 	"count_ref":2,
 	"licenses":[
@@ -35,7 +35,6 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401513899,
 	"version":[
 		{
 			"date":"20250514",

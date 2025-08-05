@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.dimkich.integration.testing/integration-testing-dependencies",
+  "description": "Provides convenient way of write and support integration tests for Spring Framework",
   "group_id": "io.github.dimkich.integration.testing",
   "artifact_id": "integration-testing-dependencies",
-  "latest_version": "0.2.0",
-  "description": "Provides convenient way of write and support integration tests for Spring Framework",
-  "id": "pkg:maven/io.github.dimkich.integration.testing/integration-testing-dependencies",
-  "ts": 1753701341000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "0.2.1",
+  "ts_publish": 1754406126000,
+  "ts_update": 1754407630790,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753702016596
+  "categories": null,
+  "dsv": 1
 }

@@ -3,9 +3,9 @@
 	"description":"Annotation preprocessor for DataFrame",
 	"group_id":"org.jetbrains.kotlinx.dataframe",
 	"artifact_id":"symbol-processor-all",
-	"version_latest":"1.0.0-dev-7918",
-	"ts_publish":1754400714000,
-	"ts_update":1754389032778,
+	"version_latest":"1.0.0-dev-7922",
+	"ts_publish":1754406758000,
+	"ts_update":1754407686586,
 	"count_dep":7,
 	"count_ref":0,
 	"licenses":[
@@ -35,7 +35,6 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401513907,
 	"version":[
 		{
 			"date":"20230608",

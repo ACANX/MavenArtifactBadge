@@ -2,7 +2,7 @@
 	"count_used_by":7,
 	"home_page":"https://github.com/Kotlin/dataframe",
 	"license":"Apache 2.0",
-	"ranking":"#61973 in MvnRepository",
+	"ranking":"#62003 in MvnRepository",
 	"tags":[
 		"dataframe",
 		"excel",
@@ -10,8 +10,8 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401503483,
-	"version":[
+	"ts_update":1754407636772,
+	"versions":[
 		{
 			"date":"20230608",
 			"repository":"Central",
