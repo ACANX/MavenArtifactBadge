@@ -802,7 +802,10 @@
     "com.linkedin.dexmaker:dexmaker": 1754378019000,
     "com.joinself:mobile-ui": 1754378018000,
     "com.linkedin.dexmaker:dexmaker-mockito": 1754378016000,
-    "io.github.twwch:openai-sdk": 1754377969000
+    "io.github.twwch:openai-sdk": 1754377969000,
+    "redis.clients:jedis": 1754378659000,
+    "software.amazon.spapi:spapi-sdk": 1754378587000,
+    "io.phasetwo.keycloak:keycloak-account-v1": 1754378553000
   },
   "ts": 1754372641734
 }
