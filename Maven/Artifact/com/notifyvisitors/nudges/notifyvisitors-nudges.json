@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges",
+  "description": "Notifyvisitors Native SDK for AndroidX Platforms.",
   "group_id": "com.notifyvisitors.nudges",
   "artifact_id": "notifyvisitors-nudges",
-  "latest_version": "v0.0.3",
-  "description": "Notifyvisitors Native SDK for AndroidX Platforms.",
-  "id": "pkg:maven/com.notifyvisitors.nudges/notifyvisitors-nudges",
-  "ts": 1753297596000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "v0.0.4",
+  "ts_publish": 1754387906000,
+  "ts_update": 1754388907979,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753298215757
+  "categories": null,
+  "dsv": 1
 }

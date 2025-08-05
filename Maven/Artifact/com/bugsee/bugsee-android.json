@@ -3,9 +3,9 @@
   "description": "Bug reporting for mobile apps",
   "group_id": "com.bugsee",
   "artifact_id": "bugsee-android",
-  "version_latest": "5.8.0",
-  "ts_publish": 1753879947000,
-  "ts_update": 1753880820609,
+  "version_latest": "5.8.1",
+  "ts_publish": 1754388037000,
+  "ts_update": 1754388906051,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
