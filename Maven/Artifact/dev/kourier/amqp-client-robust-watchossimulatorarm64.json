@@ -3,9 +3,9 @@
   "description": "AMQP Client with automatic connection recovery for kourier.",
   "group_id": "dev.kourier",
   "artifact_id": "amqp-client-robust-watchossimulatorarm64",
-  "version_latest": "0.2.0",
-  "ts_publish": 1754214000000,
-  "ts_update": 1754214639849,
+  "version_latest": "0.2.1",
+  "ts_publish": 1754406992000,
+  "ts_update": 1754407626001,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

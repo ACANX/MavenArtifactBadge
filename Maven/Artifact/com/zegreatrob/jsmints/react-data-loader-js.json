@@ -3,9 +3,9 @@
   "description": "react-data-loader",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "react-data-loader-js",
-  "version_latest": "6.7.3",
-  "ts_publish": 1754321380000,
-  "ts_update": 1754322190942,
+  "version_latest": "6.7.4",
+  "ts_publish": 1754407912000,
+  "ts_update": 1754408822007,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

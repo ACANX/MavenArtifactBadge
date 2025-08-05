@@ -3,9 +3,9 @@
   "description": "sqltoy springboot starter",
   "group_id": "com.sagframe",
   "artifact_id": "sagacity-sqltoy-spring-starter",
-  "version_latest": "5.6.51.jre8",
-  "ts_publish": 1753979967000,
-  "ts_update": 1753981016078,
+  "version_latest": "5.6.52.RC1",
+  "ts_publish": 1754409343000,
+  "ts_update": 1754410029217,
   "count_dep": 29,
   "count_ref": 0,
   "licenses": [

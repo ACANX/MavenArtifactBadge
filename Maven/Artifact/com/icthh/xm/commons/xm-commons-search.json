@@ -3,9 +3,9 @@
   "description": "xm-commons-search",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-search",
-  "version_latest": "4.0.47",
-  "ts_publish": 1754298639000,
-  "ts_update": 1754299021030,
+  "version_latest": "4.0.48",
+  "ts_publish": 1754405245000,
+  "ts_update": 1754406430455,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

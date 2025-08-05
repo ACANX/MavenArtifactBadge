@@ -3,9 +3,9 @@
   "description": "lightdb-postgresql",
   "group_id": "com.outr",
   "artifact_id": "lightdb-postgresql_3",
-  "version_latest": "4.1.0",
-  "ts_publish": 1754070682000,
-  "ts_update": 1754071619612,
+  "version_latest": "4.2.0",
+  "ts_publish": 1754405372000,
+  "ts_update": 1754406428062,
   "count_dep": 37,
   "count_ref": 1,
   "licenses": [

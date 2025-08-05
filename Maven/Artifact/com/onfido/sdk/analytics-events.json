@@ -3,9 +3,9 @@
   "description": "Onfido IDV SDK",
   "group_id": "com.onfido.sdk",
   "artifact_id": "analytics-events",
-  "version_latest": "0.0.126",
-  "ts_publish": 1754061477000,
-  "ts_update": 1754062018528,
+  "version_latest": "0.0.127",
+  "ts_publish": 1754405529000,
+  "ts_update": 1754407030268,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [

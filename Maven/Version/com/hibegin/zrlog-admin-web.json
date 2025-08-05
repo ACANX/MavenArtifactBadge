@@ -1,13 +1,29 @@
 {
 	"home_page":"https://github.com/zrlog-extensions/zrlog-admin-web",
 	"license":"Apache 2.0",
-	"ranking":"#849264 in MvnRepository",
+	"ranking":"#642309 in MvnRepository",
 	"tags":[
 		"admin",
 		"web"
 	],
-	"ts":1754401508664,
-	"version":[
+	"ts_update":1754408233674,
+	"versions":[
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.2.77",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.2.76",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250803",
 			"repository":"Central",
@@ -150,22 +166,6 @@
 			"type":"release",
 			"usage":0,
 			"version":"3.2.47",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250727",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"3.2.38",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250726",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"3.2.37",
 			"vulnerabilities":""
 		}
 	]

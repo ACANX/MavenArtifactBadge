@@ -3,9 +3,9 @@
   "description": "dependency-bom",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "dependency-bom",
-  "version_latest": "6.7.2",
-  "ts_publish": 1754234903000,
-  "ts_update": 1754235422526,
+  "version_latest": "6.7.4",
+  "ts_publish": 1754407912000,
+  "ts_update": 1754408822009,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

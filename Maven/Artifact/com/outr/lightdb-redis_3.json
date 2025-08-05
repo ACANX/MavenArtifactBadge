@@ -3,9 +3,9 @@
   "description": "lightdb-redis",
   "group_id": "com.outr",
   "artifact_id": "lightdb-redis_3",
-  "version_latest": "4.1.0",
-  "ts_publish": 1754070682000,
-  "ts_update": 1754071620260,
+  "version_latest": "4.2.0",
+  "ts_publish": 1754405372000,
+  "ts_update": 1754406428057,
   "count_dep": 36,
   "count_ref": 1,
   "licenses": [

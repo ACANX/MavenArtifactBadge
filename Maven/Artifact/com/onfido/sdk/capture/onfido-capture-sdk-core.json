@@ -3,9 +3,9 @@
   "description": "Android SDK containing the core functionality of the Onfido Android SDK. This is an internal Onfido dependency and therefore should be used as a replacement for the Onfido Android SDK.",
   "group_id": "com.onfido.sdk.capture",
   "artifact_id": "onfido-capture-sdk-core",
-  "version_latest": "23.0.0",
-  "ts_publish": 1753798934000,
-  "ts_update": 1753799645256,
+  "version_latest": "23.1.0",
+  "ts_publish": 1754404191000,
+  "ts_update": 1754405103589,
   "count_dep": 50,
   "count_ref": 2,
   "licenses": [

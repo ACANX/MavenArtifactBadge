@@ -2,15 +2,15 @@
 	"count_used_by":4,
 	"home_page":"https://github.com/Kotlin/dataframe",
 	"license":"Apache 2.0",
-	"ranking":"#101025 in MvnRepository",
+	"ranking":"#101070 in MvnRepository",
 	"tags":[
 		"dataframe",
 		"csv",
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401505214,
-	"version":[
+	"ts_update":1754410633073,
+	"versions":[
 		{
 			"date":"20250514",
 			"repository":"Central",

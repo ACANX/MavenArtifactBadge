@@ -2,15 +2,15 @@
 	"count_used_by":1,
 	"home_page":"https://github.com/Kotlin/dataframe",
 	"license":"Apache 2.0",
-	"ranking":"#270352 in MvnRepository",
+	"ranking":"#270413 in MvnRepository",
 	"tags":[
 		"geo",
 		"dataframe",
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401508871,
-	"version":[
+	"ts_update":1754410637265,
+	"versions":[
 		{
 			"date":"20250514",
 			"repository":"Central",

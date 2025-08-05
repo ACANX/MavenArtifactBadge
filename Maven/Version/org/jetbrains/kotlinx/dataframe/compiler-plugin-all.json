@@ -1,7 +1,7 @@
 {
 	"home_page":"https://github.com/Kotlin/dataframe",
 	"license":"Apache 2.0",
-	"ranking":"#464246 in MvnRepository",
+	"ranking":"#464328 in MvnRepository",
 	"tags":[
 		"plugin",
 		"compiler",
@@ -9,8 +9,8 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts":1754401513207,
-	"version":[
+	"ts_update":1754410637065,
+	"versions":[
 		{
 			"date":"20250514",
 			"repository":"Central",

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.anyline/anyline-comm",
+  "description": "串、并口通信",
+  "group_id": "org.anyline",
+  "artifact_id": "anyline-comm",
+  "version_latest": "8.7.2-20250805",
+  "ts_publish": 1754408972000,
+  "ts_update": 1754410030501,
+  "count_dep": 14,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

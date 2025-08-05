@@ -1,13 +1,13 @@
 {
 	"home_page":"https://github.com/ministryofjustice/bichard7-next-data",
 	"license":"MIT",
-	"ranking":"#908049 in MvnRepository",
+	"ranking":"#910630 in MvnRepository",
 	"tags":[
 		"github",
 		"data"
 	],
-	"ts":1754392630171,
-	"version":[
+	"ts_update":1754408232205,
+	"versions":[
 		{
 			"date":"20250804",
 			"repository":"Central",

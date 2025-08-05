@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.qonversion/no-codes",
+  "description": "The subscription data platform for mobile-first companies.",
   "group_id": "io.qonversion",
   "artifact_id": "no-codes",
-  "latest_version": "0.0.6",
-  "description": "The subscription data platform for mobile-first companies.",
-  "id": "pkg:maven/io.qonversion/no-codes",
-  "ts": 1753274119000,
-  "dependency_count": 0,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "0.0.7",
+  "ts_publish": 1754407726000,
+  "ts_update": 1754408223952,
+  "count_dep": 7,
+  "count_ref": 0,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753274817805
+  "categories": null,
+  "dsv": 1
 }

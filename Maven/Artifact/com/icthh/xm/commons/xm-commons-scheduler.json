@@ -3,10 +3,10 @@
   "description": "xm-commons-scheduler",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-scheduler",
-  "version_latest": "4.0.47",
-  "ts_publish": 1754298639000,
-  "ts_update": 1754299021030,
-  "count_dep": 63,
+  "version_latest": "4.0.48",
+  "ts_publish": 1754405245000,
+  "ts_update": 1754406430454,
+  "count_dep": 79,
   "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
