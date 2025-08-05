@@ -726,9 +726,11 @@
     "io.github.jaloon:shardingsphere-jdbc": 1754374867000,
     "io.github.jaloon:sharding-jdbc-custom": 1754374867000,
     "io.github.jaloon:sharding-jdbc-bom": 1754374867000,
-    "io.github.devzwy:pdf_printer": 1754374740000,
+    "io.github.devzwy:pdf_printer": 1754375448000,
     "io.github.yidun:quicklogin": 1754374639000,
-    "in.payu:threeds-helper-sdk": 1754374630000
+    "in.payu:threeds-helper-sdk": 1754374630000,
+    "com.astrapay:android-sdk": 1754375382000,
+    "berlin.yuna:surveys": 1754375349000
   },
   "ts": 1754372641734
 }
