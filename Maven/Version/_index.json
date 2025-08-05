@@ -237,7 +237,8 @@
     "org.onebusaway:onebusaway-sdk-java": 1754425063000,
     "org.onebusaway:onebusaway-sdk-java-client-okhttp": 1754425063000,
     "org.onebusaway:onebusaway-sdk-java-core": 1754425063000,
-    "org.hisp:dhis2-java-client": 1754424755000
+    "org.hisp:dhis2-java-client": 1754424755000,
+    "org.mvnpm.at.patternfly:react-icons": 1754425460000
   },
   "ts_update": 1754420240527
 }
