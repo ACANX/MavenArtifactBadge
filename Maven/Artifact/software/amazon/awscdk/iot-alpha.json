@@ -3,9 +3,9 @@
   "description": "The CDK Construct Library for AWS::IoT",
   "group_id": "software.amazon.awscdk",
   "artifact_id": "iot-alpha",
-  "version_latest": "2.208.0-alpha.0",
-  "ts_publish": 1753822025000,
-  "ts_update": 1753822686936,
+  "version_latest": "2.209.0-alpha.0",
+  "ts_publish": 1754428687000,
+  "ts_update": 1754429221666,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
