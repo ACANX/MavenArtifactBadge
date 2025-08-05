@@ -3,9 +3,9 @@
   "description": "Solace Community v.1.0 Banner for PubSub+ Connectors",
   "group_id": "com.solace.connector.core.resource",
   "artifact_id": "pubsubplus-connector-banner-solace-community-v1-resource-bundle",
-  "version_latest": "2.16.5",
-  "ts_publish": 1754056842000,
-  "ts_update": 1754057824048,
+  "version_latest": "2.16.6",
+  "ts_publish": 1754424206000,
+  "ts_update": 1754424713304,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

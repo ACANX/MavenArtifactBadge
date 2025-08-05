@@ -3,9 +3,9 @@
   "description": "Bill of material for the Micro-Integration Platform",
   "group_id": "com.solace.microintegration.core",
   "artifact_id": "micro-integration-platform-bom",
-  "version_latest": "2.16.5",
-  "ts_publish": 1754056842000,
-  "ts_update": 1754057824046,
+  "version_latest": "2.16.6",
+  "ts_publish": 1754424206000,
+  "ts_update": 1754424714331,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

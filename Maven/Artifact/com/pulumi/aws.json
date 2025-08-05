@@ -3,9 +3,9 @@
   "description": "A Pulumi package for creating and managing Amazon Web Services (AWS) cloud resources.",
   "group_id": "com.pulumi",
   "artifact_id": "aws",
-  "version_latest": "7.2.0",
-  "ts_publish": 1754004895000,
-  "ts_update": 1754005410099,
+  "version_latest": "7.3.0",
+  "ts_publish": 1754424082000,
+  "ts_update": 1754424714332,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
