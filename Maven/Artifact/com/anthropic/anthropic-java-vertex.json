@@ -3,9 +3,9 @@
   "description": "An SDK library for anthropic",
   "group_id": "com.anthropic",
   "artifact_id": "anthropic-java-vertex",
-  "version_latest": "2.3.0",
-  "ts_publish": 1754416057000,
-  "ts_update": 1754416627760,
+  "version_latest": "2.3.1",
+  "ts_publish": 1754418593000,
+  "ts_update": 1754419625368,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [

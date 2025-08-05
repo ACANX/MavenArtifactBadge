@@ -1,13 +1,13 @@
 {
 	"map":{
+		"com.daml:ledger-api-value-proto":1754415302000,
 		"com.daml:codegen-java":1754415302000,
 		"com.daml:http-test-utils_2.13":1754415302000,
 		"com.daml:build-info_2.13":1754415302000,
 		"com.daml:timer-utils_2.13":1754415302000,
 		"com.daml:daml-lf-snapshot-proto":1754415302000,
 		"com.daml:community-admin-api_2.13":1754415302000,
-		"com.daml:codegen-jvm-main":1754415301000,
-		"com.daml:ledger-api-value-proto":1754415302000
+		"com.daml:codegen-jvm-main":1754415301000
 	},
-	"ts_update":1754419043753
+	"ts_update":1754419651973
 }

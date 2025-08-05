@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/software.aws.connect/amazon-connect-chat-android",
+  "description": "Amazon Connect Chat SDK for iOS",
+  "group_id": "software.aws.connect",
+  "artifact_id": "amazon-connect-chat-android",
+  "version_latest": "2.0.4",
+  "ts_publish": 1754418891000,
+  "ts_update": 1754419624720,
+  "count_dep": 19,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
