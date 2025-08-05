@@ -3,9 +3,9 @@
   "description": "UI5 Web Components: webcomponents.SAP-icons",
   "group_id": "org.mvnpm.at.ui5",
   "artifact_id": "webcomponents-icons",
-  "version_latest": "2.13.0",
-  "ts_publish": 1754324479000,
-  "ts_update": 1754324828892,
+  "version_latest": "2.13.1",
+  "ts_publish": 1754410879000,
+  "ts_update": 1754411426531,
   "count_dep": 1,
   "count_ref": 1,
   "licenses": [
