@@ -3,9 +3,9 @@
   "description": "JDBC support for Kotlin Dataframe",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "dataframe-jdbc",
-  "version_latest": "1.0.0-dev-7914",
-  "ts_publish": 1754398983000,
-  "ts_update": 1754399838057,
+  "version_latest": "1.0.0-dev-7918",
+  "ts_publish": 1754400714000,
+  "ts_update": 1754401496603,
   "count_dep": 8,
   "count_ref": 2,
   "licenses": [
