@@ -3,9 +3,9 @@
   "description": "A KMP library to interact with KitchenOS.",
   "group_id": "com.fresco-kitchenos",
   "artifact_id": "kitchenos-client-sdk-kos-core-iosarm64",
-  "version_latest": "1.37.3",
-  "ts_publish": 1753896349000,
-  "ts_update": 1753897063469,
+  "version_latest": "1.38.0",
+  "ts_publish": 1754405340000,
+  "ts_update": 1754406429048,
   "count_dep": 43,
   "count_ref": 0,
   "licenses": [

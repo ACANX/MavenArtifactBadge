@@ -3,11 +3,11 @@
   "description": "xm-commons-exceptions",
   "group_id": "com.icthh.xm.commons",
   "artifact_id": "xm-commons-exceptions",
-  "version_latest": "4.0.47",
-  "ts_publish": 1754298639000,
-  "ts_update": 1754299020561,
+  "version_latest": "4.0.48",
+  "ts_publish": 1754405245000,
+  "ts_update": 1754406429963,
   "count_dep": 0,
-  "count_ref": 6,
+  "count_ref": 22,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
