@@ -747,7 +747,17 @@
     "com.exactpro.th2.gradle.grpc:com.exactpro.th2.gradle.grpc.gradle.plugin": 1754376143000,
     "com.exactpro.th2.gradle.publish:com.exactpro.th2.gradle.publish.gradle.plugin": 1754376143000,
     "com.mazepeng:Kaptcha": 1754376811000,
-    "io.openim:core-sdk": 1754376614000
+    "io.openim:core-sdk": 1754376614000,
+    "com.thewebsnippet:manager": 1754377701000,
+    "org.brapi.brapi-schema-tools:brapi-schema-tools-core": 1754377698000,
+    "org.brapi.brapi-schema-tools:brapi-schema-tools-analyse": 1754377698000,
+    "org.brapi.brapi-schema-tools:brapi-schema-tools-cli": 1754377698000,
+    "com.adamglin:compose-continuous-rounded-corner-shape-android": 1754377137000,
+    "com.adamglin:compose-continuous-rounded-corner-shape-jvm": 1754377137000,
+    "com.adamglin:compose-continuous-rounded-corner-shape-js": 1754377137000,
+    "com.adamglin:compose-continuous-rounded-corner-shape": 1754377137000,
+    "com.adamglin:compose-continuous-rounded-corner-shape-wasm-js": 1754377137000,
+    "com.thewebsnippet:data": 1754377033000
   },
   "ts": 1754372641734
 }

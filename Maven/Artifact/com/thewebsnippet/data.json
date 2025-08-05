@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.thewebsnippet/data",
+  "description": "A collection of data",
   "group_id": "com.thewebsnippet",
   "artifact_id": "data",
-  "latest_version": "1.5.5",
-  "description": "A collection of data",
-  "id": "pkg:maven/com.thewebsnippet/data",
-  "ts": 1753705576000,
-  "dependency_count": 0,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "1.5.6",
+  "ts_publish": 1754377033000,
+  "ts_update": 1754378225452,
+  "count_dep": 5,
+  "count_ref": 1,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753706217525
+  "categories": null,
+  "dsv": 1
 }
