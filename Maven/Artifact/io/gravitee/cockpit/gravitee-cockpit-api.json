@@ -3,9 +3,9 @@
   "description": "The Gravitee.IO Parent POM provides common settings for all Gravitee components.",
   "group_id": "io.gravitee.cockpit",
   "artifact_id": "gravitee-cockpit-api",
-  "version_latest": "3.8.29",
-  "ts_publish": 1753790596000,
-  "ts_update": 1753793727540,
+  "version_latest": "3.8.30",
+  "ts_publish": 1754397609000,
+  "ts_update": 1754398626110,
   "count_dep": 53,
   "count_ref": 0,
   "licenses": [

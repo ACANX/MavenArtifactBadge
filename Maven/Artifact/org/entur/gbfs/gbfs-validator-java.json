@@ -3,9 +3,9 @@
   "description": "Validate GBFS feeds",
   "group_id": "org.entur.gbfs",
   "artifact_id": "gbfs-validator-java",
-  "version_latest": "2.0.37",
-  "ts_publish": 1754390185000,
-  "ts_update": 1754390682033,
+  "version_latest": "2.0.38",
+  "ts_publish": 1754397863000,
+  "ts_update": 1754398626108,
   "count_dep": 15,
   "count_ref": 0,
   "licenses": [

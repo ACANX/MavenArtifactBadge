@@ -1,12 +1,12 @@
 {
   "id": "pkg:maven/io.kestra/model",
-  "description": "io.kestra:model:0.23.9",
+  "description": "io.kestra:model:0.24.0",
   "group_id": "io.kestra",
   "artifact_id": "model",
-  "version_latest": "0.23.9",
-  "ts_publish": 1753798508000,
-  "ts_update": 1753799216695,
-  "count_dep": 32,
+  "version_latest": "0.24.0",
+  "ts_publish": 1754397551000,
+  "ts_update": 1754398626698,
+  "count_dep": 33,
   "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"

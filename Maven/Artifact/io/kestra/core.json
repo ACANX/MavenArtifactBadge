@@ -1,12 +1,12 @@
 {
   "id": "pkg:maven/io.kestra/core",
-  "description": "io.kestra:core:0.23.9",
+  "description": "io.kestra:core:0.24.0",
   "group_id": "io.kestra",
   "artifact_id": "core",
-  "version_latest": "0.23.9",
-  "ts_publish": 1753798508000,
-  "ts_update": 1753799216691,
-  "count_dep": 79,
+  "version_latest": "0.24.0",
+  "ts_publish": 1754397551000,
+  "ts_update": 1754398626110,
+  "count_dep": 81,
   "count_ref": 6,
   "licenses": [
     "The Apache License, Version 2.0"
