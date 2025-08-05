@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.daml/resources-grpc_2.13",
+  "description": "TBD",
+  "group_id": "com.daml",
+  "artifact_id": "resources-grpc_2.13",
+  "version_latest": "3.4.0-adhoc.20250805.14053.0.v97bb7721",
+  "ts_publish": 1754413029000,
+  "ts_update": 1754413631580,
+  "count_dep": 23,
+  "count_ref": 5,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

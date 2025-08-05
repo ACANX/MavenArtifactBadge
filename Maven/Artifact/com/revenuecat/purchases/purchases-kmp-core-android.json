@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.revenuecat.purchases/purchases-kmp-core-android",
+  "description": "Mobile subscriptions in hours, not months.",
   "group_id": "com.revenuecat.purchases",
   "artifact_id": "purchases-kmp-core-android",
-  "latest_version": "2.0.1+16.0.2",
-  "description": "Mobile subscriptions in hours, not months.",
-  "id": "pkg:maven/com.revenuecat.purchases/purchases-kmp-core-android",
-  "ts": 1753348405000,
-  "dependency_count": 4,
-  "ref_count": 6,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "2.1.0+16.2.0",
+  "ts_publish": 1754412958000,
+  "ts_update": 1754413631586,
+  "count_dep": 6,
+  "count_ref": 4,
   "licenses": [
     "The MIT License (MIT)"
   ],
-  "last_updated": 1753349223181
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
