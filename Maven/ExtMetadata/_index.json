@@ -45,8 +45,8 @@
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-yaml":1754356407000,
 		"com.fasterxml.jackson.datatype:jackson-datatype-hibernate5-jakarta":1754357482000,
 		"me.ahoo.wow:wow-spring-boot-starter":1754356244000,
-		"com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations":1754356209000,
 		"io.gitee.javasme:jbolt-framework-distribute":1754360402000,
+		"com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations":1754356209000,
 		"com.fasterxml.jackson.core:jackson-core":1754355279000,
 		"org.dromara.warm:warm-flow":1754357497000,
 		"org.dromara.warm:warm-flow-plugin-ui-core":1754357497000,
@@ -54,9 +54,9 @@
 		"me.ahoo.wow:wow-webflux":1754356244000,
 		"com.fasterxml.jackson.datatype:jackson-datatype-guava":1754356979000,
 		"me.ahoo.wow:wow-api":1754356244000,
-		"com.fasterxml.jackson.module:jackson-module-json_schema-jakarta":1754356740000,
-		"org.dromara.warm:warm-flow-plugin-modes-solon":1754357497000,
 		"io.github.growthbook:_growth_book-js":1754358432000,
+		"org.dromara.warm:warm-flow-plugin-modes-solon":1754357497000,
+		"com.fasterxml.jackson.module:jackson-module-json_schema-jakarta":1754356740000,
 		"io.github.yidun:one_pass":1754359730000,
 		"io.gitee.javasme:jbolt-framework-common":1754360402000,
 		"me.ahoo.wow:wow-spring":1754356244000,
@@ -87,8 +87,8 @@
 		"io.github.growthbook:_growth_book":1754358153000,
 		"com.fasterxml.jackson.module:jackson-module-osgi":1754356209000,
 		"club.gepetto:gepetto-utils":1754353785000,
-		"com.fasterxml.jackson.dataformat:jackson-dataformat-toml":1754356407000,
 		"com.fasterxml.jackson.jr:jackson-jr-record-test":1754355805000,
+		"com.fasterxml.jackson.dataformat:jackson-dataformat-toml":1754356407000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-smile":1754356325000,
 		"com.fasterxml.jackson.jr:jackson-jr-parent":1754355805000,
 		"me.ahoo.wow:wow-bom":1754356244000,
@@ -105,8 +105,8 @@
 		"com.fasterxml.jackson.datatype:jackson-datatype-hibernate5":1754357482000,
 		"com.fasterxml.jackson.datatype:jackson-datatype-hibernate4":1754357482000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-avro":1754356325000,
-		"com.fasterxml.jackson.jr:jackson-jr-stree":1754355805000,
 		"org.dromara.warm:warm-flow-plugin":1754357497000,
+		"com.fasterxml.jackson.jr:jackson-jr-stree":1754355805000,
 		"io.gitee.javasme:jbolt-framework-formula":1754360402000,
 		"io.github.flynndi:micronaut-jimmer-repository-processor":1754353552000,
 		"com.fasterxml.jackson.jr:jackson-jr-all":1754355805000,
@@ -195,5 +195,5 @@
 		"me.ahoo.wow:wow-apiclient":1754356244000,
 		"io.github.eureka1986:cxai-spring-boot-starter":1754359617000
 	},
-	"ts":1754362653951
+	"ts":1754363046207
 }
