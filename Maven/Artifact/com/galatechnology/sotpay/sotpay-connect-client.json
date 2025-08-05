@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/com.galatechnology.sotpay/sotpay-connect-client",
+  "description": "Client for interacting with the SOTpay Connect REST API endpoints",
   "group_id": "com.galatechnology.sotpay",
   "artifact_id": "sotpay-connect-client",
-  "latest_version": "1.4.2",
-  "description": "Client for interacting with the SOTpay Connect REST API endpoints",
-  "id": "pkg:maven/com.galatechnology.sotpay/sotpay-connect-client",
-  "ts": 1753435087000,
-  "dependency_count": 0,
-  "ref_count": 60,
-  "categories": null,
+  "version_latest": "1.4.3",
+  "ts_publish": 1754391714000,
+  "ts_update": 1754392622899,
+  "count_dep": 60,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753435618124
+  "categories": null,
+  "dsv": 1
 }

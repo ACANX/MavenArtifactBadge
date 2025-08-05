@@ -3,9 +3,9 @@
   "description": "The data for bichard",
   "group_id": "io.github.ministryofjustice.bichard7",
   "artifact_id": "bichard7-next-data",
-  "version_latest": "2.0.292",
-  "ts_publish": 1754307542000,
-  "ts_update": 1754308020836,
+  "version_latest": "2.0.293",
+  "ts_publish": 1754392161000,
+  "ts_update": 1754392622897,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
