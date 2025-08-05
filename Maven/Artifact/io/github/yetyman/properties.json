@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.yetyman/properties",
+  "description": "Sample application",
+  "group_id": "io.github.yetyman",
+  "artifact_id": "properties",
+  "version_latest": "2025.08.05.1-ALPHA",
+  "ts_publish": 1754369498000,
+  "ts_update": 1754370332650,
+  "count_dep": 6,
+  "count_ref": 1,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}
