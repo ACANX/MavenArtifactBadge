@@ -3,9 +3,9 @@
   "description": "Event Store Adapter for Java",
   "group_id": "io.github.j5ik2o",
   "artifact_id": "event-store-adapter-java",
-  "version_latest": "1.2.66",
-  "ts_publish": 1754180901000,
-  "ts_update": 1754181425871,
+  "version_latest": "1.2.67",
+  "ts_publish": 1754353566000,
+  "ts_update": 1754353957141,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [
