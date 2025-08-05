@@ -3,9 +3,9 @@
   "description": "application framework package",
   "group_id": "com.labijie.application",
   "artifact_id": "framework-email-starter",
-  "version_latest": "3.3.5",
-  "ts_publish": 1754368500000,
-  "ts_update": 1754369225087,
+  "version_latest": "3.3.6",
+  "ts_publish": 1754388922000,
+  "ts_update": 1754389625409,
   "count_dep": 104,
   "count_ref": 0,
   "licenses": [

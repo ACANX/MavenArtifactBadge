@@ -3,9 +3,9 @@
   "description": "application framework package",
   "group_id": "com.labijie.application",
   "artifact_id": "framework-hcaptcha-starter",
-  "version_latest": "3.3.5",
-  "ts_publish": 1754368500000,
-  "ts_update": 1754369225089,
+  "version_latest": "3.3.6",
+  "ts_publish": 1754388922000,
+  "ts_update": 1754389625411,
   "count_dep": 148,
   "count_ref": 0,
   "licenses": [
