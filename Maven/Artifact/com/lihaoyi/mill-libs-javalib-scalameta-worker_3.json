@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-scalameta-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-scalameta-worker_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362183000,
-  "ts_update": 1754363224436,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385466000,
+  "ts_update": 1754386624733,
   "count_dep": 26,
   "count_ref": 0,
   "licenses": [

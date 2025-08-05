@@ -3,10 +3,10 @@
   "description": "mill-testkit",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-testkit_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362253000,
-  "ts_update": 1754363223723,
-  "count_dep": 45,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385490000,
+  "ts_update": 1754386623671,
+  "count_dep": 35,
   "count_ref": 0,
   "licenses": [
     "MIT"

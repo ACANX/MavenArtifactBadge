@@ -3,10 +3,10 @@
   "description": "mill-runner-bsp",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-bsp_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362228000,
-  "ts_update": 1754363223727,
-  "count_dep": 8,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385481000,
+  "ts_update": 1754386623675,
+  "count_dep": 33,
   "count_ref": 2,
   "licenses": [
     "MIT"

@@ -3,9 +3,9 @@
   "description": "mill-dist-native-windows-amd64",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-windows-amd64",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754361599000,
-  "ts_update": 1754362623860,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754384941000,
+  "ts_update": 1754386626386,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

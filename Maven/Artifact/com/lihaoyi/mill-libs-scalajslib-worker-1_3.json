@@ -3,9 +3,9 @@
   "description": "mill-libs-scalajslib-worker-1",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-scalajslib-worker-1_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362215000,
-  "ts_update": 1754363223729,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385482000,
+  "ts_update": 1754386623675,
   "count_dep": 89,
   "count_ref": 0,
   "licenses": [

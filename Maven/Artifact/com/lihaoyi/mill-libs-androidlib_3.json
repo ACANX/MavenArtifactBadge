@@ -3,9 +3,9 @@
   "description": "mill-libs-androidlib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-androidlib_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362144000,
-  "ts_update": 1754363225095,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385455000,
+  "ts_update": 1754386624739,
   "count_dep": 9,
   "count_ref": 3,
   "licenses": [

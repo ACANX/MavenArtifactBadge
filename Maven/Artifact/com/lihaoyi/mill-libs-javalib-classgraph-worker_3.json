@@ -3,9 +3,9 @@
   "description": "mill-libs-javalib-classgraph-worker",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib-classgraph-worker_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362169000,
-  "ts_update": 1754363224438,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385463000,
+  "ts_update": 1754386624736,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [

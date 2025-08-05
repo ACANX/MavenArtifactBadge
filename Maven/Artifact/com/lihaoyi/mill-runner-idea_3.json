@@ -3,9 +3,9 @@
   "description": "mill-runner-idea",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-idea_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362242000,
-  "ts_update": 1754363223725,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385486000,
+  "ts_update": 1754386623673,
   "count_dep": 10,
   "count_ref": 1,
   "licenses": [

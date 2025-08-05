@@ -3,9 +3,9 @@
   "description": "Aliyun Open API SDK for Java\nCopyright (C) Alibaba Cloud Computing\nAll rights reserved.\n版权所有 （C）阿里云计算有限公司\nhttp://www.aliyun.com",
   "group_id": "com.aliyun",
   "artifact_id": "aliyun-java-sdk-live",
-  "version_latest": "3.9.68",
-  "ts_publish": 1753761654000,
-  "ts_update": 1753762020569,
+  "version_latest": "3.9.69",
+  "ts_publish": 1754385569000,
+  "ts_update": 1754386623669,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [

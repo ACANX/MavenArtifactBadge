@@ -3,9 +3,9 @@
   "description": "Scala SDK for Cognite Data Fusion.",
   "group_id": "com.cognite",
   "artifact_id": "cognite-sdk-scala_2.13",
-  "version_latest": "2.32.919",
-  "ts_publish": 1754382867000,
-  "ts_update": 1754383623763,
+  "version_latest": "2.32.920",
+  "ts_publish": 1754384621000,
+  "ts_update": 1754386626854,
   "count_dep": 53,
   "count_ref": 0,
   "licenses": [

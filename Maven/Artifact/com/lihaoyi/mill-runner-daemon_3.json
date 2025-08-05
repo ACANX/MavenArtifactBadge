@@ -3,10 +3,10 @@
   "description": "mill-runner-daemon",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-daemon_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362240000,
-  "ts_update": 1754363223725,
-  "count_dep": 131,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385490000,
+  "ts_update": 1754386623671,
+  "count_dep": 128,
   "count_ref": 0,
   "licenses": [
     "MIT"

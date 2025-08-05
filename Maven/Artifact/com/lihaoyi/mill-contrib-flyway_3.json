@@ -3,9 +3,9 @@
   "description": "mill-contrib-flyway",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-flyway_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362066000,
-  "ts_update": 1754363225805,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385433000,
+  "ts_update": 1754386625846,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [

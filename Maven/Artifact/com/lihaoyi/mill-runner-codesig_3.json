@@ -3,10 +3,10 @@
   "description": "mill-runner-codesig",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-runner-codesig_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362233000,
-  "ts_update": 1754363223726,
-  "count_dep": 19,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385484000,
+  "ts_update": 1754386623673,
+  "count_dep": 32,
   "count_ref": 2,
   "licenses": [
     "MIT"

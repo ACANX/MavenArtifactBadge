@@ -3,9 +3,9 @@
   "description": "mill-contrib-artifactory",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-contrib-artifactory_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362056000,
-  "ts_update": 1754363225807,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385429000,
+  "ts_update": 1754386625848,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [

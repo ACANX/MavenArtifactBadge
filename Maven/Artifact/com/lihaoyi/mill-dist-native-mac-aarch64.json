@@ -3,9 +3,9 @@
   "description": "mill-dist-native-mac-aarch64",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-dist-native-mac-aarch64",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754361560000,
-  "ts_update": 1754362623860,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754384883000,
+  "ts_update": 1754386626387,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

@@ -3,9 +3,9 @@
   "description": "mill-libs-graphviz",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-graphviz_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362149000,
-  "ts_update": 1754363225093,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385464000,
+  "ts_update": 1754386624734,
   "count_dep": 45,
   "count_ref": 0,
   "licenses": [

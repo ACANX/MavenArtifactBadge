@@ -3,11 +3,11 @@
   "description": "mill-libs-javalib",
   "group_id": "com.lihaoyi",
   "artifact_id": "mill-libs-javalib_3",
-  "version_latest": "1.0.2-24-4cc427",
-  "ts_publish": 1754362180000,
-  "ts_update": 1754363224436,
+  "version_latest": "1.0.3",
+  "ts_publish": 1754385471000,
+  "ts_update": 1754386624181,
   "count_dep": 33,
-  "count_ref": 25,
+  "count_ref": 29,
   "licenses": [
     "MIT"
   ],
