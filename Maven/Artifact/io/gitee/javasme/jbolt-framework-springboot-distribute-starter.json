@@ -3,9 +3,9 @@
   "description": "分布式同步锁",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-springboot-distribute-starter",
-  "version_latest": "1.1.10",
-  "ts_publish": 1754291107000,
-  "ts_update": 1754291819214,
+  "version_latest": "1.1.11",
+  "ts_publish": 1754360402000,
+  "ts_update": 1754360822498,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [
