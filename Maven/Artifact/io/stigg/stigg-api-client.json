@@ -3,9 +3,9 @@
   "description": "API client for Stigg",
   "group_id": "io.stigg",
   "artifact_id": "stigg-api-client",
-  "version_latest": "2.503.0",
-  "ts_publish": 1754304469000,
-  "ts_update": 1754304937029,
+  "version_latest": "3.3.0",
+  "ts_publish": 1754390408000,
+  "ts_update": 1754390682031,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
