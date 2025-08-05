@@ -10,8 +10,8 @@
 		"prometheus",
 		"import"
 	],
-	"ts":1754402832032,
-	"version":[
+	"ts_update":1754407059201,
+	"versions":[
 		{
 			"date":"20250725",
 			"repository":"Central",

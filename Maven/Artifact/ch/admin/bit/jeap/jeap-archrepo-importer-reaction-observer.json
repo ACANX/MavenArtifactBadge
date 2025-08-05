@@ -3,9 +3,9 @@
   "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-importer-reaction-observer",
-  "version_latest": "1.30.0",
-  "ts_publish": 1754401969000,
-  "ts_update": 1754402825252,
+  "version_latest": "1.30.1",
+  "ts_publish": 1754405941000,
+  "ts_update": 1754407028466,
   "count_dep": 128,
   "count_ref": 2,
   "licenses": [
