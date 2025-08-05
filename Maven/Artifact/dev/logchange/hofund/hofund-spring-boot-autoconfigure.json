@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.logchange.hofund/hofund-spring-boot-autoconfigure",
+  "description": "A module for automatic configuration of Hofund in Spring Boot applications, offering predefined settings and\n        integration logic to minimize the need for manual configuration.",
+  "group_id": "dev.logchange.hofund",
+  "artifact_id": "hofund-spring-boot-autoconfigure",
+  "version_latest": "2.8.0",
+  "ts_publish": 1754403063000,
+  "ts_update": 1754403761033,
+  "count_dep": 29,
+  "count_ref": 3,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

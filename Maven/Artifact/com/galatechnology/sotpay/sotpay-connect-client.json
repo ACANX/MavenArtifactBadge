@@ -3,9 +3,9 @@
   "description": "Client for interacting with the SOTpay Connect REST API endpoints",
   "group_id": "com.galatechnology.sotpay",
   "artifact_id": "sotpay-connect-client",
-  "version_latest": "1.4.3",
-  "ts_publish": 1754391714000,
-  "ts_update": 1754392622899,
+  "version_latest": "1.4.4",
+  "ts_publish": 1754402913000,
+  "ts_update": 1754403761686,
   "count_dep": 60,
   "count_ref": 0,
   "licenses": [

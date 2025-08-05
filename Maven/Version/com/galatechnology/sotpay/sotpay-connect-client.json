@@ -1,13 +1,13 @@
 {
 	"home_page":"https://www.sotpay.co.uk",
 	"license":"MIT",
-	"ranking":"#792405 in MvnRepository",
+	"ranking":"#917501 in MvnRepository",
 	"tags":[
 		"client",
 		"connection"
 	],
-	"ts":1754392631130,
-	"version":[
+	"ts_update":1754403768875,
+	"versions":[
 		{
 			"date":"20250725",
 			"repository":"Central",

@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.logchange.hofund/hofund-core",
+  "description": "Core hofund classes allowing to publish prometheus metrics",
+  "group_id": "dev.logchange.hofund",
+  "artifact_id": "hofund-core",
+  "version_latest": "2.8.0",
+  "ts_publish": 1754403063000,
+  "ts_update": 1754403761034,
+  "count_dep": 8,
+  "count_ref": 5,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

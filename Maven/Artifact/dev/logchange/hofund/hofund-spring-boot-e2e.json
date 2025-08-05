@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/dev.logchange.hofund/hofund-spring-boot-e2e",
+  "description": "E2E test of hofund spring boot starter",
+  "group_id": "dev.logchange.hofund",
+  "artifact_id": "hofund-spring-boot-e2e",
+  "version_latest": "2.8.0",
+  "ts_publish": 1754403063000,
+  "ts_update": 1754403761031,
+  "count_dep": 54,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}
