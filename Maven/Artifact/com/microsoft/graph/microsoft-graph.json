@@ -3,9 +3,9 @@
   "description": "Microsoft Graph SDK",
   "group_id": "com.microsoft.graph",
   "artifact_id": "microsoft-graph",
-  "version_latest": "6.48.0",
-  "ts_publish": 1753893297000,
-  "ts_update": 1753894024800,
+  "version_latest": "6.49.0",
+  "ts_publish": 1754431966000,
+  "ts_update": 1754432824030,
   "count_dep": 29,
   "count_ref": 0,
   "licenses": [
