@@ -13,8 +13,8 @@
 		"com.fasterxml.jackson.module:jackson-module-kotlin":1754357670000,
 		"com.lihaoyi:mill-libs-tabcomplete_3":1754362224000,
 		"com.lihaoyi:mill-libs-pythonlib_3":1754362203000,
-		"io.github.robert-hanuschke:cdk-utils":1754367159000,
 		"io.github.turchenkoalex:kotlet-cors":1754364266000,
+		"io.github.robert-hanuschke:cdk-utils":1754367159000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-xml":1754356535000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformats-binary":1754356325000,
 		"com.lihaoyi:mill-contrib-playlib-worker-2.6_2.12":1754362073000,
@@ -54,6 +54,7 @@
 		"com.lihaoyi:mill-contrib-playlib-worker-2.8_2.13":1754362076000,
 		"com.fasterxml.jackson.module:jackson-module-blackbird":1754356209000,
 		"com.fasterxml.jackson.module:jackson-module-android-record":1754356209000,
+		"io.github.yairm210:purity-annotations-jvm":1754368095000,
 		"org.beangle.sas:beangle-sas-core":1754360045000,
 		"com.fasterxml.jackson.jr:jackson-jr-retrofit2":1754355805000,
 		"me.ahoo.wow:wow-opentelemetry":1754356244000,
@@ -111,6 +112,7 @@
 		"com.fasterxml.jackson.datatype:jackson-datatype-moneta":1754357090000,
 		"io.github.turchenkoalex:kotlet-typesafe":1754364266000,
 		"com.lihaoyi:mill-libs-scalanativelib-api_3":1754362218000,
+		"io.github.yairm210:purity-compiler-plugin":1754368107000,
 		"me.ahoo.wow:wow-test":1754356244000,
 		"com.lihaoyi:mill-libs-androidlib-hilt_3":1754362145000,
 		"com.fasterxml.jackson.module:jackson-module-json_schema-parent":1754356740000,
@@ -321,6 +323,7 @@
 		"com.azure.resourcemanager:azure-resourcemanager-compute":1754367430000,
 		"io.github.flynndi:micronaut-jimmer":1754353552000,
 		"com.fasterxml.jackson.core:jackson-databind":1754355700000,
+		"io.github.yairm210:purity-annotations":1754368095000,
 		"com.lihaoyi:mill-libs-scalajslib-worker-1_3":1754362215000,
 		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-kotlin":1754353552000,
 		"com.fasterxml.jackson.module:jackson-module-guice7":1754356209000,
@@ -333,5 +336,5 @@
 		"me.ahoo.wow:wow-apiclient":1754356244000,
 		"io.github.eureka1986:cxai-spring-boot-starter":1754359617000
 	},
-	"ts":1754368470556
+	"ts":1754368730893
 }

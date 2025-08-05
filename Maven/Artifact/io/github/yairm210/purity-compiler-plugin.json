@@ -3,9 +3,9 @@
   "description": "The Compiler plugin for the Purity, which allows you to mark Kotlin functions as pure and readonly",
   "group_id": "io.github.yairm210",
   "artifact_id": "purity-compiler-plugin",
-  "version_latest": "0.0.43",
-  "ts_publish": 1754251720000,
-  "ts_update": 1754251984666,
+  "version_latest": "0.0.45",
+  "ts_publish": 1754368107000,
+  "ts_update": 1754368624497,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [
