@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-ide-workspace",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319303084,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408824109,
   "count_dep": 24,
-  "count_ref": 9,
+  "count_ref": 7,
   "licenses": [],
   "categories": [
     "Uncategorized"

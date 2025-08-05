@@ -3,9 +3,9 @@
   "description": "Core modules packaged with Dirigible",
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-database-sql-mysql",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319302440,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408826554,
   "count_dep": 113,
   "count_ref": 1,
   "licenses": [

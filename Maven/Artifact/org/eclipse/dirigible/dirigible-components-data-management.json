@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-data-management",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319305731,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407907000,
+  "ts_update": 1754408822627,
   "count_dep": 54,
-  "count_ref": 7,
+  "count_ref": 6,
   "licenses": [],
   "categories": [
     "Uncategorized"

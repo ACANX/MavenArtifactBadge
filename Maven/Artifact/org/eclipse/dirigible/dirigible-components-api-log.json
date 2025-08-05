@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-api-log",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319304450,
-  "count_dep": 45,
-  "count_ref": 5,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408824638,
+  "count_dep": 3,
+  "count_ref": 4,
   "licenses": [],
   "categories": [
     "Uncategorized"

@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-commons-config",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319302445,
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408826108,
   "count_dep": 0,
-  "count_ref": 24,
+  "count_ref": 21,
   "licenses": [],
   "categories": [
     "Uncategorized"

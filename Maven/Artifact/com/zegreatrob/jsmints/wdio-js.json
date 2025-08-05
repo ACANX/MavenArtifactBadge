@@ -3,9 +3,9 @@
   "description": "wdio",
   "group_id": "com.zegreatrob.jsmints",
   "artifact_id": "wdio-js",
-  "version_latest": "6.7.3",
-  "ts_publish": 1754321380000,
-  "ts_update": 1754322190939,
+  "version_latest": "6.7.4",
+  "ts_publish": 1754407912000,
+  "ts_update": 1754408822009,
   "count_dep": 4,
   "count_ref": 1,
   "licenses": [
