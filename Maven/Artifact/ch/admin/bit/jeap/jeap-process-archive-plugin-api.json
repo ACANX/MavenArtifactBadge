@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-process-archive-plugin-api",
+  "description": "JEAP Process Archive Service",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-process-archive-plugin-api",
-  "latest_version": "8.17.0",
-  "description": "JEAP Process Archive Service",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-process-archive-plugin-api",
-  "ts": 1753453824000,
-  "dependency_count": 9,
-  "ref_count": 43,
-  "categories": null,
+  "version_latest": "8.18.0",
+  "ts_publish": 1754404906000,
+  "ts_update": 1754405825239,
+  "count_dep": 43,
+  "count_ref": 9,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753454217343
+  "categories": null,
+  "dsv": 1
 }

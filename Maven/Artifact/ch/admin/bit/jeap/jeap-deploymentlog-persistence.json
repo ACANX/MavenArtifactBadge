@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-persistence",
+  "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-deploymentlog-persistence",
-  "latest_version": "2.10.0",
-  "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-deploymentlog-persistence",
-  "ts": 1753453151000,
-  "dependency_count": 3,
-  "ref_count": 80,
-  "categories": null,
+  "version_latest": "2.11.0",
+  "ts_publish": 1754404617000,
+  "ts_update": 1754405825759,
+  "count_dep": 80,
+  "count_ref": 3,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753453548127
+  "categories": null,
+  "dsv": 1
 }
