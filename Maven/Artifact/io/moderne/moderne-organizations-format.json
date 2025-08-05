@@ -3,9 +3,9 @@
   "description": "Parse Moderne repos.csv that contains the repository organizational structure.",
   "group_id": "io.moderne",
   "artifact_id": "moderne-organizations-format",
-  "version_latest": "0.18.0",
-  "ts_publish": 1753897149000,
-  "ts_update": 1753898055344,
+  "version_latest": "0.19.0",
+  "ts_publish": 1754357919000,
+  "ts_update": 1754358423306,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
