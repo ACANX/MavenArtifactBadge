@@ -64,7 +64,7 @@
     "org.dromara.warm:warm-flow-plugin-ui-core": 1754357497000,
     "com.gitee.l0km:sql2java-manager": 1754368553000,
     "com.fasterxml.jackson.datatype:jackson-datatype-guava": 1754356979000,
-    "io.github.yetyman:javafx-editor-base": 1754369498000,
+    "io.github.yetyman:javafx-editor-base": 1754375602000,
     "com.gitee.l0km:sql2java-excel": 1754368553000,
     "com.azure.resourcemanager:azure-resourcemanager-resources": 1754367430000,
     "com.eygraber:vice-portal-iossimulatorarm64": 1754369441000,
@@ -730,7 +730,8 @@
     "io.github.yidun:quicklogin": 1754374639000,
     "in.payu:threeds-helper-sdk": 1754374630000,
     "com.astrapay:android-sdk": 1754375382000,
-    "berlin.yuna:surveys": 1754375349000
+    "berlin.yuna:surveys": 1754375349000,
+    "cloud.trustpin:kotlin-sdk": 1754375743000
   },
   "ts": 1754372641734
 }
