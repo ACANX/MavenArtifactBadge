@@ -41,7 +41,9 @@
     "com.ticketmaster.retail:purchase": 1754420643000,
     "com.ticketmaster.retail:analytics": 1754420643000,
     "com.amplitude:amplitude-engagement-android": 1754420416000,
-    "com.azuriom:azauth": 1754420084000
+    "com.azuriom:azauth": 1754420084000,
+    "io.spinnaker.gate:gate-header": 1754421210000,
+    "io.spinnaker.kork:kork-docker": 1754420978000
   },
   "ts_update": 1754420240527
 }

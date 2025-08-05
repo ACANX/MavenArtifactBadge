@@ -1,170 +1,171 @@
 {
-	"home_page":"https://github.com/kestra-io/storage-gcs",
+	"count_used_by":1,
+	"home_page":"https://github.com/spinnaker/gate",
 	"license":"Apache 2.0",
-	"ranking":"#701636 in MvnRepository",
+	"ranking":"#407056 in MvnRepository",
 	"tags":[
-		"storage"
+		"spinnaker"
 	],
-	"ts_update":1754422031829,
+	"ts_update":1754422037479,
 	"versions":[
 		{
-			"date":"20250617",
+			"date":"20250805",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"0.23.0",
+			"version":"main-50",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250527",
+			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.22.1",
+			"usage":1,
+			"version":"main-49",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250401",
+			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.22.0",
+			"usage":1,
+			"version":"main-48",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250204",
+			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.21.0",
+			"usage":1,
+			"version":"main-47",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250107",
+			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.20.1",
+			"usage":1,
+			"version":"main-46",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20241203",
+			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.20.0",
+			"usage":1,
+			"version":"main-45",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20241001",
+			"date":"20250729",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.19.0",
+			"usage":1,
+			"version":"main-44",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240807",
+			"date":"20250725",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.18.0",
+			"usage":1,
+			"version":"main-43",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240604",
+			"date":"20250724",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.17.0",
+			"usage":1,
+			"version":"main-42",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240411",
+			"date":"20250722",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.16.0",
+			"usage":1,
+			"version":"main-41",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20241125",
+			"date":"20250722",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.15.2",
+			"usage":1,
+			"version":"main-40",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240422",
+			"date":"20250721",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.15.1",
+			"usage":1,
+			"version":"main-39",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240229",
+			"date":"20250718",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.15.0",
+			"usage":1,
+			"version":"main-38",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240120",
+			"date":"20250717",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.14.0",
+			"usage":1,
+			"version":"main-37",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20231128",
+			"date":"20250708",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.13.2",
+			"usage":1,
+			"version":"main-36",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20231121",
+			"date":"20250707",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.13.1",
+			"usage":1,
+			"version":"main-35",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20231116",
+			"date":"20250707",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.13.0",
+			"usage":1,
+			"version":"main-34",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20230928",
+			"date":"20250703",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.12.0",
+			"usage":1,
+			"version":"main-33",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20230830",
+			"date":"20250702",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.11.0",
+			"usage":1,
+			"version":"main-32",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20230524",
+			"date":"20250627",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
-			"version":"0.9.0",
+			"usage":1,
+			"version":"main-31",
 			"vulnerabilities":""
 		}
 	]
