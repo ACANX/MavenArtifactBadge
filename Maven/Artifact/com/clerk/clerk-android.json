@@ -3,9 +3,9 @@
   "description": "Clerk SDK for Android",
   "group_id": "com.clerk",
   "artifact_id": "clerk-android",
-  "version_latest": "0.1.5",
-  "ts_publish": 1754083372000,
-  "ts_update": 1754083622632,
+  "version_latest": "0.1.6",
+  "ts_publish": 1754363816000,
+  "ts_update": 1754364418669,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [
