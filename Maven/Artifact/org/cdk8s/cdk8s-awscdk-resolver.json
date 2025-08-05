@@ -3,10 +3,10 @@
   "description": "@cdk8s/awscdk-resolver",
   "group_id": "org.cdk8s",
   "artifact_id": "cdk8s-awscdk-resolver",
-  "version_latest": "0.0.333",
-  "ts_publish": 1754309554000,
-  "ts_update": 1754310422660,
-  "count_dep": 19,
+  "version_latest": "0.0.334",
+  "ts_publish": 1754395966000,
+  "ts_update": 1754396825726,
+  "count_dep": 20,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
