@@ -3,11 +3,11 @@
   "description": "klaw-file-core",
   "group_id": "cn.klaw",
   "artifact_id": "klaw-file-core-starter",
-  "version_latest": "5.2.0-RELEASE",
-  "ts_publish": 1754298381000,
-  "ts_update": 1754299021035,
+  "version_latest": "5.2.1-RELEASE",
+  "ts_publish": 1754399936000,
+  "ts_update": 1754400827629,
   "count_dep": 19,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.specmatic/specmatic-executable",
+  "description": "Command-line standalone executable jar for Specmatic",
   "group_id": "io.specmatic",
   "artifact_id": "specmatic-executable",
-  "latest_version": "2.17.3",
-  "description": "Command-line standalone executable jar for Specmatic",
-  "id": "pkg:maven/io.specmatic/specmatic-executable",
-  "ts": 1753528069000,
-  "dependency_count": 0,
-  "ref_count": 31,
-  "categories": null,
+  "version_latest": "2.18.2",
+  "ts_publish": 1754400065000,
+  "ts_update": 1754400827626,
+  "count_dep": 31,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753529217695
+  "categories": null,
+  "dsv": 1
 }
