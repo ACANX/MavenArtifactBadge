@@ -366,7 +366,13 @@
     "com.commercetools.sdk:commercetools-sdk-java-api-models_api_client": 1754396011000,
     "org.cdk8s:cdk8s-awscdk-resolver": 1754395966000,
     "io.numaproj.numaflow:numaflow-java": 1754395937000,
-    "com.geodesk:geodesk": 1754395914000
+    "com.geodesk:geodesk": 1754395914000,
+    "org.mvnpm.at.mantine:hooks": 1754396658000,
+    "org.cdk8s:cdk8s-cdktf-resolver": 1754396524000,
+    "com.metaeffekt.universe:ae-metaeffekt-universe": 1754396514000,
+    "org.cdk8s:cdk8s-grafana": 1754396464000,
+    "org.cdk8s:cdk8s-image": 1754396457000,
+    "org.cdk8s:cdk8s-redis": 1754396455000
   },
   "ts": 1754393224657
 }

@@ -3,9 +3,9 @@
   "description": "A collection of 50+ hooks for state and UI management",
   "group_id": "org.mvnpm.at.mantine",
   "artifact_id": "hooks",
-  "version_latest": "8.2.2",
-  "ts_publish": 1753892652000,
-  "ts_update": 1753893233682,
+  "version_latest": "8.2.3",
+  "ts_publish": 1754396658000,
+  "ts_update": 1754397422700,
   "count_dep": 2,
   "count_ref": 1,
   "licenses": [

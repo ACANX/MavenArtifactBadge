@@ -3,10 +3,10 @@
   "description": "@cdk8s/cdktf-resolver",
   "group_id": "org.cdk8s",
   "artifact_id": "cdk8s-cdktf-resolver",
-  "version_latest": "0.0.183",
-  "ts_publish": 1754311035000,
-  "ts_update": 1754311363084,
-  "count_dep": 16,
+  "version_latest": "0.0.184",
+  "ts_publish": 1754396524000,
+  "ts_update": 1754397422700,
+  "count_dep": 17,
   "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
