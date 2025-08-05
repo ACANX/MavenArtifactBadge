@@ -3,9 +3,9 @@
   "description": "Shared utilities and base classes for Kotlin Symbol Processing (KSP) development.\nProvides common KSP APIs, KotlinPoet utilities, and shared metadata for code generation tasks.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-ksp-shared",
-  "version_latest": "0.0.17",
-  "ts_publish": 1754246236000,
-  "ts_update": 1754246757190,
+  "version_latest": "0.0.18",
+  "ts_publish": 1754423262000,
+  "ts_update": 1754423822459,
   "count_dep": 9,
   "count_ref": 1,
   "licenses": [

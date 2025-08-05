@@ -3,10 +3,10 @@
   "description": "WeChat Pay integration implementation.\nProvides WeChat Pay V3 API integration, payment processing, and automated configuration for WeChat payment services.",
   "group_id": "io.github.truenine",
   "artifact_id": "composeserver-pay-wechat",
-  "version_latest": "0.0.17",
-  "ts_publish": 1754246236000,
-  "ts_update": 1754246756612,
-  "count_dep": 18,
+  "version_latest": "0.0.18",
+  "ts_publish": 1754423262000,
+  "ts_update": 1754423821764,
+  "count_dep": 21,
   "count_ref": 0,
   "licenses": [
     "GNU Lesser General Public License v2.1"
