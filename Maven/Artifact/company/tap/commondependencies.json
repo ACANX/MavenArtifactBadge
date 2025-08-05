@@ -3,9 +3,9 @@
   "description": "A library for executing dependent/Independent tasks in a reliable way for all the Tap Payments applications.",
   "group_id": "company.tap",
   "artifact_id": "commondependencies",
-  "version_latest": "1.0.416",
-  "ts_publish": 1754299164000,
-  "ts_update": 1754299622240,
+  "version_latest": "1.0.417",
+  "ts_publish": 1754381728000,
+  "ts_update": 1754382419589,
   "count_dep": 74,
   "count_ref": 0,
   "licenses": [

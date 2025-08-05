@@ -3,9 +3,9 @@
   "description": "HomeCareVod Core Api",
   "group_id": "io.github.zhangwenxue",
   "artifact_id": "homecarevod-tuicallkit-kt",
-  "version_latest": "0.0.5",
-  "ts_publish": 1754281173000,
-  "ts_update": 1754281621198,
+  "version_latest": "0.0.6",
+  "ts_publish": 1754381396000,
+  "ts_update": 1754382419595,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

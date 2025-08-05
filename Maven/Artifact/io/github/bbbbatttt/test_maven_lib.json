@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.bbbbatttt/test_maven_lib",
+  "description": "test maven lib hello world",
+  "group_id": "io.github.bbbbatttt",
+  "artifact_id": "test_maven_lib",
+  "version_latest": "0.0.1",
+  "ts_publish": 1754381347000,
+  "ts_update": 1754382419596,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache Software License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

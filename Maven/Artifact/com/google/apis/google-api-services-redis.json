@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.google.apis/google-api-services-redis",
+  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
   "group_id": "com.google.apis",
   "artifact_id": "google-api-services-redis",
-  "latest_version": "v1-rev20250718-2.0.0",
-  "description": "Sonatype helps open source projects to set up Maven repositories on https://oss.sonatype.org/",
-  "id": "pkg:maven/com.google.apis/google-api-services-redis",
-  "ts": 1753518027000,
-  "dependency_count": 0,
-  "ref_count": 22,
-  "categories": [
-    "Data Protocols"
-  ],
+  "version_latest": "v1-rev20250729-2.0.0",
+  "ts_publish": 1754381495000,
+  "ts_update": 1754382419595,
+  "count_dep": 22,
+  "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
-  "last_updated": 1753518422158
+  "categories": [
+    "Data Protocols"
+  ],
+  "dsv": 1
 }
