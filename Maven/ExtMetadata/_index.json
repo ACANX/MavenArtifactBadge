@@ -1,15 +1,16 @@
 {
 	"map":{
-		"me.ahoo.wow:wow-query":1754356244000,
 		"com.fasterxml.jackson.datatype:jackson-datatype-jsr310":1754356684000,
+		"me.ahoo.wow:wow-query":1754356244000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-ion":1754356325000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-csv":1754356407000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-cbor":1754356325000,
 		"me.ahoo.wow:wow-cocache":1754356244000,
 		"com.fasterxml.jackson.module:jackson-modules-base":1754356209000,
+		"com.fasterxml.jackson.module:jackson-module-kotlin":1754357670000,
 		"org.dromara.warm:warm-flow-plugin-vue3-ui":1754357497000,
-		"com.fasterxml.jackson.dataformat:jackson-dataformat-xml":1754356535000,
 		"me.ahoo.wow:wow-r2dbc":1754356244000,
+		"com.fasterxml.jackson.dataformat:jackson-dataformat-xml":1754356535000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformats-binary":1754356325000,
 		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-java":1754353552000,
 		"com.fasterxml.jackson.module:jackson-module-guice":1754356209000,
@@ -29,8 +30,8 @@
 		"org.dromara.warm:warm-flow-mybatis-solon-plugin":1754357497000,
 		"org.dromara.warm:warm-flow-plugin-modes":1754357497000,
 		"com.aliyun:aimiaobi20230801":1754354895000,
-		"io.github.cdklabs:cdk-ecs-service-extensions":1754354203000,
 		"com.fasterxml.jackson:jackson-base":1754354682000,
+		"io.github.cdklabs:cdk-ecs-service-extensions":1754354203000,
 		"com.fasterxml.jackson.module:jackson-module-blackbird":1754356209000,
 		"com.fasterxml.jackson.module:jackson-module-android-record":1754356209000,
 		"com.fasterxml.jackson.jr:jackson-jr-retrofit2":1754355805000,
@@ -49,6 +50,7 @@
 		"org.dromara.warm:warm-flow-plugin-json":1754357497000,
 		"me.ahoo.wow:wow-spring-boot-starter":1754356244000,
 		"com.fasterxml.jackson.module:jackson-module-jakarta-xmlbind-annotations":1754356209000,
+		"io.github.thearchitect123.atlas_graph_generator:io.github.thearchitect123.atlas_graph_generator.gradle.plugin":1754357130000,
 		"com.fasterxml.jackson.core:jackson-core":1754355279000,
 		"org.dromara.warm:warm-flow":1754357497000,
 		"com.fasterxml.jackson.module:jackson-module-no-ctor-deser":1754356209000,
@@ -107,7 +109,6 @@
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-toml":1754356407000,
 		"me.ahoo.wow:wow-redis":1754356244000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-smile":1754356325000,
-		"io.github.thearchitect123.atlas_graph_generator:io.github.thearchitect123.atlas_graph_generator.gradle.plugin":1754357130000,
 		"com.fasterxml.jackson.jr:jackson-jr-parent":1754355805000,
 		"me.ahoo.wow:wow-bom":1754356244000,
 		"me.ahoo.wow:wow-schema":1754356244000,
@@ -139,5 +140,5 @@
 		"com.fasterxml.jackson.jr:jackson-jr-all":1754355805000,
 		"io.github.cdklabs:cdk-hyperledger-fabric-network":1754353865000
 	},
-	"ts":1754357866121
+	"ts":1754358338257
 }
