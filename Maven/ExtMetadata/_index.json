@@ -731,7 +731,13 @@
     "in.payu:threeds-helper-sdk": 1754374630000,
     "com.astrapay:android-sdk": 1754375382000,
     "berlin.yuna:surveys": 1754375349000,
-    "cloud.trustpin:kotlin-sdk": 1754375743000
+    "cloud.trustpin:kotlin-sdk": 1754375743000,
+    "io.mangoo:mangooio-test": 1754375818000,
+    "io.mangoo:mangooio-core": 1754375818000,
+    "io.mangoo:mangooio-maven-plugin": 1754375818000,
+    "io.mangoo:mangooio-integration-test": 1754375818000,
+    "io.mangoo:mangooio": 1754375818000,
+    "io.mangoo:mangooio-maven-archetype": 1754375818000
   },
   "ts": 1754372641734
 }
