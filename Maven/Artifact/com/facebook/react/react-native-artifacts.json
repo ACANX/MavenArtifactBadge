@@ -3,9 +3,9 @@
   "description": "A framework for building native apps with React",
   "group_id": "com.facebook.react",
   "artifact_id": "react-native-artifacts",
-  "version_latest": "0.81.0-rc.4",
-  "ts_publish": 1754397686000,
-  "ts_update": 1754398626109,
+  "version_latest": "0.81.0-rc.5",
+  "ts_publish": 1754411239000,
+  "ts_update": 1754411821380,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

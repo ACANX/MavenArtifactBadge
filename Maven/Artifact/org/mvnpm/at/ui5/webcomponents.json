@@ -3,10 +3,10 @@
   "description": "UI5 Web Components: webcomponents.main",
   "group_id": "org.mvnpm.at.ui5",
   "artifact_id": "webcomponents",
-  "version_latest": "2.13.0",
-  "ts_publish": 1754324843000,
-  "ts_update": 1754326030940,
-  "count_dep": 10,
+  "version_latest": "2.13.1",
+  "ts_publish": 1754411249000,
+  "ts_update": 1754411821380,
+  "count_dep": 6,
   "count_ref": 1,
   "licenses": [
     "Apache-2.0"

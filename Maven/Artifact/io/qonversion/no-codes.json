@@ -3,9 +3,9 @@
   "description": "The subscription data platform for mobile-first companies.",
   "group_id": "io.qonversion",
   "artifact_id": "no-codes",
-  "version_latest": "0.0.7",
-  "ts_publish": 1754407726000,
-  "ts_update": 1754408223952,
+  "version_latest": "0.1.0",
+  "ts_publish": 1754411035000,
+  "ts_update": 1754411821383,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
