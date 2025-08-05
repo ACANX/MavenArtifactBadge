@@ -580,7 +580,11 @@
     "glass.yasan.toolkit:compose-iosx64": 1754430255000,
     "glass.yasan.toolkit:core-android": 1754430255000,
     "cz.jeme:bestium": 1754430234000,
-    "org.zowe.client.java.sdk:zowe-client-java-sdk": 1754430515000
+    "org.zowe.client.java.sdk:zowe-client-java-sdk": 1754430515000,
+    "com.attentive:attentive-android-sdk": 1754431384000,
+    "com.finbourne:lusid-sdk": 1754431300000,
+    "io.moderne:moderne-agent": 1754430886000,
+    "tech.eitri:eitri-android": 1754430715000
   },
   "ts_update": 1754420240527
 }
