@@ -42,7 +42,7 @@
     "com.lihaoyi:mill-dist-native-windows-amd64": 1754361599000,
     "com.fasterxml.jackson.module:jackson-module-android-record": 1754356209000,
     "io.github.yairm210:purity-annotations-jvm": 1754368095000,
-    "io.github.yetyman:properties": 1754369498000,
+    "io.github.yetyman:properties": 1754373725000,
     "org.dromara.warm:warm-flow-plugin-ui": 1754357497000,
     "me.ahoo.wow:wow-opentelemetry": 1754356244000,
     "com.eygraber:vice-nav": 1754369441000,
@@ -579,7 +579,8 @@
     "com.wgzhao.addax:doriswriter": 1754371262000,
     "com.wgzhao.addax:s3reader": 1754371262000,
     "com.wgzhao.addax:mysqlwriter": 1754371262000,
-    "com.wgzhao.addax:hbase11xsqlreader": 1754371262000
+    "com.wgzhao.addax:hbase11xsqlreader": 1754371262000,
+    "com.playmohe.antong:atkit": 1754373706000
   },
   "ts": 1754372641734
 }
