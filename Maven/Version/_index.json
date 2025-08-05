@@ -579,7 +579,8 @@
     "glass.yasan.toolkit:compose": 1754430255000,
     "glass.yasan.toolkit:compose-iosx64": 1754430255000,
     "glass.yasan.toolkit:core-android": 1754430255000,
-    "cz.jeme:bestium": 1754430234000
+    "cz.jeme:bestium": 1754430234000,
+    "org.zowe.client.java.sdk:zowe-client-java-sdk": 1754430515000
   },
   "ts_update": 1754420240527
 }
