@@ -1,13 +1,13 @@
 {
-  "id": "pkg:maven/org.brapi.brapi-schema-tools/brapi-schema-tools-analyse",
-  "description": "org.brapi:analyse",
+  "id": "pkg:maven/org.brapi.brapi-schema-tools/brapi-schema-tools-core",
+  "description": "org.brapi:core",
   "group_id": "org.brapi.brapi-schema-tools",
-  "artifact_id": "brapi-schema-tools-analyse",
+  "artifact_id": "brapi-schema-tools-core",
   "version_latest": "0.35.0",
   "ts_publish": 1754351799000,
   "ts_update": 1754352423718,
-  "count_dep": 49,
-  "count_ref": 1,
+  "count_dep": 60,
+  "count_ref": 2,
   "licenses": [
     "MIT License"
   ],
