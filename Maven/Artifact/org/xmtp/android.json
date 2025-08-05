@@ -3,9 +3,9 @@
   "description": "XMTP Android Library",
   "group_id": "org.xmtp",
   "artifact_id": "android",
-  "version_latest": "4.3.3",
-  "ts_publish": 1753835063000,
-  "ts_update": 1753835816220,
+  "version_latest": "4.4.0-dev.7f5d8e0",
+  "ts_publish": 1754353359000,
+  "ts_update": 1754353621185,
   "count_dep": 18,
   "count_ref": 0,
   "licenses": [
