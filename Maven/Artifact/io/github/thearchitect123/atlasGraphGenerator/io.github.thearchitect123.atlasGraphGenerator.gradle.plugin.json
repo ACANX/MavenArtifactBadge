@@ -3,9 +3,9 @@
   "description": "Atlas Plugin used to generate the compile time dependency graph for your project",
   "group_id": "io.github.thearchitect123.atlasGraphGenerator",
   "artifact_id": "io.github.thearchitect123.atlasGraphGenerator.gradle.plugin",
-  "version_latest": "1.0.9",
-  "ts_publish": 1754359591000,
-  "ts_update": 1754360220479,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754364396000,
+  "ts_update": 1754365022647,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
