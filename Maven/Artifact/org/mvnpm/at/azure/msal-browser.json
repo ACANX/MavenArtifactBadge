@@ -3,9 +3,9 @@
   "description": "Microsoft Authentication Library for js",
   "group_id": "org.mvnpm.at.azure",
   "artifact_id": "msal-browser",
-  "version_latest": "4.18.0",
-  "ts_publish": 1753903093000,
-  "ts_update": 1753903617214,
+  "version_latest": "4.19.0",
+  "ts_publish": 1754427260000,
+  "ts_update": 1754427466188,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
