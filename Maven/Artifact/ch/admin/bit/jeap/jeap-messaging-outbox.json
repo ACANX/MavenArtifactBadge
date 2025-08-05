@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox",
+  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-messaging-outbox",
-  "latest_version": "8.51.0",
-  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-messaging-outbox",
-  "ts": 1753361893000,
-  "dependency_count": 1,
-  "ref_count": 69,
-  "categories": null,
+  "version_latest": "8.52.0",
+  "ts_publish": 1754395395000,
+  "ts_update": 1754396030542,
+  "count_dep": 69,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753363028205
+  "categories": null,
+  "dsv": 1
 }
