@@ -441,7 +441,10 @@
     "io.kestra:storage-local": 1754397551000,
     "io.github.klakpin:diva-term": 1754397519000,
     "com.facebook.react:hermes-android": 1754397466000,
-    "com.facebook.react:react-android": 1754397466000
+    "com.facebook.react:react-android": 1754397466000,
+    "ch.admin.bit.jeap:jeap-db-schema-publisher-model-reader": 1754398584000,
+    "ch.admin.bit.jeap:jeap-db-schema-publisher-starter": 1754398584000,
+    "ch.admin.bit.jeap:jeap-db-schema-publisher": 1754398584000
   },
   "ts": 1754393224657
 }

@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-db-schema-publisher-starter",
+  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-db-schema-publisher-starter",
-  "latest_version": "1.1.0",
-  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-db-schema-publisher-starter",
-  "ts": 1753448756000,
-  "dependency_count": 0,
-  "ref_count": 77,
-  "categories": null,
+  "version_latest": "1.2.0",
+  "ts_publish": 1754398584000,
+  "ts_update": 1754398966342,
+  "count_dep": 79,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753449418675
+  "categories": null,
+  "dsv": 1
 }
