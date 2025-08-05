@@ -3,9 +3,9 @@
   "description": "access",
   "group_id": "com.finbourne",
   "artifact_id": "access-sdk",
-  "version_latest": "2.0.426",
-  "ts_publish": 1754314484000,
-  "ts_update": 1754315223019,
+  "version_latest": "2.0.427",
+  "ts_publish": 1754366929000,
+  "ts_update": 1754367424354,
   "count_dep": 28,
   "count_ref": 0,
   "licenses": [
