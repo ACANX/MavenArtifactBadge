@@ -254,7 +254,7 @@
     "io.playgap:playgap-sdk": 1754426203000,
     "com.tencentcloudapi:tencentcloud-sdk-java-vod": 1754426196000,
     "com.tencentcloudapi:tencentcloud-sdk-java-tsf": 1754426173000,
-    "com.netflix.nebula:nebula-test": 1754426170000,
+    "com.netflix.nebula:nebula-test": 1754431623000,
     "com.tencentcloudapi:tencentcloud-sdk-java-trocket": 1754426152000,
     "com.tencentcloudapi:tencentcloud-sdk-java-thpc": 1754426136000,
     "co.getstark.accessibility:co.getstark.accessibility.gradle.plugin": 1754426125000,
@@ -584,7 +584,22 @@
     "com.attentive:attentive-android-sdk": 1754431384000,
     "com.finbourne:lusid-sdk": 1754431300000,
     "io.moderne:moderne-agent": 1754430886000,
-    "tech.eitri:eitri-android": 1754430715000
+    "tech.eitri:eitri-android": 1754430715000,
+    "com.github.tommyettinger:digital": 1754431568000,
+    "io.cloudshiftdev.kotlin-cdk-wrapper:kotlin-cdk-wrapper": 1754431547000,
+    "io.cloudshiftdev.kotlin-cdk-wrapper:kotlin-cdk-wrapper-common": 1754431547000,
+    "com.slack.foundry:foundry-common": 1754431445000,
+    "com.slack.foundry:cli": 1754431445000,
+    "com.slack.foundry:better-gradle-properties": 1754431445000,
+    "com.slack.foundry:agp-handler-api": 1754431445000,
+    "com.slack.foundry:skippy": 1754431445000,
+    "com.slack.foundry:tracing": 1754431445000,
+    "com.slack.foundry:version-number": 1754431445000,
+    "com.slack.foundry.apk-versioning:com.slack.foundry.apk-versioning.gradle.plugin": 1754431445000,
+    "com.slack.foundry:robolectric-sdk-management": 1754431445000,
+    "com.slack.foundry.root:com.slack.foundry.root.gradle.plugin": 1754431445000,
+    "com.slack.foundry:gradle-plugin": 1754431445000,
+    "com.slack.foundry.base:com.slack.foundry.base.gradle.plugin": 1754431445000
   },
   "ts_update": 1754420240527
 }
