@@ -3,9 +3,9 @@
   "description": "Google BiqQuery API",
   "group_id": "hu.blackbelt.bundles.google-api-bigquery",
   "artifact_id": "com.google.api-bigquery",
-  "version_latest": "2.54.0_1",
-  "ts_publish": 1754383741000,
-  "ts_update": 1754384830164,
+  "version_latest": "2.54.0_2",
+  "ts_publish": 1754437687000,
+  "ts_update": 1754438223604,
   "count_dep": 86,
   "count_ref": 0,
   "licenses": [

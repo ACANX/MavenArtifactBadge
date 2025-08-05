@@ -669,7 +669,19 @@
     "com.sorrowblue.cmpdestinations:cmp-destinations-core": 1754436805000,
     "com.sorrowblue.cmpdestinations:cmp-destinations-ksp": 1754436805000,
     "com.sorrowblue.cmpdestinations:cmp-destinations-core-android": 1754436805000,
-    "com.sorrowblue.cmpdestinations:cmp-destinations-core-iossimulatorarm64": 1754436805000
+    "com.sorrowblue.cmpdestinations:cmp-destinations-core-iossimulatorarm64": 1754436805000,
+    "hu.blackbelt.bundles.google-api-grpc:com.google.api-grpc": 1754437805000,
+    "io.github.gabrielmmoraes1999:DBRepository": 1754437768000,
+    "hu.blackbelt.bundles.google-api-extension:com.google.api-extension": 1754437735000,
+    "hu.blackbelt.bundles.google-api-ads:com.google.api-ads": 1754437714000,
+    "hu.blackbelt.bundles.google-api-client:com.google.api-client": 1754437708000,
+    "hu.blackbelt.bundles.google-api-bigquery:com.google.api-bigquery": 1754437687000,
+    "hu.blackbelt.bundles.lzma-java:com.github.jponge.lzma-java": 1754437616000,
+    "io.github.mrtylerzhou:antflow-spring-boot-starter": 1754437593000,
+    "hu.blackbelt.bundles.brotli4j:com.aayushatharva.brotli4j": 1754437584000,
+    "io.github.mrtylerzhou:antflow-engine": 1754437553000,
+    "io.github.mrtylerzhou:antflow-common": 1754437427000,
+    "io.github.mrtylerzhou:antflow-base": 1754437382000
   },
   "ts_update": 1754420240527
 }

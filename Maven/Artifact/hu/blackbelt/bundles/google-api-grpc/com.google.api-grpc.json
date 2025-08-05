@@ -3,10 +3,10 @@
   "description": "Google GRCP API base",
   "group_id": "hu.blackbelt.bundles.google-api-grpc",
   "artifact_id": "com.google.api-grpc",
-  "version_latest": "1.70.0_3",
-  "ts_publish": 1754384071000,
-  "ts_update": 1754386043222,
-  "count_dep": 59,
+  "version_latest": "1.70.0_4",
+  "ts_publish": 1754437805000,
+  "ts_update": 1754438223602,
+  "count_dep": 50,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
