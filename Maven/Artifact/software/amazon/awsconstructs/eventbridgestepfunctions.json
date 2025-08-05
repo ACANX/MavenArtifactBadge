@@ -3,9 +3,9 @@
   "description": "CDK Constructs for deploying AWS Events Rule that invokes AWS Step Functions",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "eventbridgestepfunctions",
-  "version_latest": "2.90.3",
-  "ts_publish": 1754345664000,
-  "ts_update": 1754346421727,
+  "version_latest": "2.90.4",
+  "ts_publish": 1754429946000,
+  "ts_update": 1754430427855,
   "count_dep": 19,
   "count_ref": 0,
   "licenses": [

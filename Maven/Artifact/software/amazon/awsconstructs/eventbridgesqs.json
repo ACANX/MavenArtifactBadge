@@ -3,9 +3,9 @@
   "description": "CDK Constructs for deploying AWS Eventbridge that invokes AWS SQS",
   "group_id": "software.amazon.awsconstructs",
   "artifact_id": "eventbridgesqs",
-  "version_latest": "2.90.3",
-  "ts_publish": 1754345664000,
-  "ts_update": 1754346422350,
+  "version_latest": "2.90.4",
+  "ts_publish": 1754429946000,
+  "ts_update": 1754430429742,
   "count_dep": 19,
   "count_ref": 0,
   "licenses": [

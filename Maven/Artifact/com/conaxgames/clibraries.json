@@ -3,9 +3,9 @@
   "description": "A streamlined API tailored for PaperMC, providing powerful utilities and extensions to accelerate server development and fuel innovation.",
   "group_id": "com.conaxgames",
   "artifact_id": "clibraries",
-  "version_latest": "1.1.5",
-  "ts_publish": 1754429046000,
-  "ts_update": 1754429770357,
+  "version_latest": "1.1.8",
+  "ts_publish": 1754429871000,
+  "ts_update": 1754430430432,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
