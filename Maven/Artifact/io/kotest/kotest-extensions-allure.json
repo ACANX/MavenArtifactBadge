@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kotest/kotest-extensions-allure",
+  "description": "Kotlin Test Framework",
+  "group_id": "io.kotest",
+  "artifact_id": "kotest-extensions-allure",
+  "version_latest": "6.0.0.M10",
+  "ts_publish": 1754276253000,
+  "ts_update": 1754278030383,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

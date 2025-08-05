@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.peyilo",
+  "artifact_id": "libreadview",
+  "latest_version": "0.0.1-test",
+  "description": "An Android library for customizable page turning animations.",
+  "id": "pkg:maven/io.github.peyilo/libreadview",
+  "ts": 1753610600000,
+  "dependency_count": 0,
+  "ref_count": 4,
+  "categories": null,
+  "licenses": [
+    "MIT License"
+  ],
+  "last_updated": 1753611419250
+}

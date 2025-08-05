@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular-devkit/schematics",
+  "description": "Angular Schematics - Library",
+  "group_id": "org.mvnpm.at.angular-devkit",
+  "artifact_id": "schematics",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753920915000,
+  "ts_update": 1753921623269,
+  "count_dep": 17,
+  "count_ref": 2,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

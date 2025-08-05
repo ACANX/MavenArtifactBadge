@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/eu.maveniverse.maven.nisse.sources/sources",
+  "description": "Nisse Maven Extension.",
+  "group_id": "eu.maveniverse.maven.nisse.sources",
+  "artifact_id": "sources",
+  "version_latest": "0.5.0",
+  "ts_publish": 1753881663000,
+  "ts_update": 1753882293867,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "EPL-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

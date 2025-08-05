@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.daml/grpc-test-utils_2.13",
+  "description": "TBD",
+  "group_id": "com.daml",
+  "artifact_id": "grpc-test-utils_2.13",
+  "version_latest": "3.4.0-adhoc.20250805.14054.0.v9c4c7803",
+  "ts_publish": 1754415302000,
+  "ts_update": 1754416022459,
+  "count_dep": 44,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

@@ -1,0 +1,17 @@
+{
+  "group_id": "aws.sdk.kotlin",
+  "artifact_id": "aws-config",
+  "latest_version": "1.5.5",
+  "description": "Support for AWS configuration",
+  "id": "pkg:maven/aws.sdk.kotlin/aws-config",
+  "ts": 1753741682000,
+  "dependency_count": 339,
+  "ref_count": 4,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "last_updated": 1753744635407
+}

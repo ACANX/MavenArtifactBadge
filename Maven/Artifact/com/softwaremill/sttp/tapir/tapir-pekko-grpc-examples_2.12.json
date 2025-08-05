@@ -1,0 +1,17 @@
+{
+  "group_id": "com.softwaremill.sttp.tapir",
+  "artifact_id": "tapir-pekko-grpc-examples_2.12",
+  "latest_version": "1.11.39",
+  "description": "tapir-pekko-grpc-examples",
+  "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-pekko-grpc-examples_2.12",
+  "ts": 1753364945000,
+  "dependency_count": 0,
+  "ref_count": 54,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache 2.0"
+  ],
+  "last_updated": 1753366023050
+}

@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.camunda.spring/spring-boot-starter-camunda",
+  "description": "This POM defines the required plugins and profiles to allow a Camunda Community Hub release build.\n        Inherit this POM when you want to use https://github.com/camunda-community-hub/community-action-maven-release",
+  "group_id": "io.camunda.spring",
+  "artifact_id": "spring-boot-starter-camunda",
+  "version_latest": "8.5.20-rc1",
+  "ts_publish": 1754058276000,
+  "ts_update": 1754059019115,
+  "count_dep": 108,
+  "count_ref": 4,
+  "licenses": [
+    "Apache License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

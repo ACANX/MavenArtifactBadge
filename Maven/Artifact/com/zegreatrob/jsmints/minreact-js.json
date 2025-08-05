@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.jsmints/minreact-js",
+  "description": "minreact",
+  "group_id": "com.zegreatrob.jsmints",
+  "artifact_id": "minreact-js",
+  "version_latest": "6.7.4",
+  "ts_publish": 1754407912000,
+  "ts_update": 1754408822011,
+  "count_dep": 4,
+  "count_ref": 1,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

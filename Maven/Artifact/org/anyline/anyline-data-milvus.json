@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.anyline/anyline-data-milvus",
+  "description": "anyline",
+  "group_id": "org.anyline",
+  "artifact_id": "anyline-data-milvus",
+  "version_latest": "8.7.2-20250805",
+  "ts_publish": 1754347035000,
+  "ts_update": 1754347627069,
+  "count_dep": 37,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

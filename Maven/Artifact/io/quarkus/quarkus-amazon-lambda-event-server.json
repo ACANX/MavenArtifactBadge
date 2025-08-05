@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-amazon-lambda-event-server",
+  "latest_version": "3.25.0",
+  "description": "Mock Lambda event server for testing and dev mode",
+  "id": "pkg:maven/io.quarkus/quarkus-amazon-lambda-event-server",
+  "ts": 1753262863000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264623962
+}

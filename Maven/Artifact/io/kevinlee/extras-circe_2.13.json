@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-circe_2.13",
+  "latest_version": "0.46.1",
+  "description": "extras-circe",
+  "id": "pkg:maven/io.kevinlee/extras-circe_2.13",
+  "ts": 1753617552000,
+  "dependency_count": 0,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753618019828
+}

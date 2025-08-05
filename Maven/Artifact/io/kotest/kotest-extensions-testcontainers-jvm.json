@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/io.kotest/kotest-extensions-testcontainers-jvm",
+  "description": "Kotlin Test Framework",
+  "group_id": "io.kotest",
+  "artifact_id": "kotest-extensions-testcontainers-jvm",
+  "version_latest": "6.0.0.M10",
+  "ts_publish": 1754276269000,
+  "ts_update": 1754278027416,
+  "count_dep": 8,
+  "count_ref": 1,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

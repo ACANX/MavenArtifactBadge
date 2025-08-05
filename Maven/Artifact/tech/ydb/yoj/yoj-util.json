@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.ydb.yoj",
+  "artifact_id": "yoj-util",
+  "latest_version": "2.6.23",
+  "description": "Utility classes used in YOJ (YDB ORM for Java) implementation.",
+  "id": "pkg:maven/tech.ydb.yoj/yoj-util",
+  "ts": 1753363060000,
+  "dependency_count": 9,
+  "ref_count": 13,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363626491
+}

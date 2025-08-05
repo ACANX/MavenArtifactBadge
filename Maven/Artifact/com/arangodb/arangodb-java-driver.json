@@ -1,0 +1,19 @@
+{
+  "group_id": "com.arangodb",
+  "artifact_id": "arangodb-java-driver",
+  "latest_version": "7.21.0",
+  "description": "ArangoDB Java Driver",
+  "id": "pkg:maven/com.arangodb/arangodb-java-driver",
+  "ts": 1753297835000,
+  "dependency_count": 0,
+  "ref_count": 29,
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "last_updated": 1753298819368
+}

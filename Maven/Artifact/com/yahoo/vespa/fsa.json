@@ -1,0 +1,19 @@
+{
+  "id": "pkg:maven/com.yahoo.vespa/fsa",
+  "description": "This is the FSA library and tools, an implementation of finite state\n    automata (FSA) and related algorithms.",
+  "group_id": "com.yahoo.vespa",
+  "artifact_id": "fsa",
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306827415,
+  "count_dep": 3,
+  "count_ref": 35,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Big Data",
+    "Parallel Data Processing"
+  ],
+  "dsv": 1
+}

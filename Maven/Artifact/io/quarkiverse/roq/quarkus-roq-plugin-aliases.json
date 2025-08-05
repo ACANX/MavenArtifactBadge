@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.quarkiverse.roq/quarkus-roq-plugin-aliases",
+  "description": "Generate static websites out of your Quarkus web application.",
+  "group_id": "io.quarkiverse.roq",
+  "artifact_id": "quarkus-roq-plugin-aliases",
+  "version_latest": "1.7.0.CR4",
+  "ts_publish": 1754076122000,
+  "ts_update": 1754076963401,
+  "count_dep": 100,
+  "count_ref": 1,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

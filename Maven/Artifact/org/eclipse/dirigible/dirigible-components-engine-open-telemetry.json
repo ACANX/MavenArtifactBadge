@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-components-engine-open-telemetry",
+  "description": null,
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-components-engine-open-telemetry",
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408824107,
+  "count_dep": 19,
+  "count_ref": 4,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

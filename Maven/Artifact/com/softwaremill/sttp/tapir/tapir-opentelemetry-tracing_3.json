@@ -1,0 +1,17 @@
+{
+  "group_id": "com.softwaremill.sttp.tapir",
+  "artifact_id": "tapir-opentelemetry-tracing_3",
+  "latest_version": "1.11.39",
+  "description": "tapir-opentelemetry-tracing",
+  "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-opentelemetry-tracing_3",
+  "ts": 1753364945000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Apache 2.0"
+  ],
+  "last_updated": 1753366021995
+}

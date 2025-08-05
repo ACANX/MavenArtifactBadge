@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.schematics/angular",
+  "description": "Schematics specific to Angular",
+  "group_id": "org.mvnpm.at.schematics",
+  "artifact_id": "angular",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753920375000,
+  "ts_update": 1753921023031,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}

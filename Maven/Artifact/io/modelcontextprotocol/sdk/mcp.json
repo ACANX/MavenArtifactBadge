@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.modelcontextprotocol.sdk/mcp",
+  "description": "Java SDK implementation of the Model Context Protocol, enabling seamless integration with language models and AI tools",
+  "group_id": "io.modelcontextprotocol.sdk",
+  "artifact_id": "mcp",
+  "version_latest": "0.11.0",
+  "ts_publish": 1753925600000,
+  "ts_update": 1753926421715,
+  "count_dep": 16,
+  "count_ref": 3,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

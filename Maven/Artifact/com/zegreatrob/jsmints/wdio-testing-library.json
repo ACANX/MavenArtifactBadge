@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.zegreatrob.jsmints/wdio-testing-library",
+  "description": "wdio-testing-library",
+  "group_id": "com.zegreatrob.jsmints",
+  "artifact_id": "wdio-testing-library",
+  "version_latest": "6.7.4",
+  "ts_publish": 1754407912000,
+  "ts_update": 1754408822008,
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

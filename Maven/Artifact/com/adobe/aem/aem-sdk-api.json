@@ -1,0 +1,17 @@
+{
+  "group_id": "com.adobe.aem",
+  "artifact_id": "aem-sdk-api",
+  "latest_version": "2025.7.21706.20250723T205632Z-250600",
+  "description": "The Adobe Experience Manager SDK",
+  "id": "pkg:maven/com.adobe.aem/aem-sdk-api",
+  "ts": 1753341645000,
+  "dependency_count": 1,
+  "ref_count": 12,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "Copyright 2007 Adobe. All Rights Reserved."
+  ],
+  "last_updated": 1753342017797
+}

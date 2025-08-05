@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-bom-dev-ui",
+  "latest_version": "3.25.0",
+  "description": "Dependency management for dev-ui. Importable by third party extension developers.",
+  "id": "pkg:maven/io.quarkus/quarkus-bom-dev-ui",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264622292
+}

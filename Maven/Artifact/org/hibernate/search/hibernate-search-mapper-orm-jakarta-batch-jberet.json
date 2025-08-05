@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/org.hibernate.search/hibernate-search-mapper-orm-jakarta-batch-jberet",
+  "description": "Hibernate Search Jakarta Batch integration - for JBeret",
+  "group_id": "org.hibernate.search",
+  "artifact_id": "hibernate-search-mapper-orm-jakarta-batch-jberet",
+  "version_latest": "8.1.0.CR1",
+  "ts_publish": 1753992993000,
+  "ts_update": 1753993621220,
+  "count_dep": 22,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

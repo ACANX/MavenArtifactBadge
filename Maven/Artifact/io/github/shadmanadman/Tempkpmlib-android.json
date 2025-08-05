@@ -1,0 +1,15 @@
+{
+  "group_id": "io.github.shadmanadman",
+  "artifact_id": "Tempkpmlib-android",
+  "latest_version": "0.0.6",
+  "description": "A KMP library that provides Sensors info for both Android and iOS",
+  "id": "pkg:maven/io.github.shadmanadman/Tempkpmlib-android",
+  "ts": 1753293814000,
+  "dependency_count": 0,
+  "ref_count": 11,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753294617848
+}

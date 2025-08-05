@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.ydb.yoj",
+  "artifact_id": "yoj-bom",
+  "latest_version": "2.6.23",
+  "description": "Bill of Materials (BOM) for YOJ Project. Use this artifact with <scope>import</scope> to ensure\n        you have a consistent version of all YOJ artifacts at once.",
+  "id": "pkg:maven/tech.ydb.yoj/yoj-bom",
+  "ts": 1753363060000,
+  "dependency_count": 0,
+  "ref_count": 0,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363627057
+}

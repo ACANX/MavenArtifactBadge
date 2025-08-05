@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.github.bancolombia/scaffold-clean-architecture",
+  "description": "Gradle plugin to create a clean application in Java that already works, It follows our best practices!",
+  "group_id": "com.github.bancolombia",
+  "artifact_id": "scaffold-clean-architecture",
+  "version_latest": "3.24.0",
+  "ts_publish": 1754078093000,
+  "ts_update": 1754078826026,
+  "count_dep": 16,
+  "count_ref": 0,
+  "licenses": [
+    "APACHE LICENSE, VERSION 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

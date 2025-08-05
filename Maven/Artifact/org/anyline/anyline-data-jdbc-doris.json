@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.anyline/anyline-data-jdbc-doris",
+  "description": "Apache Doris",
+  "group_id": "org.anyline",
+  "artifact_id": "anyline-data-jdbc-doris",
+  "version_latest": "8.7.2-20250805",
+  "ts_publish": 1754347035000,
+  "ts_update": 1754347627071,
+  "count_dep": 8,
+  "count_ref": 2,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

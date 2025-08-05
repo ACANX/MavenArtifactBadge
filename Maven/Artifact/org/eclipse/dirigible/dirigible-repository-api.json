@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.eclipse.dirigible/dirigible-repository-api",
+  "description": null,
+  "group_id": "org.eclipse.dirigible",
+  "artifact_id": "dirigible-repository-api",
+  "version_latest": "12.4.1",
+  "ts_publish": 1754407906000,
+  "ts_update": 1754408823623,
+  "count_dep": 30,
+  "count_ref": 9,
+  "licenses": [],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

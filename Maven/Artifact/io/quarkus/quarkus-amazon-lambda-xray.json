@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-amazon-lambda-xray",
+  "latest_version": "3.25.0",
+  "description": "Allow X-Ray to run with Quarkus Lambda support",
+  "id": "pkg:maven/io.quarkus/quarkus-amazon-lambda-xray",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 5,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264621734
+}

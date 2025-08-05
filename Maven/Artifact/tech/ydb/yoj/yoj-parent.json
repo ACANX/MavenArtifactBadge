@@ -1,0 +1,15 @@
+{
+  "group_id": "tech.ydb.yoj",
+  "artifact_id": "yoj-parent",
+  "latest_version": "2.6.23",
+  "description": "YDB ORM for Java (YOJ) is a lightweight ORM for immutable entities.",
+  "id": "pkg:maven/tech.ydb.yoj/yoj-parent",
+  "ts": 1753363060000,
+  "dependency_count": 0,
+  "ref_count": 3,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753363626492
+}

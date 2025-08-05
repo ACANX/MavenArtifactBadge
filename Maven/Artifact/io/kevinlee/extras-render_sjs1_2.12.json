@@ -1,0 +1,17 @@
+{
+  "group_id": "io.kevinlee",
+  "artifact_id": "extras-render_sjs1_2.12",
+  "latest_version": "0.46.1",
+  "description": "extras-render",
+  "id": "pkg:maven/io.kevinlee/extras-render_sjs1_2.12",
+  "ts": 1753617552000,
+  "dependency_count": 1,
+  "ref_count": 14,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [
+    "MIT"
+  ],
+  "last_updated": 1753618019823
+}

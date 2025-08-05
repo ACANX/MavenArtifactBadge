@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/one.xis/xis-http-controller",
+  "description": "Module xis-http-controller of the XIS declarative web framework.",
+  "group_id": "one.xis",
+  "artifact_id": "xis-http-controller",
+  "version_latest": "0.1.5",
+  "ts_publish": 1754334919000,
+  "ts_update": 1754335574198,
+  "count_dep": 6,
+  "count_ref": 5,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

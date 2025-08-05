@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/io.github.unattendedflight.fluent/fluent-i18n-core",
+  "description": "Core functionality for Fluent i18n including compiler, extractor, and Maven plugin",
+  "group_id": "io.github.unattendedflight.fluent",
+  "artifact_id": "fluent-i18n-core",
+  "version_latest": "0.1.3",
+  "ts_publish": 1754324161000,
+  "ts_update": 1754324829956,
+  "count_dep": 17,
+  "count_ref": 2,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}

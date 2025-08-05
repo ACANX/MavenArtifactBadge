@@ -1,0 +1,19 @@
+{
+  "id": "pkg:maven/com.yahoo.vespa/container-documentapi",
+  "description": "Parent artifact for all Vespa maven projects.",
+  "group_id": "com.yahoo.vespa",
+  "artifact_id": "container-documentapi",
+  "version_latest": "8.559.30",
+  "ts_publish": 1754306041000,
+  "ts_update": 1754306826299,
+  "count_dep": 26,
+  "count_ref": 41,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Big Data",
+    "Parallel Data Processing"
+  ],
+  "dsv": 1
+}

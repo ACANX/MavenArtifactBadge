@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "pulsar-kafka-schema-registry",
+  "latest_version": "4.0.5.4",
+  "description": "Kafka Compatible Schema Registry",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/pulsar-kafka-schema-registry",
+  "ts": 1753464133000,
+  "dependency_count": 3,
+  "ref_count": 376,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419452
+}

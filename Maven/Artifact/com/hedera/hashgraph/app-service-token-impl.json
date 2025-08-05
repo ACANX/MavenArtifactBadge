@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.hedera.hashgraph/app-service-token-impl",
+  "description": "Default Hedera Token Service Implementation",
+  "group_id": "com.hedera.hashgraph",
+  "artifact_id": "app-service-token-impl",
+  "version_latest": "0.64.2-rc1",
+  "ts_publish": 1754069883000,
+  "ts_update": 1754070422232,
+  "count_dep": 31,
+  "count_ref": 2,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

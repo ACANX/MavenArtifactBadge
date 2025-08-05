@@ -1,0 +1,15 @@
+{
+  "group_id": "io.streamnative.pulsar.handlers",
+  "artifact_id": "oauth-client-original",
+  "latest_version": "4.0.5.4",
+  "description": "OAuth 2.0 login callback handler for Kafka client",
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/oauth-client-original",
+  "ts": 1753464133000,
+  "dependency_count": 7,
+  "ref_count": 10,
+  "categories": null,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "last_updated": 1753464419448
+}

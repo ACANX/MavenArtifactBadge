@@ -1,0 +1,15 @@
+{
+  "group_id": "io.quarkus",
+  "artifact_id": "quarkus-datasource-dev",
+  "latest_version": "3.25.0",
+  "description": "Configure your datasources - Dev mode only",
+  "id": "pkg:maven/io.quarkus/quarkus-datasource-dev",
+  "ts": 1753262864000,
+  "dependency_count": 0,
+  "ref_count": 1,
+  "categories": [
+    "Uncategorized"
+  ],
+  "licenses": [],
+  "last_updated": 1753264622738
+}

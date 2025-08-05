@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/com.aizuda/snail-job-client",
+  "description": "snail-job-client",
+  "group_id": "com.aizuda",
+  "artifact_id": "snail-job-client",
+  "version_latest": "1.7.0",
+  "ts_publish": 1754211075000,
+  "ts_update": 1754212620106,
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

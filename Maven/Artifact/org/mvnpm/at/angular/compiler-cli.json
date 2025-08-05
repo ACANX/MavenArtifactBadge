@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/org.mvnpm.at.angular/compiler-cli",
+  "description": "Angular - the compiler CLI for Node.js",
+  "group_id": "org.mvnpm.at.angular",
+  "artifact_id": "compiler-cli",
+  "version_latest": "20.1.4",
+  "ts_publish": 1753965558000,
+  "ts_update": 1753966018774,
+  "count_dep": 18,
+  "count_ref": 0,
+  "licenses": [
+    "MIT"
+  ],
+  "categories": null,
+  "dsv": 1
+}
