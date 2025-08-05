@@ -3,9 +3,9 @@
   "description": "Excel support for Kotlin Dataframe",
   "group_id": "org.jetbrains.kotlinx",
   "artifact_id": "dataframe-excel",
-  "version_latest": "1.0.0-dev-7905",
-  "ts_publish": 1754388411000,
-  "ts_update": 1754389026000,
+  "version_latest": "1.0.0-dev-7914",
+  "ts_publish": 1754398983000,
+  "ts_update": 1754399838061,
   "count_dep": 16,
   "count_ref": 2,
   "licenses": [
