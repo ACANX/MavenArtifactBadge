@@ -3,9 +3,9 @@
   "description": "SDK enabling Java developers to easily integrate with the Gr4vy API.",
   "group_id": "com.gr4vy",
   "artifact_id": "sdk",
-  "version_latest": "2.8.11",
-  "ts_publish": 1754322173000,
-  "ts_update": 1754323027056,
+  "version_latest": "2.8.12",
+  "ts_publish": 1754392761000,
+  "ts_update": 1754393827345,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [

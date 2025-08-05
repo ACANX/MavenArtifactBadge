@@ -3,9 +3,9 @@
   "description": "Parent for ebean modules",
   "group_id": "io.ebean",
   "artifact_id": "ebean-core-json",
-  "version_latest": "16.0.0-RC4",
-  "ts_publish": 1754392497000,
-  "ts_update": 1754393066126,
+  "version_latest": "17.0.0-RC4",
+  "ts_publish": 1754392853000,
+  "ts_update": 1754393827343,
   "count_dep": 13,
   "count_ref": 24,
   "licenses": [
