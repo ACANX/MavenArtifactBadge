@@ -3,9 +3,9 @@
   "description": "公式",
   "group_id": "io.gitee.javasme",
   "artifact_id": "jbolt-framework-formula",
-  "version_latest": "1.1.11",
-  "ts_publish": 1754360402000,
-  "ts_update": 1754360822499,
+  "version_latest": "1.1.12",
+  "ts_publish": 1754378230000,
+  "ts_update": 1754378825615,
   "count_dep": 2,
   "count_ref": 0,
   "licenses": [

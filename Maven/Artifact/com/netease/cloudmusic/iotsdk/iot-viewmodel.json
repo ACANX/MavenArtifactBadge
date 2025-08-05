@@ -3,9 +3,9 @@
   "description": "CMIotSdk多终端SDK",
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot-viewmodel",
-  "version_latest": "0.4.5.20250801153819",
-  "ts_publish": 1754034028000,
-  "ts_update": 1754034798067,
+  "version_latest": "0.4.5.20250805151351",
+  "ts_publish": 1754378159000,
+  "ts_update": 1754378826150,
   "count_dep": 6,
   "count_ref": 1,
   "licenses": [

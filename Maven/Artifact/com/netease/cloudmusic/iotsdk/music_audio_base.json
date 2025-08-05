@@ -3,9 +3,9 @@
   "description": "CMIotSdk多终端SDK",
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "music_audio_base",
-  "version_latest": "0.4.5.20250801153819",
-  "ts_publish": 1754034028000,
-  "ts_update": 1754034798071,
+  "version_latest": "0.4.5.20250805151351",
+  "ts_publish": 1754378159000,
+  "ts_update": 1754378825620,
   "count_dep": 10,
   "count_ref": 3,
   "licenses": [

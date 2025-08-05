@@ -3,9 +3,9 @@
   "description": "Java SDK for OpenAI API",
   "group_id": "io.github.twwch",
   "artifact_id": "openai-sdk",
-  "version_latest": "1.1.21",
-  "ts_publish": 1754304659000,
-  "ts_update": 1754305625403,
+  "version_latest": "1.1.22",
+  "ts_publish": 1754377969000,
+  "ts_update": 1754378826155,
   "count_dep": 46,
   "count_ref": 0,
   "licenses": [
