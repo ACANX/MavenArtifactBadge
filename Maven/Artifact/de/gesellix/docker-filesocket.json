@@ -3,9 +3,9 @@
   "description": "Unix Domain Sockets and Named Pipes for the JVM on Linux, macOS, and Windows",
   "group_id": "de.gesellix",
   "artifact_id": "docker-filesocket",
-  "version_latest": "2025-08-04T21-27-00",
-  "ts_publish": 1754335736000,
-  "ts_update": 1754336221394,
+  "version_latest": "2025-08-05T19-57-00",
+  "ts_publish": 1754416801000,
+  "ts_update": 1754417829220,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
