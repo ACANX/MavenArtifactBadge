@@ -604,7 +604,14 @@
     "io.cloudshiftdev.kotlin-cdk-extensions:kotlin-cdk-extensions": 1754432352000,
     "org.codeforamerica.platform:form-flow": 1754431987000,
     "com.microsoft.graph:microsoft-graph": 1754431966000,
-    "net.snowflake:snowflake-ingest-sdk": 1754432869000
+    "net.snowflake:snowflake-ingest-sdk": 1754432869000,
+    "dev.continuously.jing:jing-openapi-model_3": 1754433584000,
+    "dev.continuously.jing:jing_3": 1754433584000,
+    "dev.continuously.jing:jing-openapi-client-default_3": 1754433584000,
+    "dev.continuously.jing:jing-openapi_3": 1754433584000,
+    "dev.continuously.jing:jing-macro-util_3": 1754433584000,
+    "dev.continuously.jing:jing-openapi-server-http4s_3": 1754433584000,
+    "com.github.tommyettinger:tantrum-digital": 1754433485000
   },
   "ts_update": 1754420240527
 }

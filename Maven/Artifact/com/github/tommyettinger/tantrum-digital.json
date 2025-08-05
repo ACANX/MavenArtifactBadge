@@ -3,9 +3,9 @@
   "description": "Tantrum serializers for digital types",
   "group_id": "com.github.tommyettinger",
   "artifact_id": "tantrum-digital",
-  "version_latest": "0.8.1.12",
-  "ts_publish": 1753868855000,
-  "ts_update": 1753869252990,
+  "version_latest": "0.8.2.12",
+  "ts_publish": 1754433485000,
+  "ts_update": 1754434025546,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
