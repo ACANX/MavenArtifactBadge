@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.azure/msal-common",
+  "description": "Microsoft Authentication Library for js",
   "group_id": "org.mvnpm.at.azure",
   "artifact_id": "msal-common",
-  "latest_version": "15.9.0",
-  "description": "Microsoft Authentication Library for js",
-  "id": "pkg:maven/org.mvnpm.at.azure/msal-common",
-  "ts": 1753285682000,
-  "dependency_count": 1,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "15.10.0",
+  "ts_publish": 1754427978000,
+  "ts_update": 1754428623349,
+  "count_dep": 0,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753286218873
+  "categories": null,
+  "dsv": 1
 }

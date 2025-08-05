@@ -3,10 +3,10 @@
   "description": "Default Hedera File Service Implementation",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-service-file-impl",
-  "version_latest": "0.64.2-rc1",
-  "ts_publish": 1754069883000,
-  "ts_update": 1754070422758,
-  "count_dep": 31,
+  "version_latest": "0.64.2",
+  "ts_publish": 1754428025000,
+  "ts_update": 1754428622384,
+  "count_dep": 23,
   "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"

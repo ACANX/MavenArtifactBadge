@@ -3,10 +3,10 @@
   "description": "Hedera Configuration",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "config",
-  "version_latest": "0.64.2-rc1",
-  "ts_publish": 1754069883000,
-  "ts_update": 1754070422755,
-  "count_dep": 21,
+  "version_latest": "0.64.2",
+  "ts_publish": 1754428025000,
+  "ts_update": 1754428621692,
+  "count_dep": 11,
   "count_ref": 10,
   "licenses": [
     "Apache License, Version 2.0"

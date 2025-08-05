@@ -3,10 +3,10 @@
   "description": "Hedera Application - SPI",
   "group_id": "com.hedera.hashgraph",
   "artifact_id": "app-spi",
-  "version_latest": "0.64.2-rc1",
-  "ts_publish": 1754069883000,
-  "ts_update": 1754070423262,
-  "count_dep": 21,
+  "version_latest": "0.64.2",
+  "ts_publish": 1754428025000,
+  "ts_update": 1754428622391,
+  "count_dep": 11,
   "count_ref": 17,
   "licenses": [
     "Apache License, Version 2.0"
