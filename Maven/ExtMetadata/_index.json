@@ -124,6 +124,7 @@
 		"org.dromara.warm:warm-flow-mybatis-plus":1754357497000,
 		"me.ahoo.wow:wow-bi":1754356244000,
 		"me.ahoo.wow:wow-mongo":1754356244000,
+		"com.lihaoyi:mill-dist-native-linux-aarch64":1754361496000,
 		"com.fasterxml.jackson.module:jackson-module-jaxb-annotations":1754356209000,
 		"org.dromara.warm:warm-flow-mybatis-plus-core":1754357497000,
 		"io.github.cdklabs:cdk-tweet-queue":1754353912000,
@@ -190,5 +191,5 @@
 		"io.github.eureka1986:cxai-spring-boot-starter":1754359617000,
 		"io.github.cdklabs:cdk-hyperledger-fabric-network":1754353865000
 	},
-	"ts":1754361469631
+	"ts":1754362050776
 }
