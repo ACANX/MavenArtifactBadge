@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.ecwid.apiclient/api-client",
+  "description": "Ecwid Rest API wrapper",
   "group_id": "com.ecwid.apiclient",
   "artifact_id": "api-client",
-  "latest_version": "0.388.0",
-  "description": "Ecwid Rest API wrapper",
-  "id": "pkg:maven/com.ecwid.apiclient/api-client",
-  "ts": 1753360642000,
-  "dependency_count": 0,
-  "ref_count": 18,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.389.0",
+  "ts_publish": 1754390145000,
+  "ts_update": 1754390492881,
+  "count_dep": 18,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753361817057
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
