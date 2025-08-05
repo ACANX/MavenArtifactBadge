@@ -7,8 +7,8 @@
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-csv":1754356407000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-cbor":1754356325000,
 		"me.ahoo.wow:wow-cocache":1754356244000,
-		"com.fasterxml.jackson.module:jackson-modules-base":1754356209000,
 		"io.github.growthbook:_growth_book-android":1754358271000,
+		"com.fasterxml.jackson.module:jackson-modules-base":1754356209000,
 		"com.fasterxml.jackson.module:jackson-module-kotlin":1754357670000,
 		"com.lihaoyi:mill-libs-tabcomplete_3":1754362224000,
 		"com.lihaoyi:mill-libs-pythonlib_3":1754362203000,
@@ -16,14 +16,14 @@
 		"com.fasterxml.jackson.dataformat:jackson-dataformat-xml":1754356535000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformats-binary":1754356325000,
 		"com.lihaoyi:mill-contrib-playlib-worker-2.6_2.12":1754362073000,
-		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-java":1754353552000,
 		"com.lihaoyi:mill-libs_3":1754362204000,
+		"io.github.flynndi:micronaut-jimmer-repository-sourcegen-generator-java":1754353552000,
 		"org.beangle.sas:beangle-sas-engine":1754360045000,
 		"com.foilen:foilen-acilia":1754360261000,
 		"com.fasterxml.jackson.jaxrs:jackson-jaxrs-cbor-provider":1754357877000,
 		"org.dromara.warm:warm-flow-mybatis-sb-starter":1754357497000,
-		"io.gitee.javasme:jbolt-framework-jdbc":1754360402000,
 		"io.spinnaker.gate:gate-header":1754361936000,
+		"io.gitee.javasme:jbolt-framework-jdbc":1754360402000,
 		"com.fasterxml.jackson.dataformat:jackson-dataformats-text":1754356407000,
 		"org.dromara.warm:warm-flow-plugin-ui-solon-web":1754357497000,
 		"io.github.yongzhuzl:commonutil":1754356646000,
@@ -31,8 +31,8 @@
 		"com.fasterxml.jackson.datatype:jackson-datatype-eclipse-collections":1754356979000,
 		"com.lihaoyi:mill-contrib-proguard_3":1754362082000,
 		"one.pkg:tiny-utils":1754360687000,
-		"com.lihaoyi:mill-contrib-twirllib_3":1754362093000,
 		"com.aliyun:eventbridge20200401":1754363478000,
+		"com.lihaoyi:mill-contrib-twirllib_3":1754362093000,
 		"io.gitee.javasme:jbolt-framework-jdbi":1754360402000,
 		"org.dromara.warm:warm-flow-mybatis-plus-sb3-starter":1754357497000,
 		"io.github.sashirestela:simple-openai":1754363083000,
@@ -297,5 +297,5 @@
 		"me.ahoo.wow:wow-apiclient":1754356244000,
 		"io.github.eureka1986:cxai-spring-boot-starter":1754359617000
 	},
-	"ts":1754365751701
+	"ts":1754366352086
 }
