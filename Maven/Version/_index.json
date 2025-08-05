@@ -280,7 +280,9 @@
     "io.yupiik.maven:yupiik-tools-maven-plugin-parent": 1754425896000,
     "io.yupiik.maven:codec-core": 1754425896000,
     "io.yupiik.maven:_documentation": 1754425896000,
-    "io.yupiik.maven:yupiik-tools-common": 1754425896000
+    "io.yupiik.maven:yupiik-tools-common": 1754425896000,
+    "dev.mongocamp:mongodb-driver_3": 1754426588000,
+    "dev.mongocamp:mongodb-driver_2.13": 1754426588000
   },
   "ts_update": 1754420240527
 }
