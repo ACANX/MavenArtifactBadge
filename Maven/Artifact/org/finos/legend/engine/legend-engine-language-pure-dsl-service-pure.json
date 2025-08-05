@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-language-pure-dsl-service-pure",
-  "version_latest": "4.95.1",
-  "ts_publish": 1754347598000,
-  "ts_update": 1754348832658,
+  "version_latest": "4.96.0",
+  "ts_publish": 1754384317000,
+  "ts_update": 1754386030248,
   "count_dep": 16,
-  "count_ref": 24,
+  "count_ref": 29,
   "licenses": [],
   "categories": [
     "Uncategorized"

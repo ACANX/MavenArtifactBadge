@@ -3,11 +3,11 @@
   "description": "Parent POM for FINOS hosted project that deliver release, publishing automation and more",
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-pure-runtime-java-extension-compiled-functions-json",
-  "version_latest": "4.95.1",
-  "ts_publish": 1754347598000,
-  "ts_update": 1754348826742,
-  "count_dep": 45,
-  "count_ref": 63,
+  "version_latest": "4.96.0",
+  "ts_publish": 1754384317000,
+  "ts_update": 1754386028894,
+  "count_dep": 46,
+  "count_ref": 64,
   "licenses": [
     "Apache License, Version 2.0"
   ],

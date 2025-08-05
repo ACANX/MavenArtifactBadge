@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-elasticsearch-V7-protocol",
+  "description": null,
   "group_id": "org.finos.legend.engine",
   "artifact_id": "legend-engine-xt-elasticsearch-V7-protocol",
-  "latest_version": "4.93.0",
-  "description": null,
-  "id": "pkg:maven/org.finos.legend.engine/legend-engine-xt-elasticsearch-V7-protocol",
-  "ts": 1753389041000,
-  "dependency_count": 1,
-  "ref_count": 12,
+  "version_latest": "4.96.0",
+  "ts_publish": 1754384316000,
+  "ts_update": 1754386037468,
+  "count_dep": 12,
+  "count_ref": 4,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753390018991
+  "dsv": 1
 }
