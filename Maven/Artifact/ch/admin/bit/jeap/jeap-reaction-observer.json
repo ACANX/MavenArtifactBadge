@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer",
+  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-reaction-observer",
-  "latest_version": "1.13.0",
-  "description": "A common parent project for jEAP libs. Does not include any jEAP dependencies to avoid circular dependencies.",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-reaction-observer",
-  "ts": 1753361997000,
-  "dependency_count": 0,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.14.0",
+  "ts_publish": 1754397219000,
+  "ts_update": 1754398024537,
+  "count_dep": 1,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753363026989
+  "categories": null,
+  "dsv": 1
 }

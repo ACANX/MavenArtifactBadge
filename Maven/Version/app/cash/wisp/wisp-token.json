@@ -1,19 +1,18 @@
 {
+	"count_used_by":5,
 	"home_page":"https://github.com/cashapp/misk/",
 	"license":"Apache 2.0",
-	"ranking":"#538424 in MvnRepository",
+	"ranking":"#86534 in MvnRepository",
 	"tags":[
-		"bom",
-		"build",
-		"dependencies"
+		"token"
 	],
-	"ts":1754398030322,
+	"ts":1754398030620,
 	"version":[
 		{
 			"date":"20250801",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.08.01.102836-90afb48",
 			"vulnerabilities":""
 		},
@@ -21,7 +20,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.213947-514912f",
 			"vulnerabilities":""
 		},
@@ -29,7 +28,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.162102-68eb8ff",
 			"vulnerabilities":""
 		},
@@ -37,7 +36,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.154204-77a2264",
 			"vulnerabilities":""
 		},
@@ -45,7 +44,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.145542-11cfcd2",
 			"vulnerabilities":""
 		},
@@ -53,7 +52,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.141422-e5ed830",
 			"vulnerabilities":""
 		},
@@ -61,7 +60,7 @@
 			"date":"20250731",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":3,
 			"version":"2025.07.31.121904-05006c8",
 			"vulnerabilities":""
 		},
@@ -69,7 +68,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.211227-cdff65e",
 			"vulnerabilities":""
 		},
@@ -77,7 +76,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.152053-d079641",
 			"vulnerabilities":""
 		},
@@ -85,7 +84,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.145520-ed3cdfa",
 			"vulnerabilities":""
 		},
@@ -93,7 +92,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.135203-22aeb8a",
 			"vulnerabilities":""
 		},
@@ -101,7 +100,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.133600-ca34edd",
 			"vulnerabilities":""
 		},
@@ -109,7 +108,7 @@
 			"date":"20250730",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.30.023708-fb5215b",
 			"vulnerabilities":""
 		},
@@ -117,7 +116,7 @@
 			"date":"20250729",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.29.141027-915a5ed",
 			"vulnerabilities":""
 		},
@@ -125,7 +124,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.173311-f514123",
 			"vulnerabilities":""
 		},
@@ -133,7 +132,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.164255-11cc719",
 			"vulnerabilities":""
 		},
@@ -141,7 +140,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"beta",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.164242-b838462",
 			"vulnerabilities":""
 		},
@@ -149,7 +148,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.144236-3cb5622",
 			"vulnerabilities":""
 		},
@@ -157,7 +156,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.130947-2489043",
 			"vulnerabilities":""
 		},
@@ -165,7 +164,7 @@
 			"date":"20250728",
 			"repository":"Central",
 			"type":"release",
-			"usage":0,
+			"usage":4,
 			"version":"2025.07.28.010103-7c1aed7",
 			"vulnerabilities":""
 		}

@@ -3,9 +3,9 @@
   "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-importers",
-  "version_latest": "1.29.0",
-  "ts_publish": 1754378861000,
-  "ts_update": 1754379427285,
+  "version_latest": "1.29.1",
+  "ts_publish": 1754397412000,
+  "ts_update": 1754398023783,
   "count_dep": 86,
   "count_ref": 13,
   "licenses": [
