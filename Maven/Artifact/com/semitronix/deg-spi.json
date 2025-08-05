@@ -3,9 +3,9 @@
   "description": "deg-spi for deg parser",
   "group_id": "com.semitronix",
   "artifact_id": "deg-spi",
-  "version_latest": "7.1",
-  "ts_publish": 1753785837000,
-  "ts_update": 1753786620903,
+  "version_latest": "7.2",
+  "ts_publish": 1754390540000,
+  "ts_update": 1754391422136,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [
