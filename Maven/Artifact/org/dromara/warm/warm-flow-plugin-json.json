@@ -3,9 +3,9 @@
   "description": "Warm-Flow is a flow",
   "group_id": "org.dromara.warm",
   "artifact_id": "warm-flow-plugin-json",
-  "version_latest": "1.8.0-m1",
-  "ts_publish": 1754020020000,
-  "ts_update": 1754020620382,
+  "version_latest": "1.8.0-m2",
+  "ts_publish": 1754357497000,
+  "ts_update": 1754357823355,
   "count_dep": 8,
   "count_ref": 10,
   "licenses": [
