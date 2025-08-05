@@ -3,9 +3,9 @@
   "description": "A Rust-inspired success and error container.",
   "group_id": "com.markelliot.result",
   "artifact_id": "result-test-utils",
-  "version_latest": "0.125.0",
-  "ts_publish": 1754379747000,
-  "ts_update": 1754380025109,
+  "version_latest": "0.126.0",
+  "ts_publish": 1754402255000,
+  "ts_update": 1754403349119,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

@@ -1,7 +1,12 @@
 {
-	"map":{
-		
-	},
-	"ts":1754402839041,
-	"ts_update":1754403312048
+  "map": {
+    "com.finbourne:access-sdk": 1754402717000,
+    "com.ajaxjs:sqlman": 1754402493000,
+    "com.powersync:connector-supabase": 1754402395000,
+    "co.hypertest:hypertest-agent": 1754402331000,
+    "com.markelliot.result:result": 1754402255000,
+    "com.markelliot.result:result-test-utils": 1754402255000
+  },
+  "ts": 1754402839041,
+  "ts_update": 1754403312048
 }
