@@ -3,9 +3,9 @@
   "description": "a set of Kafka Connect connectors (Sink and Source), to interact with HTTP servers.",
   "group_id": "io.github.clescot",
   "artifact_id": "kafka-connect-http",
-  "version_latest": "0.8.62",
-  "ts_publish": 1754065415000,
-  "ts_update": 1754066224953,
+  "version_latest": "0.8.63",
+  "ts_publish": 1754391542000,
+  "ts_update": 1754392029337,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

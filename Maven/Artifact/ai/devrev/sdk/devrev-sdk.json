@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ai.devrev.sdk/devrev-sdk",
+  "description": "DevRev SDK for Android. Fast integration of DevRev into your Android application.",
   "group_id": "ai.devrev.sdk",
   "artifact_id": "devrev-sdk",
-  "latest_version": "2.0.4",
-  "description": "DevRev SDK for Android. Fast integration of DevRev into your Android application.",
-  "id": "pkg:maven/ai.devrev.sdk/devrev-sdk",
-  "ts": 1753424698000,
-  "dependency_count": 0,
-  "ref_count": 20,
-  "categories": null,
+  "version_latest": "2.2.0",
+  "ts_publish": 1754391222000,
+  "ts_update": 1754392029343,
+  "count_dep": 20,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753425631941
+  "categories": null,
+  "dsv": 1
 }
