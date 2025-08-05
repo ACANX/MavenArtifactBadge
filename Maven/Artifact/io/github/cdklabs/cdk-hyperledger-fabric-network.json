@@ -3,10 +3,10 @@
   "description": "CDK construct to deploy a Hyperledger Fabric network running on Amazon Managed Blockchain",
   "group_id": "io.github.cdklabs",
   "artifact_id": "cdk-hyperledger-fabric-network",
-  "version_latest": "0.8.930",
-  "ts_publish": 1754008344000,
-  "ts_update": 1754009220685,
-  "count_dep": 17,
+  "version_latest": "0.8.931",
+  "ts_publish": 1754353865000,
+  "ts_update": 1754354219647,
+  "count_dep": 18,
   "count_ref": 0,
   "licenses": [
     "MIT No Attribution"
