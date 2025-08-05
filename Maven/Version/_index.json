@@ -137,7 +137,18 @@
     "io.github.truenine:composeserver-oss-aliyun-oss": 1754423262000,
     "io.github.truenine:composeserver-rds-crud": 1754423262000,
     "io.github.truenine:composeserver-security-spring": 1754423262000,
-    "io.kestra.plugin:plugin-gcp": 1754423161000
+    "io.kestra.plugin:plugin-gcp": 1754423161000,
+    "trade.invision:num": 1754423479000,
+    "de.rpgframework:rpgframework-generator": 1754423438000,
+    "de.rpgframework:rpgframework-master": 1754423438000,
+    "de.rpgframework:foundryvtt-documents": 1754423438000,
+    "de.rpgframework:rpgframework-crypto": 1754423438000,
+    "de.rpgframework:rpgframework-javafx": 1754423438000,
+    "de.rpgframework:attach-pdf-pdfbox": 1754423438000,
+    "de.rpgframework:attach-pdf": 1754423438000,
+    "de.rpgframework:rpgframework-core": 1754423438000,
+    "de.rpgframework:rpgframework-rules": 1754423438000,
+    "com.cognitect.aws:api": 1754423393000
   },
   "ts_update": 1754420240527
 }
