@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-instance",
+  "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-instance",
-  "latest_version": "1.28.0",
-  "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-instance",
-  "ts": 1753453776000,
-  "dependency_count": 0,
-  "ref_count": 191,
-  "categories": null,
+  "version_latest": "1.29.0",
+  "ts_publish": 1754378861000,
+  "ts_update": 1754379427287,
+  "count_dep": 191,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753454217348
+  "categories": null,
+  "dsv": 1
 }

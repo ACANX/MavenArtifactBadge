@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-rhos",
+  "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-importer-prometheus-rhos",
-  "latest_version": "1.28.0",
-  "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus-rhos",
-  "ts": 1753453776000,
-  "dependency_count": 1,
-  "ref_count": 91,
-  "categories": null,
+  "version_latest": "1.29.0",
+  "ts_publish": 1754378861000,
+  "ts_update": 1754379427290,
+  "count_dep": 91,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753454217929
+  "categories": null,
+  "dsv": 1
 }

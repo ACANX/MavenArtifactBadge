@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus",
+  "description": "A common parent project",
   "group_id": "ch.admin.bit.jeap",
   "artifact_id": "jeap-archrepo-importer-prometheus",
-  "latest_version": "1.28.0",
-  "description": "A common parent project",
-  "id": "pkg:maven/ch.admin.bit.jeap/jeap-archrepo-importer-prometheus",
-  "ts": 1753453776000,
-  "dependency_count": 4,
-  "ref_count": 89,
-  "categories": null,
+  "version_latest": "1.29.0",
+  "ts_publish": 1754378861000,
+  "ts_update": 1754379427287,
+  "count_dep": 89,
+  "count_ref": 4,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753454217928
+  "categories": null,
+  "dsv": 1
 }

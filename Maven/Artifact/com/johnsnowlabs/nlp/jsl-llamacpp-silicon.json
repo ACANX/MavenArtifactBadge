@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-silicon",
+  "description": "Java Bindings for llama.cpp - A Port of Facebook's LLaMA model\n\t\tin C/C++ with extensions for Spark NLP.",
   "group_id": "com.johnsnowlabs.nlp",
   "artifact_id": "jsl-llamacpp-silicon",
-  "latest_version": "1.0.1",
-  "description": "Java Bindings for llama.cpp - A Port of Facebook's LLaMA model\n\t\tin C/C++ with extensions for Spark NLP.",
-  "id": "pkg:maven/com.johnsnowlabs.nlp/jsl-llamacpp-silicon",
-  "ts": 1753259703000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.0.2",
+  "ts_publish": 1754378863000,
+  "ts_update": 1754379427284,
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753260384877
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
