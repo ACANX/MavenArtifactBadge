@@ -1,7 +1,7 @@
 {
 	"home_page":"https://github.com/Kotlin/dataframe",
 	"license":"Apache 2.0",
-	"ranking":"#467065 in MvnRepository",
+	"ranking":"#467127 in MvnRepository",
 	"tags":[
 		"dataframe",
 		"symbol",
@@ -9,7 +9,7 @@
 		"kotlin",
 		"jetbrains"
 	],
-	"ts_update":1754410630696,
+	"ts_update":1754494439841,
 	"versions":[
 		{
 			"date":"20230608",
@@ -41,6 +41,46 @@
 			"type":"beta",
 			"usage":0,
 			"version":"1.0.0-Beta1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"dev",
+			"usage":0,
+			"version":"1.0.0-dev-7925",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"dev",
+			"usage":0,
+			"version":"1.0.0-dev-7922",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"dev",
+			"usage":0,
+			"version":"1.0.0-dev-7918",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"dev",
+			"usage":0,
+			"version":"1.0.0-dev-7914",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"dev",
+			"usage":0,
+			"version":"1.0.0-dev-7905",
 			"vulnerabilities":""
 		},
 		{
@@ -129,46 +169,6 @@
 			"type":"dev",
 			"usage":0,
 			"version":"1.0.0-dev-7568",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250623",
-			"repository":"Central",
-			"type":"dev",
-			"usage":0,
-			"version":"1.0.0-dev-7510",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250623",
-			"repository":"Central",
-			"type":"dev",
-			"usage":0,
-			"version":"1.0.0-dev-7507",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250620",
-			"repository":"Central",
-			"type":"dev",
-			"usage":0,
-			"version":"1.0.0-dev-7502",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250620",
-			"repository":"Central",
-			"type":"dev",
-			"usage":0,
-			"version":"1.0.0-dev-7498",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250617",
-			"repository":"Central",
-			"type":"dev",
-			"usage":0,
-			"version":"1.0.0-dev-7473",
 			"vulnerabilities":""
 		}
 	]

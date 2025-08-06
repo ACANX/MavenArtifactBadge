@@ -2,13 +2,21 @@
 	"count_used_by":27,
 	"home_page":"https://projects.eclipse.org/projects/technology.apoapsis",
 	"license":"Apache 2.0",
-	"ranking":"#17150 in MvnRepository",
+	"ranking":"#17167 in MvnRepository",
 	"tags":[
 		"logging",
 		"eclipse"
 	],
-	"ts":1754392049140,
-	"version":[
+	"ts_update":1754494432569,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":24,
+			"version":"0.22.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250729",
 			"repository":"Central",
@@ -159,14 +167,6 @@
 			"type":"release",
 			"usage":22,
 			"version":"0.2.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250325",
-			"repository":"Central",
-			"type":"release",
-			"usage":22,
-			"version":"0.1.0",
 			"vulnerabilities":""
 		}
 	]

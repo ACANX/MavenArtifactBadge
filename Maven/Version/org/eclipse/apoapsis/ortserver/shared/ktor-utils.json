@@ -2,14 +2,22 @@
 	"count_used_by":7,
 	"home_page":"https://projects.eclipse.org/projects/technology.apoapsis",
 	"license":"Apache 2.0",
-	"ranking":"#65165 in MvnRepository",
+	"ranking":"#65306 in MvnRepository",
 	"tags":[
 		"ktor",
 		"eclipse",
 		"kotlin"
 	],
-	"ts":1754392042134,
-	"version":[
+	"ts_update":1754494409917,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":5,
+			"version":"0.22.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250729",
 			"repository":"Central",
