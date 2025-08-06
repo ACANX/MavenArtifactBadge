@@ -954,7 +954,8 @@
     "org.anyline:anyline-data-jdbc-oscar": 1754442153000,
     "org.anyline:anyline-data-jdbc-mssql": 1754442153000,
     "org.anyline:anyline-data-jdbc-maxcompute": 1754442153000,
-    "io.github.jicklin:rate-limit-spring-boot-starter": 1754442955000
+    "io.github.jicklin:rate-limit-spring-boot-starter": 1754442955000,
+    "com.sksamuel.centurion:centurion-avro": 1754443257000
   },
   "ts_update": 1754420240527
 }
