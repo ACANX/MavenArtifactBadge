@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/cloud.shoplive/shoplive-short-form",
+  "description": "Shoplive Android SDK",
   "group_id": "cloud.shoplive",
   "artifact_id": "shoplive-short-form",
-  "latest_version": "1.7.4",
-  "description": "Shoplive Android SDK",
-  "id": "pkg:maven/cloud.shoplive/shoplive-short-form",
-  "ts": 1753669484000,
-  "dependency_count": 0,
-  "ref_count": 17,
-  "categories": null,
+  "version_latest": "1.7.5",
+  "ts_publish": 1754444984000,
+  "ts_update": 1754446020446,
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "MIT License"
   ],
-  "last_updated": 1753670217836
+  "categories": null,
+  "dsv": 1
 }

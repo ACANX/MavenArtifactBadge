@@ -969,7 +969,13 @@
     "com.davidrandoll:automation-engine-core": 1754444946000,
     "com.davidrandoll:automation-engine-jdbc": 1754444946000,
     "com.davidrandoll:automation-engine-templating": 1754444946000,
-    "com.davidrandoll:spring-boot-starter-automation-engine": 1754444946000
+    "com.davidrandoll:spring-boot-starter-automation-engine": 1754444946000,
+    "com.minlessika.erp:ppom": 1754445580000,
+    "cloud.shoplive:shoplive-video-editor": 1754445009000,
+    "cloud.shoplive:shoplive-short-form": 1754444984000,
+    "cloud.shoplive:shoplive-sdk-core": 1754444976000,
+    "cloud.shoplive:shoplive-permission": 1754444955000,
+    "cloud.shoplive:shoplive-network": 1754444948000
   },
   "ts_update": 1754420240527
 }
