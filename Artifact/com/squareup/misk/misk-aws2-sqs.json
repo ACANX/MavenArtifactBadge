@@ -1,0 +1,26 @@
+{
+	"id":"pkg:maven/com.squareup.misk/misk-aws2-sqs",
+	"description":"Open source application container in Kotlin",
+	"group_id":"com.squareup.misk",
+	"artifact_id":"misk-aws2-sqs",
+	"version_latest":"2025.08.06.102746-6e9bbd2",
+	"ts_publish":1754477489000,
+	"dt_publish":"2025-08-06 18:51:29.000",
+	"ts_update":1754482136804,
+	"dt_update":"2025-08-06 20:10:03.601",
+	"count_dep":76,
+	"count_ref":0,
+	"licenses":[
+		"The Apache Software License, Version 2.0"
+	],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/cashapp/misk/",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/com.squareup.misk/misk-aws2-sqs@2025.08.06.102746-6e9bbd2",
+	"contributors":[
+		"Square, Inc."
+	],
+	"url_scm":"https://github.com/cashapp/misk/"
+}
