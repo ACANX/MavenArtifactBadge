@@ -3,9 +3,9 @@
   "description": "Provides a list of electron-to-chromium version mappings",
   "group_id": "org.mvnpm",
   "artifact_id": "electron-to-chromium",
-  "version_latest": "1.5.195",
-  "ts_publish": 1754352378000,
-  "ts_update": 1754353021664,
+  "version_latest": "1.5.196",
+  "ts_publish": 1754452998000,
+  "ts_update": 1754453664759,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

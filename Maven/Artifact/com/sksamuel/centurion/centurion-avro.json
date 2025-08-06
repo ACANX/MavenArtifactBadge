@@ -3,11 +3,11 @@
   "description": "Kotlin Avro/Parquet Toolkit",
   "group_id": "com.sksamuel.centurion",
   "artifact_id": "centurion-avro",
-  "version_latest": "1.4.8",
-  "ts_publish": 1754443257000,
-  "ts_update": 1754443622621,
+  "version_latest": "1.4.9",
+  "ts_publish": 1754453220000,
+  "ts_update": 1754453664757,
   "count_dep": 6,
-  "count_ref": 0,
+  "count_ref": 1,
   "licenses": [
     "The Apache 2.0 License"
   ],

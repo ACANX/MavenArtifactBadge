@@ -955,7 +955,7 @@
     "org.anyline:anyline-data-jdbc-mssql": 1754442153000,
     "org.anyline:anyline-data-jdbc-maxcompute": 1754442153000,
     "io.github.jicklin:rate-limit-spring-boot-starter": 1754442955000,
-    "com.sksamuel.centurion:centurion-avro": 1754443257000,
+    "com.sksamuel.centurion:centurion-avro": 1754453220000,
     "com.veryfi:veryfi-java": 1754443766000,
     "dev.ikm.maven.tinkar:tinkar-maven-toolkit": 1754443736000,
     "dev.ikm.maven.tinkar:tinkar-maven-plugin": 1754443736000,
@@ -1320,7 +1320,15 @@
     "com.bigossp:max-mediation-new-spec": 1754452331000,
     "com.bigossp:max-mediation-new": 1754452316000,
     "com.bigossp:max-mediation": 1754452301000,
-    "com.bigossp:ironsource-mediation-v731-spec": 1754452286000
+    "com.bigossp:ironsource-mediation-v731-spec": 1754452286000,
+    "io.github.robert-hanuschke:cdk-aws-aps": 1754453314000,
+    "io.github.robert-hanuschke:cdk-aws-grafana": 1754453301000,
+    "com.sksamuel.centurion:centurion-avro-lettuce": 1754453220000,
+    "io.github.robert-hanuschke:cdk-utils": 1754453193000,
+    "com.cardinalblue:kraftshade-compose": 1754453178000,
+    "com.applovin.mediation:bigoads-adapter": 1754453101000,
+    "xyz.malefic.frc:malefix": 1754453054000,
+    "org.mvnpm:electron-to-chromium": 1754452998000
   },
   "ts_update": 1754420240527
 }
