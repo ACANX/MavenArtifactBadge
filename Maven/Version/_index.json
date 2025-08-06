@@ -1398,7 +1398,10 @@
     "com.gargantua7:SQLink-iosarm64": 1754454705000,
     "com.peluware:spring-data-crud-jpa": 1754454662000,
     "com.peluware:spring-data-crud-core": 1754454662000,
-    "com.peluware:spring-data-crud": 1754454662000
+    "com.peluware:spring-data-crud": 1754454662000,
+    "io.github.thearchitect123.atlasNavigationEngineGenerator:io.github.thearchitect123.atlasNavigationEngineGenerator.gradle.plugin": 1754455955000,
+    "io.github.thearchitect123:atlas-navEngine-generator": 1754455955000,
+    "cool.scx:scx-function": 1754455713000
   },
   "ts_update": 1754420240527
 }
