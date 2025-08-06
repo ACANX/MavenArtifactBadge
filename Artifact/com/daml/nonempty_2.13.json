@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"nonempty_2.13",
-	"version_latest":"3.4.0-adhoc.20250805.14054.0.v9c4c7803",
-	"ts_publish":1754415302000,
-	"ts_update":1754416084021,
+	"version_latest":"3.4.0-adhoc.20250806.14057.0.v1c394380",
+	"ts_publish":1754472648000,
+	"ts_update":1754473608846,
 	"count_dep":3,
 	"count_ref":11,
 	"licenses":[
@@ -24,8 +24,24 @@
 	"count_used_by":14,
 	"home_page":"https://github.com/digital-asset/daml",
 	"license":"Apache 2.0",
-	"ranking":"#33350 in MvnRepository",
+	"ranking":"#33424 in MvnRepository",
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":6,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":6,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250709",
 			"repository":"Central",
@@ -40,6 +56,14 @@
 			"type":"release",
 			"usage":6,
 			"version":"3.4.0-adhoc.20250707.1398...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"snapshot",
+			"usage":7,
+			"version":"3.4.0-snapshot.20250804.1...",
 			"vulnerabilities":""
 		},
 		{
@@ -160,30 +184,6 @@
 			"type":"snapshot",
 			"usage":6,
 			"version":"3.4.0-snapshot.20250711.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250711",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":6,
-			"version":"3.4.0-snapshot.20250710.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250710",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":6,
-			"version":"3.4.0-snapshot.20250709.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250708",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":6,
-			"version":"3.4.0-snapshot.20250708.1...",
 			"vulnerabilities":""
 		}
 	]

@@ -2,13 +2,29 @@
 	"count_used_by":9,
 	"home_page":"https://github.com/digital-asset/daml",
 	"license":"Apache 2.0",
-	"ranking":"#51721 in MvnRepository",
+	"ranking":"#51791 in MvnRepository",
 	"tags":[
 		"transaction",
 		"protocol"
 	],
-	"ts_update":1754416053152,
+	"ts_update":1754473593748,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250709",
 			"repository":"Central",
@@ -23,6 +39,14 @@
 			"type":"release",
 			"usage":1,
 			"version":"3.4.0-adhoc.20250707.1398...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"snapshot",
+			"usage":1,
+			"version":"3.4.0-snapshot.20250804.1...",
 			"vulnerabilities":""
 		},
 		{
@@ -143,30 +167,6 @@
 			"type":"snapshot",
 			"usage":1,
 			"version":"3.4.0-snapshot.20250711.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250711",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":1,
-			"version":"3.4.0-snapshot.20250710.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250710",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":1,
-			"version":"3.4.0-snapshot.20250709.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250708",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":1,
-			"version":"3.4.0-snapshot.20250708.1...",
 			"vulnerabilities":""
 		}
 	]

@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"resources-grpc_2.13",
-	"version_latest":"3.4.0-adhoc.20250805.14054.0.v9c4c7803",
-	"ts_publish":1754415302000,
-	"ts_update":1754416084081,
+	"version_latest":"3.4.0-adhoc.20250806.14057.0.v1c394380",
+	"ts_publish":1754472648000,
+	"ts_update":1754473608803,
 	"count_dep":23,
 	"count_ref":5,
 	"licenses":[
@@ -24,7 +24,7 @@
 	"count_used_by":27,
 	"home_page":"https://github.com/digital-asset/daml",
 	"license":"Apache 2.0",
-	"ranking":"#17340 in MvnRepository",
+	"ranking":"#17352 in MvnRepository",
 	"tags":[
 		"grpc",
 		"resource",
@@ -32,6 +32,22 @@
 		"protocol"
 	],
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":3,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":3,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250709",
 			"repository":"Central",
@@ -46,6 +62,14 @@
 			"type":"release",
 			"usage":3,
 			"version":"3.4.0-adhoc.20250707.1398...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"snapshot",
+			"usage":3,
+			"version":"3.4.0-snapshot.20250804.1...",
 			"vulnerabilities":""
 		},
 		{
@@ -646,6 +670,14 @@
 			"type":"release",
 			"usage":3,
 			"version":"3.3.0-adhoc.20250313.1365...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"snapshot",
+			"usage":3,
+			"version":"3.3.0-snapshot.20250718.1...",
 			"vulnerabilities":""
 		},
 		{
@@ -3998,38 +4030,6 @@
 			"type":"snapshot",
 			"usage":9,
 			"version":"2.10.0-snapshot.20241017....",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20241016",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":9,
-			"version":"2.10.0-snapshot.20241015....",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20241015",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":9,
-			"version":"2.10.0-snapshot.20241014....",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20241012",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":9,
-			"version":"2.10.0-snapshot.20241011....",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20241011",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":9,
-			"version":"2.10.0-snapshot.20241010....",
 			"vulnerabilities":""
 		}
 	]

@@ -2,13 +2,29 @@
 	"count_used_by":1,
 	"home_page":"https://github.com/digital-asset/daml",
 	"license":"Apache 2.0",
-	"ranking":"#279095 in MvnRepository",
+	"ranking":"#279169 in MvnRepository",
 	"tags":[
 		"testing",
 		"scala"
 	],
-	"ts_update":1754416064634,
+	"ts_update":1754473600756,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250709",
 			"repository":"Central",
@@ -29,7 +45,7 @@
 			"date":"20250805",
 			"repository":"Central",
 			"type":"snapshot",
-			"usage":0,
+			"usage":1,
 			"version":"3.4.0-snapshot.20250804.1...",
 			"vulnerabilities":""
 		},
@@ -151,22 +167,6 @@
 			"type":"snapshot",
 			"usage":1,
 			"version":"3.4.0-snapshot.20250711.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250711",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":1,
-			"version":"3.4.0-snapshot.20250710.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250710",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":1,
-			"version":"3.4.0-snapshot.20250709.1...",
 			"vulnerabilities":""
 		}
 	]

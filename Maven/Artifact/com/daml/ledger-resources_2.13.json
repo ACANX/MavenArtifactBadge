@@ -3,9 +3,9 @@
   "description": "TBD",
   "group_id": "com.daml",
   "artifact_id": "ledger-resources_2.13",
-  "version_latest": "3.4.0-adhoc.20250805.14054.0.v9c4c7803",
-  "ts_publish": 1754415302000,
-  "ts_update": 1754416022465,
+  "version_latest": "3.4.0-adhoc.20250806.14057.0.v1c394380",
+  "ts_publish": 1754472648000,
+  "ts_update": 1754473577142,
   "count_dep": 26,
   "count_ref": 3,
   "licenses": [

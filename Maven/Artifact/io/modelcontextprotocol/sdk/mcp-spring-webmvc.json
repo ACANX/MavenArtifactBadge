@@ -3,9 +3,9 @@
   "description": "Web MVC implementation for the SSE and Streamable Http Server transports",
   "group_id": "io.modelcontextprotocol.sdk",
   "artifact_id": "mcp-spring-webmvc",
-  "version_latest": "0.11.0",
-  "ts_publish": 1753925600000,
-  "ts_update": 1753926421716,
+  "version_latest": "0.11.1",
+  "ts_publish": 1754472737000,
+  "ts_update": 1754473575783,
   "count_dep": 23,
   "count_ref": 0,
   "licenses": [
