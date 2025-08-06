@@ -788,7 +788,13 @@
     "com.nvidia:rapids-4-spark-tools_2.12": 1754439984000,
     "io.github.j5ik2o:event-store-adapter-java": 1754439956000,
     "io.github.cdklabs:awscdk-appsync-utils": 1754439835000,
-    "org.mvnpm:sass": 1754439679000
+    "org.mvnpm:sass": 1754439679000,
+    "io.github.hanjunkwon:taboo-ui-core": 1754440785000,
+    "io.github.hanjunkwon:taboo-widget": 1754440785000,
+    "io.moov:sdk": 1754440656000,
+    "to.unified:unified-java-sdk": 1754440628000,
+    "io.github.cdklabs:cdk-ecs-service-extensions": 1754440566000,
+    "io.github.cdklabs:cdk-docker-image-deployment": 1754440442000
   },
   "ts_update": 1754420240527
 }

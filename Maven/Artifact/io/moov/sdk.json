@@ -3,9 +3,9 @@
   "description": "SDK enabling Java developers to easily integrate with the Moov API.",
   "group_id": "io.moov",
   "artifact_id": "sdk",
-  "version_latest": "0.23.1",
-  "ts_publish": 1753835822000,
-  "ts_update": 1753836422488,
+  "version_latest": "0.23.2",
+  "ts_publish": 1754440656000,
+  "ts_update": 1754441225167,
   "count_dep": 9,
   "count_ref": 0,
   "licenses": [
