@@ -1,13 +1,21 @@
 {
 	"home_page":"https://projects.eclipse.org/projects/technology.apoapsis",
 	"license":"Apache 2.0",
-	"ranking":"#577574 in MvnRepository",
+	"ranking":"#577627 in MvnRepository",
 	"tags":[
 		"eclipse",
 		"config"
 	],
-	"ts":1754392041436,
-	"version":[
+	"ts_update":1754492266271,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"0.22.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250729",
 			"repository":"Central",
@@ -158,14 +166,6 @@
 			"type":"release",
 			"usage":0,
 			"version":"0.2.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250325",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"0.1.0",
 			"vulnerabilities":""
 		}
 	]

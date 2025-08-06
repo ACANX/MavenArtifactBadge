@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/com.palantir.launching/go-java-launcher",
+  "description": "Palantir open source project",
   "group_id": "com.palantir.launching",
   "artifact_id": "go-java-launcher",
-  "latest_version": "1.197.0",
-  "description": "Palantir open source project",
-  "id": "pkg:maven/com.palantir.launching/go-java-launcher",
-  "ts": 1753731640000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.199.0",
+  "ts_publish": 1754490654000,
+  "dt_publish": "2025-08-06 22:30:54.000",
+  "ts_update": 1754492240163,
+  "dt_update": "2025-08-06 22:57:20.163",
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753732024127
+  "categories": null,
+  "dsv": 1
 }

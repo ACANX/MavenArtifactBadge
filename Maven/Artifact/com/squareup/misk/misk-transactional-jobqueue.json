@@ -3,10 +3,12 @@
   "description": "Open source application container in Kotlin",
   "group_id": "com.squareup.misk",
   "artifact_id": "misk-transactional-jobqueue",
-  "version_latest": "2025.08.06.102746-6e9bbd2",
-  "ts_publish": 1754477489000,
-  "ts_update": 1754478428370,
-  "count_dep": 64,
+  "version_latest": "2025.08.06.142029-bb1fde8",
+  "ts_publish": 1754491481000,
+  "dt_publish": "2025-08-06 22:44:41.000",
+  "ts_update": 1754492234969,
+  "dt_update": "2025-08-06 22:57:14.969",
+  "count_dep": 4,
   "count_ref": 2,
   "licenses": [
     "The Apache Software License, Version 2.0"

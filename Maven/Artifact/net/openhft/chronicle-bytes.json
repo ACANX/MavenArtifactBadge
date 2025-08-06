@@ -1,17 +1,20 @@
 {
+  "id": "pkg:maven/net.openhft/chronicle-bytes",
+  "description": "Chronicle-Bytes",
   "group_id": "net.openhft",
   "artifact_id": "chronicle-bytes",
-  "latest_version": "2.27ea6",
-  "description": "Chronicle-Bytes",
-  "id": "pkg:maven/net.openhft/chronicle-bytes",
-  "ts": 1753458472000,
-  "dependency_count": 2,
-  "ref_count": 22,
-  "categories": [
-    "Monitoring and Management"
-  ],
+  "version_latest": "2.27ea7",
+  "ts_publish": 1754489647000,
+  "dt_publish": "2025-08-06 22:14:07.000",
+  "ts_update": 1754492243779,
+  "dt_update": "2025-08-06 22:57:23.779",
+  "count_dep": 22,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753459019246
+  "categories": [
+    "Monitoring and Management"
+  ],
+  "dsv": 1
 }

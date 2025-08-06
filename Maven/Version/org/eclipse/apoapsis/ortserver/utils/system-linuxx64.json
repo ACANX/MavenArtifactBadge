@@ -2,7 +2,7 @@
 	"count_used_by":2,
 	"home_page":"https://projects.eclipse.org/projects/technology.apoapsis",
 	"license":"Apache 2.0",
-	"ranking":"#216961 in MvnRepository",
+	"ranking":"#225364 in MvnRepository",
 	"tags":[
 		"system",
 		"unix",
@@ -10,8 +10,16 @@
 		"linux",
 		"kotlin"
 	],
-	"ts":1754392041135,
-	"version":[
+	"ts_update":1754492264432,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"0.22.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250729",
 			"repository":"Central",
@@ -162,14 +170,6 @@
 			"type":"release",
 			"usage":1,
 			"version":"0.2.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250325",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"0.1.0",
 			"vulnerabilities":""
 		}
 	]

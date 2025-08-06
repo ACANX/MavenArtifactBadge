@@ -2,14 +2,14 @@
 	"count_used_by":1,
 	"home_page":"https://github.com/wireapp/wire-avs",
 	"license":"GPL 3.0",
-	"ranking":"#322705 in MvnRepository",
+	"ranking":"#322780 in MvnRepository",
 	"tags":[
 		"wire",
 		"android",
 		"mobile",
 		"aar"
 	],
-	"ts_update":1754467628384,
+	"ts_update":1754492284675,
 	"versions":[
 		{
 			"date":"20250725",

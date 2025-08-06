@@ -2,14 +2,22 @@
 	"count_used_by":1,
 	"home_page":"https://projects.eclipse.org/projects/technology.apoapsis",
 	"license":"Apache 2.0",
-	"ranking":"#255740 in MvnRepository",
+	"ranking":"#255898 in MvnRepository",
 	"tags":[
 		"eclipse",
 		"backend",
 		"component"
 	],
-	"ts":1754392041864,
-	"version":[
+	"ts_update":1754492324140,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"0.22.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250729",
 			"repository":"Central",

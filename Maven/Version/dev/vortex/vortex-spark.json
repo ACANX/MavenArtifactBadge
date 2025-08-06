@@ -1,12 +1,20 @@
 {
 	"home_page":"https://vortex.dev",
 	"license":"Apache 2.0",
-	"ranking":"#432780 in MvnRepository",
+	"ranking":"#432962 in MvnRepository",
 	"tags":[
 		"spark"
 	],
-	"ts":1754400835875,
-	"version":[
+	"ts_update":1754492292756,
+	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"0.43.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250724",
 			"repository":"Central",

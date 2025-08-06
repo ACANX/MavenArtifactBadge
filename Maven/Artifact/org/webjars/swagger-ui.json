@@ -1,18 +1,21 @@
 {
+  "id": "pkg:maven/org.webjars/swagger-ui",
+  "description": "WebJar for Swagger UI",
   "group_id": "org.webjars",
   "artifact_id": "swagger-ui",
-  "latest_version": "5.27.0",
-  "description": "WebJar for Swagger UI",
-  "id": "pkg:maven/org.webjars/swagger-ui",
-  "ts": 1753745231000,
-  "dependency_count": 0,
-  "ref_count": 0,
+  "version_latest": "5.27.1",
+  "ts_publish": 1754490626000,
+  "dt_publish": "2025-08-06 22:30:26.000",
+  "ts_update": 1754492242507,
+  "dt_update": "2025-08-06 22:57:22.507",
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
   "categories": [
     "File Utilities",
     "Compression"
   ],
-  "licenses": [
-    "Apache-2.0"
-  ],
-  "last_updated": 1753745818963
+  "dsv": 1
 }
