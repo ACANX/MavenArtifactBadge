@@ -3,9 +3,9 @@
   "description": "core library of Kafka Connect HTTP.",
   "group_id": "io.github.clescot",
   "artifact_id": "kafka-connect-http-core",
-  "version_latest": "0.8.64",
-  "ts_publish": 1754401940000,
-  "ts_update": 1754402825254,
+  "version_latest": "0.8.65",
+  "ts_publish": 1754474624000,
+  "ts_update": 1754475425114,
   "count_dep": 24,
   "count_ref": 2,
   "licenses": [
