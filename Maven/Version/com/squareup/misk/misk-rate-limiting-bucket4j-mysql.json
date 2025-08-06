@@ -1,14 +1,30 @@
 {
 	"home_page":"https://github.com/cashapp/misk/",
 	"license":"Apache 2.0",
-	"ranking":"#747741 in MvnRepository",
+	"ranking":"#746886 in MvnRepository",
 	"tags":[
 		"database",
 		"sql",
 		"mysql"
 	],
-	"ts_update":1754462843848,
+	"ts_update":1754478569656,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2025.08.05.111709-c1791a4",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2025.08.04.214233-e48a27e",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250801",
 			"repository":"Central",
@@ -151,22 +167,6 @@
 			"type":"release",
 			"usage":0,
 			"version":"2025.07.28.144236-3cb5622",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250728",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"2025.07.28.130947-2489043",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250728",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"2025.07.28.010103-7c1aed7",
 			"vulnerabilities":""
 		}
 	]

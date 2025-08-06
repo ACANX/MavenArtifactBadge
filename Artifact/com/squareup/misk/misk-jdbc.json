@@ -3,9 +3,9 @@
 	"description":"Open source application container in Kotlin",
 	"group_id":"com.squareup.misk",
 	"artifact_id":"misk-jdbc",
-	"version_latest":"2025.08.06.014952-3b7858b",
-	"ts_publish":1754446309000,
-	"ts_update":1754463239811,
+	"version_latest":"2025.08.06.102746-6e9bbd2",
+	"ts_publish":1754477489000,
+	"ts_update":1754478459680,
 	"count_dep":76,
 	"count_ref":10,
 	"licenses":[
@@ -24,7 +24,7 @@
 	"count_used_by":10,
 	"home_page":"https://github.com/cashapp/misk/",
 	"license":"Apache 2.0",
-	"ranking":"#44467 in MvnRepository",
+	"ranking":"#44538 in MvnRepository",
 	"tags":[
 		"database",
 		"sql",
@@ -32,10 +32,34 @@
 	],
 	"versions":[
 		{
-			"date":"20250801",
+			"date":"20250806",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"2025.08.06.014952-3b7858b",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
 			"repository":"Central",
 			"type":"release",
 			"usage":6,
+			"version":"2025.08.05.111709-c1791a4",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":6,
+			"version":"2025.08.04.214233-e48a27e",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250801",
+			"repository":"Central",
+			"type":"release",
+			"usage":7,
 			"version":"2025.08.01.102836-90afb48",
 			"vulnerabilities":""
 		},
@@ -166,30 +190,8 @@
 			"usage":6,
 			"version":"2025.07.28.164242-b838462",
 			"vulnerabilities":""
-		},
-		{
-			"date":"20250728",
-			"repository":"Central",
-			"type":"release",
-			"usage":6,
-			"version":"2025.07.28.144236-3cb5622",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250728",
-			"repository":"Central",
-			"type":"release",
-			"usage":6,
-			"version":"2025.07.28.130947-2489043",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250728",
-			"repository":"Central",
-			"type":"release",
-			"usage":6,
-			"version":"2025.07.28.010103-7c1aed7",
-			"vulnerabilities":""
 		}
-	]
+	],
+	"dt_publish":"2025-08-06 18:51:29.000",
+	"dt_update":"2025-08-06 19:13:09.617"
 }
