@@ -3,9 +3,9 @@
   "description": "Mybatis Plus 自动配置, 动态表名, 多数据源, 数据权限",
   "group_id": "io.github.kk01001",
   "artifact_id": "mybatis-plus-spring3-boot-starter",
-  "version_latest": "2.4.6.4.2",
-  "ts_publish": 1754451159000,
-  "ts_update": 1754452025711,
+  "version_latest": "2.4.6.4.3",
+  "ts_publish": 1754468557000,
+  "ts_update": 1754469028487,
   "count_dep": 79,
   "count_ref": 0,
   "licenses": [

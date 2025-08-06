@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/ai.nextbillion/sdk",
+  "description": "An SDK library for nextbillion-sdk",
+  "group_id": "ai.nextbillion",
+  "artifact_id": "sdk",
+  "version_latest": "0.1.0-alpha.15-test",
+  "ts_publish": 1754468398000,
+  "ts_update": 1754469029027,
+  "count_dep": 6,
+  "count_ref": 0,
+  "licenses": [
+    "Apache-2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

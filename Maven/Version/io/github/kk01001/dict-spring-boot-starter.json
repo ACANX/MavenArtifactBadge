@@ -1,3 +1,45 @@
 {
-	"ts_update":1754462976597
+	"license":"Apache 2.0",
+	"ranking":"#906222 in MvnRepository",
+	"tags":[
+		"github",
+		"dictionary",
+		"spring",
+		"starter"
+	],
+	"ts_update":1754469047628,
+	"versions":[
+		{
+			"date":"20250509",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.4.6.4",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250418",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.4.6.3",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250410",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.4.6.2",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250313",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.4.6.1",
+			"vulnerabilities":""
+		}
+	]
 }

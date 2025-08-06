@@ -3,9 +3,9 @@
   "description": "RSocket Micro Connect Client Starter",
   "group_id": "pro.chenggang",
   "artifact_id": "rsocket-micro-connect-client-starter",
-  "version_latest": "0.2.5.RELEASE",
-  "ts_publish": 1753763375000,
-  "ts_update": 1753763818452,
+  "version_latest": "0.2.6.RELEASE",
+  "ts_publish": 1754468600000,
+  "ts_update": 1754469028483,
   "count_dep": 85,
   "count_ref": 0,
   "licenses": [

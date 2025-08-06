@@ -3,9 +3,9 @@
   "description": "RSocket Micro Connect Spring",
   "group_id": "pro.chenggang",
   "artifact_id": "rsocket-micro-connect-spring",
-  "version_latest": "0.2.5.RELEASE",
-  "ts_publish": 1753763375000,
-  "ts_update": 1753763818453,
+  "version_latest": "0.2.6.RELEASE",
+  "ts_publish": 1754468600000,
+  "ts_update": 1754469028484,
   "count_dep": 76,
   "count_ref": 2,
   "licenses": [

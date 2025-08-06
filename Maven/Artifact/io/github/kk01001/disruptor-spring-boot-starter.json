@@ -3,9 +3,9 @@
   "description": "通用工具",
   "group_id": "io.github.kk01001",
   "artifact_id": "disruptor-spring-boot-starter",
-  "version_latest": "2.4.6.4.2",
-  "ts_publish": 1754451159000,
-  "ts_update": 1754452025712,
+  "version_latest": "2.4.6.4.3",
+  "ts_publish": 1754468557000,
+  "ts_update": 1754469028487,
   "count_dep": 31,
   "count_ref": 0,
   "licenses": [

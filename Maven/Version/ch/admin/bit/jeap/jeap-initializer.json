@@ -1,11 +1,11 @@
 {
 	"license":"Apache 2.0",
-	"ranking":"#927893 in MvnRepository",
+	"ranking":"#929769 in MvnRepository",
 	"tags":[
 		"admin"
 	],
-	"ts":1754402228536,
-	"version":[
+	"ts_update":1754469040808,
+	"versions":[
 		{
 			"date":"20250725",
 			"repository":"Central",

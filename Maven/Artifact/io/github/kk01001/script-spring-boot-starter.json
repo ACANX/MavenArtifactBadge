@@ -3,9 +3,9 @@
   "description": "Groovy JavaScript等脚本",
   "group_id": "io.github.kk01001",
   "artifact_id": "script-spring-boot-starter",
-  "version_latest": "2.4.6.4.2",
-  "ts_publish": 1754451159000,
-  "ts_update": 1754452025714,
+  "version_latest": "2.4.6.4.3",
+  "ts_publish": 1754468557000,
+  "ts_update": 1754469028489,
   "count_dep": 32,
   "count_ref": 0,
   "licenses": [
