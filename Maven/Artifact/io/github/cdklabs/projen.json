@@ -1,17 +1,20 @@
 {
+  "id": "pkg:maven/io.github.cdklabs/projen",
+  "description": "CDK for software projects",
   "group_id": "io.github.cdklabs",
   "artifact_id": "projen",
-  "latest_version": "0.95.0",
-  "description": "CDK for software projects",
-  "id": "pkg:maven/io.github.cdklabs/projen",
-  "ts": 1753350424000,
-  "dependency_count": 0,
-  "ref_count": 13,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.95.1",
+  "ts_publish": 1754485613000,
+  "dt_publish": "2025-08-06 21:06:53.000",
+  "ts_update": 1754486837111,
+  "dt_update": "2025-08-06 21:27:17.111",
+  "count_dep": 13,
+  "count_ref": 0,
   "licenses": [
     "Apache License 2.0"
   ],
-  "last_updated": 1753350840373
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

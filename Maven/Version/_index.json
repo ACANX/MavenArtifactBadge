@@ -1,13 +1,35 @@
 {
-	"map":{
-		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754465059000,
-		"tv.jowo:dramasdk":1754471223000,
-		"xyz.hrishabhjoshi:_code_execution_engine":1754477142000,
-		"org.encalmo:validator_3":1754423982000,
-		"io.modelcontextprotocol.sdk:mcp-parent":1754472737000,
-		"dev.ikm.maven.tinkar:tinkar-maven-toolkit":1754443736000,
-		"org.eclipse.dirigible:dirigible-components-api-io":1754475392000,
-		"chat.dim:_l_n_c":1754428780000
-	},
-	"ts_update":1754486237771
+  "map": {
+    "codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta": 1754465059000,
+    "tv.jowo:dramasdk": 1754471223000,
+    "xyz.hrishabhjoshi:_code_execution_engine": 1754477142000,
+    "org.encalmo:validator_3": 1754423982000,
+    "io.modelcontextprotocol.sdk:mcp-parent": 1754472737000,
+    "dev.ikm.maven.tinkar:tinkar-maven-toolkit": 1754443736000,
+    "org.eclipse.dirigible:dirigible-components-api-io": 1754475392000,
+    "chat.dim:_l_n_c": 1754428780000,
+    "com.affise:module-rustore": 1754485917000,
+    "com.affise:module-subscription": 1754485851000,
+    "com.affise:module-status": 1754485764000,
+    "money.onramp.onrampwebview:OnrampSDK": 1754485746000,
+    "com.affise:module-phone": 1754485695000,
+    "io.github.nicolasfara:mktt": 1754485658000,
+    "io.github.nicolasfara:mktt-jvm": 1754485658000,
+    "io.github.nicolasfara:mktt-js": 1754485658000,
+    "com.affise:module-network": 1754485625000,
+    "io.github.cdklabs:projen": 1754485613000,
+    "com.affise:module-meta": 1754485555000,
+    "com.contentful.java:cma-sdk": 1754485545000,
+    "site.lingyang:YIM": 1754485493000,
+    "com.affise:module-link": 1754485482000,
+    "org.graylog2:graylog2-server": 1754485457000,
+    "com.affise:module-appsflyer": 1754485418000,
+    "ai.instavision:guardian": 1754485412000,
+    "com.affise:module-androidid": 1754485356000,
+    "fr.maif:izanami": 1754485304000,
+    "com.affise:module-advertising": 1754485290000,
+    "com.alipay.sdk:alipay-sdk-java-v3": 1754485243000,
+    "com.affise:attribution": 1754485203000
+  },
+  "ts_update": 1754486237771
 }
