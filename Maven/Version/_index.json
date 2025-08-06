@@ -1425,7 +1425,8 @@
     "io.github.orangewest:easy-trans-core": 1754457823000,
     "io.github.orangewest:easy-trans-spring-start": 1754457823000,
     "io.github.orangewest:easy-trans": 1754457823000,
-    "com.apptasticsoftware:tickersymbol": 1754457760000
+    "com.apptasticsoftware:tickersymbol": 1754457760000,
+    "top.wrqj:fleurui-http-core": 1754458368000
   },
   "ts_update": 1754420240527
 }
