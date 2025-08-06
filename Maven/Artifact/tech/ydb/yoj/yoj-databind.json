@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/tech.ydb.yoj/yoj-databind",
+  "description": "Core data-binding logic used by YOJ (YDB ORM for Java) to convert\n        between Java objects and database rows (or anything representable by\n        a Java Map, really).",
   "group_id": "tech.ydb.yoj",
   "artifact_id": "yoj-databind",
-  "latest_version": "2.6.23",
-  "description": "Core data-binding logic used by YOJ (YDB ORM for Java) to convert\n        between Java objects and database rows (or anything representable by\n        a Java Map, really).",
-  "id": "pkg:maven/tech.ydb.yoj/yoj-databind",
-  "ts": 1753363060000,
-  "dependency_count": 8,
-  "ref_count": 19,
-  "categories": null,
+  "version_latest": "2.6.24",
+  "ts_publish": 1754486342000,
+  "dt_publish": "2025-08-06 21:19:02.000",
+  "ts_update": 1754487422800,
+  "dt_update": "2025-08-06 21:37:02.800",
+  "count_dep": 19,
+  "count_ref": 8,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753363626491
+  "categories": null,
+  "dsv": 1
 }
