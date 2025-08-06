@@ -64,11 +64,11 @@
     "io.kestra.plugin:plugin-script-lua": 1754422372000,
     "io.kestra.plugin:plugin-script-node": 1754422372000,
     "com.statsig:javacore": 1754422285000,
-    "it.unibo.collektive:collektive-compiler-plugin": 1754422054000,
-    "it.unibo.collektive:gradle-plugin": 1754422053000,
-    "it.unibo.collektive.collektive-plugin:it.unibo.collektive.collektive-plugin.gradle.plugin": 1754422053000,
-    "it.unibo.collektive.collektivize:it.unibo.collektive.collektivize.gradle.plugin": 1754422053000,
-    "it.unibo.collektive:collektivize": 1754422053000,
+    "it.unibo.collektive:collektive-compiler-plugin": 1754450923000,
+    "it.unibo.collektive:gradle-plugin": 1754450923000,
+    "it.unibo.collektive.collektive-plugin:it.unibo.collektive.collektive-plugin.gradle.plugin": 1754450923000,
+    "it.unibo.collektive.collektivize:it.unibo.collektive.collektivize.gradle.plugin": 1754450923000,
+    "it.unibo.collektive:collektivize": 1754450923000,
     "com.google.protobuf:protobuf-javalite": 1754422048000,
     "com.google.protobuf:protobuf-java-util": 1754422048000,
     "com.google.protobuf:protobuf-kotlin": 1754422048000,
@@ -1278,7 +1278,8 @@
     "io.streamnative.pulsar.handlers:kafka-payload-processor-shaded-tests": 1754449894000,
     "io.streamnative.pulsar.handlers:kafka-client-api": 1754449894000,
     "io.streamnative.pulsar.handlers:kafka-1-0": 1754449894000,
-    "io.streamnative.pulsar.handlers:kafka-0-9": 1754449894000
+    "io.streamnative.pulsar.handlers:kafka-0-9": 1754449894000,
+    "io.github.newposstoresupport:api": 1754450793000
   },
   "ts_update": 1754420240527
 }
