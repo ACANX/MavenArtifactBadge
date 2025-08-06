@@ -3,11 +3,11 @@
   "description": "Spring Boot for nbsaas.com",
   "group_id": "com.nbsaas.boot",
   "artifact_id": "chain",
-  "version_latest": "1.1.23-2025",
-  "ts_publish": 1754034209000,
-  "ts_update": 1754035020404,
+  "version_latest": "1.1.24-2025",
+  "ts_publish": 1754461426000,
+  "ts_update": 1754462608451,
   "count_dep": 3,
-  "count_ref": 1,
+  "count_ref": 2,
   "licenses": [
     "MIT License"
   ],
