@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/dev.ikm.maven.tinkar/maven-artifacts",
+  "description": "The Java Parent that helps to define the build processes that should be used across projects. This is versioned\n        and if you want to use a different version of the pom, you can simply change the parent version, and it will\n        adjust all the properties being used throughout, as the properties and plugins will be inherited by\n        subprojects.",
   "group_id": "dev.ikm.maven.tinkar",
   "artifact_id": "maven-artifacts",
-  "latest_version": "1.31.0",
-  "description": "The Java Parent that helps to define the build processes that should be used across projects. This is versioned\n        and if you want to use a different version of the pom, you can simply change the parent version, and it will\n        adjust all the properties being used throughout, as the properties and plugins will be inherited by\n        subprojects.",
-  "id": "pkg:maven/dev.ikm.maven.tinkar/maven-artifacts",
-  "ts": 1753373900000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": null,
+  "version_latest": "1.32.0",
+  "ts_publish": 1754443736000,
+  "ts_update": 1754444225367,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753374418007
+  "categories": null,
+  "dsv": 1
 }

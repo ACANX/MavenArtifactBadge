@@ -955,7 +955,12 @@
     "org.anyline:anyline-data-jdbc-mssql": 1754442153000,
     "org.anyline:anyline-data-jdbc-maxcompute": 1754442153000,
     "io.github.jicklin:rate-limit-spring-boot-starter": 1754442955000,
-    "com.sksamuel.centurion:centurion-avro": 1754443257000
+    "com.sksamuel.centurion:centurion-avro": 1754443257000,
+    "com.veryfi:veryfi-java": 1754443766000,
+    "dev.ikm.maven.tinkar:tinkar-maven-toolkit": 1754443736000,
+    "dev.ikm.maven.tinkar:tinkar-maven-plugin": 1754443736000,
+    "dev.ikm.maven.tinkar:maven-artifacts": 1754443736000,
+    "io.github.mediastream:mediastreamplatformsdkandroid": 1754443540000
   },
   "ts_update": 1754420240527
 }

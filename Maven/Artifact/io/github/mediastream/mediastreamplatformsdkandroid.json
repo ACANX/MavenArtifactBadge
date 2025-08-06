@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid",
+  "description": "Mediastream Platform SDK for Android.",
   "group_id": "io.github.mediastream",
   "artifact_id": "mediastreamplatformsdkandroid",
-  "latest_version": "9.6.0",
-  "description": "Mediastream Platform SDK for Android.",
-  "id": "pkg:maven/io.github.mediastream/mediastreamplatformsdkandroid",
-  "ts": 1753481701000,
-  "dependency_count": 0,
-  "ref_count": 47,
-  "categories": null,
+  "version_latest": "9.6.1",
+  "ts_publish": 1754443540000,
+  "ts_update": 1754444225368,
+  "count_dep": 47,
+  "count_ref": 0,
   "licenses": [
     "Mediastream License"
   ],
-  "last_updated": 1753482249508
+  "categories": null,
+  "dsv": 1
 }
