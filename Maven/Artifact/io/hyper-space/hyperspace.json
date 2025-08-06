@@ -3,9 +3,9 @@
   "description": "Hyperspace Search Java Client",
   "group_id": "io.hyper-space",
   "artifact_id": "hyperspace",
-  "version_latest": "2.0.241",
-  "ts_publish": 1754225946000,
-  "ts_update": 1754226421816,
+  "version_latest": "2.0.255",
+  "ts_publish": 1754471060000,
+  "ts_update": 1754471823715,
   "count_dep": 32,
   "count_ref": 0,
   "licenses": [
