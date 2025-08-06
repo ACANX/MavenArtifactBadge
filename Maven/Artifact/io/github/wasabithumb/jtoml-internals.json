@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.github.wasabithumb/jtoml-internals",
+  "description": "Non-API components for JToml",
   "group_id": "io.github.wasabithumb",
   "artifact_id": "jtoml-internals",
-  "latest_version": "1.0.0",
-  "description": "Non-API components for JToml",
-  "id": "pkg:maven/io.github.wasabithumb/jtoml-internals",
-  "ts": 1753721932000,
-  "dependency_count": 1,
-  "ref_count": 1,
-  "categories": null,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754496903000,
+  "dt_publish": "2025-08-07 00:15:03.000",
+  "ts_update": 1754498125285,
+  "dt_update": "2025-08-07 00:35:25.285",
+  "count_dep": 1,
+  "count_ref": 1,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753722424308
+  "categories": null,
+  "dsv": 1
 }

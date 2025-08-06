@@ -3,11 +3,13 @@
   "description": "Angular - the compiler library",
   "group_id": "org.mvnpm.at.angular",
   "artifact_id": "compiler",
-  "version_latest": "20.1.4",
-  "ts_publish": 1753965373000,
-  "ts_update": 1753966019285,
+  "version_latest": "20.1.5",
+  "ts_publish": 1754497639000,
+  "dt_publish": "2025-08-07 00:27:19.000",
+  "ts_update": 1754498123983,
+  "dt_update": "2025-08-07 00:35:23.983",
   "count_dep": 2,
-  "count_ref": 2,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],

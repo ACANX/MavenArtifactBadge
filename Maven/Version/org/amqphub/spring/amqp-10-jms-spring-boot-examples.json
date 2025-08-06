@@ -1,3 +1,31 @@
 {
-	"ts_update":1754495705172
+	"license":"Apache 2.0",
+	"ranking":"#760694 in MvnRepository",
+	"tags":[
+		"jms",
+		"queue",
+		"messaging",
+		"amqp",
+		"spring",
+		"example"
+	],
+	"ts_update":1754498218937,
+	"versions":[
+		{
+			"date":"20250724",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.4.5",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250701",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.4.4",
+			"vulnerabilities":""
+		}
+	]
 }

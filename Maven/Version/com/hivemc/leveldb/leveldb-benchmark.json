@@ -1,0 +1,28 @@
+{
+	"license":"Apache 2.0",
+	"ranking":"#897194 in MvnRepository",
+	"tags":[
+		"database",
+		"leveldb",
+		"benchmark"
+	],
+	"ts_update":1754498194442,
+	"versions":[
+		{
+			"date":"20240830",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20240811",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.0",
+			"vulnerabilities":""
+		}
+	]
+}

@@ -1,7 +1,7 @@
 {
 	"home_page":"https://github.com/SAP/ui5-webcomponents#readme",
 	"license":"Apache 2.0",
-	"ranking":"#837199 in MvnRepository",
+	"ranking":"#704091 in MvnRepository",
 	"tags":[
 		"assets",
 		"web",
@@ -9,8 +9,24 @@
 		"npm",
 		"resources"
 	],
-	"ts_update":1754410633470,
+	"ts_update":1754498135755,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.13.1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.13.0",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250704",
 			"repository":"Central",

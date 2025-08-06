@@ -3,11 +3,13 @@
   "description": "Angular - commonly needed directives and services",
   "group_id": "org.mvnpm.at.angular",
   "artifact_id": "common",
-  "version_latest": "20.1.4",
-  "ts_publish": 1753963934000,
-  "ts_update": 1753964832228,
+  "version_latest": "20.1.5",
+  "ts_publish": 1754496741000,
+  "dt_publish": "2025-08-07 00:12:21.000",
+  "ts_update": 1754498125287,
+  "dt_update": "2025-08-07 00:35:25.287",
   "count_dep": 5,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [
     "MIT"
   ],

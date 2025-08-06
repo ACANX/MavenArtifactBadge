@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.github.wasabithumb/jtoml",
+  "description": "Fully compliant TOML library for Java",
   "group_id": "io.github.wasabithumb",
   "artifact_id": "jtoml",
-  "latest_version": "1.0.0",
-  "description": "Fully compliant TOML library for Java",
-  "id": "pkg:maven/io.github.wasabithumb/jtoml",
-  "ts": 1753721932000,
-  "dependency_count": 2,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754496903000,
+  "dt_publish": "2025-08-07 00:15:03.000",
+  "ts_update": 1754498125285,
+  "dt_update": "2025-08-07 00:35:25.285",
+  "count_dep": 2,
+  "count_ref": 2,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753722424308
+  "categories": null,
+  "dsv": 1
 }

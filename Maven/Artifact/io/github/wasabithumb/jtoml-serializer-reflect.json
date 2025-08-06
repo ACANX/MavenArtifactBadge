@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect",
+  "description": "Reflection integration for JToml",
   "group_id": "io.github.wasabithumb",
   "artifact_id": "jtoml-serializer-reflect",
-  "latest_version": "1.0.0",
-  "description": "Reflection integration for JToml",
-  "id": "pkg:maven/io.github.wasabithumb/jtoml-serializer-reflect",
-  "ts": 1753721932000,
-  "dependency_count": 0,
-  "ref_count": 2,
-  "categories": null,
+  "version_latest": "1.1.0",
+  "ts_publish": 1754496903000,
+  "dt_publish": "2025-08-07 00:15:03.000",
+  "ts_update": 1754498125283,
+  "dt_update": "2025-08-07 00:35:25.283",
+  "count_dep": 2,
+  "count_ref": 0,
   "licenses": [
     "The Apache License, Version 2.0"
   ],
-  "last_updated": 1753722424307
+  "categories": null,
+  "dsv": 1
 }
