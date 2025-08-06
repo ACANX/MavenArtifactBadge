@@ -3,11 +3,11 @@
   "description": "Agents-Flex is an elegant LLM Application Framework like LangChain with Java.",
   "group_id": "com.agentsflex",
   "artifact_id": "agents-flex-store-pgvector",
-  "version_latest": "1.3.2",
-  "ts_publish": 1753930368000,
-  "ts_update": 1753931224234,
+  "version_latest": "1.3.3",
+  "ts_publish": 1754469257000,
+  "ts_update": 1754470024826,
   "count_dep": 24,
-  "count_ref": 2,
+  "count_ref": 3,
   "licenses": [
     "The Apache Software License, Version 2.0"
   ],
