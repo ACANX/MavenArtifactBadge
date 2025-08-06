@@ -3,11 +3,11 @@
   "description": "Elements is an Open Source Backend for Games",
   "group_id": "dev.getelements.elements",
   "artifact_id": "doc-serve-jetty",
-  "version_latest": "3.3.4",
-  "ts_publish": 1754007513000,
-  "ts_update": 1754008023623,
-  "count_dep": 207,
-  "count_ref": 2,
+  "version_latest": "3.3.5",
+  "ts_publish": 1754448099000,
+  "ts_update": 1754449020944,
+  "count_dep": 112,
+  "count_ref": 1,
   "licenses": [
     "Modified GNU AGPL v3.0"
   ],
