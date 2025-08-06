@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-azure-functions-http",
+  "description": "Write Microsoft Azure functions",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-azure-functions-http",
-  "latest_version": "3.25.0",
-  "description": "Write Microsoft Azure functions",
-  "id": "pkg:maven/io.quarkus/quarkus-azure-functions-http",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 7,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489376000,
+  "dt_publish": "2025-08-06 22:09:36.000",
+  "ts_update": 1754490639128,
+  "dt_update": "2025-08-06 22:30:39.128",
+  "count_dep": 7,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264623565
+  "dsv": 1
 }

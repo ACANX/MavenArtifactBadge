@@ -1,0 +1,44 @@
+{
+	"id":"pkg:maven/io.quarkus/quarkus-devui-deployment-spi",
+	"group_id":"io.quarkus",
+	"artifact_id":"quarkus-devui-deployment-spi",
+	"version_latest":"3.25.1",
+	"ts_publish":1754489375000,
+	"dt_publish":"2025-08-06 22:09:35.000",
+	"ts_update":1754490701338,
+	"dt_update":"2025-08-06 22:30:41.550",
+	"count_dep":1,
+	"count_ref":0,
+	"licenses":[],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/io.quarkus/quarkus-devui-deployment-spi@3.25.1",
+	"count_used_by":18,
+	"license":"Apache 2.0",
+	"ranking":"#25629 in MvnRepository",
+	"tags":[
+		"deployment",
+		"quarkus",
+		"interface"
+	],
+	"versions":[
+		{
+			"date":"20250723",
+			"repository":"Central",
+			"type":"release",
+			"usage":18,
+			"version":"3.25.0",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250716",
+			"repository":"Central",
+			"type":"release",
+			"usage":18,
+			"version":"3.25.0.CR1",
+			"vulnerabilities":""
+		}
+	]
+}

@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-devui-test-spi",
+  "description": null,
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-devui-test-spi",
-  "latest_version": "3.25.0",
-  "description": null,
-  "id": "pkg:maven/io.quarkus/quarkus-devui-test-spi",
-  "ts": 1753262864000,
-  "dependency_count": 0,
-  "ref_count": 4,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489375000,
+  "dt_publish": "2025-08-06 22:09:35.000",
+  "ts_update": 1754490643017,
+  "dt_update": "2025-08-06 22:30:43.017",
+  "count_dep": 4,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264622288
+  "dsv": 1
 }

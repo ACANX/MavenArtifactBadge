@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-apache-httpclient-deployment",
+  "description": null,
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-apache-httpclient-deployment",
-  "latest_version": "3.25.0",
-  "description": null,
-  "id": "pkg:maven/io.quarkus/quarkus-apache-httpclient-deployment",
-  "ts": 1753262864000,
-  "dependency_count": 0,
-  "ref_count": 2,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489375000,
+  "dt_publish": "2025-08-06 22:09:35.000",
+  "ts_update": 1754490639499,
+  "dt_update": "2025-08-06 22:30:39.499",
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264622290
+  "dsv": 1
 }

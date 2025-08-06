@@ -1,0 +1,45 @@
+{
+	"count_used_by":3,
+	"license":"Apache 2.0",
+	"ranking":"#149230 in MvnRepository",
+	"tags":[
+		"native",
+		"inference",
+		"math"
+	],
+	"ts_update":1754490685452,
+	"versions":[
+		{
+			"date":"20250516",
+			"repository":"Central",
+			"type":"release",
+			"usage":3,
+			"version":"1.1.2",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250423",
+			"repository":"Central",
+			"type":"release",
+			"usage":2,
+			"version":"1.1.1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250423",
+			"repository":"Central",
+			"type":"release",
+			"usage":2,
+			"version":"1.1.0",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250422",
+			"repository":"Central",
+			"type":"release",
+			"usage":2,
+			"version":"1.0.0",
+			"vulnerabilities":""
+		}
+	]
+}

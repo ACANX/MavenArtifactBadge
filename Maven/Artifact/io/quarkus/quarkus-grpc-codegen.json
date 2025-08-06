@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-grpc-codegen",
+  "description": null,
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-grpc-codegen",
-  "latest_version": "3.25.0",
-  "description": null,
-  "id": "pkg:maven/io.quarkus/quarkus-grpc-codegen",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 10,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489375000,
+  "dt_publish": "2025-08-06 22:09:35.000",
+  "ts_update": 1754490643013,
+  "dt_update": "2025-08-06 22:30:43.013",
+  "count_dep": 10,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264624392
+  "dsv": 1
 }

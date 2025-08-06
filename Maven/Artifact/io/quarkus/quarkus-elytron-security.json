@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-elytron-security",
+  "description": "Secure your services via Elytron",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-elytron-security",
-  "latest_version": "3.25.0",
-  "description": "Secure your services via Elytron",
-  "id": "pkg:maven/io.quarkus/quarkus-elytron-security",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 13,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489375000,
+  "dt_publish": "2025-08-06 22:09:35.000",
+  "ts_update": 1754490642471,
+  "dt_update": "2025-08-06 22:30:42.471",
+  "count_dep": 14,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264624389
+  "dsv": 1
 }

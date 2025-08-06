@@ -1,0 +1,22 @@
+{
+  "id": "pkg:maven/com.arangodb/arangodb-tinkerpop-provider",
+  "description": "Tinkerpop Provider for ArangoDB",
+  "group_id": "com.arangodb",
+  "artifact_id": "arangodb-tinkerpop-provider",
+  "version_latest": "3.0.0",
+  "ts_publish": 1754488926000,
+  "dt_publish": "2025-08-06 22:02:06.000",
+  "ts_update": 1754490644974,
+  "dt_update": "2025-08-06 22:30:44.974",
+  "count_dep": 28,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
+  "categories": [
+    "Data Management",
+    "Database",
+    "NoSQL Databases"
+  ],
+  "dsv": 1
+}

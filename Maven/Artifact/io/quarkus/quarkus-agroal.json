@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-agroal",
+  "description": "JDBC Datasources and connection pooling",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-agroal",
-  "latest_version": "3.25.0",
-  "description": "JDBC Datasources and connection pooling",
-  "id": "pkg:maven/io.quarkus/quarkus-agroal",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 12,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489376000,
+  "dt_publish": "2025-08-06 22:09:36.000",
+  "ts_update": 1754490638680,
+  "dt_update": "2025-08-06 22:30:38.680",
+  "count_dep": 12,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264623168
+  "dsv": 1
 }

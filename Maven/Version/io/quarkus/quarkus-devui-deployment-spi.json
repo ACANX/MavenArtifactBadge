@@ -1,0 +1,29 @@
+{
+	"count_used_by":18,
+	"license":"Apache 2.0",
+	"ranking":"#25629 in MvnRepository",
+	"tags":[
+		"deployment",
+		"quarkus",
+		"interface"
+	],
+	"ts_update":1754490701338,
+	"versions":[
+		{
+			"date":"20250723",
+			"repository":"Central",
+			"type":"release",
+			"usage":18,
+			"version":"3.25.0",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250716",
+			"repository":"Central",
+			"type":"release",
+			"usage":18,
+			"version":"3.25.0.CR1",
+			"vulnerabilities":""
+		}
+	]
+}

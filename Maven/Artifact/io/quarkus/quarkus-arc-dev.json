@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-arc-dev",
+  "description": "Build time CDI dependency injection - Dev mode only",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-arc-dev",
-  "latest_version": "3.25.0",
-  "description": "Build time CDI dependency injection - Dev mode only",
-  "id": "pkg:maven/io.quarkus/quarkus-arc-dev",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 1,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489376000,
+  "dt_publish": "2025-08-06 22:09:36.000",
+  "ts_update": 1754490639135,
+  "dt_update": "2025-08-06 22:30:39.135",
+  "count_dep": 1,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264623172
+  "dsv": 1
 }

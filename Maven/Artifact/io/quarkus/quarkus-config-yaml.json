@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-config-yaml",
+  "description": "Use YAML to configure your Quarkus application",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-config-yaml",
-  "latest_version": "3.25.0",
-  "description": "Use YAML to configure your Quarkus application",
-  "id": "pkg:maven/io.quarkus/quarkus-config-yaml",
-  "ts": 1753262863000,
-  "dependency_count": 0,
-  "ref_count": 5,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489376000,
+  "dt_publish": "2025-08-06 22:09:36.000",
+  "ts_update": 1754490638682,
+  "dt_update": "2025-08-06 22:30:38.682",
+  "count_dep": 5,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264623168
+  "dsv": 1
 }

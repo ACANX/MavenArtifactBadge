@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-bootstrap-bom-test",
+  "description": "This BOM contains only test scoped dependencies for the bootstrap project's testsuite",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-bootstrap-bom-test",
-  "latest_version": "3.25.0",
-  "description": "This BOM contains only test scoped dependencies for the bootstrap project's testsuite",
-  "id": "pkg:maven/io.quarkus/quarkus-bootstrap-bom-test",
-  "ts": 1753262864000,
-  "dependency_count": 0,
-  "ref_count": 0,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489375000,
+  "dt_publish": "2025-08-06 22:09:35.000",
+  "ts_update": 1754490640273,
+  "dt_update": "2025-08-06 22:30:40.273",
+  "count_dep": 0,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264622291
+  "dsv": 1
 }

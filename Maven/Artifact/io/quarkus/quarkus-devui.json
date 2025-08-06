@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/io.quarkus/quarkus-devui",
+  "description": "Quarkus Dev UI",
   "group_id": "io.quarkus",
   "artifact_id": "quarkus-devui",
-  "latest_version": "3.25.0",
-  "description": "Quarkus Dev UI",
-  "id": "pkg:maven/io.quarkus/quarkus-devui",
-  "ts": 1753262864000,
-  "dependency_count": 0,
-  "ref_count": 2,
+  "version_latest": "3.25.1",
+  "ts_publish": 1754489376000,
+  "dt_publish": "2025-08-06 22:09:36.000",
+  "ts_update": 1754490639497,
+  "dt_update": "2025-08-06 22:30:39.497",
+  "count_dep": 2,
+  "count_ref": 0,
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
-  "licenses": [],
-  "last_updated": 1753264621736
+  "dsv": 1
 }
