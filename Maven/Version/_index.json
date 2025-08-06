@@ -1421,7 +1421,11 @@
     "com.peluware:spring-web-problem-details": 1754457325000,
     "com.azure.resourcemanager:azure-resourcemanager-mongocluster": 1754457221000,
     "io.github.thearchitect123.atlasGraphGenerator:io.github.thearchitect123.atlasGraphGenerator.gradle.plugin": 1754457123000,
-    "io.github.thearchitect123:atlas-graph-generator": 1754457123000
+    "io.github.thearchitect123:atlas-graph-generator": 1754457123000,
+    "io.github.orangewest:easy-trans-core": 1754457823000,
+    "io.github.orangewest:easy-trans-spring-start": 1754457823000,
+    "io.github.orangewest:easy-trans": 1754457823000,
+    "com.apptasticsoftware:tickersymbol": 1754457760000
   },
   "ts_update": 1754420240527
 }
