@@ -3,9 +3,9 @@
   "description": "Statsig helps you move faster with feature gates (feature flags), and/or dynamic configs. It also allows you to run A/B/n tests to validate your new features and understand their impact on your KPIs. If you're new to Statsig, check out our product and cre",
   "group_id": "org.mvnpm.at.statsig",
   "artifact_id": "js-client",
-  "version_latest": "3.20.3",
-  "ts_publish": 1753834152000,
-  "ts_update": 1753834617937,
+  "version_latest": "3.21.0",
+  "ts_publish": 1754438958000,
+  "ts_update": 1754439420122,
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
