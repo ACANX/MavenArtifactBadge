@@ -4,7 +4,7 @@ name: PythonWorkflow
 on:
   workflow_dispatch: # 允许手动触发
   schedule:
-    - cron: '1/5 * * * *'
+    - cron: '1/20 * * * *'
 
 jobs:
   build:
