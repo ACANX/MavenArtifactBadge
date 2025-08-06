@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"daml-script-runner_2.13",
-	"version_latest":"3.4.0-adhoc.20250805.14054.0.v9c4c7803",
-	"ts_publish":1754415302000,
-	"ts_update":1754416084114,
+	"version_latest":"3.4.0-adhoc.20250806.14058.0.ve0297d74",
+	"ts_publish":1754476363000,
+	"ts_update":1754477513995,
 	"count_dep":130,
 	"count_ref":0,
 	"licenses":[
@@ -23,12 +23,28 @@
 	"url_scm":"https://github.com/digital-asset/daml/tree/main",
 	"home_page":"https://github.com/digital-asset/daml",
 	"license":"Apache 2.0",
-	"ranking":"#865993 in MvnRepository",
+	"ranking":"#867281 in MvnRepository",
 	"tags":[
 		"runner",
 		"scripting"
 	],
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"3.4.0-adhoc.20250805.1405...",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250709",
 			"repository":"Central",
@@ -43,6 +59,14 @@
 			"type":"release",
 			"usage":0,
 			"version":"3.4.0-adhoc.20250707.1398...",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"snapshot",
+			"usage":0,
+			"version":"3.4.0-snapshot.20250804.1...",
 			"vulnerabilities":""
 		},
 		{
@@ -163,30 +187,6 @@
 			"type":"snapshot",
 			"usage":0,
 			"version":"3.4.0-snapshot.20250711.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250711",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":0,
-			"version":"3.4.0-snapshot.20250710.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250710",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":0,
-			"version":"3.4.0-snapshot.20250709.1...",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250708",
-			"repository":"Central",
-			"type":"snapshot",
-			"usage":0,
-			"version":"3.4.0-snapshot.20250708.1...",
 			"vulnerabilities":""
 		}
 	]

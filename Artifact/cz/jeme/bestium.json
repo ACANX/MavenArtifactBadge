@@ -3,9 +3,9 @@
 	"description":"A powerful library plugin for creating Minecraft entities with custom behavior",
 	"group_id":"cz.jeme",
 	"artifact_id":"bestium",
-	"version_latest":"3.0.0",
-	"ts_publish":1754430234000,
-	"ts_update":1754463240345,
+	"version_latest":"3.0.1",
+	"ts_publish":1754476653000,
+	"ts_update":1754477513984,
 	"count_dep":0,
 	"count_ref":0,
 	"licenses":[
@@ -17,5 +17,34 @@
 	"contributors":[
 		"Hužva"
 	],
-	"url_scm":"https://github.com/huzvanec/Bestium"
+	"url_scm":"https://github.com/huzvanec/Bestium",
+	"home_page":"https://github.com/huzvanec/Bestium",
+	"license":"GPL 3.0",
+	"ranking":"#890654 in MvnRepository",
+	"versions":[
+		{
+			"date":"20250728",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.0.0",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250703",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.1.0",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250701",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.0",
+			"vulnerabilities":""
+		}
+	]
 }

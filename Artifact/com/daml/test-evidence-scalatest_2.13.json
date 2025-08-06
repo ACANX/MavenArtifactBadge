@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"test-evidence-scalatest_2.13",
-	"version_latest":"3.4.0-adhoc.20250806.14057.0.v1c394380",
-	"ts_publish":1754472648000,
-	"ts_update":1754473608865,
+	"version_latest":"3.4.0-adhoc.20250806.14058.0.ve0297d74",
+	"ts_publish":1754476363000,
+	"ts_update":1754477513972,
 	"count_dep":30,
 	"count_ref":1,
 	"licenses":[

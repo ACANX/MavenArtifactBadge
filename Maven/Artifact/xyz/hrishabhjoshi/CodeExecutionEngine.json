@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/xyz.hrishabhjoshi/CodeExecutionEngine",
+  "description": "A description of what my library does.",
+  "group_id": "xyz.hrishabhjoshi",
+  "artifact_id": "CodeExecutionEngine",
+  "version_latest": "1.0.0",
+  "ts_publish": 1754476125000,
+  "ts_update": 1754477178590,
+  "count_dep": 3,
+  "count_ref": 0,
+  "licenses": [
+    "The Apache License, Version 2.0"
+  ],
+  "categories": null,
+  "dsv": 1
+}

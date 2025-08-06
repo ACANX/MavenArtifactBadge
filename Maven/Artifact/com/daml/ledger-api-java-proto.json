@@ -3,9 +3,9 @@
   "description": "TBD",
   "group_id": "com.daml",
   "artifact_id": "ledger-api-java-proto",
-  "version_latest": "3.4.0-adhoc.20250806.14057.0.v1c394380",
-  "ts_publish": 1754472648000,
-  "ts_update": 1754473576251,
+  "version_latest": "3.4.0-adhoc.20250806.14058.0.ve0297d74",
+  "ts_publish": 1754476363000,
+  "ts_update": 1754477177988,
   "count_dep": 4,
   "count_ref": 8,
   "licenses": [
