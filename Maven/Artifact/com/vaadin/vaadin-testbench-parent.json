@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.vaadin/vaadin-testbench-parent",
+  "description": "A parent POM for all artifacts by Vaadin Ltd.",
   "group_id": "com.vaadin",
   "artifact_id": "vaadin-testbench-parent",
-  "latest_version": "9.4.2",
-  "description": "A parent POM for all artifacts by Vaadin Ltd.",
-  "id": "pkg:maven/com.vaadin/vaadin-testbench-parent",
-  "ts": 1753359157000,
-  "dependency_count": 0,
-  "ref_count": 0,
-  "categories": [
-    "Application Product Development Platform"
-  ],
+  "version_latest": "9.4.3",
+  "ts_publish": 1754468268000,
+  "ts_update": 1754468822478,
+  "count_dep": 0,
+  "count_ref": 0,
   "licenses": [
     "Vaadin Commercial License and Service Terms"
   ],
-  "last_updated": 1753360019333
+  "categories": [
+    "Application Product Development Platform"
+  ],
+  "dsv": 1
 }

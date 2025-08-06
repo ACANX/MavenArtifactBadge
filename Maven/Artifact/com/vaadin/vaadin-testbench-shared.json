@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.vaadin/vaadin-testbench-shared",
+  "description": "Vaadin TestBench shared classes not dependant on any concrete testing framework.",
   "group_id": "com.vaadin",
   "artifact_id": "vaadin-testbench-shared",
-  "latest_version": "9.4.2",
-  "description": "Vaadin TestBench shared classes not dependant on any concrete testing framework.",
-  "id": "pkg:maven/com.vaadin/vaadin-testbench-shared",
-  "ts": 1753359157000,
-  "dependency_count": 2,
-  "ref_count": 48,
-  "categories": [
-    "Application Product Development Platform"
-  ],
+  "version_latest": "9.4.3",
+  "ts_publish": 1754468268000,
+  "ts_update": 1754468822479,
+  "count_dep": 48,
+  "count_ref": 2,
   "licenses": [
     "Vaadin Commercial License and Service Terms"
   ],
-  "last_updated": 1753360019334
+  "categories": [
+    "Application Product Development Platform"
+  ],
+  "dsv": 1
 }
