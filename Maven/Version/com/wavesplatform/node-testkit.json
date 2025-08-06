@@ -1,0 +1,36 @@
+{
+	"home_page":"https://waves.tech/",
+	"license":"MIT",
+	"ranking":"#518228 in MvnRepository",
+	"tags":[
+		"testing",
+		"node"
+	],
+	"ts_update":1754485058803,
+	"versions":[
+		{
+			"date":"20250409",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.5.10",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250115",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.5.9",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20241023",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.5.8",
+			"vulnerabilities":""
+		}
+	]
+}

@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"daml-sdk-project-config_2.13",
-	"version_latest":"3.4.0-adhoc.20250806.14058.0.ve0297d74",
-	"ts_publish":1754476363000,
-	"ts_update":1754477514052,
+	"version_latest":"3.4.0-adhoc.20250806.14059.0.v3dd2d3ca",
+	"ts_publish":1754483996000,
+	"ts_update":1754485066342,
 	"count_dep":23,
 	"count_ref":2,
 	"licenses":[
@@ -4030,5 +4030,7 @@
 			"version":"2.10.0-snapshot.20241017....",
 			"vulnerabilities":""
 		}
-	]
+	],
+	"dt_publish":"2025-08-06 20:39:56.000",
+	"dt_update":"2025-08-06 20:57:03.822"
 }

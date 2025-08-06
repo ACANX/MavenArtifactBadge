@@ -1,0 +1,50 @@
+{
+	"id":"pkg:maven/io.github.ivianuu.injekt/core-js",
+	"description":"Next gen DI for kotlin",
+	"group_id":"io.github.ivianuu.injekt",
+	"artifact_id":"core-js",
+	"version_latest":"0.0.1-dev757",
+	"ts_publish":1754483679000,
+	"dt_publish":"2025-08-06 20:34:39.000",
+	"ts_update":1754485044955,
+	"dt_update":"2025-08-06 20:57:05.195",
+	"count_dep":2,
+	"count_ref":1,
+	"licenses":[
+		"The Apache Software License, Version 2.0"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/IVIanuu/injekt/",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/io.github.ivianuu.injekt/core-js@0.0.1-dev757",
+	"contributors":[
+		"Manuel Wrage"
+	],
+	"url_scm":"https://github.com/IVIanuu/injekt/",
+	"count_used_by":1,
+	"home_page":"https://github.com/IVIanuu/injekt/",
+	"license":"Apache 2.0",
+	"ranking":"#326427 in MvnRepository",
+	"tags":[
+		"github",
+		"kotlin",
+		"javascript"
+	],
+	"versions":[
+		{
+			"date":"20250308",
+			"repository":"Central",
+			"type":"dev",
+			"usage":1,
+			"version":"0.0.1-dev749",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250308",
+			"repository":"Central",
+			"type":"dev",
+			"usage":1,
+			"version":"0.0.1-dev748",
+			"vulnerabilities":""
+		}
+	]
+}

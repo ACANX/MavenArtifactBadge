@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"base-daml-tls_2.13",
-	"version_latest":"3.4.0-adhoc.20250806.14058.0.ve0297d74",
-	"ts_publish":1754476363000,
-	"ts_update":1754477513978,
+	"version_latest":"3.4.0-adhoc.20250806.14059.0.v3dd2d3ca",
+	"ts_publish":1754483996000,
+	"ts_update":1754485047492,
 	"count_dep":15,
 	"count_ref":1,
 	"licenses":[
@@ -189,5 +189,7 @@
 			"version":"3.4.0-snapshot.20250711.1...",
 			"vulnerabilities":""
 		}
-	]
+	],
+	"dt_publish":"2025-08-06 20:39:56.000",
+	"dt_update":"2025-08-06 20:57:04.282"
 }

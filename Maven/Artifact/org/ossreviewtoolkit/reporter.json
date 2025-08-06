@@ -3,11 +3,13 @@
   "description": "Part of the OSS Review Toolkit (ORT), a suite to automate software compliance checks.",
   "group_id": "org.ossreviewtoolkit",
   "artifact_id": "reporter",
-  "version_latest": "65.0.0",
-  "ts_publish": 1753946889000,
-  "ts_update": 1753947694228,
-  "count_dep": 18,
-  "count_ref": 15,
+  "version_latest": "66.0.1",
+  "ts_publish": 1754483360000,
+  "dt_publish": "2025-08-06 20:29:20.000",
+  "ts_update": 1754485026077,
+  "dt_update": "2025-08-06 20:57:06.077",
+  "count_dep": 34,
+  "count_ref": 16,
   "licenses": [
     "Apache-2.0"
   ],

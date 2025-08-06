@@ -1,0 +1,36 @@
+{
+	"count_used_by":2,
+	"home_page":"https://docs.waves.tech/en/ride/",
+	"license":"MIT",
+	"ranking":"#250077 in MvnRepository",
+	"tags":[
+		"testing"
+	],
+	"ts_update":1754485056864,
+	"versions":[
+		{
+			"date":"20250409",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"1.5.10",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250115",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"1.5.9",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20241023",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"1.5.8",
+			"vulnerabilities":""
+		}
+	]
+}
