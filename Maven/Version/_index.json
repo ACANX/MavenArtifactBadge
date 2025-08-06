@@ -1,11 +1,9 @@
 {
 	"map":{
-		"com.bigossp:max-mediation":1754452301000,
-		"com.bigossp:admob-mediation":1754452432000,
-		"com.daml:ledger-api-value-proto":1754415302000,
 		"com.daml:codegen-java":1754415302000,
 		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754465059000,
 		"org.anyline:anyline-log":1754442153000,
+		"com.bigossp:max-mediation":1754452301000,
 		"com.bigossp:max-mediation-spec":1754452342000,
 		"com.daml:http-test-utils_2.13":1754415302000,
 		"com.daml:build-info_2.13":1754415302000,
@@ -18,7 +16,9 @@
 		"com.daml:community-admin-api_2.13":1754415302000,
 		"org.encalmo:validator_3":1754423982000,
 		"com.daml:codegen-jvm-main":1754415301000,
-		"chat.dim:_l_n_c":1754428780000
+		"com.bigossp:admob-mediation":1754452432000,
+		"chat.dim:_l_n_c":1754428780000,
+		"com.daml:ledger-api-value-proto":1754415302000
 	},
-	"ts_update":1754466755302
+	"ts_update":1754467036863
 }
