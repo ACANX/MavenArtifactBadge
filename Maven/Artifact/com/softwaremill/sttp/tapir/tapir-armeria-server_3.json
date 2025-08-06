@@ -1,17 +1,18 @@
 {
+  "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server_3",
+  "description": "tapir-armeria-server",
   "group_id": "com.softwaremill.sttp.tapir",
   "artifact_id": "tapir-armeria-server_3",
-  "latest_version": "1.11.39",
-  "description": "tapir-armeria-server",
-  "id": "pkg:maven/com.softwaremill.sttp.tapir/tapir-armeria-server_3",
-  "ts": 1753364945000,
-  "dependency_count": 2,
-  "ref_count": 35,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "1.11.41",
+  "ts_publish": 1754473085000,
+  "ts_update": 1754474296174,
+  "count_dep": 35,
+  "count_ref": 2,
   "licenses": [
     "Apache 2.0"
   ],
-  "last_updated": 1753366024569
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }
