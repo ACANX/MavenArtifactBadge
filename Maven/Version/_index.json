@@ -975,7 +975,8 @@
     "cloud.shoplive:shoplive-short-form": 1754444984000,
     "cloud.shoplive:shoplive-sdk-core": 1754444976000,
     "cloud.shoplive:shoplive-permission": 1754444955000,
-    "cloud.shoplive:shoplive-network": 1754444948000
+    "cloud.shoplive:shoplive-network": 1754444948000,
+    "dev.puzzleshq:puzzle-loader-core": 1754446032000
   },
   "ts_update": 1754420240527
 }
