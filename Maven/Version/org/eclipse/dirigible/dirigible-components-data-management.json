@@ -1,15 +1,23 @@
 {
 	"count_used_by":9,
 	"license":"EPL 2.0",
-	"ranking":"#52448 in MvnRepository",
+	"ranking":"#52530 in MvnRepository",
 	"tags":[
 		"data",
 		"eclipse",
 		"management",
 		"component"
 	],
-	"ts_update":1754408846409,
+	"ts_update":1754476072906,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":6,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -160,14 +168,6 @@
 			"type":"release",
 			"usage":6,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":6,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

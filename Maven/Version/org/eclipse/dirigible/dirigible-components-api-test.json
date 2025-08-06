@@ -1,15 +1,23 @@
 {
 	"count_used_by":20,
 	"license":"EPL 2.0",
-	"ranking":"#22421 in MvnRepository",
+	"ranking":"#22436 in MvnRepository",
 	"tags":[
 		"eclipse",
 		"testing",
 		"api",
 		"component"
 	],
-	"ts_update":1754408839464,
+	"ts_update":1754476208946,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":18,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -160,14 +168,6 @@
 			"type":"release",
 			"usage":18,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":18,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

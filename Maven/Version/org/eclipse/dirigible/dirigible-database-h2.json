@@ -2,14 +2,22 @@
 	"count_used_by":96,
 	"home_page":"https://www.dirigible.io/",
 	"license":"EPL 2.0",
-	"ranking":"#5221 in MvnRepository",
+	"ranking":"#5222 in MvnRepository",
 	"tags":[
 		"database",
 		"data",
 		"eclipse"
 	],
-	"ts_update":1754408851258,
+	"ts_update":1754476249120,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -160,14 +168,6 @@
 			"type":"release",
 			"usage":1,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

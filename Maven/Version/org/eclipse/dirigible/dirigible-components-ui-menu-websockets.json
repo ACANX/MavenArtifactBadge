@@ -1,7 +1,7 @@
 {
 	"count_used_by":7,
 	"license":"EPL 2.0",
-	"ranking":"#70491 in MvnRepository",
+	"ranking":"#70568 in MvnRepository",
 	"tags":[
 		"menu",
 		"socket",
@@ -11,8 +11,16 @@
 		"ui",
 		"component"
 	],
-	"ts_update":1754408844406,
+	"ts_update":1754476232585,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -163,14 +171,6 @@
 			"type":"release",
 			"usage":1,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-ui-menu-schema",
-  "version_latest": "12.4.0",
-  "ts_publish": 1754318413000,
-  "ts_update": 1754319301003,
+  "version_latest": "12.5.0",
+  "ts_publish": 1754475392000,
+  "ts_update": 1754476028740,
   "count_dep": 0,
-  "count_ref": 2,
+  "count_ref": 1,
   "licenses": [],
   "categories": [
     "Uncategorized"

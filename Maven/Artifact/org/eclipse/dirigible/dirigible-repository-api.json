@@ -1,14 +1,16 @@
 {
   "id": "pkg:maven/org.eclipse.dirigible/dirigible-repository-api",
-  "description": null,
+  "description": "Core modules packaged with Dirigible",
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-repository-api",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754407906000,
-  "ts_update": 1754408823623,
+  "version_latest": "12.5.0",
+  "ts_publish": 1754475392000,
+  "ts_update": 1754476027504,
   "count_dep": 30,
-  "count_ref": 9,
-  "licenses": [],
+  "count_ref": 5,
+  "licenses": [
+    "Eclipse Public License - v 2.0"
+  ],
   "categories": [
     "Uncategorized"
   ],

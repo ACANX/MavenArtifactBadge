@@ -1,7 +1,7 @@
 {
 	"count_used_by":1,
 	"license":"EPL 2.0",
-	"ranking":"#332098 in MvnRepository",
+	"ranking":"#331950 in MvnRepository",
 	"tags":[
 		"eclipse",
 		"cron",
@@ -10,8 +10,16 @@
 		"component",
 		"camel"
 	],
-	"ts_update":1754408853602,
+	"ts_update":1754476255124,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",

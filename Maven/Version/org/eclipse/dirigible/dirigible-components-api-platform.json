@@ -1,15 +1,23 @@
 {
 	"count_used_by":10,
 	"license":"EPL 2.0",
-	"ranking":"#45280 in MvnRepository",
+	"ranking":"#45352 in MvnRepository",
 	"tags":[
 		"eclipse",
 		"api",
 		"platform",
 		"component"
 	],
-	"ts_update":1754408848566,
+	"ts_update":1754476080556,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":4,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -160,14 +168,6 @@
 			"type":"release",
 			"usage":4,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":4,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

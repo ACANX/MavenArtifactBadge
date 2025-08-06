@@ -3,9 +3,9 @@
   "description": "Strong type constraints for Scala",
   "group_id": "io.github.iltotore",
   "artifact_id": "iron-play-json_sjs1_3",
-  "version_latest": "3.0.4",
-  "ts_publish": 1754324263000,
-  "ts_update": 1754324828900,
+  "version_latest": "3.1.0",
+  "ts_publish": 1754475046000,
+  "ts_update": 1754476031983,
   "count_dep": 17,
   "count_ref": 0,
   "licenses": [

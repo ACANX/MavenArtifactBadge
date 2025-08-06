@@ -1,13 +1,21 @@
 {
 	"license":"EPL 2.0",
-	"ranking":"#486432 in MvnRepository",
+	"ranking":"#486485 in MvnRepository",
 	"tags":[
 		"database",
 		"data",
 		"eclipse"
 	],
-	"ts_update":1754408857540,
+	"ts_update":1754476107328,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",
@@ -158,14 +166,6 @@
 			"type":"release",
 			"usage":0,
 			"version":"11.48.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250602",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"11.48.0",
 			"vulnerabilities":""
 		}
 	]

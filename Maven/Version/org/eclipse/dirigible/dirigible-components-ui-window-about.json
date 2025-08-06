@@ -1,15 +1,23 @@
 {
 	"count_used_by":2,
 	"license":"EPL 2.0",
-	"ranking":"#219952 in MvnRepository",
+	"ranking":"#220122 in MvnRepository",
 	"tags":[
 		"window",
 		"eclipse",
 		"ui",
 		"component"
 	],
-	"ts_update":1754408855266,
+	"ts_update":1754476262255,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"12.4.1",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250804",
 			"repository":"Central",

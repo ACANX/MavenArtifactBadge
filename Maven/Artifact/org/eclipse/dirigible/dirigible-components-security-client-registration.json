@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-security-client-registration",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754407906000,
-  "ts_update": 1754408828411,
+  "version_latest": "12.5.0",
+  "ts_publish": 1754475392000,
+  "ts_update": 1754476030171,
   "count_dep": 23,
-  "count_ref": 1,
+  "count_ref": 0,
   "licenses": [],
   "categories": [
     "Uncategorized"

@@ -3,11 +3,11 @@
   "description": null,
   "group_id": "org.eclipse.dirigible",
   "artifact_id": "dirigible-components-resources-karavan-libs",
-  "version_latest": "12.4.1",
-  "ts_publish": 1754407906000,
-  "ts_update": 1754408823136,
+  "version_latest": "12.5.0",
+  "ts_publish": 1754475392000,
+  "ts_update": 1754476026831,
   "count_dep": 0,
-  "count_ref": 2,
+  "count_ref": 1,
   "licenses": [],
   "categories": [
     "Uncategorized"
