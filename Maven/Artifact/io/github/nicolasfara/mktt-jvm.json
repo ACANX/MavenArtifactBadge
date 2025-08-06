@@ -3,9 +3,9 @@
   "description": "A Kotlin multiplatform MQTT client library.",
   "group_id": "io.github.nicolasfara",
   "artifact_id": "mktt-jvm",
-  "version_latest": "2.0.1-dev06+85e081a",
-  "ts_publish": 1754067295000,
-  "ts_update": 1754068025826,
+  "version_latest": "2.0.1-dev07+fd2483d",
+  "ts_publish": 1754456325000,
+  "ts_update": 1754456825425,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

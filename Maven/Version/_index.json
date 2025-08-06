@@ -1401,7 +1401,22 @@
     "com.peluware:spring-data-crud": 1754454662000,
     "io.github.thearchitect123.atlasNavigationEngineGenerator:io.github.thearchitect123.atlasNavigationEngineGenerator.gradle.plugin": 1754455955000,
     "io.github.thearchitect123:atlas-navEngine-generator": 1754455955000,
-    "cool.scx:scx-function": 1754455713000
+    "cool.scx:scx-function": 1754455713000,
+    "com.bitmovin.api.sdk:bitmovin-api-sdk": 1754456620000,
+    "io.github.nicolasfara:mktt-js": 1754456325000,
+    "io.github.nicolasfara:mktt-jvm": 1754456325000,
+    "io.github.nicolasfara:mktt": 1754456325000,
+    "com.tosan.client.soap:tosan-soap-parent": 1754456172000,
+    "com.tosan.client.soap:tosan-soap-client": 1754456172000,
+    "com.codebodhi:mockgen-server-test-utils": 1754456031000,
+    "com.codebodhi:mockgen-server": 1754456031000,
+    "com.codebodhi:mockgen-server-cli": 1754456031000,
+    "com.codebodhi:mockgen-server-core": 1754456031000,
+    "dev.muazkadan:rive-cmp-iosarm64": 1754456021000,
+    "dev.muazkadan:rive-cmp-android": 1754456021000,
+    "dev.muazkadan:rive-cmp-iossimulatorarm64": 1754456021000,
+    "dev.muazkadan:rive-cmp-iosx64": 1754456021000,
+    "dev.muazkadan:rive-cmp": 1754456021000
   },
   "ts_update": 1754420240527
 }
