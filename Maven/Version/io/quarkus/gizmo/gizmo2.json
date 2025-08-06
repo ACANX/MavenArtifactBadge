@@ -1,12 +1,20 @@
 {
 	"count_used_by":1,
 	"license":"Apache 2.0",
-	"ranking":"#410567 in MvnRepository",
+	"ranking":"#356945 in MvnRepository",
 	"tags":[
 		"quarkus"
 	],
-	"ts_update":1754403769421,
+	"ts_update":1754481636233,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"beta",
+			"usage":0,
+			"version":"2.0.0.Beta3",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250716",
 			"repository":"Central",
