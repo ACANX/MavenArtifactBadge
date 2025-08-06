@@ -2,13 +2,29 @@
 	"count_used_by":2,
 	"home_page":"https://github.com/robertfmurdock/jsmints",
 	"license":"MIT",
-	"ranking":"#175732 in MvnRepository",
+	"ranking":"#175830 in MvnRepository",
 	"tags":[
 		"kotlin",
 		"javascript"
 	],
-	"ts_update":1754408840439,
+	"ts_update":1754495643672,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"6.7.4",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"6.7.3",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250803",
 			"repository":"Central",
@@ -151,22 +167,6 @@
 			"type":"release",
 			"usage":1,
 			"version":"6.6.12",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250708",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"6.6.11",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250705",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"6.6.10",
 			"vulnerabilities":""
 		}
 	]

@@ -1,0 +1,23 @@
+{
+	"count_used_by":1,
+	"home_page":"https://www.webjars.org",
+	"license":"MIT",
+	"ranking":"#412147 in MvnRepository",
+	"tags":[
+		"assets",
+		"web",
+		"npm",
+		"resources"
+	],
+	"ts_update":1754495660225,
+	"versions":[
+		{
+			"date":"20250422",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"2.6.0",
+			"vulnerabilities":""
+		}
+	]
+}

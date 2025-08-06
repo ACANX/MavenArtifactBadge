@@ -1,0 +1,22 @@
+{
+	"home_page":"https://github.com/tim06/VPNProtocols/",
+	"license":"Apache 2.0",
+	"ranking":"#439087 in MvnRepository",
+	"tags":[
+		"github",
+		"aar",
+		"mobile",
+		"android"
+	],
+	"ts_update":1754495680611,
+	"versions":[
+		{
+			"date":"20250408",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.5.0",
+			"vulnerabilities":""
+		}
+	]
+}

@@ -1,11 +1,13 @@
 {
   "id": "pkg:maven/io.github.oshai/kotlin-logging-wasm-js",
-  "description": "kotlin-logging 7.0.11 - Lightweight logging framework for Kotlin",
+  "description": "kotlin-logging 7.0.12 - Lightweight logging framework for Kotlin",
   "group_id": "io.github.oshai",
   "artifact_id": "kotlin-logging-wasm-js",
-  "version_latest": "7.0.11",
-  "ts_publish": 1754176059000,
-  "ts_update": 1754176620468,
+  "version_latest": "7.0.12",
+  "ts_publish": 1754494786000,
+  "dt_publish": "2025-08-06 23:39:46.000",
+  "ts_update": 1754495625482,
+  "dt_update": "2025-08-06 23:53:45.482",
   "count_dep": 1,
   "count_ref": 0,
   "licenses": [
