@@ -1084,7 +1084,8 @@
     "com.aliyun:apig20240327": 1754447557000,
     "com.aliyun:eds_aic20230930": 1754447548000,
     "com.bigossp:bigo-ads-spec": 1754446905000,
-    "com.bigossp:bigo-ads": 1754446879000
+    "com.bigossp:bigo-ads": 1754446879000,
+    "io.github.aiforpet-ttcare:scansdk-lib": 1754447696000
   },
   "ts_update": 1754420240527
 }
