@@ -1306,7 +1306,21 @@
     "io.github.kk01001:dict-spring-boot-starter": 1754451159000,
     "io.github.kk01001:sftp-spring-boot-starter": 1754451159000,
     "cn.creekmoon:common-dict": 1754451139000,
-    "io.github.t1willi:jolt": 1754451894000
+    "io.github.t1willi:jolt": 1754451894000,
+    "io.github.kevenzxd:oxsdk-amazon": 1754452967000,
+    "io.github.kevenzxd:oxsdk-facebook": 1754452479000,
+    "com.bigossp:ironsource-mediation": 1754452453000,
+    "com.bigossp:admob-mediation-spec": 1754452442000,
+    "com.bigossp:admob-mediation": 1754452432000,
+    "com.bigossp:ironsource-mediation-spec": 1754452421000,
+    "com.bigossp:ironsource-mediation-v731": 1754452408000,
+    "com.bigossp:ironsource-mediation-v727-spec": 1754452392000,
+    "com.bigossp:ironsource-mediation-v727": 1754452359000,
+    "com.bigossp:max-mediation-spec": 1754452342000,
+    "com.bigossp:max-mediation-new-spec": 1754452331000,
+    "com.bigossp:max-mediation-new": 1754452316000,
+    "com.bigossp:max-mediation": 1754452301000,
+    "com.bigossp:ironsource-mediation-v731-spec": 1754452286000
   },
   "ts_update": 1754420240527
 }
