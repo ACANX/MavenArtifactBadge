@@ -2,13 +2,13 @@
 	"count_used_by":1,
 	"home_page":"https://www.bigossp.com",
 	"license":"Apache 2.0",
-	"ranking":"#347015 in MvnRepository",
+	"ranking":"#346713 in MvnRepository",
 	"tags":[
 		"aar",
 		"mobile",
 		"android"
 	],
-	"ts_update":1754472070532,
+	"ts_update":1754472460586,
 	"versions":[
 		{
 			"date":"20250709",

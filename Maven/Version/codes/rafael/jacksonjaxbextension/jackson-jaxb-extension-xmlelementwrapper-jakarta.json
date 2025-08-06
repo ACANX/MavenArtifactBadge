@@ -1,6 +1,6 @@
 {
 	"license":"Apache 2.0",
-	"ranking":"#439066 in MvnRepository",
+	"ranking":"#439150 in MvnRepository",
 	"tags":[
 		"jakarta",
 		"binding",
@@ -9,7 +9,7 @@
 		"jackson",
 		"extension"
 	],
-	"ts_update":1754472066877,
+	"ts_update":1754472458844,
 	"versions":[
 		{
 			"date":"20240507",

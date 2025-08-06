@@ -2,12 +2,20 @@
 	"count_used_by":1,
 	"home_page":"http://www.anyline.org/log",
 	"license":"Apache 2.0",
-	"ranking":"#379092 in MvnRepository",
+	"ranking":"#379422 in MvnRepository",
 	"tags":[
 		"logging"
 	],
-	"ts_update":1754472067356,
+	"ts_update":1754472446460,
 	"versions":[
+		{
+			"date":"20250804",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"8.7.2-jdk21-20250805",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250722",
 			"repository":"Central",
@@ -158,14 +166,6 @@
 			"type":"release",
 			"usage":1,
 			"version":"8.7.2-jdk21-20241231",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20241203",
-			"repository":"Central",
-			"type":"release",
-			"usage":1,
-			"version":"8.7.2-jdk21-20241203",
 			"vulnerabilities":""
 		}
 	]

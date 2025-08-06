@@ -3,9 +3,9 @@
   "description": "Pango Unified Vpn SDK",
   "group_id": "co.pango",
   "artifact_id": "sdk-notifications",
-  "version_latest": "5.4.1-RC2",
-  "ts_publish": 1754304951000,
-  "ts_update": 1754305624527,
+  "version_latest": "5.4.1",
+  "ts_publish": 1754471833000,
+  "ts_update": 1754472426391,
   "count_dep": 14,
   "count_ref": 1,
   "licenses": [
