@@ -1232,7 +1232,26 @@
     "io.streamnative:pulsar-functions-proto": 1754448938000,
     "io.streamnative:pulsar-client-tools-api": 1754448938000,
     "io.streamnative:pulsar-client-dependencies-minimized": 1754448938000,
-    "io.streamnative:pulsar-client-admin-api": 1754448938000
+    "io.streamnative:pulsar-client-admin-api": 1754448938000,
+    "com.cyberark:conjur-sdk-springboot": 1754449673000,
+    "com.cyberark:conjur-mule-connector": 1754449547000,
+    "com.peluware:omni-search-jpa": 1754449525000,
+    "com.peluware:omni-search-core": 1754449525000,
+    "com.peluware:omni-search": 1754449525000,
+    "cn.silwings.dicti18n:dict-i18n-generator-maven-plugin": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-spring-boot-starter": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-demo": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader-file": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader-sql": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-parent": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader-redis": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader-declared": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-core": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader": 1754449502000,
+    "cn.silwings.dicti18n:dict-i18n-loader-core": 1754449502000,
+    "io.cdap.tests.e2e:cdap-e2e-framework": 1754449491000,
+    "io.github.cpjust:testng-annotations": 1754449451000,
+    "com.aliyun:alibabacloud-eds_aic20230930": 1754449426000
   },
   "ts_update": 1754420240527
 }

@@ -3,9 +3,9 @@
   "description": "Maven plugin for generating dictionary and localization resources",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-generator-maven-plugin",
-  "version_latest": "1.0.6",
-  "ts_publish": 1754269242000,
-  "ts_update": 1754270221933,
+  "version_latest": "1.0.7",
+  "ts_publish": 1754449502000,
+  "ts_update": 1754450148195,
   "count_dep": 45,
   "count_ref": 0,
   "licenses": [

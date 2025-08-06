@@ -3,9 +3,9 @@
   "description": "Dictionary loader implementation for Redis cache",
   "group_id": "cn.silwings.dicti18n",
   "artifact_id": "dict-i18n-loader-redis",
-  "version_latest": "1.0.6",
-  "ts_publish": 1754269242000,
-  "ts_update": 1754270221931,
+  "version_latest": "1.0.7",
+  "ts_publish": 1754449502000,
+  "ts_update": 1754450148198,
   "count_dep": 46,
   "count_ref": 1,
   "licenses": [
