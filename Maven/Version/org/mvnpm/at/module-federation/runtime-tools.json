@@ -1,157 +1,146 @@
 {
-	"count_used_by":5,
-	"ranking":"#87059 in MvnRepository",
+	"count_used_by":1,
+	"home_page":"https://github.com/module-federation/core#readme",
+	"license":"MIT",
+	"ranking":"#324064 in MvnRepository",
 	"tags":[
+		"module",
+		"assets",
 		"tools",
-		"build",
-		"build-system",
-		"maven",
-		"toolkit"
+		"web",
+		"npm",
+		"resources",
+		"federation",
+		"runtime"
 	],
-	"ts_update":1754483830097,
+	"ts_update":1754483828843,
 	"versions":[
-		{
-			"date":"20250806",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.32.0",
-			"vulnerabilities":""
-		},
 		{
 			"date":"20250724",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.31.0",
+			"version":"0.17.1",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250717",
+			"date":"20250715",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.30.0",
+			"version":"0.17.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250714",
+			"date":"20250702",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.29.0",
+			"version":"0.16.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250626",
-			"repository":"Central",
-			"type":"release",
-			"usage":2,
-			"version":"1.28.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250622",
+			"date":"20250605",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.27.0",
+			"version":"0.15.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250620",
-			"repository":"Central",
-			"type":"release",
-			"usage":2,
-			"version":"1.25.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250616",
+			"date":"20250527",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.24.0",
+			"version":"0.14.3",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250606",
+			"date":"20250527",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"0.14.2",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250527",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"0.14.1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250516",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.23.0",
+			"version":"0.14.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250603",
+			"date":"20250513",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.22.0",
+			"version":"0.13.1",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250521",
+			"date":"20250422",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.21.0",
+			"version":"0.13.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250414",
+			"date":"20250415",
 			"repository":"Central",
 			"type":"release",
-			"usage":2,
-			"version":"1.20.0",
+			"usage":0,
+			"version":"0.12.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250331",
+			"date":"20250408",
 			"repository":"Central",
 			"type":"release",
-			"usage":1,
-			"version":"1.19.0",
+			"usage":0,
+			"version":"0.11.4",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250321",
+			"date":"20250401",
 			"repository":"Central",
 			"type":"release",
-			"usage":1,
-			"version":"1.18.0",
+			"usage":0,
+			"version":"0.11.3",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250314",
-			"repository":"Central",
-			"type":"release",
-			"usage":4,
-			"version":"1.17.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250305",
+			"date":"20250326",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.16.0",
+			"version":"0.11.2",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250228",
-			"repository":"Central",
-			"type":"release",
-			"usage":3,
-			"version":"1.15.0",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250205",
+			"date":"20250328",
 			"repository":"Central",
 			"type":"release",
 			"usage":1,
-			"version":"1.14.0",
+			"version":"0.11.1",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250319",
+			"repository":"Central",
+			"type":"release",
+			"usage":1,
+			"version":"0.8.4",
 			"vulnerabilities":""
 		}
 	]

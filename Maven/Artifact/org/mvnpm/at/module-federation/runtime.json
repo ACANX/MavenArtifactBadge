@@ -1,15 +1,18 @@
 {
+  "id": "pkg:maven/org.mvnpm.at.module-federation/runtime",
+  "description": "- Can be combined with the build plug-in to share basic dependencies according to policies to reduce the number of module downloads and improve the loading speed of modules. - Only consume part of the export of the remote module and will not fully downloa",
   "group_id": "org.mvnpm.at.module-federation",
   "artifact_id": "runtime",
-  "latest_version": "0.17.1",
-  "description": "- Can be combined with the build plug-in to share basic dependencies according to policies to reduce the number of module downloads and improve the loading speed of modules. - Only consume part of the export of the remote module and will not fully downloa",
-  "id": "pkg:maven/org.mvnpm.at.module-federation/runtime",
-  "ts": 1753374784000,
-  "dependency_count": 1,
-  "ref_count": 3,
-  "categories": null,
+  "version_latest": "0.18.0",
+  "ts_publish": 1754482881000,
+  "dt_publish": "2025-08-06 20:21:21.000",
+  "ts_update": 1754483822344,
+  "dt_update": "2025-08-06 20:37:02.344",
+  "count_dep": 3,
+  "count_ref": 2,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753375365879
+  "categories": null,
+  "dsv": 1
 }
