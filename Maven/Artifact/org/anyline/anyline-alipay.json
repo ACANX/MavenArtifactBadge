@@ -3,9 +3,9 @@
   "description": "anyline",
   "group_id": "org.anyline",
   "artifact_id": "anyline-alipay",
-  "version_latest": "8.7.2-20250805",
-  "ts_publish": 1754408972000,
-  "ts_update": 1754410030915,
+  "version_latest": "8.7.2-20250806",
+  "ts_publish": 1754478006000,
+  "ts_update": 1754479025574,
   "count_dep": 25,
   "count_ref": 1,
   "licenses": [

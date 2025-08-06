@@ -3,9 +3,9 @@
   "description": "anyline",
   "group_id": "org.anyline",
   "artifact_id": "anyline-aliyun-sms",
-  "version_latest": "8.7.2-20250805",
-  "ts_publish": 1754408972000,
-  "ts_update": 1754410030914,
+  "version_latest": "8.7.2-20250806",
+  "ts_publish": 1754478006000,
+  "ts_update": 1754479026017,
   "count_dep": 44,
   "count_ref": 0,
   "licenses": [

@@ -1,11 +1,11 @@
 {
 	"home_page":"http://www.anyline.org/aliyun",
 	"license":"Apache 2.0",
-	"ranking":"#431675 in MvnRepository",
+	"ranking":"#431764 in MvnRepository",
 	"tags":[
 		"alibaba"
 	],
-	"ts_update":1754410048682,
+	"ts_update":1754479052788,
 	"versions":[
 		{
 			"date":"20250630",

@@ -3,9 +3,9 @@
   "description": "anyline oss",
   "group_id": "org.anyline",
   "artifact_id": "anyline-oss",
-  "version_latest": "8.7.2-20250805",
-  "ts_publish": 1754408972000,
-  "ts_update": 1754410030504,
+  "version_latest": "8.7.2-20250806",
+  "ts_publish": 1754478006000,
+  "ts_update": 1754479026011,
   "count_dep": 13,
   "count_ref": 0,
   "licenses": [

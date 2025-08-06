@@ -2,11 +2,11 @@
 	"count_used_by":1,
 	"home_page":"http://www.anyline.org/sms",
 	"license":"Apache 2.0",
-	"ranking":"#260852 in MvnRepository",
+	"ranking":"#260938 in MvnRepository",
 	"tags":[
 		"sms"
 	],
-	"ts_update":1754410039599,
+	"ts_update":1754479037213,
 	"versions":[
 		{
 			"date":"20250630",

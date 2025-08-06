@@ -2,11 +2,11 @@
 	"count_used_by":1,
 	"home_page":"http://www.anyline.org/wechat",
 	"license":"Apache 2.0",
-	"ranking":"#404390 in MvnRepository",
+	"ranking":"#403063 in MvnRepository",
 	"tags":[
 		"chat"
 	],
-	"ts_update":1754410046360,
+	"ts_update":1754479044803,
 	"versions":[
 		{
 			"date":"20250630",
