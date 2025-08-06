@@ -3,9 +3,9 @@
   "description": "sdk for VTC online partner",
   "group_id": "vn.goplay",
   "artifact_id": "gamesdk",
-  "version_latest": "3.0.0",
-  "ts_publish": 1754383519000,
-  "ts_update": 1754384833713,
+  "version_latest": "3.0.1",
+  "ts_publish": 1754466079000,
+  "ts_update": 1754466424416,
   "count_dep": 20,
   "count_ref": 0,
   "licenses": [
