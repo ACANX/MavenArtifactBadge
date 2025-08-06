@@ -3,9 +3,9 @@
   "description": "ucloud-sdk-java",
   "group_id": "cn.ucloud",
   "artifact_id": "ucloud-sdk-java-ipsecvpn",
-  "version_latest": "1.2.45-release",
-  "ts_publish": 1754392982000,
-  "ts_update": 1754393826071,
+  "version_latest": "1.2.48-release",
+  "ts_publish": 1754478844000,
+  "ts_update": 1754479449959,
   "count_dep": 12,
   "count_ref": 0,
   "licenses": [
