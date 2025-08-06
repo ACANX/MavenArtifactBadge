@@ -1426,7 +1426,9 @@
     "io.github.orangewest:easy-trans-spring-start": 1754457823000,
     "io.github.orangewest:easy-trans": 1754457823000,
     "com.apptasticsoftware:tickersymbol": 1754457760000,
-    "top.wrqj:fleurui-http-core": 1754458368000
+    "top.wrqj:fleurui-http-core": 1754458368000,
+    "pl.allegro.tech.build.axion-release:pl.allegro.tech.build.axion-release.gradle.plugin": 1754459402000,
+    "pl.allegro.tech.build:axion-release-plugin": 1754459402000
   },
   "ts_update": 1754420240527
 }
