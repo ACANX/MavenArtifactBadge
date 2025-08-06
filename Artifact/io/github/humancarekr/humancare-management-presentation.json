@@ -1,172 +1,192 @@
 {
-	"home_page":"https://www.bigossp.com",
+	"id":"pkg:maven/io.github.humancarekr/humancare-management-presentation",
+	"description":"humancare-management-presentation",
+	"group_id":"io.github.humancarekr",
+	"artifact_id":"humancare-management-presentation",
+	"version_latest":"1.0.14",
+	"ts_publish":1754462958000,
+	"ts_update":1754463443539,
+	"count_dep":26,
+	"count_ref":0,
+	"licenses":[
+		"Apache License"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/HumanCareKR/HumancareManagementModule/tree/main/manage-presentation",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/io.github.humancarekr/humancare-management-presentation@1.0.14",
+	"contributors":[
+		"humancare"
+	],
+	"url_scm":"https://github.com/HumanCareKR/HumancareManagementModule/tree/main/manage-presentation",
+	"home_page":"https://github.com/HumanCareKR/HumancareManagementModule/tree/main/manage-presentation",
 	"license":"Apache 2.0",
-	"ranking":"#967759 in MvnRepository",
+	"ranking":"#500164 in MvnRepository",
 	"tags":[
+		"github",
+		"management",
 		"aar",
 		"mobile",
 		"android"
 	],
-	"ts_update":1754463436593,
 	"versions":[
 		{
-			"date":"20250709",
+			"date":"20250729",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.4.0.0",
+			"version":"1.0.13",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250506",
+			"date":"20250717",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.3.0.0",
+			"version":"1.0.12",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250321",
+			"date":"20250711",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.2.1.0",
+			"version":"1.0.11",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20250314",
+			"date":"20250710",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.2.0.0",
+			"version":"1.0.10",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20241127",
+			"date":"20250710",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.1.0.0",
+			"version":"1.0.9",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20241016",
+			"date":"20250708",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.0.2.0",
+			"version":"1.0.8",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240924",
+			"date":"20250708",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.0.0.1",
+			"version":"1.0.7",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240910",
+			"date":"20250704",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"5.0.0.0",
+			"version":"1.0.6",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240827",
+			"date":"20250703",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.9.1.0",
+			"version":"1.0.5",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240725",
+			"date":"20250703",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.9.0.0",
+			"version":"1.0.4",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240717",
+			"date":"20250701",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.8.2.0",
+			"version":"1.0.3",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240626",
+			"date":"20250630",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.8.1.0",
+			"version":"1.0.2",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240603",
+			"date":"20250630",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.8.0.0",
+			"version":"1.0.1",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240521",
+			"date":"20241121",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.7.4.0",
+			"version":"1.0.0",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240509",
+			"date":"20241021",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.7.3.0",
+			"version":"0.0.34",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240508",
+			"date":"20241021",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.7.2.0",
+			"version":"0.0.33",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240428",
+			"date":"20241018",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.7.1.0",
+			"version":"0.0.32",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240419",
+			"date":"20241017",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.7.0.0",
+			"version":"0.0.31",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240325",
+			"date":"20241015",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.6.1.0",
+			"version":"0.0.30",
 			"vulnerabilities":""
 		},
 		{
-			"date":"20240204",
+			"date":"20241008",
 			"repository":"Central",
 			"type":"release",
 			"usage":0,
-			"version":"4.5.1.1",
+			"version":"0.0.29",
 			"vulnerabilities":""
 		}
 	]
