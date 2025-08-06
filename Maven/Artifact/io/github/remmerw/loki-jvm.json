@@ -3,9 +3,9 @@
   "description": "A library for downloading magnet-Uris",
   "group_id": "io.github.remmerw",
   "artifact_id": "loki-jvm",
-  "version_latest": "0.3.3",
-  "ts_publish": 1753774532000,
-  "ts_update": 1753775220436,
+  "version_latest": "0.3.5",
+  "ts_publish": 1754463191000,
+  "ts_update": 1754464028380,
   "count_dep": 8,
   "count_ref": 0,
   "licenses": [
