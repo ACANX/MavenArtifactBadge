@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.weavr.components/secure-components",
+  "description": "Weavr Secure Components Android SDK",
   "group_id": "io.weavr.components",
   "artifact_id": "secure-components",
-  "latest_version": "3.0.1",
-  "description": "Weavr Secure Components Android SDK",
-  "id": "pkg:maven/io.weavr.components/secure-components",
-  "ts": 1753457727000,
-  "dependency_count": 0,
-  "ref_count": 27,
-  "categories": null,
+  "version_latest": "3.1.0",
+  "ts_publish": 1754469812000,
+  "ts_update": 1754470555739,
+  "count_dep": 27,
+  "count_ref": 0,
   "licenses": [
     "Weavr License"
   ],
-  "last_updated": 1753458417620
+  "categories": null,
+  "dsv": 1
 }

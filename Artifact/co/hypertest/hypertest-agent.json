@@ -3,9 +3,9 @@
 	"description":"HyperTest is a no-code test automation tool designed to seamlessly integrate into your codebase and\n        accelerate the process of generating unit tests for various types of service interfaces including HTTP, GraphQL,\n        gRPC, Kafka, and RabbitMQ.\n\n        It focuses on auto-generating test cases that can be executed in isolation, free from external dependencies, by\n        creating mocks.\n\n        HyperTest enables developers to catch logical bugs that could affect upstream or downstream services before\n        their changes get merged.",
 	"group_id":"co.hypertest",
 	"artifact_id":"hypertest-agent",
-	"version_latest":"0.1.14-beta.1-hDebug",
-	"ts_publish":1754402331000,
-	"ts_update":1754403769854,
+	"version_latest":"0.1.14.2",
+	"ts_publish":1754469702000,
+	"ts_update":1754470571494,
 	"count_dep":28,
 	"count_ref":0,
 	"licenses":[
