@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory",
+  "description": "The Kafka client factory to create different versions of Kafka clients",
   "group_id": "io.streamnative.pulsar.handlers",
   "artifact_id": "kafka-client-factory",
-  "latest_version": "4.0.5.4",
-  "description": "The Kafka client factory to create different versions of Kafka clients",
-  "id": "pkg:maven/io.streamnative.pulsar.handlers/kafka-client-factory",
-  "ts": 1753464133000,
-  "dependency_count": 1,
-  "ref_count": 7,
-  "categories": null,
+  "version_latest": "4.0.5.5",
+  "ts_publish": 1754449894000,
+  "ts_update": 1754450822063,
+  "count_dep": 7,
+  "count_ref": 1,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753464419449
+  "categories": null,
+  "dsv": 1
 }

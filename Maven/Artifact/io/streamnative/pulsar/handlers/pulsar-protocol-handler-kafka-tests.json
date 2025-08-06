@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka-tests",
+  "description": "Tests for Kafka on Pulsar",
   "group_id": "io.streamnative.pulsar.handlers",
   "artifact_id": "pulsar-protocol-handler-kafka-tests",
-  "latest_version": "4.0.5.4",
-  "description": "Tests for Kafka on Pulsar",
-  "id": "pkg:maven/io.streamnative.pulsar.handlers/pulsar-protocol-handler-kafka-tests",
-  "ts": 1753464133000,
-  "dependency_count": 0,
-  "ref_count": 85,
-  "categories": null,
+  "version_latest": "4.0.5.5",
+  "ts_publish": 1754449894000,
+  "ts_update": 1754450822065,
+  "count_dep": 85,
+  "count_ref": 0,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753464419446
+  "categories": null,
+  "dsv": 1
 }

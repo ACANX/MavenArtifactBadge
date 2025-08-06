@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.streamnative.pulsar.handlers/tests-common",
+  "description": "Parent for Kafka on Pulsar implemented using Pulsar Protocol Handler.",
   "group_id": "io.streamnative.pulsar.handlers",
   "artifact_id": "tests-common",
-  "latest_version": "4.0.5.4",
-  "description": "Parent for Kafka on Pulsar implemented using Pulsar Protocol Handler.",
-  "id": "pkg:maven/io.streamnative.pulsar.handlers/tests-common",
-  "ts": 1753464133000,
-  "dependency_count": 2,
-  "ref_count": 5,
-  "categories": null,
+  "version_latest": "4.0.5.5",
+  "ts_publish": 1754449894000,
+  "ts_update": 1754450822064,
+  "count_dep": 5,
+  "count_ref": 2,
   "licenses": [
     "Apache License, Version 2.0"
   ],
-  "last_updated": 1753464419446
+  "categories": null,
+  "dsv": 1
 }
