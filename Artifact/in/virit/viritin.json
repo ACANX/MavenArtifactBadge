@@ -1,0 +1,27 @@
+{
+	"id":"pkg:maven/in.virit/viritin",
+	"description":"General purpose helpers for Vaadin Flow users.",
+	"group_id":"in.virit",
+	"artifact_id":"viritin",
+	"version_latest":"2.17.0",
+	"ts_publish":1754488210000,
+	"dt_publish":"2025-08-06 21:50:10.000",
+	"ts_update":1754489314775,
+	"dt_update":"2025-08-06 22:07:03.331",
+	"count_dep":15,
+	"count_ref":0,
+	"licenses":[
+		"Apache 2"
+	],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/viritin/flow-viritin",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/in.virit/viritin@2.17.0",
+	"url_issue_management":"https://github.com/viritin/flow-viritin/issues",
+	"contributors":[
+		"Matti Tahvonen"
+	],
+	"url_scm":"https://github.com/viritin/flow-viritin"
+}

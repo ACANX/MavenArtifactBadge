@@ -3,9 +3,9 @@
 	"description":"TBD",
 	"group_id":"com.daml",
 	"artifact_id":"scala-utils_2.13",
-	"version_latest":"3.4.0-adhoc.20250806.14059.0.v3dd2d3ca",
-	"ts_publish":1754483996000,
-	"ts_update":1754485048707,
+	"version_latest":"3.4.0-adhoc.20250806.14060.0.v4803b4ab",
+	"ts_publish":1754487127000,
+	"ts_update":1754489288613,
 	"count_dep":2,
 	"count_ref":32,
 	"licenses":[
@@ -4030,6 +4030,6 @@
 			"vulnerabilities":""
 		}
 	],
-	"dt_publish":"2025-08-06 20:39:56.000",
-	"dt_update":"2025-08-06 20:57:03.820"
+	"dt_publish":"2025-08-06 21:32:07.000",
+	"dt_update":"2025-08-06 21:47:04.253"
 }

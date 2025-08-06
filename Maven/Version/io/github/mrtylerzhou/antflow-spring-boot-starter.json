@@ -1,13 +1,13 @@
 {
 	"home_page":"https://github.com/mrtylerzhou/AntFlow",
 	"license":"Apache 2.0",
-	"ranking":"#559332 in MvnRepository",
+	"ranking":"#559349 in MvnRepository",
 	"tags":[
 		"github",
 		"spring",
 		"starter"
 	],
-	"ts_update":1754462835341,
+	"ts_update":1754489239281,
 	"versions":[
 		{
 			"date":"20250730",

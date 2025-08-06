@@ -3,9 +3,9 @@
 	"description":"A Kotlin multiplatform MQTT client library.",
 	"group_id":"io.github.nicolasfara",
 	"artifact_id":"mktt",
-	"version_latest":"2.0.1-dev07+fd2483d",
-	"ts_publish":1754456325000,
-	"ts_update":1754463240467,
+	"version_latest":"2.0.1-dev08+d322ca5",
+	"ts_publish":1754485658000,
+	"ts_update":1754489307193,
 	"count_dep":1,
 	"count_ref":0,
 	"licenses":[
@@ -17,5 +17,7 @@
 	"contributors":[
 		"Nicolas Farabegoli"
 	],
-	"url_scm":"https://github.com/nicolasfara/mktt"
+	"url_scm":"https://github.com/nicolasfara/mktt",
+	"dt_publish":"2025-08-06 21:07:38.000",
+	"dt_update":"2025-08-06 21:27:17.109"
 }
