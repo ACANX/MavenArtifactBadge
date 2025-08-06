@@ -3,9 +3,9 @@
   "description": "A library to bootstrap services easily that follow the patterns and specifications promoted by the SDA SE",
   "group_id": "org.sdase.commons.spring.boot",
   "artifact_id": "sda-commons-web-testing",
-  "version_latest": "5.0.17",
-  "ts_publish": 1754042632000,
-  "ts_update": 1754043236395,
+  "version_latest": "5.0.18",
+  "ts_publish": 1754463811000,
+  "ts_update": 1754464495224,
   "count_dep": 95,
   "count_ref": 0,
   "licenses": [

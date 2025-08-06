@@ -3,9 +3,9 @@
   "description": "A library to bootstrap services easily that follow the patterns and specifications promoted by the SDA SE",
   "group_id": "org.sdase.commons.spring.boot",
   "artifact_id": "sda-commons-cloudevents",
-  "version_latest": "5.0.17",
-  "ts_publish": 1754042632000,
-  "ts_update": 1754043236391,
+  "version_latest": "5.0.18",
+  "ts_publish": 1754463811000,
+  "ts_update": 1754464495225,
   "count_dep": 3,
   "count_ref": 0,
   "licenses": [
