@@ -3,9 +3,9 @@
 	"description":"在线接口文档",
 	"group_id":"io.github.kk01001",
 	"artifact_id":"docs-spring-boot-starter",
-	"version_latest":"2.4.6.4.3",
-	"ts_publish":1754468557000,
-	"ts_update":1754469047637,
+	"version_latest":"2.4.6.4.4",
+	"ts_publish":1754470376000,
+	"ts_update":1754471247449,
 	"count_dep":54,
 	"count_ref":0,
 	"licenses":[

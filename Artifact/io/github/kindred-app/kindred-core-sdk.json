@@ -3,9 +3,9 @@
 	"description":"Kindred Core Android SDK",
 	"group_id":"io.github.kindred-app",
 	"artifact_id":"kindred-core-sdk",
-	"version_latest":"4.2.2-patch-1",
-	"ts_publish":1754468149000,
-	"ts_update":1754468847422,
+	"version_latest":"4.2.21",
+	"ts_publish":1754470715000,
+	"ts_update":1754471247489,
 	"count_dep":11,
 	"count_ref":1,
 	"licenses":[

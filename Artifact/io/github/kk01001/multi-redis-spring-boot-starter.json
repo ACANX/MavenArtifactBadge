@@ -3,9 +3,9 @@
 	"description":"Redisson多实例自动配置",
 	"group_id":"io.github.kk01001",
 	"artifact_id":"multi-redis-spring-boot-starter",
-	"version_latest":"2.4.6.4.3",
-	"ts_publish":1754468557000,
-	"ts_update":1754469047644,
+	"version_latest":"2.4.6.4.4",
+	"ts_publish":1754470376000,
+	"ts_update":1754471247458,
 	"count_dep":87,
 	"count_ref":0,
 	"licenses":[

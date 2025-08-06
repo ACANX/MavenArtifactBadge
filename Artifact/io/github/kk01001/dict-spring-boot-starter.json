@@ -3,9 +3,9 @@
 	"description":"通用工具",
 	"group_id":"io.github.kk01001",
 	"artifact_id":"dict-spring-boot-starter",
-	"version_latest":"2.4.6.4.3",
-	"ts_publish":1754468557000,
-	"ts_update":1754469047674,
+	"version_latest":"2.4.6.4.4",
+	"ts_publish":1754470376000,
+	"ts_update":1754471247491,
 	"count_dep":33,
 	"count_ref":0,
 	"licenses":[
