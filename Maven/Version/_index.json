@@ -1337,7 +1337,14 @@
     "org.bedework.bwxsl:bw-calendar-xsl": 1754453449000,
     "org.bedework.bwxsl:bw-calendar-xsl-calrsrc-SoEDepartmental": 1754453449000,
     "org.bedework.bwxsl:bw-calendar-xsl-eventsubmitrsrc": 1754453449000,
-    "org.bedework.bwxsl:bw-calendar-xsl-asciidocs": 1754453449000
+    "org.bedework.bwxsl:bw-calendar-xsl-asciidocs": 1754453449000,
+    "net.webtide.tools:webtide-release-tools": 1754453981000,
+    "net.webtide.tools:webtide-release-tools-api": 1754453981000,
+    "net.webtide.tools:webtide-github-api": 1754453981000,
+    "net.webtide.tools:webtide-release-tools-plugin": 1754453981000,
+    "io.github.lgxisbb:payment-spring-boot-autoconfigure": 1754453814000,
+    "io.github.lgxisbb:payment-spring-boot-starter": 1754453814000,
+    "io.github.lgxisbb:payment-spring-boot": 1754453814000
   },
   "ts_update": 1754420240527
 }
