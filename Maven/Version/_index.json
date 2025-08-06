@@ -789,8 +789,8 @@
     "io.github.j5ik2o:event-store-adapter-java": 1754439956000,
     "io.github.cdklabs:awscdk-appsync-utils": 1754439835000,
     "org.mvnpm:sass": 1754439679000,
-    "io.github.hanjunkwon:taboo-ui-core": 1754441981000,
-    "io.github.hanjunkwon:taboo-widget": 1754441981000,
+    "io.github.hanjunkwon:taboo-ui-core": 1754443972000,
+    "io.github.hanjunkwon:taboo-widget": 1754443972000,
     "io.moov:sdk": 1754440656000,
     "to.unified:unified-java-sdk": 1754440628000,
     "io.github.cdklabs:cdk-ecs-service-extensions": 1754440566000,
@@ -960,7 +960,8 @@
     "dev.ikm.maven.tinkar:tinkar-maven-toolkit": 1754443736000,
     "dev.ikm.maven.tinkar:tinkar-maven-plugin": 1754443736000,
     "dev.ikm.maven.tinkar:maven-artifacts": 1754443736000,
-    "io.github.mediastream:mediastreamplatformsdkandroid": 1754443540000
+    "io.github.mediastream:mediastreamplatformsdkandroid": 1754443540000,
+    "network.lightsail:stellar-sdk": 1754444012000
   },
   "ts_update": 1754420240527
 }
