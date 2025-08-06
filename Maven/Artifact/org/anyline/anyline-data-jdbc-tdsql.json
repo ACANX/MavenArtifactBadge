@@ -3,14 +3,12 @@
   "description": "腾讯TDSQL PostgreSQL(TBase), 基于postgresql",
   "group_id": "org.anyline",
   "artifact_id": "anyline-data-jdbc-tdsql",
-  "version_latest": "8.7.2-20250805",
-  "ts_publish": 1754347035000,
-  "ts_update": 1754347626185,
-  "count_dep": 17,
+  "version_latest": "8.7.2-20250806",
+  "ts_publish": 1754442153000,
+  "ts_update": 1754443024925,
+  "count_dep": 0,
   "count_ref": 0,
-  "licenses": [
-    "The Apache License, Version 2.0"
-  ],
+  "licenses": [],
   "categories": [
     "Uncategorized"
   ],
