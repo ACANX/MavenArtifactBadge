@@ -652,7 +652,7 @@
     "com.kylecorry.andromeda:pickers": 1754433671000,
     "com.kylecorry.andromeda:pdf": 1754433671000,
     "com.kylecorry.andromeda:views": 1754433671000,
-    "com.pipedream:pipedream": 1754434756000,
+    "com.pipedream:pipedream": 1754440152000,
     "com.contrastsecurity:contrast-agent": 1754434614000,
     "com.peluware:domain-commons": 1754435879000,
     "com.pinterest.memq:memq-parent": 1754437230000,
@@ -781,7 +781,14 @@
     "com.gr4vy:sdk": 1754439421000,
     "org.mvnpm.at.azure:identity": 1754439323000,
     "com.mollie:mollie": 1754439269000,
-    "org.mvnpm.at.statsig:client-core": 1754439138000
+    "org.mvnpm.at.statsig:client-core": 1754439138000,
+    "io.github.cdklabs:cdk-ethereum-node": 1754440335000,
+    "io.github.cdklabs:cdk-tweet-queue": 1754440241000,
+    "io.github.cdklabs:cdk-hyperledger-fabric-network": 1754440209000,
+    "com.nvidia:rapids-4-spark-tools_2.12": 1754439984000,
+    "io.github.j5ik2o:event-store-adapter-java": 1754439956000,
+    "io.github.cdklabs:awscdk-appsync-utils": 1754439835000,
+    "org.mvnpm:sass": 1754439679000
   },
   "ts_update": 1754420240527
 }
