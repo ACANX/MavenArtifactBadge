@@ -4,6 +4,23 @@ import json
 import time
 import requests
 from typing import Dict, Any, List, Optional
+from datetime import datetime, timezone, timedelta
+
+
+def convert_utc_millis_to_beijing_str(utc_millis):
+    """
+    将毫秒级UTC时间戳转换为北京时间的字符串格式
+    格式: "YYYY-MM-DD HH:MM:SS.fff"
+    """
+    # 转换为秒（浮点数）
+    utc_seconds = utc_millis / 1000.0
+    # 创建UTC时间对象
+    utc_time = datetime.fromtimestamp(utc_seconds, tz=timezone.utc)
+    # 转换为北京时间 (UTC+8)
+    beijing_time = utc_time.astimezone(timezone(timedelta(hours=8)))
+    # 格式化为目标字符串（毫秒保留3位）
+    return beijing_time.strftime("%Y-%m-%d %H:%M:%S.%f")[:-3]  # 截取微秒的前3位作为毫秒
+
 
 # 获取索引文件路径
 def get_index_file() -> pathlib.Path:
@@ -169,7 +186,9 @@ def create_maven_artifact_json_file(data: dict):
         "artifact_id": artifact_id,
         "version_latest": data.get("latest_version", "N/A"),
         "ts_publish": data.get("ts", 0),
+        "dt_publish": convert_utc_millis_to_beijing_str(data.get("ts", 0)),
         "ts_update": int(time.time() * 1000),  # 添加当前时间戳作为最后更新时间
+        "dt_update": convert_utc_millis_to_beijing_str(int(time.time() * 1000)),
         "count_dep": data.get("dep_count", 0),
         "count_ref": data.get("ref_count", 0),
         "licenses": data.get("licenses", []),
