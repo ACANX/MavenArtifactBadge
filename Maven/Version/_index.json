@@ -961,7 +961,15 @@
     "dev.ikm.maven.tinkar:tinkar-maven-plugin": 1754443736000,
     "dev.ikm.maven.tinkar:maven-artifacts": 1754443736000,
     "io.github.mediastream:mediastreamplatformsdkandroid": 1754443540000,
-    "network.lightsail:stellar-sdk": 1754444012000
+    "network.lightsail:stellar-sdk": 1754444012000,
+    "com.davidrandoll:automation-engine-spring-web": 1754444946000,
+    "com.davidrandoll:automation-engine-spring-events": 1754444946000,
+    "com.davidrandoll:automation-engine-test": 1754444946000,
+    "com.davidrandoll:automation-engine": 1754444946000,
+    "com.davidrandoll:automation-engine-core": 1754444946000,
+    "com.davidrandoll:automation-engine-jdbc": 1754444946000,
+    "com.davidrandoll:automation-engine-templating": 1754444946000,
+    "com.davidrandoll:spring-boot-starter-automation-engine": 1754444946000
   },
   "ts_update": 1754420240527
 }
