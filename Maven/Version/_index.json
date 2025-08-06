@@ -1416,7 +1416,8 @@
     "dev.muazkadan:rive-cmp-android": 1754456021000,
     "dev.muazkadan:rive-cmp-iossimulatorarm64": 1754456021000,
     "dev.muazkadan:rive-cmp-iosx64": 1754456021000,
-    "dev.muazkadan:rive-cmp": 1754456021000
+    "dev.muazkadan:rive-cmp": 1754456021000,
+    "com.oraen.box:oraen-box-loader": 1754456998000
   },
   "ts_update": 1754420240527
 }
