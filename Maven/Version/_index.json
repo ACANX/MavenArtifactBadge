@@ -12,7 +12,7 @@
 		"com.daml:community-admin-api_2.13":1754415302000,
 		"com.daml:codegen-jvm-main":1754415301000,
 		"chat.dim:_l_n_c":1754428780000,
-		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754460838000,
+		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754465059000,
 		"org.anyline:anyline-log":1754442153000,
 		"com.daml:http-test-utils_2.13":1754415302000,
 		"com.daml:build-info_2.13":1754415302000,
@@ -20,5 +20,5 @@
 		"de.rpgframework:rpgframework-generator":1754423438000,
 		"org.encalmo:validator_3":1754423982000
 	},
-	"ts_update":1754465252847
+	"ts_update":1754465861243
 }
