@@ -3,9 +3,9 @@
   "description": "Daro Consent",
   "group_id": "so.daro",
   "artifact_id": "daro-consent",
-  "version_latest": "0.1.0",
-  "ts_publish": 1754460989000,
-  "ts_update": 1754461625359,
+  "version_latest": "0.2.0",
+  "ts_publish": 1754466540000,
+  "ts_update": 1754466738197,
   "count_dep": 7,
   "count_ref": 0,
   "licenses": [
