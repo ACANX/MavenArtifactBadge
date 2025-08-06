@@ -1,14 +1,38 @@
 {
 	"home_page":"http://maven.apache.org",
 	"license":"MIT",
-	"ranking":"#836966 in MvnRepository",
+	"ranking":"#837440 in MvnRepository",
 	"tags":[
 		"quality",
 		"testing",
 		"microsoft"
 	],
-	"ts_update":1754464504140,
+	"ts_update":1754480515239,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.24",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.23",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.22",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250613",
 			"repository":"Central",

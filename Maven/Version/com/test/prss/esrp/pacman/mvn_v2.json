@@ -1,12 +1,36 @@
 {
 	"home_page":"http://maven.apache.org",
 	"license":"MIT",
-	"ranking":"#583737 in MvnRepository",
+	"ranking":"#583750 in MvnRepository",
 	"tags":[
 		"testing"
 	],
-	"ts_update":1754465234709,
+	"ts_update":1754480234673,
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.32",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.31",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.30",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250805",
 			"repository":"Central",
@@ -141,30 +165,6 @@
 			"type":"release",
 			"usage":0,
 			"version":"1.0.4",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250527",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.3",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250526",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250526",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.1",
 			"vulnerabilities":""
 		}
 	]

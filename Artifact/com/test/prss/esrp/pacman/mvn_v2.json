@@ -3,9 +3,9 @@
 	"description":"Sample to test integration with sonatype nexus. If we keep the character of the description large as well, it should not be a problem, as description can be 500 characters, Putting this info here so I could reach more than 200 characters here and see if this breaks the code or not. I think I have reached 200 charaters now.",
 	"group_id":"com.test.prss.esrp.pacman",
 	"artifact_id":"mvn_v2",
-	"version_latest":"1.0.36",
-	"ts_publish":1754464433000,
-	"ts_update":1754465252825,
+	"version_latest":"1.0.39",
+	"ts_publish":1754479607000,
+	"ts_update":1754480234673,
 	"count_dep":1,
 	"count_ref":0,
 	"licenses":[
@@ -17,11 +17,35 @@
 	"url_scm":"https://dev.azure.com/azure",
 	"home_page":"http://maven.apache.org",
 	"license":"MIT",
-	"ranking":"#583737 in MvnRepository",
+	"ranking":"#583750 in MvnRepository",
 	"tags":[
 		"testing"
 	],
 	"versions":[
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.32",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.31",
+			"vulnerabilities":""
+		},
+		{
+			"date":"20250805",
+			"repository":"Central",
+			"type":"release",
+			"usage":0,
+			"version":"1.0.30",
+			"vulnerabilities":""
+		},
 		{
 			"date":"20250805",
 			"repository":"Central",
@@ -157,30 +181,8 @@
 			"usage":0,
 			"version":"1.0.4",
 			"vulnerabilities":""
-		},
-		{
-			"date":"20250527",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.3",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250526",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250526",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.0.1",
-			"vulnerabilities":""
 		}
-	]
+	],
+	"dt_publish":"2025-08-06 19:26:47.000",
+	"dt_update":"2025-08-06 19:37:06.355"
 }
