@@ -3,9 +3,9 @@
   "description": "Chronon is a feature engineering platform",
   "group_id": "ai.chronon",
   "artifact_id": "spark_uber_2.12",
-  "version_latest": "0.0.103",
-  "ts_publish": 1754427307000,
-  "ts_update": 1754428019415,
+  "version_latest": "0.0.104",
+  "ts_publish": 1754446706000,
+  "ts_update": 1754447823475,
   "count_dep": 234,
   "count_ref": 0,
   "licenses": [
