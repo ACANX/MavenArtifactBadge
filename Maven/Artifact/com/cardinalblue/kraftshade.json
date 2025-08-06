@@ -3,9 +3,9 @@
   "description": "KraftShade is a modern, high-performance OpenGL ES graphics rendering library for Android, designed to provide a type-safe, Kotlin-first abstraction over OpenGL ES 2.0. Built with coroutines support and a focus on developer experience, KraftShade makes complex graphics operations simple while maintaining flexibility and performance.",
   "group_id": "com.cardinalblue",
   "artifact_id": "kraftshade",
-  "version_latest": "1.0.35",
-  "ts_publish": 1754442499000,
-  "ts_update": 1754443024363,
+  "version_latest": "1.0.36",
+  "ts_publish": 1754451566000,
+  "ts_update": 1754452025708,
   "count_dep": 6,
   "count_ref": 0,
   "licenses": [

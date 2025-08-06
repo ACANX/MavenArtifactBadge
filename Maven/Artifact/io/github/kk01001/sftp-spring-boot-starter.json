@@ -3,9 +3,9 @@
   "description": "简单SFTP连接池",
   "group_id": "io.github.kk01001",
   "artifact_id": "sftp-spring-boot-starter",
-  "version_latest": "2.4.6.4.1",
-  "ts_publish": 1754394764000,
-  "ts_update": 1754395627586,
+  "version_latest": "2.4.6.4.2",
+  "ts_publish": 1754451159000,
+  "ts_update": 1754452026176,
   "count_dep": 16,
   "count_ref": 0,
   "licenses": [
