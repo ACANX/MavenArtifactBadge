@@ -1328,7 +1328,16 @@
     "com.cardinalblue:kraftshade-compose": 1754453178000,
     "com.applovin.mediation:bigoads-adapter": 1754453101000,
     "xyz.malefic.frc:malefix": 1754453054000,
-    "org.mvnpm:electron-to-chromium": 1754452998000
+    "org.mvnpm:electron-to-chromium": 1754452998000,
+    "org.bedework.bwxsl:bw-calendar-xsl-common": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-ucalrsrc": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-calfeedrsrc-MainCampus": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-caladminrsrc": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-calrsrc-MainCampus": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-calrsrc-SoEDepartmental": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-eventsubmitrsrc": 1754453449000,
+    "org.bedework.bwxsl:bw-calendar-xsl-asciidocs": 1754453449000
   },
   "ts_update": 1754420240527
 }
