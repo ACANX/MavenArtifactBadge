@@ -3,9 +3,9 @@
   "description": "Agora Lib",
   "group_id": "io.github.agora-apaas",
   "artifact_id": "AgoraRte",
-  "version_latest": "3.6.0",
-  "ts_publish": 1754378085000,
-  "ts_update": 1754378826152,
+  "version_latest": "3.6.1",
+  "ts_publish": 1754468823000,
+  "ts_update": 1754469424267,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
