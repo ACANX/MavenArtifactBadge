@@ -1,33 +1,3 @@
 {
-	"home_page":"http://github.com/BlackBeltTechnology/osgi-repackaged-bundles",
-	"license":"Apache 2.0",
-	"ranking":"#845119 in MvnRepository",
-	"tags":[
-		"grpc",
-		"bundle",
-		"google",
-		"api",
-		"rpc",
-		"protocol",
-		"osgi"
-	],
-	"ts_update":1754462717546,
-	"versions":[
-		{
-			"date":"20250618",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.70.0_2",
-			"vulnerabilities":""
-		},
-		{
-			"date":"20250618",
-			"repository":"Central",
-			"type":"release",
-			"usage":0,
-			"version":"1.70.0_1",
-			"vulnerabilities":""
-		}
-	]
+	"ts_update":1754462849142
 }

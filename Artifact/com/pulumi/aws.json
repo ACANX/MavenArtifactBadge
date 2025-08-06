@@ -1,0 +1,24 @@
+{
+	"id":"pkg:maven/com.pulumi/aws",
+	"description":"A Pulumi package for creating and managing Amazon Web Services (AWS) cloud resources.",
+	"group_id":"com.pulumi",
+	"artifact_id":"aws",
+	"version_latest":"7.3.0",
+	"ts_publish":1754424082000,
+	"ts_update":1754463240255,
+	"count_dep":3,
+	"count_ref":0,
+	"licenses":[
+		"The Apache License, Version 2.0"
+	],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/pulumi/pulumi-aws",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/com.pulumi/aws@7.3.0",
+	"contributors":[
+		"Pulumi"
+	],
+	"url_scm":"https://github.com/pulumi/pulumi-aws"
+}

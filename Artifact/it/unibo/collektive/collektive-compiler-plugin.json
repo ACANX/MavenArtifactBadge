@@ -1,0 +1,23 @@
+{
+	"id":"pkg:maven/it.unibo.collektive/collektive-compiler-plugin",
+	"description":"A Kotlin compiler plugin performing transparent aggregate alignment",
+	"group_id":"it.unibo.collektive",
+	"artifact_id":"collektive-compiler-plugin",
+	"version_latest":"26.0.2-dev05+de530d4",
+	"ts_publish":1754450923000,
+	"ts_update":1754463240410,
+	"count_dep":4,
+	"count_ref":0,
+	"licenses":[
+		"Apache License 2.0"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/Collektive/collektive",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/it.unibo.collektive/collektive-compiler-plugin@26.0.2-dev05+de530d4",
+	"contributors":[
+		"Nicolas Farabegoli",
+		"Elisa Tronetti",
+		"Danilo Pianini"
+	],
+	"url_scm":"https://github.com/Collektive/collektive"
+}

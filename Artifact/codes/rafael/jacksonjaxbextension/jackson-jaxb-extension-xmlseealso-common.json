@@ -1,0 +1,24 @@
+{
+	"id":"pkg:maven/codes.rafael.jacksonjaxbextension/jackson-jaxb-extension-xmlseealso-common",
+	"description":"This library offers modules for supporting the XmlSeeAlso and XmlElementWrapper annotations when using Jackson.",
+	"group_id":"codes.rafael.jacksonjaxbextension",
+	"artifact_id":"jackson-jaxb-extension-xmlseealso-common",
+	"version_latest":"1.7",
+	"ts_publish":1754460838000,
+	"ts_update":1754463239946,
+	"count_dep":6,
+	"count_ref":2,
+	"licenses":[
+		"Apache License, Version 2.0"
+	],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/raphw/jackson-jaxb-extension/jackson-jaxb-extension-xmlseealso/jackson-jaxb-extension-xmlseealso-common",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/codes.rafael.jacksonjaxbextension/jackson-jaxb-extension-xmlseealso-common@1.7",
+	"contributors":[
+		"Rafael Winterhalter"
+	],
+	"url_scm":"http://github.com/raphw/jackson-jaxb-extension/tree/master/jackson-jaxb-extension-xmlseealso/jackson-jaxb-extension-xmlseealso-common"
+}

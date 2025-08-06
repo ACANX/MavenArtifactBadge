@@ -1,0 +1,21 @@
+{
+	"id":"pkg:maven/software.amazon.awscdk/iotevents-alpha",
+	"description":"The CDK Construct Library for AWS::IoTEvents",
+	"group_id":"software.amazon.awscdk",
+	"artifact_id":"iotevents-alpha",
+	"version_latest":"2.209.1-alpha.0",
+	"ts_publish":1754461029000,
+	"ts_update":1754463240220,
+	"count_dep":14,
+	"count_ref":0,
+	"licenses":[
+		"Apache License 2.0"
+	],
+	"categories":[
+		"Uncategorized"
+	],
+	"dsv":1,
+	"url_project":"https://github.com/aws/aws-cdk",
+	"url_oss_index":"https://ossindex.sonatype.org/component/pkg:maven/software.amazon.awscdk/iotevents-alpha@2.209.1-alpha.0",
+	"url_scm":"https://github.com/aws/aws-cdk.git"
+}
