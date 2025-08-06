@@ -3,9 +3,9 @@
   "description": "CMIotSdk多终端SDK",
   "group_id": "com.netease.cloudmusic.iotsdk",
   "artifact_id": "iot_base_audio_effect",
-  "version_latest": "0.4.5.20250805151351",
-  "ts_publish": 1754378159000,
-  "ts_update": 1754378826148,
+  "version_latest": "0.4.5.20250806101227",
+  "ts_publish": 1754446443000,
+  "ts_update": 1754447224362,
   "count_dep": 11,
   "count_ref": 1,
   "licenses": [
