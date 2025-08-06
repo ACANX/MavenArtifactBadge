@@ -1,15 +1,16 @@
 {
+  "id": "pkg:maven/io.falconmetrics/sdk",
+  "description": "A lightweight, privacy-focused mobile attribution SDK by FalconMetrics. Built for developers who need accurate install and event tracking.",
   "group_id": "io.falconmetrics",
   "artifact_id": "sdk",
-  "latest_version": "0.5.1",
-  "description": "A lightweight, privacy-focused mobile attribution SDK by FalconMetrics. Built for developers who need accurate install and event tracking.",
-  "id": "pkg:maven/io.falconmetrics/sdk",
-  "ts": 1753539802000,
-  "dependency_count": 0,
-  "ref_count": 14,
-  "categories": null,
+  "version_latest": "0.5.2",
+  "ts_publish": 1754465380000,
+  "ts_update": 1754466018541,
+  "count_dep": 14,
+  "count_ref": 0,
   "licenses": [
     "FalconMetrics Terms of Use"
   ],
-  "last_updated": 1753540617165
+  "categories": null,
+  "dsv": 1
 }

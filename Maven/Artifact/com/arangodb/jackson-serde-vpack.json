@@ -1,19 +1,20 @@
 {
+  "id": "pkg:maven/com.arangodb/jackson-serde-vpack",
+  "description": "Jackson Serde VPACK module for ArangoDB Java Driver",
   "group_id": "com.arangodb",
   "artifact_id": "jackson-serde-vpack",
-  "latest_version": "7.21.0",
-  "description": "Jackson Serde VPACK module for ArangoDB Java Driver",
-  "id": "pkg:maven/com.arangodb/jackson-serde-vpack",
-  "ts": 1753297835000,
-  "dependency_count": 0,
-  "ref_count": 15,
+  "version_latest": "7.22.0",
+  "ts_publish": 1754465719000,
+  "ts_update": 1754466018536,
+  "count_dep": 15,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License 2.0"
+  ],
   "categories": [
     "Data Management",
     "Database",
     "NoSQL Databases"
   ],
-  "licenses": [
-    "Apache License 2.0"
-  ],
-  "last_updated": 1753298819369
+  "dsv": 1
 }
