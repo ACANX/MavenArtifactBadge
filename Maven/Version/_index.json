@@ -775,7 +775,13 @@
     "net.rsprot:osrs-224-common": 1754438371000,
     "net.rsprot:osrs-225-internal": 1754438371000,
     "net.rsprot:osrs-224-api": 1754438371000,
-    "net.rsprot:osrs-228-desktop": 1754438371000
+    "net.rsprot:osrs-228-desktop": 1754438371000,
+    "org.mvnpm:sass-embedded": 1754439501000,
+    "io.github.cdklabs:cdknag": 1754439467000,
+    "com.gr4vy:sdk": 1754439421000,
+    "org.mvnpm.at.azure:identity": 1754439323000,
+    "com.mollie:mollie": 1754439269000,
+    "org.mvnpm.at.statsig:client-core": 1754439138000
   },
   "ts_update": 1754420240527
 }
