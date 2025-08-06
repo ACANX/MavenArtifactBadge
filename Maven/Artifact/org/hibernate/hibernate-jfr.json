@@ -3,9 +3,9 @@
   "description": "The `hibernate-jfr` module has been relocated to the `org.hibernate.orm` group",
   "group_id": "org.hibernate",
   "artifact_id": "hibernate-jfr",
-  "version_latest": "7.1.0.CR1",
-  "ts_publish": 1753912122000,
-  "ts_update": 1753914420945,
+  "version_latest": "7.1.0.CR2",
+  "ts_publish": 1754440939000,
+  "ts_update": 1754441823555,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [

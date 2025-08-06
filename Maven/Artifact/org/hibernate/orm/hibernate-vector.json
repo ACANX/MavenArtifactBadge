@@ -3,9 +3,9 @@
   "description": "Hibernate's extensions for vector support",
   "group_id": "org.hibernate.orm",
   "artifact_id": "hibernate-vector",
-  "version_latest": "7.1.0.CR1",
-  "ts_publish": 1753912122000,
-  "ts_update": 1753914421596,
+  "version_latest": "7.1.0.CR2",
+  "ts_publish": 1754440939000,
+  "ts_update": 1754441824230,
   "count_dep": 4,
   "count_ref": 0,
   "licenses": [

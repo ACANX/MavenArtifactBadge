@@ -3,9 +3,9 @@
   "description": "The `hibernate-jpamodelgen` module has been renamed `hibernate-processor` and moved to the `org.hibernate.orm` group-id",
   "group_id": "org.hibernate",
   "artifact_id": "hibernate-jpamodelgen",
-  "version_latest": "7.1.0.CR1",
-  "ts_publish": 1753912122000,
-  "ts_update": 1753914420946,
+  "version_latest": "7.1.0.CR2",
+  "ts_publish": 1754440939000,
+  "ts_update": 1754441824229,
   "count_dep": 0,
   "count_ref": 0,
   "licenses": [
