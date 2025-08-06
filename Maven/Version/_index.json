@@ -1,24 +1,24 @@
 {
 	"map":{
-		"com.daml:codegen-java":1754415302000,
-		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754460838000,
-		"org.anyline:anyline-log":1754442153000,
 		"com.bigossp:max-mediation":1754452301000,
+		"com.bigossp:admob-mediation":1754452432000,
+		"com.daml:ledger-api-value-proto":1754415302000,
+		"com.daml:codegen-java":1754415302000,
 		"com.bigossp:max-mediation-spec":1754452342000,
-		"com.daml:http-test-utils_2.13":1754415302000,
-		"com.daml:build-info_2.13":1754415302000,
 		"com.bigossp:admob-mediation-spec":1754452442000,
 		"dev.ikm.maven.tinkar:tinkar-maven-toolkit":1754443736000,
 		"com.daml:timer-utils_2.13":1754415302000,
-		"com.bigossp:ironsource-mediation":1754452453000,
-		"de.rpgframework:rpgframework-generator":1754423438000,
 		"com.daml:daml-lf-snapshot-proto":1754415302000,
 		"com.daml:community-admin-api_2.13":1754415302000,
-		"org.encalmo:validator_3":1754423982000,
 		"com.daml:codegen-jvm-main":1754415301000,
-		"com.bigossp:admob-mediation":1754452432000,
 		"chat.dim:_l_n_c":1754428780000,
-		"com.daml:ledger-api-value-proto":1754415302000
+		"codes.rafael.jacksonjaxbextension:jackson-jaxb-extension-xmlelementwrapper-jakarta":1754460838000,
+		"org.anyline:anyline-log":1754442153000,
+		"com.daml:http-test-utils_2.13":1754415302000,
+		"com.daml:build-info_2.13":1754415302000,
+		"com.bigossp:ironsource-mediation":1754452453000,
+		"de.rpgframework:rpgframework-generator":1754423438000,
+		"org.encalmo:validator_3":1754423982000
 	},
-	"ts_update":1754465151468
+	"ts_update":1754465252847
 }
