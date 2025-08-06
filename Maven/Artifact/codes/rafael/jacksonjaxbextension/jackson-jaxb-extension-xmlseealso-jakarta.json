@@ -1,0 +1,18 @@
+{
+  "id": "pkg:maven/codes.rafael.jacksonjaxbextension/jackson-jaxb-extension-xmlseealso-jakarta",
+  "description": "This library offers modules for supporting the XmlSeeAlso and XmlElementWrapper annotations when using Jackson.",
+  "group_id": "codes.rafael.jacksonjaxbextension",
+  "artifact_id": "jackson-jaxb-extension-xmlseealso-jakarta",
+  "version_latest": "1.7",
+  "ts_publish": 1754460838000,
+  "ts_update": 1754461625360,
+  "count_dep": 11,
+  "count_ref": 0,
+  "licenses": [
+    "Apache License, Version 2.0"
+  ],
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
+}

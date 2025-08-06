@@ -3,9 +3,9 @@
   "description": "The CDK Construct Library for Amazon Bedrock",
   "group_id": "software.amazon.awscdk",
   "artifact_id": "bedrock-alpha",
-  "version_latest": "2.209.0-alpha.0",
-  "ts_publish": 1754428687000,
-  "ts_update": 1754429221673,
+  "version_latest": "2.209.1-alpha.0",
+  "ts_publish": 1754461029000,
+  "ts_update": 1754461624467,
   "count_dep": 14,
   "count_ref": 0,
   "licenses": [
