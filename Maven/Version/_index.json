@@ -681,7 +681,23 @@
     "hu.blackbelt.bundles.brotli4j:com.aayushatharva.brotli4j": 1754437584000,
     "io.github.mrtylerzhou:antflow-engine": 1754437553000,
     "io.github.mrtylerzhou:antflow-common": 1754437427000,
-    "io.github.mrtylerzhou:antflow-base": 1754437382000
+    "io.github.mrtylerzhou:antflow-base": 1754437382000,
+    "io.fleak.zephflow:sdk": 1754438270000,
+    "io.fleak.zephflow:lib": 1754438270000,
+    "io.fleak.zephflow:runner": 1754438270000,
+    "io.fleak.zephflow:api": 1754438270000,
+    "hu.blackbelt.bundles.threeten:org.threeten": 1754437978000,
+    "hu.blackbelt.bundles.lz4-java:org.lz4.lz4-java": 1754437952000,
+    "io.honeycomb.proguard-uuid:io.honeycomb.proguard-uuid.gradle.plugin": 1754437940000,
+    "io.honeycomb.android:honeycomb-proguard-uuid-plugin": 1754437940000,
+    "io.honeycomb.android:honeycomb-opentelemetry-android-interaction": 1754437940000,
+    "io.honeycomb.android:honeycomb-opentelemetry-android": 1754437940000,
+    "io.honeycomb.android:honeycomb-opentelemetry-android-compose": 1754437940000,
+    "hu.blackbelt.bundles.jzlib:com.jcraft.jzlib": 1754437923000,
+    "hu.blackbelt.bundles.google-api-gcloud:com.google.api-gcloud": 1754437923000,
+    "hu.blackbelt.bundles.re2j:com.google.re2j": 1754437898000,
+    "hu.blackbelt.bundles.google-appengine:com.google.appengine": 1754437872000,
+    "hu.blackbelt.bundles.google-http-client:com.google.http-client": 1754437871000
   },
   "ts_update": 1754420240527
 }

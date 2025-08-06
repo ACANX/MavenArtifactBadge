@@ -3,10 +3,10 @@
   "description": "Google Google Cloud API",
   "group_id": "hu.blackbelt.bundles.google-api-gcloud",
   "artifact_id": "com.google.api-gcloud",
-  "version_latest": "2.58.2_1",
-  "ts_publish": 1754384006000,
-  "ts_update": 1754386043224,
-  "count_dep": 34,
+  "version_latest": "2.58.2_2",
+  "ts_publish": 1754437923000,
+  "ts_update": 1754438826951,
+  "count_dep": 36,
   "count_ref": 0,
   "licenses": [
     "The Apache Software License, Version 2.0"
