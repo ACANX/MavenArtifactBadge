@@ -3,9 +3,9 @@
   "description": "Aggregate Computing in Kotlin",
   "group_id": "it.unibo.collektive",
   "artifact_id": "collektive-stdlib-watchosx64",
-  "version_latest": "26.0.1-dev06+84bb792",
-  "ts_publish": 1754412028000,
-  "ts_update": 1754413266602,
+  "version_latest": "26.0.2-dev02+2485b48",
+  "ts_publish": 1754459892000,
+  "ts_update": 1754460944045,
   "count_dep": 5,
   "count_ref": 0,
   "licenses": [

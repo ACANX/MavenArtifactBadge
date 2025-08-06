@@ -3,9 +3,9 @@
   "description": "Common supporting infrastructure for SolarNode and SolarNet applications.",
   "group_id": "net.solarnetwork.common",
   "artifact_id": "net.solarnetwork.common",
-  "version_latest": "4.2.0",
-  "ts_publish": 1754001661000,
-  "ts_update": 1754002298074,
+  "version_latest": "4.2.1",
+  "ts_publish": 1754459888000,
+  "ts_update": 1754460944576,
   "count_dep": 25,
   "count_ref": 0,
   "licenses": [

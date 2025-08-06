@@ -1,0 +1,16 @@
+{
+  "id": "pkg:maven/com.nbsaas.boot/data-front",
+  "description": "Spring Boot for nbsaas.com",
+  "group_id": "com.nbsaas.boot",
+  "artifact_id": "data-front",
+  "version_latest": "1.0.15-2025",
+  "ts_publish": 1754459871000,
+  "ts_update": 1754460945085,
+  "count_dep": 123,
+  "count_ref": 1,
+  "licenses": [
+    "MIT License"
+  ],
+  "categories": null,
+  "dsv": 1
+}
