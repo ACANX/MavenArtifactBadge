@@ -3,10 +3,12 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "hosted-zone-api",
-  "version_latest": "8.559.30",
-  "ts_publish": 1754306041000,
-  "ts_update": 1754306825772,
-  "count_dep": 27,
+  "version_latest": "8.560.11",
+  "ts_publish": 1754488026000,
+  "dt_publish": "2025-08-06 21:47:06.000",
+  "ts_update": 1754488627734,
+  "dt_update": "2025-08-06 21:57:07.734",
+  "count_dep": 31,
   "count_ref": 35,
   "licenses": [
     "The Apache License, Version 2.0"

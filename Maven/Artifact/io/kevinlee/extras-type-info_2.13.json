@@ -1,17 +1,20 @@
 {
+  "id": "pkg:maven/io.kevinlee/extras-type-info_2.13",
+  "description": "extras-type-info",
   "group_id": "io.kevinlee",
   "artifact_id": "extras-type-info_2.13",
-  "latest_version": "0.46.1",
-  "description": "extras-type-info",
-  "id": "pkg:maven/io.kevinlee/extras-type-info_2.13",
-  "ts": 1753617552000,
-  "dependency_count": 1,
-  "ref_count": 6,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.47.0",
+  "ts_publish": 1754487815000,
+  "dt_publish": "2025-08-06 21:43:35.000",
+  "ts_update": 1754488630395,
+  "dt_update": "2025-08-06 21:57:10.395",
+  "count_dep": 6,
+  "count_ref": 1,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753618018478
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

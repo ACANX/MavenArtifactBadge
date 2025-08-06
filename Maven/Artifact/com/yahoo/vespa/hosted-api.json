@@ -3,10 +3,12 @@
   "description": "Miscellaneous for tenant client -- hosted Vespa controller communication",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "hosted-api",
-  "version_latest": "8.559.30",
-  "ts_publish": 1754306041000,
-  "ts_update": 1754306825775,
-  "count_dep": 12,
+  "version_latest": "8.560.11",
+  "ts_publish": 1754488026000,
+  "dt_publish": "2025-08-06 21:47:06.000",
+  "ts_update": 1754488627734,
+  "dt_update": "2025-08-06 21:57:07.734",
+  "count_dep": 16,
   "count_ref": 5,
   "licenses": [
     "The Apache License, Version 2.0"

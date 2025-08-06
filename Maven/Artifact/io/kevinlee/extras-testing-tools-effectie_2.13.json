@@ -1,17 +1,20 @@
 {
+  "id": "pkg:maven/io.kevinlee/extras-testing-tools-effectie_2.13",
+  "description": "extras-testing-tools-effectie",
   "group_id": "io.kevinlee",
   "artifact_id": "extras-testing-tools-effectie_2.13",
-  "latest_version": "0.46.1",
-  "description": "extras-testing-tools-effectie",
-  "id": "pkg:maven/io.kevinlee/extras-testing-tools-effectie_2.13",
-  "ts": 1753617552000,
-  "dependency_count": 0,
-  "ref_count": 16,
-  "categories": [
-    "Uncategorized"
-  ],
+  "version_latest": "0.47.0",
+  "ts_publish": 1754487815000,
+  "dt_publish": "2025-08-06 21:43:35.000",
+  "ts_update": 1754488630980,
+  "dt_update": "2025-08-06 21:57:10.980",
+  "count_dep": 17,
+  "count_ref": 0,
   "licenses": [
     "MIT"
   ],
-  "last_updated": 1753618018484
+  "categories": [
+    "Uncategorized"
+  ],
+  "dsv": 1
 }

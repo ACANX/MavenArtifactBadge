@@ -3,10 +3,12 @@
   "description": "HTTP client wrapper around an Apache http client 5",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "http-client",
-  "version_latest": "8.559.30",
-  "ts_publish": 1754306041000,
-  "ts_update": 1754306826851,
-  "count_dep": 15,
+  "version_latest": "8.560.11",
+  "ts_publish": 1754488026000,
+  "dt_publish": "2025-08-06 21:47:06.000",
+  "ts_update": 1754488625942,
+  "dt_update": "2025-08-06 21:57:05.942",
+  "count_dep": 19,
   "count_ref": 3,
   "licenses": [
     "The Apache License, Version 2.0"

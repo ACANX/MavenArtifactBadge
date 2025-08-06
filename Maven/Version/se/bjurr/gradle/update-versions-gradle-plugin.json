@@ -2,7 +2,7 @@
 	"count_used_by":1,
 	"home_page":"https://github.com/tomasbjerre/update-versions-gradle-plugin",
 	"license":"Apache 2.0",
-	"ranking":"#354100 in MvnRepository",
+	"ranking":"#353921 in MvnRepository",
 	"tags":[
 		"plugin",
 		"build",
@@ -11,7 +11,7 @@
 		"gradle",
 		"groovy"
 	],
-	"ts_update":1754471829406,
+	"ts_update":1754488667772,
 	"versions":[
 		{
 			"date":"20241109",

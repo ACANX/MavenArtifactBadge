@@ -3,10 +3,12 @@
   "description": "Parent artifact for all Vespa maven projects.",
   "group_id": "com.yahoo.vespa",
   "artifact_id": "jrt",
-  "version_latest": "8.559.30",
-  "ts_publish": 1754306041000,
-  "ts_update": 1754306826855,
-  "count_dep": 10,
+  "version_latest": "8.560.11",
+  "ts_publish": 1754488026000,
+  "dt_publish": "2025-08-06 21:47:06.000",
+  "ts_update": 1754488626543,
+  "dt_update": "2025-08-06 21:57:06.543",
+  "count_dep": 14,
   "count_ref": 68,
   "licenses": [
     "The Apache License, Version 2.0"
