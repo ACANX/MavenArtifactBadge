@@ -3,9 +3,9 @@
   "description": "LINE Bot SDK Java - line-bot-module-client",
   "group_id": "com.linecorp.bot",
   "artifact_id": "line-bot-module-client",
-  "version_latest": "9.9.1",
-  "ts_publish": 1753842065000,
-  "ts_update": 1753842420216,
+  "version_latest": "9.10.0",
+  "ts_publish": 1754474122000,
+  "ts_update": 1754474824873,
   "count_dep": 12,
   "count_ref": 4,
   "licenses": [
