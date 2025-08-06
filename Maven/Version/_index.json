@@ -1428,7 +1428,12 @@
     "com.apptasticsoftware:tickersymbol": 1754457760000,
     "top.wrqj:fleurui-http-core": 1754458368000,
     "pl.allegro.tech.build.axion-release:pl.allegro.tech.build.axion-release.gradle.plugin": 1754459402000,
-    "pl.allegro.tech.build:axion-release-plugin": 1754459402000
+    "pl.allegro.tech.build:axion-release-plugin": 1754459402000,
+    "io.github.newposstoresupport:aidl": 1754459785000,
+    "it.unibo.collektive:alchemist-incarnation-collektive": 1754459728000,
+    "it.unibo.collektive:collektive-compiler-embeddable": 1754459728000,
+    "io.github.looxidlabs:SDK-Android": 1754459674000,
+    "org.atria-soft:archidata": 1754459464000
   },
   "ts_update": 1754420240527
 }

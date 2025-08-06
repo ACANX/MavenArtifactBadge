@@ -3,10 +3,10 @@
   "description": "Wrapper to manage a simple interface for REST project to bind MySQL, SQLite or mongoDB.",
   "group_id": "org.atria-soft",
   "artifact_id": "archidata",
-  "version_latest": "0.34.0",
-  "ts_publish": 1753819224000,
-  "ts_update": 1753820220170,
-  "count_dep": 200,
+  "version_latest": "0.34.2",
+  "ts_publish": 1754459464000,
+  "ts_update": 1754460425077,
+  "count_dep": 197,
   "count_ref": 0,
   "licenses": [
     "Mozilla Public License 2.0"
