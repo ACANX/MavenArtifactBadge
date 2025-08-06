@@ -1417,7 +1417,11 @@
     "dev.muazkadan:rive-cmp-iossimulatorarm64": 1754456021000,
     "dev.muazkadan:rive-cmp-iosx64": 1754456021000,
     "dev.muazkadan:rive-cmp": 1754456021000,
-    "com.oraen.box:oraen-box-loader": 1754456998000
+    "com.oraen.box:oraen-box-loader": 1754456998000,
+    "com.peluware:spring-web-problem-details": 1754457325000,
+    "com.azure.resourcemanager:azure-resourcemanager-mongocluster": 1754457221000,
+    "io.github.thearchitect123.atlasGraphGenerator:io.github.thearchitect123.atlasGraphGenerator.gradle.plugin": 1754457123000,
+    "io.github.thearchitect123:atlas-graph-generator": 1754457123000
   },
   "ts_update": 1754420240527
 }
